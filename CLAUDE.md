@@ -63,10 +63,74 @@ sources:
 | `comparison` | `compares: ["[[sida1]]", "[[sida2]]"]` |
 | `query` | `question:` (den ursprungliga frågan) |
 
+**Extra fält för `entity_type: lag`:**
+
+```yaml
+sfs: "2000:1225"                    # SFS-nummer
+short_name: Smugglingslagen         # Vardagsnamn
+status: gallande | upphavd | andrad
+befogenheter:                       # Vad lagen ger ratt att gora
+  - stoppa fordon
+  - kroppsvisitera
+  - beslagta varor
+tillampningsomrade: >               # Kort: nar galler lagen?
+  Smuggling av varor over Sveriges grans
+straffskala:                        # Straffskalor per brottstyp
+  - brott: smuggling
+    straff: "boter till fangelse 2 ar"
+  - brott: grov smuggling
+    straff: "fangelse 6 man till 6 ar"
+situationer:                        # Typiska situationer dar lagen tillampas
+  - granskontroll-fordon
+  - beslag-narkotika
+connections:                        # Kopplingar till andra lagar
+  - type: overlappar
+    target: "[[narkotikastrafflagen]]"
+    context: "Narkotikasmuggling kan atalas under bada"
+  - type: speciallag-till
+    target: "[[tullagen]]"
+    context: "Lex specialis vid smugglingsbrott"
+```
+
+### Kopplingstyper
+
+Fyra formaliserade kopplingstyper mellan lagar:
+
+| Typ | Betydelse | Riktning |
+|-----|-----------|----------|
+| `overlappar` | Samma handling kan falla under båda lagarna | Symmetrisk |
+| `hanvisar-till` | Explicit referens i lagtexten | Riktad (A → B) |
+| `kompletterar` | Lag B ger ytterligare befogenheter utöver lag A | Riktad (A → B) |
+| `speciallag-till` | Lex specialis i förhållande till (A är speciallag till B) | Riktad (A → B) |
+
+**Symmetri-regel:** `overlappar`-kopplingar skrivs på **båda** sidorna. Riktade kopplingar skrivs på källsidan.
+
 ### Innehållskonventioner
 
 - **Wikilinks**: Använd `[[sidnamn]]` för alla korsreferenser. `[[sidnamn|visningstext]]` när sidnamnet inte läses naturligt
 - **Källhänvisning**: Varje faktapåstående ska kunna spåras till en källa via `[[källa-sida]]`
+- **Lagentitetens innehållsstruktur**: Varje lagentitet (`entity_type: lag`) följer denna mall:
+
+```markdown
+## Sammanfattning
+Kort beskrivning av lagens syfte och tillämpningsområde.
+
+## Befogenheter
+Strukturerad lista: vad ger lagen rätt att göra?
+
+## Straffbestämmelser
+Brottstyper och straffskalor i tabellform.
+
+## Kopplingar
+Tabell eller lista med alla connections, grupperade per typ.
+
+## Nyckelbestämmelser
+De viktigaste paragraferna med korta sammanfattningar.
+
+## Praktisk tillämpning
+Vanliga situationer där lagen används vid tullkontroll.
+```
+
 - **Callouts** för speciella annotationer:
 
 ```markdown
@@ -84,6 +148,9 @@ sources:
 
 > [!updated] Nyligen uppdaterad
 > Reviderad YYYY-MM-DD efter ingest av [[ny-källa]].
+
+> [!situation] Typisk situation
+> Vid gränskontroll av fordon med misstänkt narkotika: [[smugglingslagen]] + [[narkotikastrafflagen]] + [[tullbefogenhetslagen]].
 ```
 
 ### Filnamngivning
@@ -112,6 +179,7 @@ sources:
    - Nyckelpåståenden och datapunkter
    - Länkar till nämnda entiteter och koncept
 4. **Uppdatera entitetsidor** — skapa nya eller uppdatera befintliga i `wiki/entities/`
+   - 4b. **Kartlägg kopplingar** — identifiera `connections` till befintliga lagentiteter. Uppdatera **båda sidor** vid symmetriska kopplingar (`overlappar`). Identifiera och lägg till `situationer`-taggar.
 5. **Uppdatera konceptsidor** — skapa nya eller uppdatera befintliga i `wiki/concepts/`
 6. **Flagga motsägelser** — om ny källa motsäger befintligt wiki-innehåll, lägg till `[!contradiction]`-callouts på berörda sidor
 7. **Uppdatera `wiki/index.md`** — lägg till nya sidor, uppdatera sammanfattningar
@@ -148,8 +216,36 @@ sources:
 - [ ] Informationsluckor som kan fyllas med forskning
 - [ ] Index-noggrannhet (matchar faktiska sidor)
 - [ ] Frontmatter-komplethet
+- [ ] Saknade connections (lag nämner annan lag men koppling saknas i frontmatter)
+- [ ] Ensidiga symmetriska kopplingar (A överlappar B men B saknar A)
+- [ ] Lagentiteter utan `situationer`-taggar
 
 **Output:** Rapport med fynd och förslag. Åtgärdar efter godkännande.
+
+### CONNECT — Kartlägg kopplingar mellan lagar
+
+**Trigger:** Människan säger "koppla", "connect", "kartlägg kopplingar", eller liknande.
+
+**Steg:**
+
+1. **Läs** de berörda lagentiteterna
+2. **Analysera** överlappningar, hänvisningar, komplement, speciallagsförhållanden
+3. **Uppdatera `connections`** i frontmatter på berörda sidor (båda sidor vid symmetriska kopplingar)
+4. **Uppdatera `situationer`**-taggar om nya situationer identifieras
+5. **Skapa/uppdatera comparison-sida** i `wiki/comparisons/` om kopplingen är komplex eller kräver djupare analys
+6. **Logga** i `wiki/log.md`
+
+### SITUATION — Situationsbaserad fråga
+
+**Trigger:** Människan beskriver en konkret situation (t.ex. "beslag av knivar vid gränskontroll") och vill veta vilka lagar som gäller.
+
+**Steg:**
+
+1. **Sök** lagentiteter med matchande `situationer`-taggar
+2. **Läs** relevanta lagar och deras `connections`
+3. **Syntetisera svar** — vilka lagar är tillämpliga, vilka befogenheter ger de, hur hänger de ihop, vilken är starkast rättslig grund
+4. **Arkivera** som ny sida i `wiki/queries/` om svaret är betydande (syntes av flera lagar, ny insikt)
+5. **Logga** om en ny sida skapades
 
 ### UPDATE — Uppdatera befintlig sida
 
