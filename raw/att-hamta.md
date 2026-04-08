@@ -6,10 +6,10 @@ Dessa lagar/förordningar refereras av befintliga wiki-sidor men saknar råkäll
 
 ## Hög prioritet (direkt relevanta för tullverksamhet)
 
-### Förordning om införsel av knivar och farliga föremål
-- **Varför:** Avgör om smugglingslagen §3 aktualiseras vid införsel av springknivar, kaststjärnor, knogjärn. Identifierad som lucka i [[springknivar-kaststjarnor-postpaket]].
-- **Sök på:** riksdagen.se → "införsel knivar farliga föremål" eller "förordning 1988:255" alternativt "förordning 2000:283"
-- **URL att testa:** https://www.riksdagen.se/sv/sok/?doktyp=sfs&q=inf%C3%B6rsel+knivar+farliga+f%C3%B6rem%C3%A5l
+### Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål
+- **SFS:** 1990:415, ändrad t.o.m. SFS 2020:83
+- **Varför:** Kräver tillstånd (Polismyndigheten) för import av springknivar, kaststjärnor, knogjärn m.fl. Utan tillstånd = införselförbud → smugglingslagen §3 aktualiseras. Kritisk lucka i [[springknivar-kaststjarnor-postpaket]].
+- **URL:** https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-1990415-om-tills_sfs-1990-415
 
 ### Lagen (1992:1300) om krigsmateriel
 - **Varför:** Vapenlagen 2 kap. 1 § undantar verksamhet med krigsmateriel-tillstånd. Kan vara relevant vid gränskontroll av vapenimportörer.

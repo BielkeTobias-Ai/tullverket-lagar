@@ -196,6 +196,7 @@ Vanliga situationer där lagen används vid tullkontroll.
 
 1. **Läs `wiki/index.md`** för att hitta relevanta sidor
 2. **Läs relevanta sidor** (följ korsreferenser vid behov)
+2b. **Research saknade källor** — om svaret kräver information från lagar/förordningar som saknas i `raw/`, kör RESEARCH-workflow innan syntes.
 3. **Syntetisera svar** med citeringar till wiki-sidor
 4. **Arkivera svaret** som ny sida i `wiki/queries/` om det är betydande (syntes av flera källor, ny insikt, komplex analys)
 5. **Logga** om en ny sida skapades
@@ -219,6 +220,7 @@ Vanliga situationer där lagen används vid tullkontroll.
 - [ ] Saknade connections (lag nämner annan lag men koppling saknas i frontmatter)
 - [ ] Ensidiga symmetriska kopplingar (A överlappar B men B saknar A)
 - [ ] Lagentiteter utan `situationer`-taggar
+- [ ] Lagar/förordningar som refereras i wiki men saknar råkälla i `raw/`
 
 **Output:** Rapport med fynd och förslag. Åtgärdar efter godkännande.
 
@@ -230,6 +232,7 @@ Vanliga situationer där lagen används vid tullkontroll.
 
 1. **Läs** de berörda lagentiteterna
 2. **Analysera** överlappningar, hänvisningar, komplement, speciallagsförhållanden
+2b. **Research saknade källor** — om koppling identifieras till lag som saknas i `raw/`, kör RESEARCH-workflow.
 3. **Uppdatera `connections`** i frontmatter på berörda sidor (båda sidor vid symmetriska kopplingar)
 4. **Uppdatera `situationer`**-taggar om nya situationer identifieras
 5. **Skapa/uppdatera comparison-sida** i `wiki/comparisons/` om kopplingen är komplex eller kräver djupare analys
@@ -243,9 +246,39 @@ Vanliga situationer där lagen används vid tullkontroll.
 
 1. **Sök** lagentiteter med matchande `situationer`-taggar
 2. **Läs** relevanta lagar och deras `connections`
+2b. **Research saknade källor** — om analys kräver lagar/förordningar som saknas i `raw/`, kör RESEARCH-workflow. Markera luckan med `[!gap]` i svaret.
 3. **Syntetisera svar** — vilka lagar är tillämpliga, vilka befogenheter ger de, hur hänger de ihop, vilken är starkast rättslig grund
 4. **Arkivera** som ny sida i `wiki/queries/` om svaret är betydande (syntes av flera lagar, ny insikt)
 5. **Logga** om en ny sida skapades
+
+### RESEARCH — Sök upp saknad källa
+
+**Trigger:** Under QUERY, SITUATION, CONNECT eller INGEST stöter LLM:en på en referens till en lag, förordning eller riktlinje som saknas i `raw/`.
+
+**Steg:**
+
+1. **Identifiera luckan** — vilken lag/förordning/riktlinje refereras?
+2. **Sök** — använd web search (ej scraping) för att identifiera:
+   - Exakt SFS-nummer eller dokumenttitel
+   - Giltighetsstatus (gällande, upphävd, ändrad)
+   - Auktoritativ URL (riksdagen.se, tullverket.se, EUR-Lex, polisen.se m.fl.)
+3. **Dokumentera i `raw/att-hamta.md`**:
+   - Namn och SFS-nummer
+   - Varför den behövs (vilken wiki-sida som refererar till den)
+   - Exakt URL till riksdagen.se eller annan auktoritativ källa
+   - Prioritet (hög/medel/låg baserat på relevans för tullverksamhet)
+4. **Markera luckan** i wiki-sidan med `[!gap]`-callout som hänvisar till `[[att-hamta]]`
+5. **Meddela människan** — "Hittade att [förordning X] behövs. URL tillagd i att-hamta.md."
+
+**Auktoritativa källor (i prioritetsordning):**
+1. riksdagen.se — svensk lagtext (SFS)
+2. tullverket.se — föreskrifter, riktlinjer, allmänna råd
+3. EUR-Lex (eur-lex.europa.eu) — EU-förordningar och direktiv
+4. polisen.se — föreskrifter relaterade till vapen, tillstånd
+5. msb.se — föreskrifter om brandfarliga/explosiva varor
+6. Övriga myndighetssidor — vid behov
+
+**Regel:** Skriv ALDRIG wiki-innehåll baserat på sökresultat. Research-steget identifierar bara *vilken* källa som behövs och *var* den finns. Innehållet skrivs först efter att råkällan finns i `raw/` (via Clipper eller scraping).
 
 ### UPDATE — Uppdatera befintlig sida
 

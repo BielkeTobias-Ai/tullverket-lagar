@@ -57,8 +57,8 @@ Med stöd av 8 kap. 10 § (polismansbefogenhet vid indirekt brottsbekämpning) k
 
 Smugglingslagen §3 kriminaliserar införsel i strid med "särskilt föreskrivet förbud mot eller villkor för införsel." Frågan är om det finns ett sådant förbud för springknivar och kaststjärnor.
 
-> [!gap] Informationslucka — införselförordning saknas i wikin
-> Det finns sannolikt en förordning som reglerar införsel av farliga föremål (knivar, kaststjärnor etc.). Denna förordning saknas i vår kunskapsbas. Om ett sådant införselförbud existerar, aktualiseras smugglingslagen §3 och straffskalan böter — fängelse 2 år (eller grov smuggling fängelse 6 mån — 6 år). Se [[att-hamta]] för URL till förordningen.
+> [!gap] Råkälla saknas — Förordning (1990:415) identifierad via RESEARCH
+> **Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål** kräver tillstånd från Polismyndigheten för import av springknivar, kaststjärnor, knogjärn m.fl. Tillstånd beviljas bara för vapensamlingar eller liknande ändamål. Utan tillstånd = införselförbud → **smugglingslagen §3 aktualiseras** med straffskala böter — fängelse 2 år (grov smuggling: 6 mån — 6 år). Råkälla behöver hämtas till `raw/` innan wiki-sida kan skapas. Se [[att-hamta]].
 
 ### 4. Vapenlagen (1996:67) — avgränsning
 
