@@ -1,0 +1,208 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-lato);
+  --font-serif: var(--font-eb-garamond);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-eb-garamond);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  /* Connection type colors */
+  --color-conn-overlappar: #c2410c;
+  --color-conn-hanvisar: #1d4ed8;
+  --color-conn-kompletterar: #15803d;
+  --color-conn-speciallag: #6d28d9;
+
+  /* Depth level colors */
+  --color-depth-full: #166534;
+  --color-depth-standard: #92400e;
+  --color-depth-grund: #64748b;
+
+  /* Amber accent for CTA / highlight */
+  --color-amber-accent: #b45309;
+}
+
+/* ==========================================================================
+   Legal Services + Government/Public Service palette
+   Source: ui-ux-pro-max design system
+   Authority navy (#1E3A8A) + trust amber (#B45309)
+   ========================================================================== */
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --popover: #ffffff;
+  --popover-foreground: #0f172a;
+  --primary: #1e3a8a;
+  --primary-foreground: #ffffff;
+  --secondary: #e9eef5;
+  --secondary-foreground: #1e293b;
+  --muted: #e9eef5;
+  --muted-foreground: #64748b;
+  --accent: #f1f5f9;
+  --accent-foreground: #1e293b;
+  --destructive: #dc2626;
+  --border: #cbd5e1;
+  --input: #cbd5e1;
+  --ring: #1e3a8a;
+  --chart-1: #1e3a8a;
+  --chart-2: #15803d;
+  --chart-3: #b45309;
+  --chart-4: #6d28d9;
+  --chart-5: #c2410c;
+  --radius: 0.5rem;
+  --sidebar: #f1f5f9;
+  --sidebar-foreground: #0f172a;
+  --sidebar-primary: #1e3a8a;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #e9eef5;
+  --sidebar-accent-foreground: #1e293b;
+  --sidebar-border: #cbd5e1;
+  --sidebar-ring: #1e3a8a;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/* ==========================================================================
+   Wikilink styling
+   ========================================================================== */
+
+.wikilink {
+  @apply text-primary underline decoration-primary/30 underline-offset-2
+    hover:decoration-primary/70 transition-colors cursor-pointer;
+}
+
+/* ==========================================================================
+   Wiki body content — rendered markdown from vault parser
+   ========================================================================== */
+
+.wiki-body h1 {
+  @apply font-serif text-2xl font-normal mt-8 mb-3 text-foreground;
+}
+.wiki-body h2 {
+  @apply font-serif text-xl font-normal mt-8 mb-3 text-foreground;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.375rem;
+}
+.wiki-body h3 {
+  @apply font-sans text-base font-bold mt-5 mb-2 text-foreground tracking-tight;
+}
+.wiki-body p {
+  @apply mb-3.5 leading-relaxed text-foreground/90;
+}
+.wiki-body ul {
+  @apply mb-3.5 pl-5 list-disc;
+}
+.wiki-body ol {
+  @apply mb-3.5 pl-5 list-decimal;
+}
+.wiki-body li {
+  @apply mb-1.5 leading-relaxed;
+}
+
+/* Tables — overflow wrapper handles mobile */
+.wiki-body table {
+  @apply w-full mb-4 text-sm border-collapse;
+}
+.wiki-body thead {
+  background: var(--muted);
+}
+.wiki-body th {
+  @apply text-left px-3 py-2.5 font-bold text-foreground;
+  border-bottom: 2px solid var(--border);
+}
+.wiki-body td {
+  @apply px-3 py-2.5;
+  border-bottom: 1px solid var(--border);
+}
+.wiki-body tr {
+  transition: background-color 150ms ease;
+}
+.wiki-body tr:hover td {
+  background: var(--accent);
+}
+
+/* Blockquotes / callouts */
+.wiki-body blockquote {
+  border-left: 4px solid var(--primary);
+  @apply pl-4 py-2 my-4 rounded-r-md;
+  background: color-mix(in srgb, var(--primary) 6%, transparent);
+}
+.wiki-body blockquote p:first-child {
+  @apply font-bold text-sm;
+}
+
+.wiki-body strong {
+  @apply font-bold text-foreground;
+}
+.wiki-body code {
+  @apply text-sm px-1.5 py-0.5 rounded font-mono;
+  background: var(--muted);
+}
+
+/* ==========================================================================
+   Table overflow wrapper for mobile
+   UX guideline: wrap tables in overflow-x-auto on mobile
+   ========================================================================== */
+
+.table-scroll {
+  @apply overflow-x-auto -mx-4 px-4;
+}
+@media (min-width: 640px) {
+  .table-scroll {
+    @apply mx-0 px-0;
+  }
+}
