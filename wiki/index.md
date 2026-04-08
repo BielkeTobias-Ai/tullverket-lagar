@@ -48,4 +48,4 @@ _Inga jämförelser skapade ännu._
 
 ## Frågor
 
-_Inga arkiverade frågor ännu._
+- [[springknivar-kaststjarnor-postpaket]] — Vilka lagar gäller vid fynd av springknivar och kaststjärnor i postpaket? (2026-04-08)

@@ -50,3 +50,9 @@ Alla 8 grundlagar ingestade. Uppdaterade: [[smugglingslagen]] (överlappar-koppl
 
 ## [2026-04-08] update | Råkällor kompletterade + åäö-fix källsidor
 Kompletterade råkällor med full lagtext: Narkotikastrafflagen, Knivlagen, LBE (scrapade från riksdagen.se). Fixade åäö i alla 8 källsidor (wiki/sources/) och loggen. Alla wiki-filer har nu korrekt svenska.
+
+## [2026-04-08] query | Springknivar och kaststjärnor i postpaket
+SITUATION-test: analyserade vilka lagar som gäller vid fynd av springknivar och kaststjärnor i postpaket. Arkiverad som: [[springknivar-kaststjarnor-postpaket]]. Nyckelinsikt: postspärr (7:8) gäller INTE för knivlagen-föremål — bara narkotika/vapen/explosiva varor. Identifierad lucka: införselförordning för knivar saknas i wikin.
+
+## [2026-04-08] connect | Vapenlagen — nya kopplingar kartlagda
+CONNECT-test: granskade vapenlagen (raw) mot befintliga connections. Hittade saknad koppling: vapenlagen 1:6 → [[lagen-om-brandfarliga-och-explosiva-varor]] (ammunition/explosiva varor). Uppdaterade entitetssidan. Identifierade 6 externa lagar som refereras men saknar råkälla — listade i `raw/att-hamta.md` med URL:er för Obsidian Clipper.

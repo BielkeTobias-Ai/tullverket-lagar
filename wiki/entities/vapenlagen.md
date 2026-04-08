@@ -50,6 +50,9 @@ connections:
   - type: speciallag-till
     target: "[[knivlagen]]"
     context: "Knivlagen §3: vapenlagen gäller istället för föremål som vapenlagen är tillämplig på. Vapenlagen är lex specialis."
+  - type: hanvisar-till
+    target: "[[lagen-om-brandfarliga-och-explosiva-varor]]"
+    context: "1 kap. 6 §: 'Bestämmelser om ammunition som räknas till explosiva varor finns även i lagen (2010:1011) om brandfarliga och explosiva varor.' Avgränsning mellan vapenlagens ammunitionsbegrepp och LBE:s explosiva varor."
 tags:
   - lag
   - vapen
@@ -102,6 +105,7 @@ Vapenlagen ger tulltjänsteman särskilda befogenheter:
 |-----|---------|
 | [[smugglingslagen]] | 9 kap. 4 §: olovlig införsel → smugglingslagen. |
 | [[tullbefogenhetslagen]] | Indirekt brottsbekämpning. Postspärr. |
+| [[lagen-om-brandfarliga-och-explosiva-varor]] | 1 kap. 6 §: ammunition som räknas till explosiva varor regleras även av LBE. |
 
 ### Speciallag till
 
