@@ -83,9 +83,13 @@ function scoreEntity(entity: WikiEntity, queryTokens: string[]): ScoredEntity {
 
   // Connection context match
   for (const conn of entity.connections) {
-    if (conn.context.toLowerCase().includes(queryFull)) {
-      score += 4;
-      reasons.push(`connection: ${conn.targetSlug}`);
+    const ctxLower = conn.context.toLowerCase();
+    for (const token of queryTokens) {
+      if (ctxLower.includes(token)) {
+        score += 4;
+        reasons.push(`connection: ${conn.targetSlug}`);
+        break;
+      }
     }
   }
 

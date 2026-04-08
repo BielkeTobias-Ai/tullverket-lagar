@@ -18,8 +18,15 @@ const CONTENT_DIR = path.join(process.cwd(), "content");
 
 function readJson<T>(filename: string): T {
   const filepath = path.join(CONTENT_DIR, filename);
-  const raw = fs.readFileSync(filepath, "utf-8");
-  return JSON.parse(raw) as T;
+  try {
+    const raw = fs.readFileSync(filepath, "utf-8");
+    return JSON.parse(raw) as T;
+  } catch (err) {
+    const msg = err instanceof Error ? err.message : String(err);
+    throw new Error(
+      `Failed to read ${filename}: ${msg}. Run "npm run parse" to generate content files.`
+    );
+  }
 }
 
 // Lazy-loaded caches (populated on first access per build)

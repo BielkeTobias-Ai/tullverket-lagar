@@ -156,23 +156,22 @@ function ChatInner({
   const { messages, sendMessage, status, error } = useChat({
     transport: new DefaultChatTransport({
       api: "/api/chat",
+      body: { priorMessages: savedMessages },
     }),
   });
 
   const isBusy = status === "submitted" || status === "streaming";
 
-  // Combine saved messages (from history) with live messages (from useChat)
-  const allMessages = savedMessages.length > 0 && messages.length === 0
-    ? savedMessages
-    : messages.length > 0
-      ? messages.map((m) => ({
-          id: m.id,
-          role: m.role as "user" | "assistant",
-          parts: m.parts
-            .filter((p): p is { type: "text"; text: string } => p.type === "text")
-            .map((p) => ({ type: "text" as const, text: p.text })),
-        }))
-      : [];
+  // Always concatenate saved + live messages for complete history
+  const liveAsChatMessages: ChatMessage[] = messages.map((m) => ({
+    id: m.id,
+    role: m.role as "user" | "assistant",
+    parts: m.parts
+      .filter((p): p is { type: "text"; text: string } => p.type === "text")
+      .map((p) => ({ type: "text" as const, text: p.text })),
+  }));
+
+  const allMessages = [...savedMessages, ...liveAsChatMessages];
 
   // Auto-scroll
   useEffect(() => {
@@ -181,18 +180,11 @@ function ChatInner({
     }
   }, [allMessages]);
 
-  // Save to localStorage when live messages change
+  // Save full conversation (saved + live) to localStorage
   useEffect(() => {
-    if (messages.length === 0) return;
-    const chatMessages: ChatMessage[] = messages.map((m) => ({
-      id: m.id,
-      role: m.role as "user" | "assistant",
-      parts: m.parts
-        .filter((p): p is { type: "text"; text: string } => p.type === "text")
-        .map((p) => ({ type: "text" as const, text: p.text })),
-    }));
-    onMessagesUpdate(convId, chatMessages);
-  }, [messages, convId, onMessagesUpdate]);
+    if (liveAsChatMessages.length === 0) return;
+    onMessagesUpdate(convId, allMessages);
+  }, [liveAsChatMessages.length, convId, onMessagesUpdate, allMessages]);
 
   const handleSend = () => {
     const trimmed = input.trim();
