@@ -22,6 +22,9 @@ situationer:
   - kontrollmärkning-cigaretter
   - otillåten-införsel-tobak
 connections:
+  - type: overlappar
+    target: "[[lagen-om-skatt-pa-nikotinhaltiga-produkter]]"
+    context: "Båda beskattar nikotinprodukter — tobaksskattelagen för tobaksvaror enligt KN-klassificering, nikotinskattelagen för e-vätskor och oralt/nasalt nikotinbruk. Samma administrativa ram (lagerhållare, EU-regler), olika varusortering. Undantagen i 5 § tobaksskattelagen hänvisar till att produkter redan skattepliktiga under nikotinskattelagen är undantagna."
   - type: hanvisar-till
     target: "[[tullagen]]"
     context: "Tullagstiftningsbegreppet används; skattskyldighet vid import kopplas till tullskuld enligt UCC och tullagen"
@@ -31,6 +34,12 @@ connections:
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Smuggling av tobak kan parallellt ge skattskyldighet under tobaksskattelagen och straffansvar under smugglingslagen"
+  - type: kompletterar
+    target: "[[forordningen-om-tobaksskatt]]"
+    context: "Förordningen (2022:182) är verkställighetsförordning — reglerar administrativa förfaranden, bemyndiganden och dokumenthantering"
+  - type: overlappar
+    target: "[[lagen-om-alkoholskatt]]"
+    context: "Båda är punktskattelagar med liknande uppskovsförfarande och importbeskattning kopplad till tullskuld"
 tags:
   - lag
   - punktskatt
@@ -69,6 +78,7 @@ Lagen ger inga direkta befogenheter till Tullverket utöver vad som följer av a
 | hanvisar-till | [[tullagen]] | Import definieras via UCC art. 201; tullskuldens uppkomst utlöser skattskyldighet |
 | hanvisar-till | [[tullbefogenhetslagen]] | 9 kap. 24 §: omhändertagna tobaksvaror beskattas |
 | overlappar | [[smugglingslagen]] | Tobakssmuggling ger parallellt skattskyldighet och straffansvar |
+| kompletterar | [[forordningen-om-tobaksskatt]] | Verkställighetsförordning (2022:182) — administrativa förfaranden, bemyndiganden, dokumenthantering |
 
 ## Nyckelbestämmelser
 

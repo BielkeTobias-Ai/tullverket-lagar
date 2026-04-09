@@ -4,6 +4,7 @@ type: concept
 domain: beskattning
 created: 2026-04-09
 updated: 2026-04-09
+
 tags:
   - punktskatt
   - tobak
@@ -16,6 +17,7 @@ sources:
   - "[[lagen-om-skatt-pa-energi-1994-1776]]"
   - "[[alkohollagen-2010-1622]]"
   - "[[smugglingslagen-2000-1225]]"
+  - "[[lagen-om-punktskattekontroll-1998-506]]"
 ---
 
 # Punktskatt
@@ -61,6 +63,9 @@ Tullverket har ingen egen beskattningsmyndighet for punktskatter, men spelar en 
 
 - **Gransbevakning:** Identifierar odeklarerade punktskattepliktiga varor vid kontroll
 - **Beslag:** Omhandertar varor med stod av [[tullbefogenhetslagen]] 5 kap. (sarskilda befogenheter for punktskattepliktiga varor)
+- **Skattebeslut vid omhandertagande:** Beslutar om punktskatt pa omhandertagna varor enligt [[lagen-om-punktskattekontroll]] 2 kap. 1-2 §. Schablonskattesatser tillampas om exakta uppgifter saknas (2 kap. 13 §).
+- **Transporttillagg:** Pafor sanktionsavgift (40% av skatten) vid bristfaellig transportdokumentation enligt [[lagen-om-punktskattekontroll]] 4 kap.
+- **Forverkande:** Beslutar om administrativt forverkande av omhandertagna varor nar skatt inte betalats ([[lagen-om-punktskattekontroll]] 2 kap. 5 §, 14 §)
 - **Export-uppskov:** Mottar administrativa referenskoder och utfardar intyg om att varor lamnat EU (tobaksskattelagen 5 kap., energiskattelagen 4b kap.)
 - **Kontrollmarkning:** Kontrollerar att cigaretter bar korrekt kontrollmarkning (tobaksskattelagen 2 kap. 21 §)
 - **Markta oljeprodukter:** Godkanner depaer for markning och fargning av bransle (energiskattelagen 2 kap. 9 a §)
@@ -86,6 +91,17 @@ Tullverket har ingen egen beskattningsmyndighet for punktskatter, men spelar en 
 
 > [!situation] Alkoholinforsel utover privatbruk
 > Person for in 200 liter sprit och hastar att det ar for personligt bruk. [[alkohollagen]] 4 kap. 4 § — bedoms mangden som realistisk for personligt bruk? Om nej → olovlig inforsel → [[smugglingslagen]]. Alkoholskatt utloses parallellt.
+
+## Kontroll och forfarande
+
+Regelverket for punktskattekontroll ar uppdelat i tva lagar som kompletterar varandra:
+
+| Lag | Funktion |
+|-----|----------|
+| [[tullbefogenhetslagen]] 5 kap. | Fysiska kontrollbefogenheter: stoppa fordon, undersoka last, ta prover, omhanderta varor |
+| [[lagen-om-punktskattekontroll]] | Skattekonsekvenser: skattebeslut, transporttillagg (40%), administrativt forverkande |
+
+Fore 2024-reformen (SFS 2024:735) fanns kontrollbefogenheterna i LPK:s kapitel 3. Nu ar LPK en ren forfarandelag.
 
 ## Relaterade koncept
 

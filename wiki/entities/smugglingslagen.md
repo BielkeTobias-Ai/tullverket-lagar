@@ -114,6 +114,15 @@ connections:
   - type: overlappar
     target: "[[terroristbrottslagen]]"
     context: "Transport av vapen, ammunition och explosiva varor åt terroristorganisation (5 § terroristbrottslagen) kan samtidigt utgöra smuggling"
+  - type: overlappar
+    target: "[[lagen-om-kontroll-av-narkotika]]"
+    context: "Narkotikakontrollagen reglerar tillstånd för in-/utförsel; smugglingslagen straffar olovlig in-/utförsel. Subsidiaritet: 13 § narkotikakontrollagen ger smugglingslagen företräde."
+  - type: overlappar
+    target: "[[lagen-om-alkoholskatt]]"
+    context: "Otillåten införsel av alkohol utlöser både skattskyldighet (alkoholskattelagen) och straffansvar (smugglingslagen)"
+  - type: overlappar
+    target: "[[lagen-om-transport-av-farligt-gods]]"
+    context: "Smuggling av farligt gods kan ge parallellt ansvar under båda lagarna"
 tags:
   - lag
   - smuggling

@@ -2,7 +2,8 @@
 title: Index
 type: overview
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-10
+
 tags:
   - meta
   - index
@@ -40,6 +41,7 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[tullforordningen-2016-287]] — Tullförordning (2016:287) — genomförandeförordning till tullagen (2026-04-09)
 - [[tobaksskattelagen-2022-155]] — Tobaksskattelag (2022:155) — punktskatt på tobaksvaror (2026-04-09)
 - [[lagen-om-skatt-pa-energi-1994-1776]] — Lag (1994:1776) om skatt på energi (2026-04-09)
+- [[lagen-om-skatt-pa-kemikalier-2016-1067]] — Lag (2016:1067) om skatt på kemikalier i viss elektronik (2026-04-10)
 - [[inregranslagen-1996-701]] — Lag (1996:701) om Tullverkets befogenheter vid inre EU-gräns (2026-04-09)
 - [[lagen-om-krigsmateriel-1992-1300]] — Lag (1992:1300) om krigsmateriel (2026-04-09)
 - [[lagen-om-kontroll-av-dubbla-anvandningsomraden-2000-1064]] — Lag (2000:1064) om kontroll av dual-use-produkter (2026-04-09)
@@ -49,6 +51,35 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[lagen-om-forbud-mot-vissa-halsofarliga-varor-1999-42]] — Lag (1999:42) om förbud mot hälsofarliga varor (2026-04-09)
 - [[lagen-om-handel-med-lakemedel-2009-366]] — Lag (2009:366) om handel med läkemedel (2026-04-09)
 - [[lagen-om-tobak-och-liknande-produkter-2018-2088]] — Lag (2018:2088) om tobak och liknande produkter (2026-04-09)
+- [[tullbefogenhetsforordningen-2024-759]] — Tullbefogenhetsförordning (2024:759) — verkställighet till TBL (2026-04-09)
+- [[inregransforordningen-1996-702]] — Inregränsförordning (1996:702) — anmälningsinnehåll kontanta medel (2026-04-09)
+- [[lagen-om-kontroll-av-narkotika-1992-860]] — Lag (1992:860) om kontroll av narkotika — tillståndskrav (2026-04-09)
+- [[forordningen-om-krigsmateriel-1992-1303]] — Förordning (1992:1303) om krigsmateriel — klassificering, tillståndstyper (2026-04-09)
+- [[forordningen-om-dual-use-2000-1217]] — Förordning (2000:1217) om dual-use-produkter — catch-all, ISP (2026-04-09)
+- [[lagen-om-tullfrihet-1994-1547]] — Lag (1994:1547) om tullfrihet m.m. — diplomater, Nato, antidumping (2026-04-09)
+- [[forordningen-om-tullfrihet-1994-1605]] — Förordning (1994:1605) om tullfrihet m.m. — processer, proviant (2026-04-09)
+- [[lagen-om-frihet-fran-skatt-vid-import-1994-1551]] — Lag (1994:1551) om skattefrihet vid import — resandekvoter (2026-04-09)
+- [[lagen-om-proviantering-1999-446]] — Lag (1999:446) om proviantering av fartyg/luftfartyg (2026-04-09)
+- [[rattegangsbalken-1942-740]] — Rättegångsbalk (1942:740) — kap 23-28, tvångsmedel (2026-04-09)
+- [[forordningen-om-skatt-pa-energi-2022-181]] — Förordning (2022:181) om skatt på energi (2026-04-09)
+- [[forordningen-om-tobaksskatt-2022-182]] — Förordning (2022:182) om tobaksskatt (2026-04-09)
+- [[lagen-om-alkoholskatt-2022-156]] — Lag (2022:156) om alkoholskatt (2026-04-09)
+- [[forordningen-om-alkoholskatt-2022-183]] — Förordning (2022:183) om alkoholskatt (2026-04-09)
+- [[lagen-om-punktskattekontroll-1998-506]] — Lag (1998:506) om punktskattekontroll av transporter (2026-04-09)
+- [[forordningen-om-punktskattekontroll-1998-518]] — Förordning (1998:518) om punktskattekontroll (2026-04-09)
+- [[lagen-om-skatt-pa-nikotinhaltiga-produkter-2018-696]] — Lag (2018:696) om skatt på nikotinhaltiga produkter (2026-04-09)
+- [[forordningen-om-skatt-pa-nikotinhaltiga-produkter-2018-704]] — Förordning (2018:704) om skatt på nikotinhaltiga produkter (2026-04-09)
+- [[forordningen-om-skatt-pa-kemikalier-2017-214]] — Förordning (2017:214) om skatt på kemikalier (2026-04-09)
+- [[mervardesskattelagen-2023-200]] — Mervärdesskattelag (2023:200) — moms vid import, IOSS (2026-04-09)
+- [[mervardesskatteforordningen-2023-328]] — Mervärdesskatteförordning (2023:328) (2026-04-09)
+- [[forordningen-om-import-och-exportreglering-1997-969]] — Förordning (1997:969) om import- och exportreglering (2026-04-09)
+- [[forordningen-om-proviantering-1999-454]] — Förordning (1999:454) om proviantering (2026-04-09)
+- [[lagen-om-forbud-mot-pals-av-katt-och-hund-2008-1049]] — Lag (2008:1049) om förbud mot päls av katt och hund (2026-04-09)
+- [[lagen-om-handel-med-salprodukter-2011-1070]] — Lag (2011:1070) om handel med sälprodukter (2026-04-09)
+- [[forordningen-om-handel-med-salprodukter-2010-1491]] — Förordning (2010:1491) om handel med sälprodukter (2026-04-09)
+- [[lagen-om-transport-av-farligt-gods-2006-263]] — Lag (2006:263) om transport av farligt gods (2026-04-09)
+- [[forordningen-om-transport-av-farligt-gods-2006-311]] — Förordning (2006:311) om transport av farligt gods (2026-04-09)
+- [[lagen-om-immunitet-och-privilegier-1976-661]] — Lag (1976:661) om immunitet och privilegier (2026-04-09)
 
 ## Entiteter
 - [[smugglingslagen]] — Strafflag för smuggling, tullbrott och smuggelgods (SFS 2000:1225)
@@ -74,6 +105,7 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[tullforordningen]] — Genomförandeförordning till tullagen (SFS 2016:287)
 - [[tobaksskattelagen]] — Punktskatt på tobaksvaror, skattskyldighet vid import (SFS 2022:155)
 - [[lagen-om-skatt-pa-energi]] — Energiskatt på bränslen och el, skattskyldighet vid import (SFS 1994:1776)
+- [[lagen-om-skatt-pa-kemikalier]] — Punktskatt på elektronik med bromerade flamskyddsmedel (SFS 2016:1067)
 - [[inregranslagen]] — Tullverkets befogenheter vid inre EU-gräns (SFS 1996:701)
 - [[lagen-om-krigsmateriel]] — Tillståndskrav för export/import av krigsmateriel (SFS 1992:1300)
 - [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] — Exportkontroll av dual-use-produkter (SFS 2000:1064)
@@ -83,6 +115,35 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[lagen-om-forbud-mot-vissa-halsofarliga-varor]] — Förbud mot NPS och hälsofarliga substanser (SFS 1999:42)
 - [[lagen-om-handel-med-lakemedel]] — Tillståndsplikt för handel med läkemedel (SFS 2009:366)
 - [[lagen-om-tobak-och-liknande-produkter]] — Tobakshandel, spårbarhet, e-cigaretter (SFS 2018:2088)
+- [[tullbefogenhetsforordningen]] — Verkställighetsförordning: behörighetsregler, kontrollzoner, auktioner (SFS 2024:759)
+- [[inregransforordningen]] — Verkställighetsförordning: anmälningsinnehåll kontanta medel vid inre gräns (SFS 1996:702)
+- [[lagen-om-kontroll-av-narkotika]] — Administrativ kontroll: tillstånd för införsel, utförsel, tillverkning, handel (SFS 1992:860)
+- [[forordningen-om-krigsmateriel]] — Klassificering, tillståndstyper (generellt/globalt/individuellt), ISP-prövning (SFS 1992:1303)
+- [[forordningen-om-dual-use]] — Catch-all-klausuler, nationell kontrollista, ISP/SSM-prövning (SFS 2000:1217)
+- [[lagen-om-tullfrihet]] — Tullfrihet: diplomater, returvaror, Nato-materiel, antidumping (SFS 1994:1547)
+- [[forordningen-om-tullfrihet]] — Processer: diplomathandläggning, proviant, ursprungsintyg (SFS 1994:1605)
+- [[lagen-om-frihet-fran-skatt-vid-import]] — Skattefrihet vid import: resandekvoter, tullbefrielsekoppling (SFS 1994:1551)
+- [[lagen-om-proviantering]] — Proviantering av fartyg/luftfartyg: skattefria varor för ombordbruk (SFS 1999:446)
+- [[rattegangsbalken]] — Processlag: tvångsmedel kap 23-28 — grund för TBL:s polismansbefogenheter (SFS 1942:740)
+- [[forordningen-om-skatt-pa-energi]] — Verkställighetsförordning: märkning, godkännande, dokumenthantering (SFS 2022:181)
+- [[forordningen-om-tobaksskatt]] — Verkställighetsförordning: export, dokumenthantering, förverkade varor (SFS 2022:182)
+- [[lagen-om-alkoholskatt]] — Punktskatt på alkohol, skattskyldighet vid import, uppskovsförfarande (SFS 2022:156)
+- [[forordningen-om-alkoholskatt]] — Verkställighetsförordning: godkännande, småbryggerier, dokumentflöde (SFS 2022:183)
+- [[lagen-om-punktskattekontroll]] — Skattebeslut, transporttillägg och förverkande vid punktskattekontroll (SFS 1998:506)
+- [[forordningen-om-punktskattekontroll]] — Verkställighetsförordning: höringsplikt, betalningssäkring (SFS 1998:518)
+- [[lagen-om-skatt-pa-nikotinhaltiga-produkter]] — Punktskatt på e-vätskor och oralt nikotinbruk (SFS 2018:696)
+- [[forordningen-om-skatt-pa-nikotinhaltiga-produkter]] — Verkställighetsförordning: lagerhållargodkännande, distansförsäljning (SFS 2018:704)
+- [[forordningen-om-skatt-pa-kemikalier]] — Verkställighetsförordning: registrering, anmälningsförfarande (SFS 2017:214)
+- [[mervardesskattelagen]] — Moms vid import, skatteupplag, IOSS, distansförsäljning (SFS 2023:200)
+- [[mervardesskatteforordningen]] — Verkställighetsförordning till mervärdesskattelagen (SFS 2023:328)
+- [[forordningen-om-import-och-exportreglering]] — Licensmyndigheter, importtillstånd, sanktionsvaror (SFS 1997:969)
+- [[forordningen-om-proviantering]] — Verkställighetsförordning: Tullverkets föreskriftsrätt (SFS 1999:454)
+- [[lagen-om-forbud-mot-pals-av-katt-och-hund]] — Importförbud: päls av katt och hund, EU-genomförande (SFS 2008:1049)
+- [[lagen-om-handel-med-salprodukter]] — Importförbud: sälprodukter, Jordbruksverkets tillsyn (SFS 2011:1070)
+- [[forordningen-om-handel-med-salprodukter]] — Verkställighetsförordning: Jordbruksverket som behörig myndighet (SFS 2010:1491)
+- [[lagen-om-transport-av-farligt-gods]] — Säker transport av farligt gods, 9 kategorier, straffansvar (SFS 2006:263)
+- [[forordningen-om-transport-av-farligt-gods]] — Verkställighetsförordning: myndigheter, säkerhetsrådgivare, kontroll (SFS 2006:311)
+- [[lagen-om-immunitet-och-privilegier]] — Diplomatisk immunitet, tullfrihet, NATO, internationella organisationer (SFS 1976:661)
 
 ## Koncept
 - [[smuggling]] — Olaglig in- eller utförsel av varor i strid med förbud eller villkor
@@ -100,6 +161,11 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 
 - [[smugglingslagen-vs-tullbefogenhetslagen]] — Brott vs befogenheter: 2024 års reform, trigger-punkt kontroll→utredning, förverkande
 - [[narkotika-dopning-halsofarliga-varor]] — Tre substanslagar jämförda: straffskalor, klassificering, eget bruk, befogenheter vid gränsen
+- [[vapen-knivar-explosiva]] — Tre regelverk vid gränskontroll: tillståndsplikt, smugglingsbestämmelser, TBL-befogenheter per varutyp
+- [[smuggling-vs-tullbrott]] — Straffrättslig vs administrativ sanktion: smuggling, tullbrott, tulltillägg, ne bis in idem
+- [[tullbrott-vs-skattebrott]] — Undandragande av tull (smugglingslagen §8) vs skatt (skattebrottslagen) vid import
+- [[penningtvatt-straff-vs-prevention]] — Kriminalisering (2014:307) vs prevention/rapportering (2017:630), Tullverkets kontant-medelkontroll
+- [[exportkontroll-krigsmateriel-vs-dual-use]] — Totalförbud med undantag vs fri handel med kontrollpunkter: ISP, catch-all, sanktioner
 
 ## Frågor
 

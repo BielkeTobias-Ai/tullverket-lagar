@@ -6,7 +6,7 @@ sfs: "2024:710"
 short_name: Tullbefogenhetslagen
 status: gällande
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 befogenheter:
   - använda våld mot person eller egendom
   - stoppa fordon, fartyg och transportmedel
@@ -90,6 +90,12 @@ connections:
   - type: kompletterar
     target: "[[tullagen]]"
     context: "Tullagen reglerar tullförfarandet, Tullbefogenhetslagen ger befogenheter för att säkerställa att det följs. Direkt brottsbekämpning (8 kap. 1 §)."
+  - type: hanvisar-till
+    target: "[[rattegangsbalken]]"
+    context: "8 kap. ger tulltjänstemän polismansbefogenheter enligt RB 23-28: förhör (23:3), gripande (24:7), beslag (27:4), husrannsakan (28:5), kroppsvisitation (28:11), biometrisk autentisering (27:17 f)."
+  - type: kompletterar
+    target: "[[lagen-om-punktskattekontroll]]"
+    context: "5 kap. ger kontrollbefogenheterna (stoppa, undersöka, omhänderta). LPK reglerar skattekonsekvenserna efteråt (skattebeslut, förverkande, transporttillägg)."
 tags:
   - lag
   - befogenheter
@@ -209,6 +215,7 @@ För materiella brott hänvisar lagen till [[smugglingslagen]], brottsbalken m.f
 | [[smugglingslagen]] | Smugglingslagen definierar brotten, Tullbefogenhetslagen ger befogenheterna. Två delar av 2024-reformen. |
 | [[tullagen]] | Tullagen reglerar tullförfarandet, Tullbefogenhetslagen säkerställer att det följs. |
 | [[inregranslagen]] | Inregränslagen skapar anmälningsskyldigheterna vid inre EU-gräns; Tullbefogenhetslagen ger kontrollbefogenheterna. |
+| [[lagen-om-punktskattekontroll]] | 5 kap. ger kontrollbefogenheterna (stoppa, undersöka, omhänderta). LPK reglerar skattekonsekvenserna efteråt (skattebeslut, förverkande, transporttillägg). |
 
 ### Hänvisar till
 

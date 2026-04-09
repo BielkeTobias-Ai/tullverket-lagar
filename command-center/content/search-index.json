@@ -70,6 +70,254 @@
     "short_name": "Farliga-föremål-förordningen"
   },
   {
+    "slug": "forordningen-om-alkoholskatt",
+    "title": "Förordningen om alkoholskatt",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "alkoholskatt",
+      "punktskatt",
+      "administrativa-processer",
+      "verkställighetsförordning"
+    ],
+    "snippet": "## Sammanfattning Förordning (2022:183) om alkoholskatt är en verkställighetsförordning meddelad av Finansdepartementet …",
+    "url": "/laws/forordningen-om-alkoholskatt",
+    "entity_type": "lag",
+    "sfs": "2022:183",
+    "short_name": "Alkoholskatteförordningen"
+  },
+  {
+    "slug": "forordningen-om-dual-use",
+    "title": "Förordningen om dual-use",
+    "type": "entity",
+    "tags": [
+      "dual-use",
+      "exportkontroll",
+      "ISP",
+      "PGS-forordningen",
+      "catch-all",
+      "kvantdatorer",
+      "halvledare",
+      "tullverket",
+      "karnmaterial"
+    ],
+    "snippet": "# Förordningen om dual-use (SFS 2000:1217) ## Sammanfattning Förordning (2000:1217) om kontroll av produkter med dubbla …",
+    "url": "/laws/forordningen-om-dual-use",
+    "entity_type": "lag",
+    "sfs": "2000:1217",
+    "short_name": "Dual-use-förordningen"
+  },
+  {
+    "slug": "forordningen-om-handel-med-salprodukter",
+    "title": "Förordningen om handel med sälprodukter",
+    "type": "entity",
+    "tags": [
+      "djurskydd",
+      "importförbud",
+      "sälprodukter",
+      "EU-rätt",
+      "jordbruksverket"
+    ],
+    "snippet": "## Sammanfattning Förordning (2010:1491) om handel med sälprodukter är en svensk verkställighetsförordning som implement…",
+    "url": "/laws/forordningen-om-handel-med-salprodukter",
+    "entity_type": "lag",
+    "sfs": "2010:1491",
+    "short_name": "Sälproduktsförordningen"
+  },
+  {
+    "slug": "forordningen-om-import-och-exportreglering",
+    "title": "Förordningen om import- och exportreglering",
+    "type": "entity",
+    "tags": [
+      "import",
+      "export",
+      "licensering",
+      "reglering",
+      "EU-koordination",
+      "myndigheter"
+    ],
+    "snippet": "## Sammanfattning Förordning (1997:969) är det centrala svenska regelverket för import- och exportlicensiering. Den defi…",
+    "url": "/laws/forordningen-om-import-och-exportreglering",
+    "entity_type": "lag",
+    "sfs": "1997:969",
+    "short_name": "Import- och exportregleringsförordningen"
+  },
+  {
+    "slug": "forordningen-om-krigsmateriel",
+    "title": "Förordningen om krigsmateriel",
+    "type": "entity",
+    "tags": [
+      "krigsmateriel",
+      "exportkontroll",
+      "ISP",
+      "tillstandsgivning",
+      "certifiering",
+      "tullverket",
+      "handeldvapen"
+    ],
+    "snippet": "# Förordningen om krigsmateriel (SFS 1992:1303) ## Sammanfattning Förordning (1992:1303) om krigsmateriel är tillämpning…",
+    "url": "/laws/forordningen-om-krigsmateriel",
+    "entity_type": "lag",
+    "sfs": "1992:1303",
+    "short_name": "Krigsmaterielförordningen"
+  },
+  {
+    "slug": "forordningen-om-proviantering",
+    "title": "Förordning om proviantering av fartyg och luftfartyg",
+    "type": "entity",
+    "tags": [
+      "proviantering",
+      "tullverket",
+      "foreskrifter",
+      "tullforfarande"
+    ],
+    "snippet": "## Sammanfattning Förordning (1999:454) är en kort verkställighetsförordning som bemyndigar Tullverket att meddela admin…",
+    "url": "/laws/forordningen-om-proviantering",
+    "entity_type": "lag",
+    "sfs": "1999:454",
+    "short_name": "Provianteringsförordningen"
+  },
+  {
+    "slug": "forordningen-om-punktskattekontroll",
+    "title": "Förordningen om punktskattekontroll av transporter",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "punktskatt",
+      "verkställighetsförordning",
+      "myndighetssamverkan",
+      "tullverket",
+      "skatteverket"
+    ],
+    "snippet": "# Förordningen om punktskattekontroll (1998:518) ## Sammanfattning Förordning (1998:518) om punktskattekontroll av trans…",
+    "url": "/laws/forordningen-om-punktskattekontroll",
+    "entity_type": "lag",
+    "sfs": "1998:518",
+    "short_name": "Punktskattekontrollförordningen / PFK-förordningen"
+  },
+  {
+    "slug": "forordningen-om-skatt-pa-energi",
+    "title": "Förordningen om skatt på energi",
+    "type": "entity",
+    "tags": [
+      "förordning",
+      "energiskatt",
+      "punktskatt",
+      "verkställighet",
+      "dokumenthantering",
+      "uppskovsförfarande"
+    ],
+    "snippet": "# Förordningen om skatt på energi (SFS 2022:181) ## Sammanfattning Energiskatteförordningen är en verkställighetsförordn…",
+    "url": "/laws/forordningen-om-skatt-pa-energi",
+    "entity_type": "lag",
+    "sfs": "2022:181",
+    "short_name": "Energiskatteförordningen"
+  },
+  {
+    "slug": "forordningen-om-skatt-pa-kemikalier",
+    "title": "Förordningen om skatt på kemikalier i viss elektronik",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "kemikalieskatt",
+      "punktskatt",
+      "elektronik",
+      "verkställighetsförordning"
+    ],
+    "snippet": "## Sammanfattning Förordning (2017:214) om skatt på kemikalier i viss elektronik är en verkställighetsförordning som reg…",
+    "url": "/laws/forordningen-om-skatt-pa-kemikalier",
+    "entity_type": "lag",
+    "sfs": "2017:214",
+    "short_name": "Kemikalieskatteförordningen"
+  },
+  {
+    "slug": "forordningen-om-skatt-pa-nikotinhaltiga-produkter",
+    "title": "Förordningen om skatt på vissa nikotinhaltiga produkter",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "nikotinskatt",
+      "punktskatt",
+      "procedur",
+      "förordning"
+    ],
+    "snippet": "## Sammanfattning Förordning (2018:704) om skatt på vissa nikotinhaltiga produkter är verkställighetsförordningen till […",
+    "url": "/laws/forordningen-om-skatt-pa-nikotinhaltiga-produkter",
+    "entity_type": "lag",
+    "sfs": "2018:704",
+    "short_name": "Nikotinskatteförordningen"
+  },
+  {
+    "slug": "forordningen-om-tobaksskatt",
+    "title": "Förordningen om tobaksskatt",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "tobaksskatt",
+      "punktskatt"
+    ],
+    "snippet": "# Förordningen om tobaksskatt (2022:182) ## Sammanfattning Förordningen är verkställighetsregler till [[tobaksskattelage…",
+    "url": "/laws/forordningen-om-tobaksskatt",
+    "entity_type": "lag",
+    "sfs": "2022:182",
+    "short_name": "Tobaksskatteförordningen"
+  },
+  {
+    "slug": "forordningen-om-transport-av-farligt-gods",
+    "title": "Förordningen om transport av farligt gods",
+    "type": "entity",
+    "tags": [
+      "transport",
+      "farligt-gods",
+      "verkställighetsförordning",
+      "myndigheter",
+      "tillsyn",
+      "säkerhet"
+    ],
+    "snippet": "## Sammanfattning Förordningen om transport av farligt gods (2006:311) är en **verkställighetsförordning** till [[lagen-…",
+    "url": "/laws/forordningen-om-transport-av-farligt-gods",
+    "entity_type": "lag",
+    "sfs": "2006:311",
+    "short_name": "Förordningen om farligt gods"
+  },
+  {
+    "slug": "forordningen-om-tullfrihet",
+    "title": "Förordning om tullfrihet m.m.",
+    "type": "entity",
+    "tags": [
+      "tullfrihet",
+      "diplomati",
+      "militart-samarbete",
+      "proviant",
+      "forordning",
+      "verkstallighetsforeskrifter",
+      "ursprungsintyg",
+      "antidumpning"
+    ],
+    "snippet": "# Förordning (1994:1605) om tullfrihet m.m. ## Sammanfattning Förordningen om tullfrihet m.m. (SFS 1994:1605) är den **v…",
+    "url": "/laws/forordningen-om-tullfrihet",
+    "entity_type": "lag",
+    "sfs": "1994:1605",
+    "short_name": "Tullfrihetsförordningen"
+  },
+  {
+    "slug": "inregransforordningen",
+    "title": "Inregränsförordningen",
+    "type": "entity",
+    "tags": [
+      "inre-grans",
+      "kontanta-medel",
+      "anmalningsskyldighet",
+      "redovisningsskyldighet",
+      "tullkontroll"
+    ],
+    "snippet": "## Sammanfattning Inregränsförordningen (1996:702) är en kortfattad verkställighetsförordning till [[inregranslagen]] (1…",
+    "url": "/laws/inregransforordningen",
+    "entity_type": "lag",
+    "sfs": "1996:702",
+    "short_name": "Inregränsförordningen"
+  },
+  {
     "slug": "inregranslagen",
     "title": "Inregränslagen",
     "type": "entity",
@@ -139,6 +387,23 @@
     "short_name": "Kustbevakningslagen"
   },
   {
+    "slug": "lagen-om-alkoholskatt",
+    "title": "Lagen om alkoholskatt",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "alkoholskatt",
+      "punktskatt",
+      "uppskov",
+      "import"
+    ],
+    "snippet": "# Lagen om alkoholskatt (2022:156) ## Sammanfattning Alkoholskattelagen reglerar **beskattningen av alkoholvaror** i Sve…",
+    "url": "/laws/lagen-om-alkoholskatt",
+    "entity_type": "lag",
+    "sfs": "2022:156",
+    "short_name": "Alkoholskattelagen"
+  },
+  {
     "slug": "lagen-om-atgarder-mot-penningtvatt",
     "title": "Lagen om åtgärder mot penningtvätt och finansiering av terrorism",
     "type": "entity",
@@ -170,6 +435,23 @@
     "entity_type": "lag",
     "sfs": "2010:1011",
     "short_name": "LBE"
+  },
+  {
+    "slug": "lagen-om-forbud-mot-pals-av-katt-och-hund",
+    "title": "Lagen om förbud mot päls av katt och hund",
+    "type": "entity",
+    "tags": [
+      "djurskydd",
+      "importforbud",
+      "pals",
+      "katt",
+      "hund"
+    ],
+    "snippet": "## Sammanfattning Lagen om förbud mot päls av katt och hund (SFS 2008:1049) är en målriktat djurskyddslag som förbjuder …",
+    "url": "/laws/lagen-om-forbud-mot-pals-av-katt-och-hund",
+    "entity_type": "lag",
+    "sfs": "2008:1049",
+    "short_name": "Pälsförbudslagen"
   },
   {
     "slug": "lagen-om-forbud-mot-vissa-dopningsmedel",
@@ -205,6 +487,25 @@
     "short_name": "Hälsofarliga varor-lagen"
   },
   {
+    "slug": "lagen-om-frihet-fran-skatt-vid-import",
+    "title": "Lag om frihet från skatt vid import",
+    "type": "entity",
+    "tags": [
+      "skattefrihet",
+      "import",
+      "resande",
+      "punktskatt",
+      "mervärdesskatt",
+      "tullrätt",
+      "schablonberäkning"
+    ],
+    "snippet": "## Sammanfattning Lagen om frihet från skatt vid import (SFS 1994:1551), här kallad skattefrihetlagen, reglerar när **an…",
+    "url": "/laws/lagen-om-frihet-fran-skatt-vid-import",
+    "entity_type": "lag",
+    "sfs": "1994:1551",
+    "short_name": "Skattefrihetlagen"
+  },
+  {
     "slug": "lagen-om-handel-med-lakemedel",
     "title": "Lagen om handel med läkemedel",
     "type": "entity",
@@ -220,6 +521,43 @@
     "entity_type": "lag",
     "sfs": "2009:366",
     "short_name": "Läkemedelshandelslagen"
+  },
+  {
+    "slug": "lagen-om-handel-med-salprodukter",
+    "title": "Lagen om handel med sälprodukter",
+    "type": "entity",
+    "tags": [
+      "sälprodukter",
+      "handel",
+      "djurskydd",
+      "importforbud",
+      "eu-samordning",
+      "till-syn"
+    ],
+    "snippet": "## Sammanfattning Sälproduktslagen (2011:1070) är en kort implementeringslag som ger Svenska Statens jordbruksverk befog…",
+    "url": "/laws/lagen-om-handel-med-salprodukter",
+    "entity_type": "lag",
+    "sfs": "2011:1070",
+    "short_name": "Sälproduktslagen"
+  },
+  {
+    "slug": "lagen-om-immunitet-och-privilegier",
+    "title": "Lagen om immunitet och privilegier i vissa fall",
+    "type": "entity",
+    "tags": [
+      "immunitet",
+      "diplomati",
+      "tullfrihet",
+      "skattefrihet",
+      "nato",
+      "militar",
+      "internationella-organisationer"
+    ],
+    "snippet": "# Lag (1976:661) om immunitet och privilegier i vissa fall ## Sammanfattning Immunitetslagen (SFS 1976:661) ar Sveriges …",
+    "url": "/laws/lagen-om-immunitet-och-privilegier",
+    "entity_type": "lag",
+    "sfs": "1976:661",
+    "short_name": "Immunitetslagen"
   },
   {
     "slug": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
@@ -240,6 +578,24 @@
     "short_name": "Dual-use-lagen"
   },
   {
+    "slug": "lagen-om-kontroll-av-narkotika",
+    "title": "Lagen om kontroll av narkotika",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "narkotika",
+      "kontroll",
+      "tillstånd",
+      "läkemedelsverket",
+      "administrativ-lag"
+    ],
+    "snippet": "# Lagen om kontroll av narkotika (SFS 1992:860) ## Sammanfattning Lag (1992:860) om kontroll av narkotika — i dagligt ta…",
+    "url": "/laws/lagen-om-kontroll-av-narkotika",
+    "entity_type": "lag",
+    "sfs": "1992:860",
+    "short_name": "Narkotikakontrollagen"
+  },
+  {
     "slug": "lagen-om-krigsmateriel",
     "title": "Lagen om krigsmateriel",
     "type": "entity",
@@ -254,6 +610,43 @@
     "entity_type": "lag",
     "sfs": "1992:1300",
     "short_name": "Krigsmateriellagen"
+  },
+  {
+    "slug": "lagen-om-proviantering",
+    "title": "Lag om proviantering av fartyg och luftfartyg",
+    "type": "entity",
+    "tags": [
+      "proviantering",
+      "fartyg",
+      "luftfartyg",
+      "skattefrihet",
+      "obeskattade-varor",
+      "tillstand",
+      "tullrätt"
+    ],
+    "snippet": "## Sammanfattning Provianteringslagen (SFS 1999:446) reglerar under vilka förutsättningar **obeskattade varor** — varor …",
+    "url": "/laws/lagen-om-proviantering",
+    "entity_type": "lag",
+    "sfs": "1999:446",
+    "short_name": "Provianteringslagen"
+  },
+  {
+    "slug": "lagen-om-punktskattekontroll",
+    "title": "Lagen om punktskattekontroll av transporter",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "punktskatt",
+      "kontroll",
+      "transport",
+      "forverkande",
+      "transporttillagg"
+    ],
+    "snippet": "# Lagen om punktskattekontroll (1998:506) ## Sammanfattning Lag (1998:506) om punktskattekontroll av transporter m.m. (L…",
+    "url": "/laws/lagen-om-punktskattekontroll",
+    "entity_type": "lag",
+    "sfs": "1998:506",
+    "short_name": "LPK / Punktskattekontrollagen"
   },
   {
     "slug": "lagen-om-skatt-pa-energi",
@@ -272,6 +665,43 @@
     "entity_type": "lag",
     "sfs": "1994:1776",
     "short_name": "Energiskattelagen"
+  },
+  {
+    "slug": "lagen-om-skatt-pa-kemikalier",
+    "title": "Lagen om skatt på kemikalier i viss elektronik",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "kemikalier",
+      "elektronik",
+      "punktskatt",
+      "bromerade-flamskyddsmedel",
+      "miljöskatt"
+    ],
+    "snippet": "## Sammanfattning Lagen om skatt på kemikalier i viss elektronik (kemikalieskattelagen) är en svensk punktskatt på elekt…",
+    "url": "/laws/lagen-om-skatt-pa-kemikalier",
+    "entity_type": "lag",
+    "sfs": "2016:1067",
+    "short_name": "Kemikalieskattelagen"
+  },
+  {
+    "slug": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+    "title": "Lagen om skatt på vissa nikotinhaltiga produkter",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "punktskatt",
+      "nikotinskatt",
+      "e-vätskor",
+      "skattskyldighet",
+      "import",
+      "lagerhållare"
+    ],
+    "snippet": "# Lagen om skatt på vissa nikotinhaltiga produkter (2018:696) ## Sammanfattning Nikotinskattelagen är ett komplement til…",
+    "url": "/laws/lagen-om-skatt-pa-nikotinhaltiga-produkter",
+    "entity_type": "lag",
+    "sfs": "2018:696",
+    "short_name": "Nikotinskattelagen"
   },
   {
     "slug": "lagen-om-straff-for-penningtvattsbrott",
@@ -308,6 +738,41 @@
     "short_name": "Tobakslagen"
   },
   {
+    "slug": "lagen-om-transport-av-farligt-gods",
+    "title": "Lagen om transport av farligt gods",
+    "type": "entity",
+    "tags": [
+      "transport",
+      "farligt-gods",
+      "sakerhet"
+    ],
+    "snippet": "# Lagen om transport av farligt gods (2006:263) ## Sammanfattning Lagen om transport av farligt gods ar en ramlag som sy…",
+    "url": "/laws/lagen-om-transport-av-farligt-gods",
+    "entity_type": "lag",
+    "sfs": "2006:263",
+    "short_name": "Lagen om farligt gods"
+  },
+  {
+    "slug": "lagen-om-tullfrihet",
+    "title": "Lag om tullfrihet m.m.",
+    "type": "entity",
+    "tags": [
+      "tullfrihet",
+      "diplomati",
+      "immunitet",
+      "militart-samarbete",
+      "luftfart",
+      "unionsratt",
+      "antidumpning",
+      "ursprungsintyg"
+    ],
+    "snippet": "# Lag (1994:1547) om tullfrihet m.m. ## Sammanfattning Lagen om tullfrihet m.m. (SFS 1994:1547) är en **kompletteringsla…",
+    "url": "/laws/lagen-om-tullfrihet",
+    "entity_type": "lag",
+    "sfs": "1994:1547",
+    "short_name": "Tullfrihetsslagen"
+  },
+  {
     "slug": "lagen-om-vissa-internationella-sanktioner",
     "title": "Lagen om vissa internationella sanktioner",
     "type": "entity",
@@ -340,6 +805,39 @@
     "entity_type": "lag",
     "sfs": "2006:804",
     "short_name": "Livsmedelslagen"
+  },
+  {
+    "slug": "mervardesskatteforordningen",
+    "title": "Mervärdesskatteförordningen",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "mervärdesskatt",
+      "moms",
+      "verkställighetsförordning",
+      "administrativt"
+    ],
+    "snippet": "## Sammanfattning Mervärdesskatteförordningen (2023:328) är regeringens verkställighetsförordning till [[mervärdesskatte…",
+    "url": "/laws/mervardesskatteforordningen",
+    "entity_type": "lag",
+    "sfs": "2023:328",
+    "short_name": "Momsförordningen"
+  },
+  {
+    "slug": "mervardesskattelagen",
+    "title": "Mervärdesskattelagen",
+    "type": "entity",
+    "tags": [
+      "skatt",
+      "moms",
+      "mervardeskatt",
+      "import"
+    ],
+    "snippet": "> [!note] Partiell ingest > ML är 7 749 rader. Denna entity fokuserar på tullrelevanta aspekter: import, skatteupplag, d…",
+    "url": "/laws/mervardesskattelagen",
+    "entity_type": "lag",
+    "sfs": "2023:200",
+    "short_name": "Momslagen / ML"
   },
   {
     "slug": "miljobalken",
@@ -376,6 +874,25 @@
     "entity_type": "lag",
     "sfs": "1968:64",
     "short_name": "Narkotikastrafflagen"
+  },
+  {
+    "slug": "rattegangsbalken",
+    "title": "Rättegångsbalken",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "processrätt",
+      "tvångsmedel",
+      "förundersökning",
+      "beslag",
+      "husrannsakan",
+      "polismansbefogenhet"
+    ],
+    "snippet": "# Rättegångsbalken (1942:740) > [!note] Partiell ingest > Denna entity fokuserar på **kap 23-28** — tvångsmedel vid föru…",
+    "url": "/laws/rattegangsbalken",
+    "entity_type": "lag",
+    "sfs": "1942:740",
+    "short_name": "Rättegångsbalken"
   },
   {
     "slug": "skattebrottslagen",
@@ -496,6 +1013,25 @@
     "entity_type": "lag",
     "sfs": "2016:253",
     "short_name": "Tullagen"
+  },
+  {
+    "slug": "tullbefogenhetsforordningen",
+    "title": "Tullbefogenhetsförordningen",
+    "type": "entity",
+    "tags": [
+      "tullbefogenhet",
+      "kontrollverksamhet",
+      "behorighetsstyrning",
+      "yttre-grans",
+      "inre-grans",
+      "punktskatt",
+      "brottsbekapning"
+    ],
+    "snippet": "## Sammanfattning Tullbefogenhetsförordningen (2024:759) är en verkställighetsförordning som kompletterar [[tullbefogenh…",
+    "url": "/laws/tullbefogenhetsforordningen",
+    "entity_type": "lag",
+    "sfs": "2024:759",
+    "short_name": "Tullbefogenhetsförordningen"
   },
   {
     "slug": "tullbefogenhetslagen",
@@ -740,6 +1276,209 @@
     "url": "/sources/forordning-om-tillstand-for-farliga-foremal-1990-415"
   },
   {
+    "slug": "forordningen-om-alkoholskatt-2022-183",
+    "title": "Förordning (2022:183) om alkoholskatt",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "alkoholskatt",
+      "punktskatt",
+      "administrativa-processer",
+      "dokumenthantering"
+    ],
+    "snippet": "## Sammanfattning Förordning (2022:183) om alkoholskatt är en verkställighetsförordning som meddelades av Finansdepartem…",
+    "url": "/sources/forordningen-om-alkoholskatt-2022-183"
+  },
+  {
+    "slug": "forordningen-om-dual-use-2000-1217",
+    "title": "Förordning (2000:1217) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd",
+    "type": "source",
+    "tags": [
+      "dual-use",
+      "exportkontroll",
+      "ISP",
+      "PGS-forordningen",
+      "tekniskt-bistand",
+      "utrikesdepartementet",
+      "catch-all"
+    ],
+    "snippet": "# Förordning (2000:1217) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd ## Översikt Föro…",
+    "url": "/sources/forordningen-om-dual-use-2000-1217"
+  },
+  {
+    "slug": "forordningen-om-handel-med-salprodukter-2010-1491",
+    "title": "Förordningen om handel med sälprodukter (2010:1491)",
+    "type": "source",
+    "tags": [
+      "sälprodukter",
+      "djurskydd",
+      "importförbud",
+      "EU-rätt",
+      "jordbruksverket"
+    ],
+    "snippet": "## Sammanfattning Förordning (2010:1491) är en svensk verkställighetsförordning som kompletterar Europaparlamentets och …",
+    "url": "/sources/forordningen-om-handel-med-salprodukter-2010-1491"
+  },
+  {
+    "slug": "forordningen-om-import-och-exportreglering-1997-969",
+    "title": "Förordning (1997:969) om import- och exportreglering",
+    "type": "source",
+    "tags": [
+      "import",
+      "export",
+      "licensering",
+      "reglering",
+      "myndigheter"
+    ],
+    "snippet": "## Sammanfattning Förordning (1997:969) utgör grundramverket för import- och exportreglering i Sverige och definierar nä…",
+    "url": "/sources/forordningen-om-import-och-exportreglering-1997-969"
+  },
+  {
+    "slug": "forordningen-om-krigsmateriel-1992-1303",
+    "title": "Förordning (1992:1303) om krigsmateriel",
+    "type": "source",
+    "tags": [
+      "krigsmateriel",
+      "exportkontroll",
+      "ISP",
+      "tillstandsgivning",
+      "tekniskt-bistand",
+      "utrikesdepartementet"
+    ],
+    "snippet": "# Förordning (1992:1303) om krigsmateriel ## Översikt Förordningen är tillämpningsförordning till [[lagen-om-krigsmateri…",
+    "url": "/sources/forordningen-om-krigsmateriel-1992-1303"
+  },
+  {
+    "slug": "forordningen-om-proviantering-1999-454",
+    "title": "Förordning (1999:454) om proviantering av fartyg och luftfartyg",
+    "type": "source",
+    "tags": [
+      "proviantering",
+      "fartyg",
+      "luftfartyg",
+      "tullverket",
+      "foreskrifter"
+    ],
+    "snippet": "## Sammanfattning Förordning (1999:454) är verkställighetsförordningen till Lag (1999:446) om proviantering av fartyg oc…",
+    "url": "/sources/forordningen-om-proviantering-1999-454"
+  },
+  {
+    "slug": "forordningen-om-punktskattekontroll-1998-518",
+    "title": "Förordning (1998:518) om punktskattekontroll av transporter",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "punktskatt",
+      "verkställighetsförordning",
+      "tullverket",
+      "skatteverket"
+    ],
+    "snippet": "# Förordning (1998:518) — Källsammanfattning ## Grundläggande information **Titel:** Förordning (1998:518) om punktskatt…",
+    "url": "/sources/forordningen-om-punktskattekontroll-1998-518"
+  },
+  {
+    "slug": "forordningen-om-skatt-pa-energi-2022-181",
+    "title": "Förordning (2022:181) om skatt på energi",
+    "type": "source",
+    "tags": [
+      "förordning",
+      "energiskatt",
+      "punktskatt",
+      "verkställighet",
+      "Skatteverket",
+      "EU-direktiv",
+      "uppskovsförfarande"
+    ],
+    "snippet": "# Förordning (2022:181) om skatt på energi ## Sammanfattning Verkställighetsförordning till [[lagen-om-skatt-pa-energi]]…",
+    "url": "/sources/forordningen-om-skatt-pa-energi-2022-181"
+  },
+  {
+    "slug": "forordningen-om-skatt-pa-kemikalier-2017-214",
+    "title": "Förordning (2017:214) om skatt på kemikalier i viss elektronik",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "kemikalieskatt",
+      "elektronik",
+      "förordning",
+      "regeringsförordning",
+      "verkställighetsförordning"
+    ],
+    "snippet": "## Sammanfattning Förordning (2017:214) är verkställighetsförordningen till lagen (2016:1067) om skatt på kemikalier i v…",
+    "url": "/sources/forordningen-om-skatt-pa-kemikalier-2017-214"
+  },
+  {
+    "slug": "forordningen-om-skatt-pa-nikotinhaltiga-produkter-2018-704",
+    "title": "Förordningen om skatt på vissa nikotinhaltiga produkter (2018:704)",
+    "type": "source",
+    "tags": [
+      "nikotinskatt",
+      "skatt",
+      "punktskatt",
+      "förordning"
+    ],
+    "snippet": "## Sammanfattning Förordning (2018:704) är verkställighetsförordningen till [[lagen-om-skatt-pa-nikotinhaltiga-produkter…",
+    "url": "/sources/forordningen-om-skatt-pa-nikotinhaltiga-produkter-2018-704"
+  },
+  {
+    "slug": "forordningen-om-tobaksskatt-2022-182",
+    "title": "Förordning (2022:182) om tobaksskatt",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "tobaksskatt",
+      "punktskatt"
+    ],
+    "snippet": "# Förordning (2022:182) om tobaksskatt ## Metadata | Fält | Värde | |------|-------| | SFS-nummer | 2022:182 | | Departe…",
+    "url": "/sources/forordningen-om-tobaksskatt-2022-182"
+  },
+  {
+    "slug": "forordningen-om-transport-av-farligt-gods-2006-311",
+    "title": "Förordningen om transport av farligt gods (2006:311)",
+    "type": "source",
+    "tags": [
+      "transport",
+      "farligt-gods",
+      "verkställighetsförordning",
+      "myndigheter",
+      "tillsyn"
+    ],
+    "snippet": "## Sammanfattning Denna förordning är en verkställighetsförordning till **lagen (2006:263) om transport av farligt gods*…",
+    "url": "/sources/forordningen-om-transport-av-farligt-gods-2006-311"
+  },
+  {
+    "slug": "forordningen-om-tullfrihet-1994-1605",
+    "title": "Förordning (1994:1605) om tullfrihet m.m.",
+    "type": "source",
+    "tags": [
+      "tullfrihet",
+      "diplomati",
+      "militart-samarbete",
+      "proviant",
+      "proviant-fartyg",
+      "ursprungsintyg",
+      "antidumpning",
+      "forordning",
+      "verkstallighetsforeskrifter"
+    ],
+    "snippet": "# Förordning (1994:1605) om tullfrihet m.m. ## Översikt Förordningen trädde i kraft 1995 i samband med Sveriges EU-inträ…",
+    "url": "/sources/forordningen-om-tullfrihet-1994-1605"
+  },
+  {
+    "slug": "inregransforordningen-1996-702",
+    "title": "Inregränsförordning (1996:702)",
+    "type": "source",
+    "tags": [
+      "inre-grans",
+      "kontanta-medel",
+      "anmalningsskyldighet",
+      "redovisningsskyldighet",
+      "tullkontroll"
+    ],
+    "snippet": "# Inregränsförordning (1996:702) ## Översikt Inregränsförordningen (1996:702) är en kortfattad verkställighetsförordning…",
+    "url": "/sources/inregransforordningen-1996-702"
+  },
+  {
     "slug": "inregranslagen-1996-701",
     "title": "Lag (1996:701) om Tullverkets befogenheter vid Sveriges gräns mot ett annat land inom Europeiska unionen",
     "type": "source",
@@ -796,6 +1535,20 @@
     "url": "/sources/kustbevakningslagen-2019-32"
   },
   {
+    "slug": "lagen-om-alkoholskatt-2022-156",
+    "title": "Lag (2022:156) om alkoholskatt",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "alkoholskatt",
+      "punktskatt",
+      "uppskov",
+      "import"
+    ],
+    "snippet": "# Lag (2022:156) om alkoholskatt ## Metadata | Falt | Varde | |------|-------| | SFS-nummer | 2022:156 | | Departement |…",
+    "url": "/sources/lagen-om-alkoholskatt-2022-156"
+  },
+  {
     "slug": "lagen-om-atgarder-mot-penningtvatt-2017-630",
     "title": "Lag (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism",
     "type": "source",
@@ -821,6 +1574,21 @@
     ],
     "snippet": "# Lag (2010:1011) om brandfarliga och explosiva varor ## Översikt Reglerar hantering, överföring, import och export av b…",
     "url": "/sources/lagen-om-brandfarliga-och-explosiva-varor-2010-1011"
+  },
+  {
+    "slug": "lagen-om-forbud-mot-pals-av-katt-och-hund-2008-1049",
+    "title": "Lag (2008:1049) om förbud mot utsläppande på marknaden av päls av katt och hund m.m.",
+    "type": "source",
+    "tags": [
+      "djurskydd",
+      "palsförbud",
+      "katt",
+      "hund",
+      "import",
+      "export"
+    ],
+    "snippet": "## Sammanfattning Denna lag från 2008 kompletterar EU-förordning (EG) nr 1523/2007 om förbud mot att sälja, importera el…",
+    "url": "/sources/lagen-om-forbud-mot-pals-av-katt-och-hund-2008-1049"
   },
   {
     "slug": "lagen-om-forbud-mot-vissa-dopningsmedel-1991-1969",
@@ -851,6 +1619,21 @@
     "url": "/sources/lagen-om-forbud-mot-vissa-halsofarliga-varor-1999-42"
   },
   {
+    "slug": "lagen-om-frihet-fran-skatt-vid-import-1994-1551",
+    "title": "Lag (1994:1551) om frihet från skatt vid import, m.m.",
+    "type": "source",
+    "tags": [
+      "skattefrihet",
+      "import",
+      "resande",
+      "tullrätt",
+      "punktskatt",
+      "mervärdesskatt"
+    ],
+    "snippet": "# Lag (1994:1551) om frihet från skatt vid import, m.m. ## Översikt Lagen reglerar frihet från och återbetalning av **an…",
+    "url": "/sources/lagen-om-frihet-fran-skatt-vid-import-1994-1551"
+  },
+  {
     "slug": "lagen-om-handel-med-lakemedel-2009-366",
     "title": "Lag (2009:366) om handel med läkemedel",
     "type": "source",
@@ -863,6 +1646,36 @@
     ],
     "snippet": "# Lag (2009:366) om handel med läkemedel ## Översikt Lagen reglerar all handel med läkemedel i Sverige — detaljhandel vi…",
     "url": "/sources/lagen-om-handel-med-lakemedel-2009-366"
+  },
+  {
+    "slug": "lagen-om-handel-med-salprodukter-2011-1070",
+    "title": "Lag (2011:1070) om handel med sälprodukter",
+    "type": "source",
+    "tags": [
+      "sälprodukter",
+      "handel",
+      "djurskydd",
+      "importforbud",
+      "eu-samordning"
+    ],
+    "snippet": "## Källsammanfattning Denna lag från 2011 implementerar EU:s förordning (EG) nr 1007/2009 om handel med sälprodukter i s…",
+    "url": "/sources/lagen-om-handel-med-salprodukter-2011-1070"
+  },
+  {
+    "slug": "lagen-om-immunitet-och-privilegier-1976-661",
+    "title": "Lag (1976:661) om immunitet och privilegier i vissa fall",
+    "type": "source",
+    "tags": [
+      "immunitet",
+      "diplomati",
+      "tullfrihet",
+      "skattefrihet",
+      "nato",
+      "militar",
+      "internationella-organisationer"
+    ],
+    "snippet": "# Lag (1976:661) om immunitet och privilegier i vissa fall ## Oversikt Lagen reglerar **immunitet och privilegier** for …",
+    "url": "/sources/lagen-om-immunitet-och-privilegier-1976-661"
   },
   {
     "slug": "lagen-om-kontroll-av-dubbla-anvandningsomraden-2000-1064",
@@ -879,6 +1692,20 @@
     "url": "/sources/lagen-om-kontroll-av-dubbla-anvandningsomraden-2000-1064"
   },
   {
+    "slug": "lagen-om-kontroll-av-narkotika-1992-860",
+    "title": "Lag (1992:860) om kontroll av narkotika",
+    "type": "source",
+    "tags": [
+      "lag",
+      "narkotika",
+      "kontroll",
+      "tillstånd",
+      "läkemedelsverket"
+    ],
+    "snippet": "# Lag (1992:860) om kontroll av narkotika ## Översikt Lag (1992:860) om kontroll av narkotika är den centrala **administ…",
+    "url": "/sources/lagen-om-kontroll-av-narkotika-1992-860"
+  },
+  {
     "slug": "lagen-om-krigsmateriel-1992-1300",
     "title": "Lag (1992:1300) om krigsmateriel",
     "type": "source",
@@ -891,6 +1718,36 @@
     ],
     "snippet": "# Lag (1992:1300) om krigsmateriel ## Översikt Lagen reglerar tillverkning, tillhandahållande, utförsel och tekniskt bis…",
     "url": "/sources/lagen-om-krigsmateriel-1992-1300"
+  },
+  {
+    "slug": "lagen-om-proviantering-1999-446",
+    "title": "Lag (1999:446) om proviantering av fartyg och luftfartyg",
+    "type": "source",
+    "tags": [
+      "proviantering",
+      "fartyg",
+      "luftfartyg",
+      "skattefrihet",
+      "punktskatt",
+      "tullrätt"
+    ],
+    "snippet": "# Lag (1999:446) om proviantering av fartyg och luftfartyg ## Översikt Lagen reglerar under vilka förutsättningar **obes…",
+    "url": "/sources/lagen-om-proviantering-1999-446"
+  },
+  {
+    "slug": "lagen-om-punktskattekontroll-1998-506",
+    "title": "Lag (1998:506) om punktskattekontroll av transporter m.m.",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "punktskatt",
+      "kontroll",
+      "transport",
+      "forverkande",
+      "transporttillagg"
+    ],
+    "snippet": "# Lag (1998:506) om punktskattekontroll av transporter m.m. ## Kalluppgifter - **SFS:** 1998:506 - **Departement:** Fina…",
+    "url": "/sources/lagen-om-punktskattekontroll-1998-506"
   },
   {
     "slug": "lagen-om-skatt-pa-energi-1994-1776",
@@ -906,6 +1763,33 @@
     ],
     "snippet": "# Lag (1994:1776) om skatt på energi ## Översikt Lagen om skatt på energi (LSE) reglerar energiskatt, koldioxidskatt och…",
     "url": "/sources/lagen-om-skatt-pa-energi-1994-1776"
+  },
+  {
+    "slug": "lagen-om-skatt-pa-kemikalier-2016-1067",
+    "title": "Lag (2016:1067) om skatt på kemikalier i viss elektronik",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "kemikalier",
+      "elektronik",
+      "punktskatt",
+      "bromerade-flamskyddsmedel"
+    ],
+    "snippet": "## Sammanfattning Kemikalieskattelagen är en svensk punktskatt på elektroniska produkter som innehåller bromerade eller …",
+    "url": "/sources/lagen-om-skatt-pa-kemikalier-2016-1067"
+  },
+  {
+    "slug": "lagen-om-skatt-pa-nikotinhaltiga-produkter-2018-696",
+    "title": "Lagen om skatt på vissa nikotinhaltiga produkter (2018:696)",
+    "type": "source",
+    "tags": [
+      "nikotinskatt",
+      "e-vätskor",
+      "punktskatt",
+      "import"
+    ],
+    "snippet": "# Lagen om skatt på vissa nikotinhaltiga produkter (2018:696) **Senast ändrad:** SFS 2026:35 (i kraft 1 april 2026) **De…",
+    "url": "/sources/lagen-om-skatt-pa-nikotinhaltiga-produkter-2018-696"
   },
   {
     "slug": "lagen-om-straff-for-penningtvattsbrott-2014-307",
@@ -934,6 +1818,36 @@
     ],
     "snippet": "# Lag (2018:2088) om tobak och liknande produkter ## Översikt Lagen syftar till att begränsa hälsorisker av tobak och li…",
     "url": "/sources/lagen-om-tobak-och-liknande-produkter-2018-2088"
+  },
+  {
+    "slug": "lagen-om-transport-av-farligt-gods-2006-263",
+    "title": "Lag (2006:263) om transport av farligt gods",
+    "type": "source",
+    "tags": [
+      "lag",
+      "transport",
+      "farligt-gods",
+      "sakerhet"
+    ],
+    "snippet": "# Lag (2006:263) om transport av farligt gods ## Metadata - **SFS-nummer:** 2006:263 - **Departement:** Forsvarsdepartem…",
+    "url": "/sources/lagen-om-transport-av-farligt-gods-2006-263"
+  },
+  {
+    "slug": "lagen-om-tullfrihet-1994-1547",
+    "title": "Lag (1994:1547) om tullfrihet m.m.",
+    "type": "source",
+    "tags": [
+      "tullfrihet",
+      "diplomati",
+      "immunitet",
+      "militart-samarbete",
+      "luftfart",
+      "unionsratt",
+      "ursprungsintyg",
+      "antidumpning"
+    ],
+    "snippet": "# Lag (1994:1547) om tullfrihet m.m. ## Översikt Lagen trädde i kraft 1995 i samband med Sveriges EU-inträde och ersatte…",
+    "url": "/sources/lagen-om-tullfrihet-1994-1547"
   },
   {
     "slug": "lagen-om-vissa-internationella-sanktioner-1996-95",
@@ -965,6 +1879,32 @@
     "url": "/sources/livsmedelslagen-2006-804"
   },
   {
+    "slug": "mervardesskatteforordningen-2023-328",
+    "title": "Mervärdesskatteförordningen (2023:328)",
+    "type": "source",
+    "tags": [
+      "mervärdesskatt",
+      "moms",
+      "verkställighetsförordning",
+      "skatt"
+    ],
+    "snippet": "## Sammanfattning Mervärdesskatteförordningen (2023:328) är regeringens verkställighetsförordning till [[mervärdesskatte…",
+    "url": "/sources/mervardesskatteforordningen-2023-328"
+  },
+  {
+    "slug": "mervardesskattelagen-2023-200",
+    "title": "Mervärdesskattelag (2023:200)",
+    "type": "source",
+    "tags": [
+      "skatt",
+      "moms",
+      "mervardeskatt",
+      "import"
+    ],
+    "snippet": "# Mervärdesskattelag (2023:200) > [!note] Partiell ingest > Lagen är 7 749 rader och 24 kapitel. Denna sammanfattning fo…",
+    "url": "/sources/mervardesskattelagen-2023-200"
+  },
+  {
     "slug": "miljobalken-1998-808",
     "title": "Miljöbalk (1998:808)",
     "type": "source",
@@ -991,6 +1931,23 @@
     ],
     "snippet": "# Narkotikastrafflag (1968:64) ## Översikt Sveriges grundläggande strafflag för narkotikabrott. Reglerar all olovlig bef…",
     "url": "/sources/narkotikastrafflagen-1968-64"
+  },
+  {
+    "slug": "rattegangsbalken-1942-740",
+    "title": "Rättegångsbalk (1942:740)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "processrätt",
+      "förundersökning",
+      "tvångsmedel",
+      "beslag",
+      "husrannsakan",
+      "häktning",
+      "kroppsvisitation"
+    ],
+    "snippet": "# Rättegångsbalk (1942:740) ## Översikt Rättegångsbalken (RB) är Sveriges centrala processlag som reglerar domstolsförfa…",
+    "url": "/sources/rattegangsbalken-1942-740"
   },
   {
     "slug": "skattebrottslagen-1971-69",
@@ -1088,6 +2045,22 @@
     "url": "/sources/tullagen-2016-253"
   },
   {
+    "slug": "tullbefogenhetsforordningen-2024-759",
+    "title": "Tullbefogenhetsförordning (2024:759)",
+    "type": "source",
+    "tags": [
+      "tullbefogenhet",
+      "kontrollverksamhet",
+      "yttre-grans",
+      "inre-grans",
+      "punktskatt",
+      "brottsbekapning",
+      "behorighetsstyrning"
+    ],
+    "snippet": "# Tullbefogenhetsförordning (2024:759) ## Översikt Tullbefogenhetsförordningen (2024:759) är en verkställighetsförordnin…",
+    "url": "/sources/tullbefogenhetsforordningen-2024-759"
+  },
+  {
     "slug": "tullbefogenhetslagen-2024-710",
     "title": "Tullbefogenhetslag (2024:710)",
     "type": "source",
@@ -1128,6 +2101,20 @@
     "url": "/sources/vapenlagen-1996-67"
   },
   {
+    "slug": "exportkontroll-krigsmateriel-vs-dual-use",
+    "title": "Exportkontroll — krigsmateriel vs dual-use",
+    "type": "comparison",
+    "tags": [
+      "exportkontroll",
+      "krigsmateriel",
+      "dual-use",
+      "ISP",
+      "sanktioner"
+    ],
+    "snippet": "# Exportkontroll — krigsmateriel vs dual-use ## Sammanfattning Sverige har två parallella exportkontrollregimer med olik…",
+    "url": "/comparisons/exportkontroll-krigsmateriel-vs-dual-use"
+  },
+  {
     "slug": "narkotika-dopning-halsofarliga-varor",
     "title": "Narkotika, dopning och hälsofarliga varor — tre substanslagar",
     "type": "comparison",
@@ -1142,6 +2129,32 @@
     "url": "/comparisons/narkotika-dopning-halsofarliga-varor"
   },
   {
+    "slug": "penningtvatt-straff-vs-prevention",
+    "title": "Penningtvätt — straff vs prevention",
+    "type": "comparison",
+    "tags": [
+      "penningtvatt",
+      "finansiell-brottslighet",
+      "kundkannedom",
+      "kontanta-medel"
+    ],
+    "snippet": "# Penningtvätt — straff vs prevention ## Sammanfattning Sverige reglerar penningtvätt med två separata lagar som komplet…",
+    "url": "/comparisons/penningtvatt-straff-vs-prevention"
+  },
+  {
+    "slug": "smuggling-vs-tullbrott",
+    "title": "Smuggling vs tullbrott — straffrättslig vs administrativ sanktion",
+    "type": "comparison",
+    "tags": [
+      "smuggling",
+      "tullbrott",
+      "sanktioner",
+      "tulltillagg"
+    ],
+    "snippet": "# Smuggling vs tullbrott — straffrättslig vs administrativ sanktion ## Sammanfattning Sverige har två parallella sanktio…",
+    "url": "/comparisons/smuggling-vs-tullbrott"
+  },
+  {
     "slug": "smugglingslagen-vs-tullbefogenhetslagen",
     "title": "Smugglingslagen vs Tullbefogenhetslagen — brott och befogenheter",
     "type": "comparison",
@@ -1153,6 +2166,32 @@
     ],
     "snippet": "# Smugglingslagen vs Tullbefogenhetslagen — brott och befogenheter ## Sammanfattning Före 2024 fanns straffbestämmelser …",
     "url": "/comparisons/smugglingslagen-vs-tullbefogenhetslagen"
+  },
+  {
+    "slug": "tullbrott-vs-skattebrott",
+    "title": "Tullbrott vs skattebrott — undandragande av tull respektive skatt vid import",
+    "type": "comparison",
+    "tags": [
+      "tullbrott",
+      "skattebrott",
+      "importskatt",
+      "punktskatt"
+    ],
+    "snippet": "# Tullbrott vs skattebrott vid import ## Sammanfattning Vid import kan skatteundandragande ge upphov till två skilda bro…",
+    "url": "/comparisons/tullbrott-vs-skattebrott"
+  },
+  {
+    "slug": "vapen-knivar-explosiva",
+    "title": "Vapen, knivar och explosiva varor — tre regelverk vid gränskontroll",
+    "type": "comparison",
+    "tags": [
+      "vapen",
+      "knivar",
+      "explosiva-varor",
+      "granskontroll"
+    ],
+    "snippet": "# Vapen, knivar och explosiva varor — tre regelverk vid gränskontroll ## Sammanfattning När ett farligt föremål hittas v…",
+    "url": "/comparisons/vapen-knivar-explosiva"
   },
   {
     "slug": "springknivar-kaststjarnor-postpaket",

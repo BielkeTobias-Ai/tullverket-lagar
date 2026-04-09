@@ -38,6 +38,9 @@ situationer:
   - kontroll-distansforsaljning-tobak
   - olovlig-forsaljning-tobak-utan-tillstand
 connections:
+  - type: overlappar
+    target: "[[lagen-om-skatt-pa-nikotinhaltiga-produkter]]"
+    context: "Tobakslagen är produktregulerande (märkning, försäljning, tillståndsplikt). Nikotinskattelagen är rent skatterättslig för e-vätskor och oralt/nasalt nikotinbruk. E-cigarette-reglerna överlappar båda — de är både skattepliktiga enligt nikotinskattelagen och föremål för produktkrav enligt tobakslagen (1 kap., 2 kap. 10–13 §§)."
   - type: hanvisar-till
     target: "[[smugglingslagen]]"
     context: "Olovlig in-/utförsel av tobaksvaror, e-cigaretter och påfyllningsbehållare bestraffas under smugglingslagen (10 kap. 6 §)"

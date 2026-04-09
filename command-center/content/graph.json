@@ -15,7 +15,7 @@
         "tillstånd"
       ],
       "depth": "full",
-      "connectionCount": 4
+      "connectionCount": 5
     },
     {
       "id": "artskyddsforordningen",
@@ -69,6 +69,254 @@
       ],
       "depth": "full",
       "connectionCount": 3
+    },
+    {
+      "id": "forordningen-om-alkoholskatt",
+      "label": "Alkoholskatteförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2022:183",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "alkoholskatt",
+        "punktskatt",
+        "administrativa-processer",
+        "verkställighetsförordning"
+      ],
+      "depth": "standard",
+      "connectionCount": 4
+    },
+    {
+      "id": "forordningen-om-dual-use",
+      "label": "Dual-use-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2000:1217",
+      "status": "gällande",
+      "tags": [
+        "dual-use",
+        "exportkontroll",
+        "ISP",
+        "PGS-forordningen",
+        "catch-all",
+        "kvantdatorer",
+        "halvledare",
+        "tullverket",
+        "karnmaterial"
+      ],
+      "depth": "standard",
+      "connectionCount": 4
+    },
+    {
+      "id": "forordningen-om-handel-med-salprodukter",
+      "label": "Sälproduktsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2010:1491",
+      "status": "gallande",
+      "tags": [
+        "djurskydd",
+        "importförbud",
+        "sälprodukter",
+        "EU-rätt",
+        "jordbruksverket"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering",
+      "label": "Import- och exportregleringsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1997:969",
+      "status": "gallande",
+      "tags": [
+        "import",
+        "export",
+        "licensering",
+        "reglering",
+        "EU-koordination",
+        "myndigheter"
+      ],
+      "depth": "standard",
+      "connectionCount": 7
+    },
+    {
+      "id": "forordningen-om-krigsmateriel",
+      "label": "Krigsmaterielförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1992:1303",
+      "status": "gällande",
+      "tags": [
+        "krigsmateriel",
+        "exportkontroll",
+        "ISP",
+        "tillstandsgivning",
+        "certifiering",
+        "tullverket",
+        "handeldvapen"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
+    },
+    {
+      "id": "forordningen-om-proviantering",
+      "label": "Provianteringsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1999:454",
+      "status": "gallande",
+      "tags": [
+        "proviantering",
+        "tullverket",
+        "foreskrifter",
+        "tullforfarande"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
+    },
+    {
+      "id": "forordningen-om-punktskattekontroll",
+      "label": "Punktskattekontrollförordningen / PFK-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1998:518",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "punktskatt",
+        "verkställighetsförordning",
+        "myndighetssamverkan",
+        "tullverket",
+        "skatteverket"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "forordningen-om-skatt-pa-energi",
+      "label": "Energiskatteförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2022:181",
+      "status": "gallande",
+      "tags": [
+        "förordning",
+        "energiskatt",
+        "punktskatt",
+        "verkställighet",
+        "dokumenthantering",
+        "uppskovsförfarande"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "forordningen-om-skatt-pa-kemikalier",
+      "label": "Kemikalieskatteförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2017:214",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "kemikalieskatt",
+        "punktskatt",
+        "elektronik",
+        "verkställighetsförordning"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
+    },
+    {
+      "id": "forordningen-om-skatt-pa-nikotinhaltiga-produkter",
+      "label": "Nikotinskatteförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2018:704",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "nikotinskatt",
+        "punktskatt",
+        "procedur",
+        "förordning"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
+    },
+    {
+      "id": "forordningen-om-tobaksskatt",
+      "label": "Tobaksskatteförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2022:182",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "tobaksskatt",
+        "punktskatt"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "forordningen-om-transport-av-farligt-gods",
+      "label": "Förordningen om farligt gods",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2006:311",
+      "status": "gallande",
+      "tags": [
+        "transport",
+        "farligt-gods",
+        "verkställighetsförordning",
+        "myndigheter",
+        "tillsyn",
+        "säkerhet"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
+    },
+    {
+      "id": "forordningen-om-tullfrihet",
+      "label": "Tullfrihetsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1994:1605",
+      "status": "gällande",
+      "tags": [
+        "tullfrihet",
+        "diplomati",
+        "militart-samarbete",
+        "proviant",
+        "forordning",
+        "verkstallighetsforeskrifter",
+        "ursprungsintyg",
+        "antidumpning"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "inregransforordningen",
+      "label": "Inregränsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1996:702",
+      "status": "gällande",
+      "tags": [
+        "inre-grans",
+        "kontanta-medel",
+        "anmalningsskyldighet",
+        "redovisningsskyldighet",
+        "tullkontroll"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
     },
     {
       "id": "inregranslagen",
@@ -140,6 +388,23 @@
       "connectionCount": 5
     },
     {
+      "id": "lagen-om-alkoholskatt",
+      "label": "Alkoholskattelagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2022:156",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "alkoholskatt",
+        "punktskatt",
+        "uppskov",
+        "import"
+      ],
+      "depth": "standard",
+      "connectionCount": 7
+    },
+    {
       "id": "lagen-om-atgarder-mot-penningtvatt",
       "label": "Penningtvättslagen",
       "type": "entity",
@@ -170,7 +435,24 @@
         "säkerhet"
       ],
       "depth": "full",
-      "connectionCount": 5
+      "connectionCount": 6
+    },
+    {
+      "id": "lagen-om-forbud-mot-pals-av-katt-och-hund",
+      "label": "Pälsförbudslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2008:1049",
+      "status": "gallande",
+      "tags": [
+        "djurskydd",
+        "importforbud",
+        "pals",
+        "katt",
+        "hund"
+      ],
+      "depth": "full",
+      "connectionCount": 2
     },
     {
       "id": "lagen-om-forbud-mot-vissa-dopningsmedel",
@@ -203,7 +485,26 @@
         "tillstand"
       ],
       "depth": "full",
-      "connectionCount": 4
+      "connectionCount": 5
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import",
+      "label": "Skattefrihetlagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1994:1551",
+      "status": "gällande",
+      "tags": [
+        "skattefrihet",
+        "import",
+        "resande",
+        "punktskatt",
+        "mervärdesskatt",
+        "tullrätt",
+        "schablonberäkning"
+      ],
+      "depth": "standard",
+      "connectionCount": 7
     },
     {
       "id": "lagen-om-handel-med-lakemedel",
@@ -220,6 +521,43 @@
         "narkotika-adjacent"
       ],
       "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "lagen-om-handel-med-salprodukter",
+      "label": "Sälproduktslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2011:1070",
+      "status": "gallande",
+      "tags": [
+        "sälprodukter",
+        "handel",
+        "djurskydd",
+        "importforbud",
+        "eu-samordning",
+        "till-syn"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-immunitet-och-privilegier",
+      "label": "Immunitetslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1976:661",
+      "status": "gallande",
+      "tags": [
+        "immunitet",
+        "diplomati",
+        "tullfrihet",
+        "skattefrihet",
+        "nato",
+        "militar",
+        "internationella-organisationer"
+      ],
+      "depth": "standard",
       "connectionCount": 3
     },
     {
@@ -241,6 +579,24 @@
       "connectionCount": 3
     },
     {
+      "id": "lagen-om-kontroll-av-narkotika",
+      "label": "Narkotikakontrollagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1992:860",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "narkotika",
+        "kontroll",
+        "tillstånd",
+        "läkemedelsverket",
+        "administrativ-lag"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
       "id": "lagen-om-krigsmateriel",
       "label": "Krigsmateriellagen",
       "type": "entity",
@@ -255,6 +611,43 @@
       ],
       "depth": "full",
       "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-proviantering",
+      "label": "Provianteringslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1999:446",
+      "status": "gällande",
+      "tags": [
+        "proviantering",
+        "fartyg",
+        "luftfartyg",
+        "skattefrihet",
+        "obeskattade-varor",
+        "tillstand",
+        "tullrätt"
+      ],
+      "depth": "standard",
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-punktskattekontroll",
+      "label": "LPK / Punktskattekontrollagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1998:506",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "punktskatt",
+        "kontroll",
+        "transport",
+        "forverkande",
+        "transporttillagg"
+      ],
+      "depth": "standard",
+      "connectionCount": 6
     },
     {
       "id": "lagen-om-skatt-pa-energi",
@@ -272,7 +665,44 @@
         "märkta-oljeprodukter"
       ],
       "depth": "full",
-      "connectionCount": 2
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier",
+      "label": "Kemikalieskattelagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2016:1067",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "kemikalier",
+        "elektronik",
+        "punktskatt",
+        "bromerade-flamskyddsmedel",
+        "miljöskatt"
+      ],
+      "depth": "standard",
+      "connectionCount": 6
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "label": "Nikotinskattelagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2018:696",
+      "status": "gallande",
+      "tags": [
+        "lag",
+        "punktskatt",
+        "nikotinskatt",
+        "e-vätskor",
+        "skattskyldighet",
+        "import",
+        "lagerhållare"
+      ],
+      "depth": "full",
+      "connectionCount": 6
     },
     {
       "id": "lagen-om-straff-for-penningtvattsbrott",
@@ -306,6 +736,41 @@
         "tullverket-involverad"
       ],
       "depth": "full",
+      "connectionCount": 5
+    },
+    {
+      "id": "lagen-om-transport-av-farligt-gods",
+      "label": "Lagen om farligt gods",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2006:263",
+      "status": "gallande",
+      "tags": [
+        "transport",
+        "farligt-gods",
+        "sakerhet"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-tullfrihet",
+      "label": "Tullfrihetsslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1994:1547",
+      "status": "gällande",
+      "tags": [
+        "tullfrihet",
+        "diplomati",
+        "immunitet",
+        "militart-samarbete",
+        "luftfart",
+        "unionsratt",
+        "antidumpning",
+        "ursprungsintyg"
+      ],
+      "depth": "standard",
       "connectionCount": 4
     },
     {
@@ -341,6 +806,39 @@
       ],
       "depth": "full",
       "connectionCount": 2
+    },
+    {
+      "id": "mervardesskatteforordningen",
+      "label": "Momsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2023:328",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "mervärdesskatt",
+        "moms",
+        "verkställighetsförordning",
+        "administrativt"
+      ],
+      "depth": "standard",
+      "connectionCount": 4
+    },
+    {
+      "id": "mervardesskattelagen",
+      "label": "Momslagen / ML",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2023:200",
+      "status": "gallande",
+      "tags": [
+        "skatt",
+        "moms",
+        "mervardeskatt",
+        "import"
+      ],
+      "depth": "standard",
+      "connectionCount": 7
     },
     {
       "id": "miljobalken",
@@ -379,6 +877,25 @@
       "connectionCount": 5
     },
     {
+      "id": "rattegangsbalken",
+      "label": "Rättegångsbalken",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1942:740",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "processrätt",
+        "tvångsmedel",
+        "förundersökning",
+        "beslag",
+        "husrannsakan",
+        "polismansbefogenhet"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
       "id": "skattebrottslagen",
       "label": "Skattebrottslagen",
       "type": "entity",
@@ -411,7 +928,7 @@
         "tullbrott"
       ],
       "depth": "full",
-      "connectionCount": 20
+      "connectionCount": 23
     },
     {
       "id": "stralskyddslagen",
@@ -462,7 +979,7 @@
         "import"
       ],
       "depth": "full",
-      "connectionCount": 3
+      "connectionCount": 6
     },
     {
       "id": "trafikbrottslagen",
@@ -499,6 +1016,25 @@
       "connectionCount": 5
     },
     {
+      "id": "tullbefogenhetsforordningen",
+      "label": "Tullbefogenhetsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2024:759",
+      "status": "gällande",
+      "tags": [
+        "tullbefogenhet",
+        "kontrollverksamhet",
+        "behorighetsstyrning",
+        "yttre-grans",
+        "inre-grans",
+        "punktskatt",
+        "brottsbekapning"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
       "id": "tullbefogenhetslagen",
       "label": "Tullbefogenhetslagen",
       "type": "entity",
@@ -513,7 +1049,7 @@
         "polismansbefogenhet"
       ],
       "depth": "full",
-      "connectionCount": 9
+      "connectionCount": 11
     },
     {
       "id": "tullforordningen",
@@ -715,6 +1251,13 @@
       "context": "12 kap. 5 §: alkoholdrycker i tillfällig lagring förverkas efter 30 dagar."
     },
     {
+      "id": "alkohollagen--kompletterar--lagen-om-alkoholskatt",
+      "source": "alkohollagen",
+      "target": "lagen-om-alkoholskatt",
+      "type": "kompletterar",
+      "context": "Alkohollagen reglerar handeln och tillstanden; alkoholskattelagen (2022:156) reglerar beskattningen. Kvantitetsgranser for resandeinforsel finns i alkoholskattelagen 2 kap. 11 ss."
+    },
+    {
       "id": "artskyddsforordningen--speciallag-till--miljobalken",
       "source": "artskyddsforordningen",
       "target": "miljobalken",
@@ -783,6 +1326,300 @@
       "target": "knivlagen",
       "type": "overlappar",
       "context": "Knivlagen förbjuder innehav av knivar på offentlig plats; farliga-föremål-förordningen reglerar inresekontroll och tillstånd för import av springstiletter och springknivar"
+    },
+    {
+      "id": "forordningen-om-alkoholskatt--kompletterar--lagen-om-alkoholskatt",
+      "source": "forordningen-om-alkoholskatt",
+      "target": "lagen-om-alkoholskatt",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning som meddelad enligt delegation i moderlagen. Reglerar administrativa processer och Skatteverkets befogenheter."
+    },
+    {
+      "id": "forordningen-om-alkoholskatt--hanvisar-till--EU-förordning-2022-1636",
+      "source": "forordningen-om-alkoholskatt",
+      "target": "EU-förordning-2022-1636",
+      "type": "hanvisar-till",
+      "context": "Dokumentstandard och varuslagskoder enligt bilaga II"
+    },
+    {
+      "id": "forordningen-om-alkoholskatt--hanvisar-till--EU-förordning-2022-1637",
+      "source": "forordningen-om-alkoholskatt",
+      "target": "EU-förordning-2022-1637",
+      "type": "hanvisar-till",
+      "context": "Tillämpningsföreskrifter för dokumenthantering vid uppskovsförfarande"
+    },
+    {
+      "id": "forordningen-om-alkoholskatt--hanvisar-till--EU-förordning-389-2012",
+      "source": "forordningen-om-alkoholskatt",
+      "target": "EU-förordning-389-2012",
+      "type": "hanvisar-till",
+      "context": "Punktskattenummer och administrativt samarbete mellan medlemsstater"
+    },
+    {
+      "id": "forordningen-om-dual-use--speciallag-till--lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "source": "forordningen-om-dual-use",
+      "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "type": "speciallag-till",
+      "context": "Tillämpningsförordning som preciserar tillståndsformer, procedurer och nationell kontrollförteckning för lagen (2000:1064)"
+    },
+    {
+      "id": "forordningen-om-dual-use--hanvisar-till--tullbefogenhetslagen",
+      "source": "forordningen-om-dual-use",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Tullverket tar emot 48-timmarsanmälan om export/överföring av tillståndspliktiga dual-use-produkter (9 §)"
+    },
+    {
+      "id": "forordningen-om-dual-use--hanvisar-till--smugglingslagen",
+      "source": "forordningen-om-dual-use",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Otillåten export av dual-use-produkter utan tillstånd kan utgöra smuggling"
+    },
+    {
+      "id": "forordningen-om-dual-use--overlappar--forordningen-om-krigsmateriel",
+      "source": "forordningen-om-dual-use",
+      "target": "forordningen-om-krigsmateriel",
+      "type": "overlappar",
+      "context": "Båda förordningarna reglerar strategisk exportkontroll och innehåller 48-timmarsanmälan till Tullverket; ISP hanterar tillstånd i båda systemen"
+    },
+    {
+      "id": "forordningen-om-handel-med-salprodukter--kompletterar--lagen-om-handel-med-salprodukter",
+      "source": "forordningen-om-handel-med-salprodukter",
+      "target": "lagen-om-handel-med-salprodukter",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning till sälproduktslagen"
+    },
+    {
+      "id": "forordningen-om-handel-med-salprodukter--hanvisar-till--eu-forordning-1007-2009-handel-med-salprodukter",
+      "source": "forordningen-om-handel-med-salprodukter",
+      "target": "eu-forordning-1007-2009-handel-med-salprodukter",
+      "type": "hanvisar-till",
+      "context": "Kompletterar Europaparlamentets och rådets förordning (EG) 1007/2009"
+    },
+    {
+      "id": "forordningen-om-handel-med-salprodukter--hanvisar-till--eu-forordning-2015-1850-genomforing-salprodukter",
+      "source": "forordningen-om-handel-med-salprodukter",
+      "target": "eu-forordning-2015-1850-genomforing-salprodukter",
+      "type": "hanvisar-till",
+      "context": "Kompletterar kommissionens genomförandeförordning (EU) 2015/1850"
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--hanvisar-till--tullagen",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Import och export sker inom tullförfarandet. Licensmyndigheterna samverkar med Tullverket."
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--hanvisar-till--lagen-om-internationella-sanktioner",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "lagen-om-internationella-sanktioner",
+      "type": "hanvisar-till",
+      "context": "Sanktioner kan medföra importlicenstvång som hanteras av denna förordning."
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--hanvisar-till--lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "type": "hanvisar-till",
+      "context": "Varor med dubbla användningsområden undantas från denna förordnings tillämpningsområde (bilaga 1)."
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--hanvisar-till--lagen-om-krigsmateriel",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "lagen-om-krigsmateriel",
+      "type": "hanvisar-till",
+      "context": "Kriegsmateriel undantas från denna förordnings tillämpningsområde (bilaga 1)."
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--hanvisar-till--smugglingslagen",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olovlig import eller export av licensreglerade varor utgör smuggling med straff enligt denna lag."
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--kompletterar--tullkodex-for-unionen",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "tullkodex-for-unionen",
+      "type": "kompletterar",
+      "context": "Denna förordning implementerar och verkställer EU:s tullkodex för licenserade varor."
+    },
+    {
+      "id": "forordningen-om-import-och-exportreglering--overlappar--exportkontroll",
+      "source": "forordningen-om-import-och-exportreglering",
+      "target": "exportkontroll",
+      "type": "overlappar",
+      "context": "Export av vissa varor kan kräva både exportlicens enligt denna förordning och exportkontroll enligt särskild lagstiftning."
+    },
+    {
+      "id": "forordningen-om-krigsmateriel--speciallag-till--lagen-om-krigsmateriel",
+      "source": "forordningen-om-krigsmateriel",
+      "target": "lagen-om-krigsmateriel",
+      "type": "speciallag-till",
+      "context": "Tillämpningsförordning som preciserar materieldefinitioner, tillståndstyper och procedurer i lagen (1992:1300)"
+    },
+    {
+      "id": "forordningen-om-krigsmateriel--hanvisar-till--vapenlagen",
+      "source": "forordningen-om-krigsmateriel",
+      "target": "vapenlagen",
+      "type": "hanvisar-till",
+      "context": "Handel med och utförsel av handeldvapen regleras av vapenlagen istf. krigsmateriellagen (4 §, 9 §, 11 §)"
+    },
+    {
+      "id": "forordningen-om-krigsmateriel--hanvisar-till--tullbefogenhetslagen",
+      "source": "forordningen-om-krigsmateriel",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Tullverket har roll vid anmälningsplikt för utförsel av krigsmateriel (15 §) och undantag för Tullverkets eget utförande (4 a §)"
+    },
+    {
+      "id": "forordningen-om-krigsmateriel--hanvisar-till--smugglingslagen",
+      "source": "forordningen-om-krigsmateriel",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Otillåten utförsel av krigsmateriel kan utgöra smuggling"
+    },
+    {
+      "id": "forordningen-om-krigsmateriel--overlappar--forordningen-om-dual-use",
+      "source": "forordningen-om-krigsmateriel",
+      "target": "forordningen-om-dual-use",
+      "type": "overlappar",
+      "context": "Båda förordningarna reglerar strategisk exportkontroll med ISP som tillståndsmyndighet och 48-timmarsanmälan till Tullverket"
+    },
+    {
+      "id": "forordningen-om-proviantering--kompletterar--lagen-om-proviantering",
+      "source": "forordningen-om-proviantering",
+      "target": "lagen-om-proviantering",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning som bemyndigar Tullverket att meddela närmare föreskrifter för administreringen av provianteringslagen"
+    },
+    {
+      "id": "forordningen-om-punktskattekontroll--kompletterar--lagen-om-punktskattekontroll",
+      "source": "forordningen-om-punktskattekontroll",
+      "target": "lagen-om-punktskattekontroll",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning till LPK. Reglerar procedur och myndighetssamverkan medan LPK innehåller det substantiella rättsinnehållet."
+    },
+    {
+      "id": "forordningen-om-punktskattekontroll--hanvisar-till--skatteförfarandeförordningen",
+      "source": "forordningen-om-punktskattekontroll",
+      "target": "skatteförfarandeförordningen",
+      "type": "hanvisar-till",
+      "context": "Betalningssäkring i punktskattärenden styrs av SkatteförF (2011:1261) 11, 17-19 kap. Tullverket träder i Skatteverkets ställe."
+    },
+    {
+      "id": "forordningen-om-skatt-pa-energi--kompletterar--lagen-om-skatt-pa-energi",
+      "source": "forordningen-om-skatt-pa-energi",
+      "target": "lagen-om-skatt-pa-energi",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning. Innehåller detaljerade regler för godkännanden, märkning, dokumenthantering och överenskommelser som [[lagen-om-skatt-pa-energi]] bemyndigar"
+    },
+    {
+      "id": "forordningen-om-skatt-pa-energi--hanvisar-till--tullagen",
+      "source": "forordningen-om-skatt-pa-energi",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Omfattande koordination mellan Tullverket och Skatteverket vid import, export och transitering av energiprodukter"
+    },
+    {
+      "id": "forordningen-om-skatt-pa-energi--hanvisar-till--unionstullkodexen",
+      "source": "forordningen-om-skatt-pa-energi",
+      "target": "unionstullkodexen",
+      "type": "hanvisar-till",
+      "context": "Refererar till UCC:s bestämmelser om exportdeklaration, transitering och tullformalia"
+    },
+    {
+      "id": "forordningen-om-skatt-pa-kemikalier--kompletterar--lagen-om-skatt-pa-kemikalier",
+      "source": "forordningen-om-skatt-pa-kemikalier",
+      "target": "lagen-om-skatt-pa-kemikalier",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning som reglerar de administrativa förfaranden och myndighetsuppgifter som krävs för att tillämpa kemikalieskattelagen"
+    },
+    {
+      "id": "forordningen-om-skatt-pa-nikotinhaltiga-produkter--kompletterar--lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "source": "forordningen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning som anger procedurer och detaljregler för tillämpning av nikotinskattelagen"
+    },
+    {
+      "id": "forordningen-om-tobaksskatt--kompletterar--tobaksskattelagen",
+      "source": "forordningen-om-tobaksskatt",
+      "target": "tobaksskattelagen",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning till tobaksskattelagen — reglerar administrativa förfaranden, bemyndiganden och dokumenthantering"
+    },
+    {
+      "id": "forordningen-om-tobaksskatt--hanvisar-till--smugglingslagen",
+      "source": "forordningen-om-tobaksskatt",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "5 §: tobaksvaror förverkade enligt smugglingslagen ska förstöras genom Skatteverkets försorg eller under tullkontroll"
+    },
+    {
+      "id": "forordningen-om-transport-av-farligt-gods--kompletterar--lagen-om-transport-av-farligt-gods",
+      "source": "forordningen-om-transport-av-farligt-gods",
+      "target": "lagen-om-transport-av-farligt-gods",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning till lagen (2006:263). Definierar myndigheter, tillsyn och procedurer för tillämpningen av moderlagen."
+    },
+    {
+      "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "forordningen-om-transport-av-farligt-gods",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "hanvisar-till",
+      "context": "4 § undantar vissa transporter enligt lagen om brandfarliga och explosiva varor från förordningens tillämpning när Försvarsmakten är transportör."
+    },
+    {
+      "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--fordonslagen",
+      "source": "forordningen-om-transport-av-farligt-gods",
+      "target": "fordonslagen",
+      "type": "hanvisar-till",
+      "context": "9 § hänvisar till fordonslagen (2002:574) för definitionen av behöriga besiktningsorgan för teknisk kontroll."
+    },
+    {
+      "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--lagen-om-ackreditering-och-teknisk-kontroll",
+      "source": "forordningen-om-transport-av-farligt-gods",
+      "target": "lagen-om-ackreditering-och-teknisk-kontroll",
+      "type": "hanvisar-till",
+      "context": "9 § hänvisar till lagen (2011:791) för Swedacs ackrediteringsbefogenheter."
+    },
+    {
+      "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--kustbevakningslagen",
+      "source": "forordningen-om-transport-av-farligt-gods",
+      "target": "kustbevakningslagen",
+      "type": "hanvisar-till",
+      "context": "11 a § hänvisar till kustbevakningslagen (2019:32) för Kustbevakningens brottsbekämpningsmyndighet i hamnar."
+    },
+    {
+      "id": "forordningen-om-tullfrihet--speciallag-till--lagen-om-tullfrihet",
+      "source": "forordningen-om-tullfrihet",
+      "target": "lagen-om-tullfrihet",
+      "type": "speciallag-till",
+      "context": "Förordningen är verkställighetsförordning till lagen (1994:1547) och preciserar dess bestämmelser med detaljerade handläggningsregler."
+    },
+    {
+      "id": "forordningen-om-tullfrihet--hanvisar-till--tullagen",
+      "source": "forordningen-om-tullfrihet",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "1 § anger att kompletterande bestämmelser finns i tullagen (2016:253). 2 § anger att termer har samma innebörd som i tullagen."
+    },
+    {
+      "id": "forordningen-om-tullfrihet--hanvisar-till--tullforordningen",
+      "source": "forordningen-om-tullfrihet",
+      "target": "tullforordningen",
+      "type": "hanvisar-till",
+      "context": "1 § anger att kompletterande bestämmelser även finns i tullförordningen (2016:287)."
+    },
+    {
+      "id": "inregransforordningen--kompletterar--inregranslagen",
+      "source": "inregransforordningen",
+      "target": "inregranslagen",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning till inregränslagen (1996:701) — specificerar anmälans och redovisningens innehåll samt informationsflöde till Polismyndigheten"
     },
     {
       "id": "inregranslagen--hanvisar-till--tullbefogenhetslagen",
@@ -918,6 +1755,55 @@
       "context": "Kustbevakningen är behörig myndighet; brottsdatalagen reglerar personuppgiftsbehandling i kustbevakningens brottsbekämpning"
     },
     {
+      "id": "lagen-om-alkoholskatt--kompletterar--alkohollagen",
+      "source": "lagen-om-alkoholskatt",
+      "target": "alkohollagen",
+      "type": "kompletterar",
+      "context": "Alkoholskattelagen reglerar beskattningen av alkohol; alkohollagen reglerar handeln och tillstanden."
+    },
+    {
+      "id": "lagen-om-alkoholskatt--hanvisar-till--tullagen",
+      "source": "lagen-om-alkoholskatt",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "13 kap. 3 ss: For skatt vid import galler tullagen. Tullverket beslutar och indriver skatten."
+    },
+    {
+      "id": "lagen-om-alkoholskatt--overlappar--smugglingslagen",
+      "source": "lagen-om-alkoholskatt",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Otillaten inforsel av alkoholvaror beskattas enligt 9 kap. 13 ss och straffas enligt smugglingslagen."
+    },
+    {
+      "id": "lagen-om-alkoholskatt--hanvisar-till--tullbefogenhetslagen",
+      "source": "lagen-om-alkoholskatt",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "12 kap. 8 ss: Aterbetalning av skatt om Tullverket omhandertagit och inte lamnat ut varorna (5 kap. 24 ss tullbefogenhetslagen)."
+    },
+    {
+      "id": "lagen-om-alkoholskatt--hanvisar-till--lagen-om-frihet-fran-skatt-vid-import",
+      "source": "lagen-om-alkoholskatt",
+      "target": "lagen-om-frihet-fran-skatt-vid-import",
+      "type": "hanvisar-till",
+      "context": "Undantag fran skatteplikt vid viss import kan folja av lagen om frihet fran skatt vid import."
+    },
+    {
+      "id": "lagen-om-alkoholskatt--overlappar--lagen-om-skatt-pa-energi",
+      "source": "lagen-om-alkoholskatt",
+      "target": "lagen-om-skatt-pa-energi",
+      "type": "overlappar",
+      "context": "Bada ar punktskattelagar med parallellt uppskovsforfarande, sakerhetskrav och registrerade aktorer."
+    },
+    {
+      "id": "lagen-om-alkoholskatt--overlappar--tobaksskattelagen",
+      "source": "lagen-om-alkoholskatt",
+      "target": "tobaksskattelagen",
+      "type": "overlappar",
+      "context": "Bada ar punktskattelagar (SFS 2022:155 och 2022:156) med identisk struktur for uppskov, distansforrsaljning och import."
+    },
+    {
       "id": "lagen-om-atgarder-mot-penningtvatt--kompletterar--smugglingslagen",
       "source": "lagen-om-atgarder-mot-penningtvatt",
       "target": "smugglingslagen",
@@ -960,6 +1846,13 @@
       "context": "Ammunition och explosiva varor kan falla under båda lagarna; krigsmateriellagen undantar hantering som regleras i LBE (4 §)"
     },
     {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor--overlappar--lagen-om-transport-av-farligt-gods",
+      "source": "lagen-om-brandfarliga-och-explosiva-varor",
+      "target": "lagen-om-transport-av-farligt-gods",
+      "type": "overlappar",
+      "context": "Explosiva och brandfarliga varor som transporteras faller under bada lagarna — LBE for hantering/tillstand, lagen om farligt gods for sjalva transporten."
+    },
+    {
       "id": "lagen-om-brandfarliga-och-explosiva-varor--hanvisar-till--smugglingslagen",
       "source": "lagen-om-brandfarliga-och-explosiva-varor",
       "target": "smugglingslagen",
@@ -972,6 +1865,20 @@
       "target": "tullbefogenhetslagen",
       "type": "hanvisar-till",
       "context": "Indirekt brottsbekämpning (8 kap. 2 §). Postspärr vid misstanke om explosiva varor (7 kap. 8 §)."
+    },
+    {
+      "id": "lagen-om-forbud-mot-pals-av-katt-och-hund--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-forbud-mot-pals-av-katt-och-hund",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Straffbestämmelser för olovlig import och export av förbjudna varor"
+    },
+    {
+      "id": "lagen-om-forbud-mot-pals-av-katt-och-hund--kompletterar--eu-forordning-1523-2007",
+      "source": "lagen-om-forbud-mot-pals-av-katt-och-hund",
+      "target": "eu-forordning-1523-2007",
+      "type": "kompletterar",
+      "context": "Denna lag är nationell implementering av EU-förordningen"
     },
     {
       "id": "lagen-om-forbud-mot-vissa-dopningsmedel--hanvisar-till--smugglingslagen",
@@ -1023,6 +1930,62 @@
       "context": "Tobakslagen tillämpas inte på varor klassade som hälsofarliga (tobakslagen 1 kap. 4 §)"
     },
     {
+      "id": "lagen-om-forbud-mot-vissa-halsofarliga-varor--overlappar--lagen-om-kontroll-av-narkotika",
+      "source": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "target": "lagen-om-kontroll-av-narkotika",
+      "type": "overlappar",
+      "context": "Substanser kan röra sig mellan lagarna vid reklassificering. Hälsofarliga varor-lagen undantar narkotikaklassade substanser (2 §)."
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--kompletterar--lagen-om-tullfrihet",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "lagen-om-tullfrihet",
+      "type": "kompletterar",
+      "context": "Skattefriheten speglar och följer tullfrihetsreglerna — om vara är tullfri är den i regel även skattefri vid import (2 kap. 2 §, 2 kap. 11 §)"
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--hanvisar-till--tullagen",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Uttryck och begrepp i lagen har samma innebörd som i tullagen (1 kap. 5 §)"
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--hanvisar-till--alkohollagen",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "alkohollagen",
+      "type": "hanvisar-till",
+      "context": "Åldersgräns 20 år för alkohol vid resandes import hänvisar till alkohollagen 4 kap. 4 § (3 kap. 3 §)"
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--hanvisar-till--tobaksskattelagen",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "tobaksskattelagen",
+      "type": "hanvisar-till",
+      "context": "Definitioner av tobaksvaror hämtas från tobaksskattelagen (3 kap. 2 §)"
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--hanvisar-till--lagen-om-skatt-pa-energi",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "lagen-om-skatt-pa-energi",
+      "type": "hanvisar-till",
+      "context": "Lagen ingår i det bredare skattefrihetsystemet vid import som samverkar med punktskattelagstiftningen"
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--overlappar--lagen-om-proviantering",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "lagen-om-proviantering",
+      "type": "overlappar",
+      "context": "Båda lagarna reglerar skattefrihet vid import — provianteringslagen för fartygs-/luftfartygsbruk, skattefrihetlagen för övrig import"
+    },
+    {
+      "id": "lagen-om-frihet-fran-skatt-vid-import--overlappar--mervardesskattelagen",
+      "source": "lagen-om-frihet-fran-skatt-vid-import",
+      "target": "mervardesskattelagen",
+      "type": "overlappar",
+      "context": "Båda reglerar skattefrihet vid import — ML undantar, skattefrihetlagen specificerar kvoter"
+    },
+    {
       "id": "lagen-om-handel-med-lakemedel--hanvisar-till--narkotikastrafflagen",
       "source": "lagen-om-handel-med-lakemedel",
       "target": "narkotikastrafflagen",
@@ -1044,6 +2007,55 @@
       "context": "Apoteksombud får inte verka i serveringsutrymmen med serveringstillstånd (2 a kap. 7 §)"
     },
     {
+      "id": "lagen-om-handel-med-salprodukter--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-handel-med-salprodukter",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Import av sälprodukter i strid mot EU-förordningen straffas enligt smugglingslagen (9 §)"
+    },
+    {
+      "id": "lagen-om-handel-med-salprodukter--hanvisar-till--jaktlagen",
+      "source": "lagen-om-handel-med-salprodukter",
+      "target": "jaktlagen",
+      "type": "hanvisar-till",
+      "context": "Kan också tillämpas på överträdelser relaterade till sälprodukter; ansvar utgår inte enligt denna lag om gärningen redan är belagd med straff enligt jaktlagen (8 §)"
+    },
+    {
+      "id": "lagen-om-handel-med-salprodukter--kompletterar--eu-forordning-1007-2009-salprodukter",
+      "source": "lagen-om-handel-med-salprodukter",
+      "target": "eu-forordning-1007-2009-salprodukter",
+      "type": "kompletterar",
+      "context": "Denna lag implementerar och kompletterar EU-förordningen i svensk rätt"
+    },
+    {
+      "id": "lagen-om-handel-med-salprodukter--relevantfor--artskydd-och-miljo",
+      "source": "lagen-om-handel-med-salprodukter",
+      "target": "artskydd-och-miljo",
+      "type": "relevantfor",
+      "context": "Sälproduktsförbudet är motiverat av djurskydds- och miljöskäl"
+    },
+    {
+      "id": "lagen-om-immunitet-och-privilegier--overlappar--lagen-om-tullfrihet",
+      "source": "lagen-om-immunitet-och-privilegier",
+      "target": "lagen-om-tullfrihet",
+      "type": "overlappar",
+      "context": "Bada reglerar tullfrihet for diplomater och internationella organisationer. Tullfrihetsslagen 4 § hanvisar till immunitetslagen for att bestamma vilka som har ratt till tullfrihet. Immunitetslagen ar bredare (immunitet + alla privilegier)."
+    },
+    {
+      "id": "lagen-om-immunitet-och-privilegier--hanvisar-till--lagen-om-frihet-fran-skatt-vid-import",
+      "source": "lagen-om-immunitet-och-privilegier",
+      "target": "lagen-om-frihet-fran-skatt-vid-import",
+      "type": "hanvisar-till",
+      "context": "Skattefrihet vid diplomatisk import — immunitetslagen ger skattefrihet som komplement till tullfriheten"
+    },
+    {
+      "id": "lagen-om-immunitet-och-privilegier--hanvisar-till--tullagen",
+      "source": "lagen-om-immunitet-och-privilegier",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Forrangsregeln i 1 § — immunitet och privilegier galler trots bestammelser i tullagen"
+    },
+    {
       "id": "lagen-om-kontroll-av-dubbla-anvandningsomraden--overlappar--lagen-om-krigsmateriel",
       "source": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
       "target": "lagen-om-krigsmateriel",
@@ -1063,6 +2075,34 @@
       "target": "smugglingslagen",
       "type": "hanvisar-till",
       "context": "Olovlig export utgör även smuggling; 23 § möjliggör förverkande parallellt med smugglingslagens regler"
+    },
+    {
+      "id": "lagen-om-kontroll-av-narkotika--kompletterar--narkotikastrafflagen",
+      "source": "lagen-om-kontroll-av-narkotika",
+      "target": "narkotikastrafflagen",
+      "type": "kompletterar",
+      "context": "Narkotikakontrollagen är den administrativa kontrollregimen; narkotikastrafflagen är det straffrättsliga ramverket. De delar narkotikadefintionen (8 § NSL). Egna straffbestämmelser i 13 § är subsidiära till NSL."
+    },
+    {
+      "id": "lagen-om-kontroll-av-narkotika--overlappar--smugglingslagen",
+      "source": "lagen-om-kontroll-av-narkotika",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Otillåten in-/utförsel av narkotika kan beivras under båda lagarna. Straffbestämmelsen i 13 § är subsidiär till smugglingslagen."
+    },
+    {
+      "id": "lagen-om-kontroll-av-narkotika--hanvisar-till--lagen-om-handel-med-lakemedel",
+      "source": "lagen-om-kontroll-av-narkotika",
+      "target": "lagen-om-handel-med-lakemedel",
+      "type": "hanvisar-till",
+      "context": "3 a § och 5 § hänvisar till 2009:366 — detaljhandlare med läkemedel undantas från vissa tillståndskrav och får utfärda Schengen-intyg."
+    },
+    {
+      "id": "lagen-om-kontroll-av-narkotika--overlappar--lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "source": "lagen-om-kontroll-av-narkotika",
+      "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "type": "overlappar",
+      "context": "11 a § om provköp kopplar lagarna samman. 15 § reglerar övergång när en vara omklassificeras från hälsofarlig vara till narkotika."
     },
     {
       "id": "lagen-om-krigsmateriel--hanvisar-till--smugglingslagen",
@@ -1093,6 +2133,76 @@
       "context": "4 § undantar hantering av ammunition och explosiva varor som regleras i brandfarliga-och-explosiva-varor-lagen från krigsmateriellagen tillståndskrav"
     },
     {
+      "id": "lagen-om-proviantering--kompletterar--tullagen",
+      "source": "lagen-om-proviantering",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Provianteringslagen ger ett specifikt regelverk för skattefri hantering ombord som kompletterar tullagens allmänna regler om icke-unionsvaror"
+    },
+    {
+      "id": "lagen-om-proviantering--hanvisar-till--tullforordningen",
+      "source": "lagen-om-proviantering",
+      "target": "tullforordningen",
+      "type": "hanvisar-till",
+      "context": "Tullverkets tillsyns- och tillståndsuppdrag i provianteringslagen utövas inom ramen för tullorganisationens förordningsmässiga struktur"
+    },
+    {
+      "id": "lagen-om-proviantering--kompletteras-av--forordningen-om-proviantering",
+      "source": "lagen-om-proviantering",
+      "target": "forordningen-om-proviantering",
+      "type": "kompletteras-av",
+      "context": "Verkställighetsförordning (SFS 1999:454) som bemyndigar Tullverket att meddela föreskrifter för provianteringslagens tillämpning"
+    },
+    {
+      "id": "lagen-om-proviantering--overlappar--lagen-om-frihet-fran-skatt-vid-import",
+      "source": "lagen-om-proviantering",
+      "target": "lagen-om-frihet-fran-skatt-vid-import",
+      "type": "overlappar",
+      "context": "Båda lagarna hanterar skattefrihet för varor — skattefrihetslagens resanderegler och provianteringslagens ombordregler gäller delvis samma varuslag (alkohol, tobak) men i olika sammanhang"
+    },
+    {
+      "id": "lagen-om-punktskattekontroll--kompletterar--forordningen-om-punktskattekontroll",
+      "source": "lagen-om-punktskattekontroll",
+      "target": "forordningen-om-punktskattekontroll",
+      "type": "kompletterar",
+      "context": "Förordningen (1998:518) är verkställighetsförordning till LPK. Reglerar procedur, myndighetssamverkan, betalningssäkring och föreskriftsrätt."
+    },
+    {
+      "id": "lagen-om-punktskattekontroll--kompletterar--tullbefogenhetslagen",
+      "source": "lagen-om-punktskattekontroll",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Tullbefogenhetslagen 5 kap. ger kontrollbefogenheterna (stoppa, undersoka, omhanderta). LPK reglerar skattekonsekvenserna efterat (skattebeslut, forverkande, transporttillagg)."
+    },
+    {
+      "id": "lagen-om-punktskattekontroll--hanvisar-till--tobaksskattelagen",
+      "source": "lagen-om-punktskattekontroll",
+      "target": "tobaksskattelagen",
+      "type": "hanvisar-till",
+      "context": "Definierar tobaksvara (1 kap. 2 §) och skattesatser for omhandertagna varor (2 kap. 1-2 §)"
+    },
+    {
+      "id": "lagen-om-punktskattekontroll--hanvisar-till--lagen-om-skatt-pa-energi",
+      "source": "lagen-om-punktskattekontroll",
+      "target": "lagen-om-skatt-pa-energi",
+      "type": "hanvisar-till",
+      "context": "Definierar energiprodukt/bransle (1 kap. 2 §) och skattesatser for omhandertagna varor (2 kap. 1-2 §)"
+    },
+    {
+      "id": "lagen-om-punktskattekontroll--hanvisar-till--alkohollagen",
+      "source": "lagen-om-punktskattekontroll",
+      "target": "alkohollagen",
+      "type": "hanvisar-till",
+      "context": "Ratt att fora in alkohol — relevant for bedomning av forverkande (2 kap. 4 §)"
+    },
+    {
+      "id": "lagen-om-punktskattekontroll--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-punktskattekontroll",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Smuggling av punktskattepliktiga varor kan atalas parallellt under smugglingslagen"
+    },
+    {
       "id": "lagen-om-skatt-pa-energi--hanvisar-till--tullagen",
       "source": "lagen-om-skatt-pa-energi",
       "target": "tullagen",
@@ -1105,6 +2215,104 @@
       "target": "smugglingslagen",
       "type": "overlappar",
       "context": "Smuggling av bränsle (t.ex. odeklarerad diesel) ger parallellt skattskyldighet och straffansvar under smugglingslagen"
+    },
+    {
+      "id": "lagen-om-skatt-pa-energi--hanvisar-till--forordningen-om-skatt-pa-energi",
+      "source": "lagen-om-skatt-pa-energi",
+      "target": "forordningen-om-skatt-pa-energi",
+      "type": "hanvisar-till",
+      "context": "Verkställighetsförordning som reglerar detaljerade administrativa förfaranden för godkännanden, märkning, dokumenthantering och överenskommelser"
+    },
+    {
+      "id": "lagen-om-skatt-pa-energi--overlappar--lagen-om-alkoholskatt",
+      "source": "lagen-om-skatt-pa-energi",
+      "target": "lagen-om-alkoholskatt",
+      "type": "overlappar",
+      "context": "Båda är punktskattelagar med liknande uppskovsförfarande och skattskyldighet vid import"
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--tullagen",
+      "source": "lagen-om-skatt-pa-kemikalier",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Import definieras via unionstullkodexen; Tullverket beslutar om skatt vid import/otillåten införsel"
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--unionstullkodex",
+      "source": "lagen-om-skatt-pa-kemikalier",
+      "target": "unionstullkodex",
+      "type": "hanvisar-till",
+      "context": "Import avses enligt artikel 201 i UCC; tullskuld enligt artikel 79.1 och 124.1"
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--skatteförfarandelagen",
+      "source": "lagen-om-skatt-pa-kemikalier",
+      "target": "skatteförfarandelagen",
+      "type": "hanvisar-till",
+      "context": "Proceduren för skatteväxling, beslut och överklagande följer skatteförfarandelagen (2011:1244) i tillämpliga delar"
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--skattebrottslagen",
+      "source": "lagen-om-skatt-pa-kemikalier",
+      "target": "skattebrottslagen",
+      "type": "hanvisar-till",
+      "context": "Skatteundandragande vid smuggling kan åtalas även under skattebrottslagen"
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier--kompletterar--miljöbalken",
+      "source": "lagen-om-skatt-pa-kemikalier",
+      "target": "miljöbalken",
+      "type": "kompletterar",
+      "context": "Kemikalieskatten kompletterar miljöbalkens regler om farliga ämnen genom ekonomisk incitament"
+    },
+    {
+      "id": "lagen-om-skatt-pa-kemikalier--overlappar--punktskatt",
+      "source": "lagen-om-skatt-pa-kemikalier",
+      "target": "punktskatt",
+      "type": "overlappar",
+      "context": "Kemikalieskatten är en form av punktskatt på konsumentelektronik"
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--overlappar--tobaksskattelagen",
+      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "tobaksskattelagen",
+      "type": "overlappar",
+      "context": "Båda beskattar nikotinprodukter men olika varugrupper — nikotinskattelagen omfattar e-vätskor och annat oralt/nasalt nikotinbruk, tobaksskattelagen omfattar tobaksvaror enligt KN-klassificering. Samma administrativa ram men separata skattesatser."
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--overlappar--lagen-om-tobak-och-liknande-produkter",
+      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "lagen-om-tobak-och-liknande-produkter",
+      "type": "overlappar",
+      "context": "Nikotinskattelagen är rent skatterättslig. Tobakslagen (2018:2088) är produktregulerande (märkning, försäljning, tillståndsplikt). E-cigarette-reglerna överlappar båda — de är både skattepliktiga enligt nikotinskattelagen och föremål för produktkrav enligt tobakslagen."
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--hanvisar-till--tullagen",
+      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Importdefinitionen bygger på UCC (unionstullkodexen). Tullskuldens uppkomst enligt artikel 201 UCC utlöser skattskyldighet enligt nikotinskattelagen. Tullverket beslutar skatt vid import och otillåten införsel; skatten betalas till Tullverket enligt tullagen (2016:253)."
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--hanvisar-till--narkotikastrafflagen",
+      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "Produkter klassificerade som narkotika enligt narkotikastrafflagen (1968:64) är undantagna från nikotinskatten (5 § 1)."
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--hanvisar-till--lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "type": "hanvisar-till",
+      "context": "Produkter klassificerade som hälsofarliga enligt denna lag (1999:42) är undantagna från nikotinskatten (5 § 1). E-vätskor klassificerade som akut giftig (farokategori 1–3) är också undantagna, utom högkoncentrerade e-vätskor."
+    },
+    {
+      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--hanvisar-till--skatteförfarandelagen",
+      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "target": "skatteförfarandelagen",
+      "type": "hanvisar-till",
+      "context": "Generell administrativ ramen för skattebeslut, omprövning och överklagande — utom för import, där tullagen (2016:253) gäller istället."
     },
     {
       "id": "lagen-om-straff-for-penningtvattsbrott--overlappar--smugglingslagen",
@@ -1126,6 +2334,13 @@
       "target": "terroristbrottslagen",
       "type": "overlappar",
       "context": "Finansiering av terrorism (terroristbrottslagen 6 §) och penningtvättsbrott kan överlappa när medel tvättas för terrorismsyften"
+    },
+    {
+      "id": "lagen-om-tobak-och-liknande-produkter--overlappar--lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "source": "lagen-om-tobak-och-liknande-produkter",
+      "target": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "type": "overlappar",
+      "context": "Tobakslagen är produktregulerande (märkning, försäljning, tillståndsplikt). Nikotinskattelagen är rent skatterättslig för e-vätskor och oralt/nasalt nikotinbruk. E-cigarette-reglerna överlappar båda — de är både skattepliktiga enligt nikotinskattelagen och föremål för produktkrav enligt tobakslagen (1 kap., 2 kap. 10–13 §§)."
     },
     {
       "id": "lagen-om-tobak-och-liknande-produkter--hanvisar-till--smugglingslagen",
@@ -1154,6 +2369,62 @@
       "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
       "type": "overlappar",
       "context": "Tobaksvaror och hälsofarliga varor kan överlappa vid gränsdragning; tobakslagen undantar varor klassade som hälsofarliga (1 kap. 4 §)"
+    },
+    {
+      "id": "lagen-om-transport-av-farligt-gods--overlappar--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "lagen-om-transport-av-farligt-gods",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "overlappar",
+      "context": "Bada reglerar hantering av farliga amnen. Explosiva och brandfarliga varor som transporteras faller under bada lagarna — LBE for hantering/tillstand, denna lag for sjalva transporten."
+    },
+    {
+      "id": "lagen-om-transport-av-farligt-gods--overlappar--smugglingslagen",
+      "source": "lagen-om-transport-av-farligt-gods",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Otillaten transport av farligt gods over grans kan aktualisera bada lagarna."
+    },
+    {
+      "id": "lagen-om-transport-av-farligt-gods--hanvisar-till--miljobalken",
+      "source": "lagen-om-transport-av-farligt-gods",
+      "target": "miljobalken",
+      "type": "hanvisar-till",
+      "context": "16 § st.4 p.2: ansvar utdoms inte om garningen ar belagd med strangare straff i miljobalken 29 kap. 1-2 §§."
+    },
+    {
+      "id": "lagen-om-transport-av-farligt-gods--kompletterar--tullbefogenhetslagen",
+      "source": "lagen-om-transport-av-farligt-gods",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Tullverkets befogenheter vid granskontroll av farligt gods stods av tullbefogenhetslagen."
+    },
+    {
+      "id": "lagen-om-tullfrihet--hanvisar-till--tullagen",
+      "source": "lagen-om-tullfrihet",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "3 § anger att termer har samma innebörd som i tullagen (2016:253). 8 och 9 §§ hänvisar till tullagens kontroll- och uppgiftsskyldighetsbestämmelser."
+    },
+    {
+      "id": "lagen-om-tullfrihet--hanvisar-till--lagen-om-frihet-fran-skatt-vid-import",
+      "source": "lagen-om-tullfrihet",
+      "target": "lagen-om-frihet-fran-skatt-vid-import",
+      "type": "hanvisar-till",
+      "context": "2 § hänvisar till lagen (1994:1551) om frihet från skatt vid import m.m. för regler om skattefrihet vid import."
+    },
+    {
+      "id": "lagen-om-tullfrihet--kompletterar--tullforordningen",
+      "source": "lagen-om-tullfrihet",
+      "target": "tullforordningen",
+      "type": "kompletterar",
+      "context": "Lagen kompletteras av förordningen om tullfrihet (1994:1605) som innehåller verkställighetsföreskrifter."
+    },
+    {
+      "id": "lagen-om-tullfrihet--overlappar--lagen-om-immunitet-och-privilegier",
+      "source": "lagen-om-tullfrihet",
+      "target": "lagen-om-immunitet-och-privilegier",
+      "type": "overlappar",
+      "context": "Båda reglerar tullfrihet för diplomater och internationella organisationer. Tullfrihetsslagen 4 § hänvisar till immunitetslagen för att bestämma vilka konsulatsmedlemmar och organisationer som har rätt till tullfrihet. Immunitetslagen är bredare (immunitet + alla privilegier)."
     },
     {
       "id": "lagen-om-vissa-internationella-sanktioner--hanvisar-till--tullbefogenhetslagen",
@@ -1189,6 +2460,83 @@
       "target": "tullagen",
       "type": "kompletterar",
       "context": "Livsmedel pa tullager och i frizoner kan forbjudas aterutforas; offentlig kontroll vid gransknontrollstationer regleras parallellt"
+    },
+    {
+      "id": "mervardesskatteforordningen--kompletterar--mervardesskattelagen",
+      "source": "mervardesskatteforordningen",
+      "target": "mervardesskattelagen",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning som reglerar praktiska förfaranden för mervärdesskattelagen"
+    },
+    {
+      "id": "mervardesskatteforordningen--hanvisar-till--tullagen",
+      "source": "mervardesskatteforordningen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Använd vid lagring av varor i tullagret och frizoner, samt importförfaranden"
+    },
+    {
+      "id": "mervardesskatteforordningen--hanvisar-till--skatteforfarandelagen",
+      "source": "mervardesskatteforordningen",
+      "target": "skatteforfarandelagen",
+      "type": "hanvisar-till",
+      "context": "Bestämmelser om skattekonto (61 kap. 1 §)"
+    },
+    {
+      "id": "mervardesskatteforordningen--hanvisar-till--skatteforfarandeforordningen",
+      "source": "mervardesskatteforordningen",
+      "target": "skatteforfarandeforordningen",
+      "type": "hanvisar-till",
+      "context": "Bestämmelser om förvaring av deklarationer och uppgifter (20 kap. 1 §)"
+    },
+    {
+      "id": "mervardesskattelagen--hanvisar-till--tullagen",
+      "source": "mervardesskattelagen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Import definieras via unionstullkodexen; tullskuld utlöser momsplikt"
+    },
+    {
+      "id": "mervardesskattelagen--hanvisar-till--lagen-om-skatt-pa-energi",
+      "source": "mervardesskattelagen",
+      "target": "lagen-om-skatt-pa-energi",
+      "type": "hanvisar-till",
+      "context": "Skatteupplag för energiprodukter definieras i energiskattelagen"
+    },
+    {
+      "id": "mervardesskattelagen--hanvisar-till--lagen-om-alkoholskatt",
+      "source": "mervardesskattelagen",
+      "target": "lagen-om-alkoholskatt",
+      "type": "hanvisar-till",
+      "context": "Skatteupplag för etylalkohol definieras i alkoholskattelagen"
+    },
+    {
+      "id": "mervardesskattelagen--overlappar--lagen-om-frihet-fran-skatt-vid-import",
+      "source": "mervardesskattelagen",
+      "target": "lagen-om-frihet-fran-skatt-vid-import",
+      "type": "overlappar",
+      "context": "Båda reglerar skattefrihet vid import — ML undantar, skattefrihetlagen specificerar kvoter"
+    },
+    {
+      "id": "mervardesskattelagen--hanvisar-till--smugglingslagen",
+      "source": "mervardesskattelagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Otillåten införsel utlöser tullskuld och därmed importmomsplikt"
+    },
+    {
+      "id": "mervardesskattelagen--hanvisar-till--lagen-om-tullfrihet",
+      "source": "mervardesskattelagen",
+      "target": "lagen-om-tullfrihet",
+      "type": "hanvisar-till",
+      "context": "Tullbefrielse påverkar beskattningsunderlaget vid import"
+    },
+    {
+      "id": "mervardesskattelagen--kompletterar--mervardesskatteforordningen",
+      "source": "mervardesskattelagen",
+      "target": "mervardesskatteforordningen",
+      "type": "kompletterar",
+      "context": "Förordningen verkställer ML:s administrativa processer"
     },
     {
       "id": "miljobalken--overlappar--artskyddsforordningen",
@@ -1245,6 +2593,27 @@
       "target": "lagen-om-forbud-mot-vissa-dopningsmedel",
       "type": "overlappar",
       "context": "Dopningslagen täcker substanser som inte klassas som narkotika; parallell struktur med liknande förbud mot innehav och överlåtelse"
+    },
+    {
+      "id": "rattegangsbalken--kompletterar--tullbefogenhetslagen",
+      "source": "rattegangsbalken",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "RB 23-28 ger de tvångsmedelsbefogenheter som tullbefogenhetslagen 8 kap. tilldelar tulltjänstemän (förhör, gripande, beslag, husrannsakan, kroppsvisitation m.m.)"
+    },
+    {
+      "id": "rattegangsbalken--hanvisar-till--kustbevakningslagen",
+      "source": "rattegangsbalken",
+      "target": "kustbevakningslagen",
+      "type": "hanvisar-till",
+      "context": "RB 23:3 nämner kustbevakningslagen angående rapporteftergift"
+    },
+    {
+      "id": "rattegangsbalken--kompletterar--smugglingslagen",
+      "source": "rattegangsbalken",
+      "target": "smugglingslagen",
+      "type": "kompletterar",
+      "context": "RB:s tvångsmedel (beslag, husrannsakan) används vid utredning av smugglingsbrott"
     },
     {
       "id": "skattebrottslagen--speciallag-till--smugglingslagen",
@@ -1408,6 +2777,27 @@
       "context": "Transport av vapen, ammunition och explosiva varor åt terroristorganisation (5 § terroristbrottslagen) kan samtidigt utgöra smuggling"
     },
     {
+      "id": "smugglingslagen--overlappar--lagen-om-kontroll-av-narkotika",
+      "source": "smugglingslagen",
+      "target": "lagen-om-kontroll-av-narkotika",
+      "type": "overlappar",
+      "context": "Narkotikakontrollagen reglerar tillstånd för in-/utförsel; smugglingslagen straffar olovlig in-/utförsel. Subsidiaritet: 13 § narkotikakontrollagen ger smugglingslagen företräde."
+    },
+    {
+      "id": "smugglingslagen--overlappar--lagen-om-alkoholskatt",
+      "source": "smugglingslagen",
+      "target": "lagen-om-alkoholskatt",
+      "type": "overlappar",
+      "context": "Otillåten införsel av alkohol utlöser både skattskyldighet (alkoholskattelagen) och straffansvar (smugglingslagen)"
+    },
+    {
+      "id": "smugglingslagen--overlappar--lagen-om-transport-av-farligt-gods",
+      "source": "smugglingslagen",
+      "target": "lagen-om-transport-av-farligt-gods",
+      "type": "overlappar",
+      "context": "Smuggling av farligt gods kan ge parallellt ansvar under båda lagarna"
+    },
+    {
       "id": "stralskyddslagen--hanvisar-till--smugglingslagen",
       "source": "stralskyddslagen",
       "target": "smugglingslagen",
@@ -1450,6 +2840,13 @@
       "context": "Finansiering av terrorism (6 §) och penningtvättsbrott kan överlappa när medel tvättas för terrorismsyften eller terrorismintäkter tvättas"
     },
     {
+      "id": "tobaksskattelagen--overlappar--lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "source": "tobaksskattelagen",
+      "target": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
+      "type": "overlappar",
+      "context": "Båda beskattar nikotinprodukter — tobaksskattelagen för tobaksvaror enligt KN-klassificering, nikotinskattelagen för e-vätskor och oralt/nasalt nikotinbruk. Samma administrativa ram (lagerhållare, EU-regler), olika varusortering. Undantagen i 5 § tobaksskattelagen hänvisar till att produkter redan skattepliktiga under nikotinskattelagen är undantagna."
+    },
+    {
       "id": "tobaksskattelagen--hanvisar-till--tullagen",
       "source": "tobaksskattelagen",
       "target": "tullagen",
@@ -1469,6 +2866,20 @@
       "target": "smugglingslagen",
       "type": "overlappar",
       "context": "Smuggling av tobak kan parallellt ge skattskyldighet under tobaksskattelagen och straffansvar under smugglingslagen"
+    },
+    {
+      "id": "tobaksskattelagen--kompletterar--forordningen-om-tobaksskatt",
+      "source": "tobaksskattelagen",
+      "target": "forordningen-om-tobaksskatt",
+      "type": "kompletterar",
+      "context": "Förordningen (2022:182) är verkställighetsförordning — reglerar administrativa förfaranden, bemyndiganden och dokumenthantering"
+    },
+    {
+      "id": "tobaksskattelagen--overlappar--lagen-om-alkoholskatt",
+      "source": "tobaksskattelagen",
+      "target": "lagen-om-alkoholskatt",
+      "type": "overlappar",
+      "context": "Båda är punktskattelagar med liknande uppskovsförfarande och importbeskattning kopplad till tullskuld"
     },
     {
       "id": "trafikbrottslagen--hanvisar-till--narkotikastrafflagen",
@@ -1518,6 +2929,27 @@
       "target": "livsmedelslagen",
       "type": "overlappar",
       "context": "Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
+    },
+    {
+      "id": "tullbefogenhetsforordningen--kompletterar--tullbefogenhetslagen",
+      "source": "tullbefogenhetsforordningen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Verkställighetsförordning till tullbefogenhetslagen (2024:710) — specificerar behörighet, geografi och samarbetsformer"
+    },
+    {
+      "id": "tullbefogenhetsforordningen--hanvisar-till--tullagen",
+      "source": "tullbefogenhetsforordningen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Uttrycksdefinitioner i 1 kap. 3 § tullagen tillämpas i 2 kap. om kontrollverksamhet vid yttre gräns"
+    },
+    {
+      "id": "tullbefogenhetsforordningen--hanvisar-till--inregranslagen",
+      "source": "tullbefogenhetsforordningen",
+      "target": "inregranslagen",
+      "type": "hanvisar-till",
+      "context": "Uttrycket kontanta medel i 3 kap. hämtas från 2 a § inregränslagen (1996:701)"
     },
     {
       "id": "tullbefogenhetslagen--kompletterar--smugglingslagen",
@@ -1581,6 +3013,20 @@
       "target": "tullagen",
       "type": "kompletterar",
       "context": "Tullagen reglerar tullförfarandet, Tullbefogenhetslagen ger befogenheter för att säkerställa att det följs. Direkt brottsbekämpning (8 kap. 1 §)."
+    },
+    {
+      "id": "tullbefogenhetslagen--hanvisar-till--rattegangsbalken",
+      "source": "tullbefogenhetslagen",
+      "target": "rattegangsbalken",
+      "type": "hanvisar-till",
+      "context": "8 kap. ger tulltjänstemän polismansbefogenheter enligt RB 23-28: förhör (23:3), gripande (24:7), beslag (27:4), husrannsakan (28:5), kroppsvisitation (28:11), biometrisk autentisering (27:17 f)."
+    },
+    {
+      "id": "tullbefogenhetslagen--kompletterar--lagen-om-punktskattekontroll",
+      "source": "tullbefogenhetslagen",
+      "target": "lagen-om-punktskattekontroll",
+      "type": "kompletterar",
+      "context": "5 kap. ger kontrollbefogenheterna (stoppa, undersöka, omhänderta). LPK reglerar skattekonsekvenserna efteråt (skattebeslut, förverkande, transporttillägg)."
     },
     {
       "id": "tullforordningen--speciallag-till--tullagen",

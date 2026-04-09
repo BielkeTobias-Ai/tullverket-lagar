@@ -2,7 +2,7 @@
 title: Logg
 type: overview
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-10
 tags:
   - meta
   - logg
@@ -89,3 +89,29 @@ Skapade 2 nya konceptsidor: [[exportkontroll]] (tre pelare: krigsmateriel/dual-u
 
 ## [2026-04-09] comparison | Pilot-comparisons: 2 jämförelsesidor
 Skapade 2 pilot-comparisons: [[smugglingslagen-vs-tullbefogenhetslagen]] (brott vs befogenheter, 2024 års reform, tre sfärer, trigger-punkt, förverkande, flödesschema) och [[narkotika-dopning-halsofarliga-varor]] (tre substanslagar jämförda: hierarkitabell, klassificeringssystem, reklassificering, smugglingslagen-koppling, eget bruk, handläggningssteg). Uppdaterade: [[index]].
+
+## [2026-04-09] research | Fullständig författningsresearch
+Scrapade alla 6 huvudkategorier + ~30 underkategorier från Tullverkets författningssida (tullverket.se). Kompilerade masterlista: ~160 unika författningar (80 SFS, 30 EU-förordningar, 20 föreskrifter). Triagerade SFS-lagarna i 3 tiers: Tier 1 (10 st, hög prioritet — komplement till befintliga lagar, refererade i wiki), Tier 2 (~20 st, skatter och import/export), Tier 3 (~50 st, trafik/sjöfart/jakt). Redan i raw/: 32. Omskrev `raw/att-hamta.md` som master-trackingdokument. Rådata i `.firecrawl/master-lista-radata.md` och `.firecrawl/alla-underkategorier.md`.
+
+## [2026-04-10] ingest | Tier 1 batch — 10 lagar clippade och ingestade
+Clippade 10 lagar från riksdagen.se (Tier 1 + Rättegångsbalken). Ingestade med 5 parallella agenter + manuell RB-ingest. Skapade: [[tullbefogenhetsforordningen-2024-759]], [[inregransforordningen-1996-702]], [[lagen-om-kontroll-av-narkotika-1992-860]], [[forordningen-om-krigsmateriel-1992-1303]], [[forordningen-om-dual-use-2000-1217]], [[lagen-om-tullfrihet-1994-1547]], [[forordningen-om-tullfrihet-1994-1605]], [[lagen-om-frihet-fran-skatt-vid-import-1994-1551]], [[lagen-om-proviantering-1999-446]], [[rattegangsbalken-1942-740]] (source-sidor) + 10 entity-sidor. Uppdaterade: [[tullbefogenhetslagen]] (RB-connection), [[lagen-om-frihet-fran-skatt-vid-import]] (symmetrisk overlappar-koppling). Total: 42 entiteter, 10 koncept, 2 comparisons.
+
+## [2026-04-10] ingest | Kemikalieskattelagen (2016:1067)
+Ingestade kemikalieskattelagen från raw/. Skapade: [[lagen-om-skatt-pa-kemikalier-2016-1067]] (källa, 4600 tecken, alla ändringar t.o.m. SFS 2026:34), [[lagen-om-skatt-pa-kemikalier]] (entitet, fullständig mall med 14 KN-nr-kategorier, avdragsrätt, skattskyldiga, godkända aktörer, situationer). Uppdaterade: [[index]], [[log]]. Nyckelkopplingar: hanvisar-till [[tullagen]], [[unionstullkodex]], [[skatteförfarandelagen]], [[skattebrottslagen]], [[smugglingslagen]]; kompletterar [[miljöbalken]]; överlappar [[punktskatt]]. Lagens syfte: motverka bromerade flamskyddsmedel i elektronik genom punktskatt. Introduktionsdatum: 1 april 2017; senaste reform: 1 april 2026.
+
+## [2026-04-09] ingest | Tier 2 batch — 20 lagar clippade och ingestade
+Clippade 20 Tier 2-lagar fran riksdagen.se. Ingestade i 4 batchar med parallella agenter + manuell ML-ingest (384kb). Skapade 20 source-sidor och 20 entity-sidor:
+- **Skatter (12 st):** energiskatt-forordning, tobaksskatt-forordning, alkoholskatt lag+forordning, punktskattekontroll lag+forordning, nikotinskatt lag+forordning, kemikalieskatt-forordning, momslag+momsforordning
+- **Import/export (5 st):** import-exportreglering, proviantering-forordning, palsforbudslagen, salprodukter lag+forordning
+- **Transport/ovrigt (3 st):** farligt gods lag+forordning, immunitetslagen
+Uppdaterade befintliga entities med reciproka kopplingar: [[smugglingslagen]] (+2), [[tobaksskattelagen]] (+1), [[lagen-om-skatt-pa-energi]] (+1), [[lagen-om-frihet-fran-skatt-vid-import]] (+1), [[tullbefogenhetslagen]] (+1), [[lagen-om-tullfrihet]] (+1), [[alkohollagen]] (+1), [[lagen-om-tobak-och-liknande-produkter]] (+1), [[lagen-om-brandfarliga-och-explosiva-varor]] (+1). Lint: 0 kritiska fel efter fixar. Total: 62 entiteter, 62 kallor, 10 koncept, 2 comparisons, ~280 kopplingar.
+
+## [2026-04-10] comparison | 5 comparison-sidor skapade
+
+Skapade 5 comparison-sidor med parallella agenter:
+- [[vapen-knivar-explosiva]] — vapenlagen vs knivlagen vs LBE: tillståndsplikt, smuggling, TBL-befogenheter
+- [[smuggling-vs-tullbrott]] — straffrättslig (smugglingslagen) vs administrativ (tulltillägg) sanktion, ne bis in idem
+- [[tullbrott-vs-skattebrott]] — undandragande av tull (§8) vs skatt (skattebrottslagen), konkurrens
+- [[penningtvatt-straff-vs-prevention]] — kriminalisering (2014:307) vs prevention (2017:630), kontant-medelkontroll
+- [[exportkontroll-krigsmateriel-vs-dual-use]] — krigsmateriel vs dual-use: ISP, catch-all, sanktioner
+Uppdaterade: [[index]]. Total: 62 entiteter, 62 kallor, 10 koncept, 7 comparisons.

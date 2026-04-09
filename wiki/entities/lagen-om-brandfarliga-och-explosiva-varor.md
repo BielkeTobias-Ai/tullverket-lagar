@@ -6,7 +6,7 @@ sfs: "2010:1011"
 short_name: LBE
 status: gällande
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 befogenheter:
   - tillståndsprövning
   - tillsyn och tillträde
@@ -45,6 +45,9 @@ connections:
   - type: overlappar
     target: "[[lagen-om-krigsmateriel]]"
     context: "Ammunition och explosiva varor kan falla under båda lagarna; krigsmateriellagen undantar hantering som regleras i LBE (4 §)"
+  - type: overlappar
+    target: "[[lagen-om-transport-av-farligt-gods]]"
+    context: "Explosiva och brandfarliga varor som transporteras faller under bada lagarna — LBE for hantering/tillstand, lagen om farligt gods for sjalva transporten."
   - type: hanvisar-till
     target: "[[smugglingslagen]]"
     context: "§30 st.2: 'Till ansvar enligt 28, 29 eller 29 a § döms det inte om gärningen är belagd med straff i lagen (2000:1225) om straff för smuggling.'"
@@ -101,6 +104,8 @@ Tullverkets befogenheter vid brott mot LBE regleras i [[tullbefogenhetslagen]].
 | Lag | Kontext |
 |-----|---------|
 | [[smugglingslagen]] | Smugglingslagen §6b = smuggling av explosiva varor över gräns. LBE = olovlig hantering/tillstånd inom Sverige. Vid gränskontroll kan båda aktualiseras, men subsidiaritetsregeln (§30) ger smugglingslagen företräde. |
+
+| [[lagen-om-transport-av-farligt-gods]] | Explosiva och brandfarliga varor som transporteras faller under bada lagarna — LBE for hantering/tillstand, lagen om farligt gods for sjalva transporten. |
 
 ### Hänvisar till
 

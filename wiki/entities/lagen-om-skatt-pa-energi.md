@@ -26,6 +26,10 @@ situationer:
   - otillåten-användning-röd-diesel
   - export-bränsle-uppskovsförfarande
   - smuggling-bränsle-punktskattebrott
+  - märkning-kontroll-energiprodukter
+  - dokumentering-uppskovsförfarande-bränsle
+  - underrättelse-tullverket-skatteverket
+  - gränskontroll-märkt-energiprodukt
 connections:
   - type: hanvisar-till
     target: "[[tullagen]]"
@@ -33,6 +37,12 @@ connections:
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Smuggling av bränsle (t.ex. odeklarerad diesel) ger parallellt skattskyldighet och straffansvar under smugglingslagen"
+  - type: hanvisar-till
+    target: "[[forordningen-om-skatt-pa-energi]]"
+    context: "Verkställighetsförordning som reglerar detaljerade administrativa förfaranden för godkännanden, märkning, dokumenthantering och överenskommelser"
+  - type: overlappar
+    target: "[[lagen-om-alkoholskatt]]"
+    context: "Båda är punktskattelagar med liknande uppskovsförfarande och skattskyldighet vid import"
 tags:
   - lag
   - punktskatt

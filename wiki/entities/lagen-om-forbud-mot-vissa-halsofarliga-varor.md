@@ -44,6 +44,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-tobak-och-liknande-produkter]]"
     context: "Tobakslagen tillämpas inte på varor klassade som hälsofarliga (tobakslagen 1 kap. 4 §)"
+  - type: overlappar
+    target: "[[lagen-om-kontroll-av-narkotika]]"
+    context: "Substanser kan röra sig mellan lagarna vid reklassificering. Hälsofarliga varor-lagen undantar narkotikaklassade substanser (2 §)."
 tags:
   - halsofarliga-varor
   - nps

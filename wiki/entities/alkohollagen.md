@@ -6,7 +6,7 @@ sfs: "2010:1622"
 short_name: Alkohollagen
 status: gällande
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 befogenheter: []
 tillampningsomrade: >
   Tillverkning, marknadsföring, införsel, import, handel och
@@ -41,6 +41,9 @@ connections:
   - type: hanvisar-till
     target: "[[tullagen]]"
     context: "12 kap. 5 §: alkoholdrycker i tillfällig lagring förverkas efter 30 dagar."
+  - type: kompletterar
+    target: "[[lagen-om-alkoholskatt]]"
+    context: "Alkohollagen reglerar handeln och tillstanden; alkoholskattelagen (2022:156) reglerar beskattningen. Kvantitetsgranser for resandeinforsel finns i alkoholskattelagen 2 kap. 11 ss."
 tags:
   - lag
   - alkohol
@@ -96,6 +99,12 @@ Alkohollagen ger inga direkta befogenheter till Tullverket. Befogenheter vid alk
 | Lag | Kontext |
 |-----|---------|
 | [[smugglingslagen]] | Alkohollagen definierar villkoren, smugglingslagen straffar överträdelse vid gräns. |
+
+### Kompletterar
+
+| Lag | Kontext |
+|-----|---------|
+| [[lagen-om-alkoholskatt]] | Alkohollagen reglerar handeln; alkoholskattelagen (2022:156) reglerar beskattningen. Kvantitetsgranser for resandeinforsel finns i alkoholskattelagen 2 kap. 11 ss. |
 
 ### Hänvisar till
 
