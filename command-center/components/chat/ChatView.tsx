@@ -63,18 +63,17 @@ export function ChatView() {
   const handleMessagesUpdate = useCallback(
     (convIdForSave: string, msgs: ChatMessage[]) => {
       if (msgs.length === 0) return;
+      const existing = getConversations().find((c) => c.id === convIdForSave);
       saveConversation({
         id: convIdForSave,
         title: titleFromMessages(msgs),
         messages: msgs,
-        createdAt:
-          conversations.find((c) => c.id === convIdForSave)?.createdAt ||
-          new Date().toISOString(),
+        createdAt: existing?.createdAt || new Date().toISOString(),
         updatedAt: new Date().toISOString(),
       });
       setConversations(getConversations());
     },
-    [conversations]
+    []
   );
 
   return (
@@ -184,7 +183,8 @@ function ChatInner({
   useEffect(() => {
     if (liveAsChatMessages.length === 0) return;
     onMessagesUpdate(convId, allMessages);
-  }, [liveAsChatMessages.length, convId, onMessagesUpdate, allMessages]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [liveAsChatMessages.length, convId, onMessagesUpdate]);
 
   const handleSend = () => {
     const trimmed = input.trim();

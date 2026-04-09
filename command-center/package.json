@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "parse": "tsx scripts/parse-vault.ts",
-    "dev": "next dev",
+    "dev": "next dev --webpack",
     "prebuild": "tsx scripts/parse-vault.ts",
     "build": "next build --webpack",
     "start": "next start",
