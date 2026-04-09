@@ -98,7 +98,8 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 
 ## Jämförelser
 
-_Inga jämförelser skapade ännu._
+- [[smugglingslagen-vs-tullbefogenhetslagen]] — Brott vs befogenheter: 2024 års reform, trigger-punkt kontroll→utredning, förverkande
+- [[narkotika-dopning-halsofarliga-varor]] — Tre substanslagar jämförda: straffskalor, klassificering, eget bruk, befogenheter vid gränsen
 
 ## Frågor
 

@@ -1128,6 +1128,33 @@
     "url": "/sources/vapenlagen-1996-67"
   },
   {
+    "slug": "narkotika-dopning-halsofarliga-varor",
+    "title": "Narkotika, dopning och hälsofarliga varor — tre substanslagar",
+    "type": "comparison",
+    "tags": [
+      "narkotika",
+      "dopning",
+      "halsofarliga-varor",
+      "substanser",
+      "smuggling"
+    ],
+    "snippet": "# Narkotika, dopning och hälsofarliga varor — tre substanslagar ## Sammanfattning Sverige reglerar olagliga substanser g…",
+    "url": "/comparisons/narkotika-dopning-halsofarliga-varor"
+  },
+  {
+    "slug": "smugglingslagen-vs-tullbefogenhetslagen",
+    "title": "Smugglingslagen vs Tullbefogenhetslagen — brott och befogenheter",
+    "type": "comparison",
+    "tags": [
+      "smuggling",
+      "befogenheter",
+      "brottsbekampning",
+      "tullkontroll"
+    ],
+    "snippet": "# Smugglingslagen vs Tullbefogenhetslagen — brott och befogenheter ## Sammanfattning Före 2024 fanns straffbestämmelser …",
+    "url": "/comparisons/smugglingslagen-vs-tullbefogenhetslagen"
+  },
+  {
     "slug": "springknivar-kaststjarnor-postpaket",
     "title": "Situation: Springknivar och kaststjärnor i postpaket från utlandet",
     "type": "query",

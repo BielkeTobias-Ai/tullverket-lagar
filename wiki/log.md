@@ -86,3 +86,6 @@ Skapade: [[penningtvatt|penningtvätt]] (koncept), [[narkotika]] (koncept). Penn
 
 ## [2026-04-09] concept | Exportkontroll och vapenreglering
 Skapade 2 nya konceptsidor: [[exportkontroll]] (tre pelare: krigsmateriel/dual-use/sanktioner, ISP:s roll, PGS-forordningen, catch-all-klausul, typiska situationer) och [[vapenreglering]] (hela vapenspektrumet vid gransen: skjutvapen/ammunition/explosiva varor/farliga foremal/knivar, lagsamverkan med smugglingslagen, subsidiaritetsregler, Tullverkets befogenheter, postparr-luckan). Uppdaterade: [[index]]. Kallor: [[lagen-om-krigsmateriel]], [[lagen-om-kontroll-av-dubbla-anvandningsomraden]], [[lagen-om-vissa-internationella-sanktioner]], [[vapenlagen]], [[lagen-om-brandfarliga-och-explosiva-varor]], [[forordning-om-tillstand-for-farliga-foremal]], [[smugglingslagen]].
+
+## [2026-04-09] comparison | Pilot-comparisons: 2 jämförelsesidor
+Skapade 2 pilot-comparisons: [[smugglingslagen-vs-tullbefogenhetslagen]] (brott vs befogenheter, 2024 års reform, tre sfärer, trigger-punkt, förverkande, flödesschema) och [[narkotika-dopning-halsofarliga-varor]] (tre substanslagar jämförda: hierarkitabell, klassificeringssystem, reklassificering, smugglingslagen-koppling, eget bruk, handläggningssteg). Uppdaterade: [[index]].

@@ -20,6 +20,8 @@ const WIKI_ROOT = path.resolve(__dirname, "../wiki");
 const ENTITIES_DIR = path.join(WIKI_ROOT, "entities");
 const CONCEPTS_DIR = path.join(WIKI_ROOT, "concepts");
 const SOURCES_DIR = path.join(WIKI_ROOT, "sources");
+const COMPARISONS_DIR = path.join(WIKI_ROOT, "comparisons");
+const QUERIES_DIR = path.join(WIKI_ROOT, "queries");
 const INDEX_PATH = path.join(WIKI_ROOT, "index.md");
 
 const issues = [];
@@ -48,6 +50,43 @@ function checkFrontmatter() {
     const missing = required.filter(field => !new RegExp(`^${field}:`, "m").test(content));
     if (missing.length > 0) {
       error(`FRONTMATTER  ${f.slice(0, -3)}: saknar ${missing.join(", ")}`);
+    }
+  }
+}
+
+// --- 1b. Comparison frontmatter ---
+
+function checkComparisonFrontmatter() {
+  const required = ["title", "type", "compares", "sources"];
+  const files = getFiles(COMPARISONS_DIR);
+
+  for (const f of files) {
+    const content = fs.readFileSync(path.join(COMPARISONS_DIR, f), "utf8");
+    const missing = required.filter(field => !new RegExp(`^${field}:`, "m").test(content));
+    if (missing.length > 0) {
+      error(`FRONTMATTER  comparisons/${f.slice(0, -3)}: saknar ${missing.join(", ")}`);
+    }
+
+    // Verify type: comparison
+    if (!/^type:\s*comparison/m.test(content)) {
+      error(`FRONTMATTER  comparisons/${f.slice(0, -3)}: type måste vara "comparison"`);
+    }
+
+    // Verify compares targets exist as entities
+    const entityNames = getNames(ENTITIES_DIR);
+    const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+    if (fmMatch) {
+      const fm = fmMatch[1];
+      const comparesSection = fm.match(/compares:\n((?:\s+-.*\n)*)/);
+      if (comparesSection) {
+        let tm;
+        const linkRe = /\[\[([^\]|]+)\]\]/g;
+        while ((tm = linkRe.exec(comparesSection[1])) !== null) {
+          if (!entityNames.has(tm[1])) {
+            error(`COMPARISON  comparisons/${f.slice(0, -3)}: jämför med [[${tm[1]}]] som inte finns i entities/`);
+          }
+        }
+      }
     }
   }
 }
@@ -106,9 +145,10 @@ function checkWikilinks() {
   const allNamesLower = new Set([...allNames].map(n => n.toLowerCase()));
 
   // Alias-wikilinks ([[target|display]]) — kolla bara target-delen
-  const wikilinkRe = /\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g;
+  // Hanterar escaped pipe i tabeller: [[target\|display]]
+  const wikilinkRe = /\[\[([^\]|\\]+)(?:[\\|][^\]]+)?\]\]/g;
 
-  for (const dir of [ENTITIES_DIR, CONCEPTS_DIR]) {
+  for (const dir of [ENTITIES_DIR, CONCEPTS_DIR, COMPARISONS_DIR]) {
     for (const f of getFiles(dir)) {
       const content = fs.readFileSync(path.join(dir, f), "utf8");
       let match;
@@ -153,6 +193,13 @@ function checkIndex() {
       warn(`INDEX  källa ${name} saknas i index.md`);
     }
   }
+
+  const comparisonNames = getNames(COMPARISONS_DIR);
+  for (const name of comparisonNames) {
+    if (!indexContent.includes(`[[${name}]]`)) {
+      error(`INDEX  jämförelse ${name} saknas i index.md`);
+    }
+  }
 }
 
 // --- 5. Stats ---
@@ -161,6 +208,8 @@ function printStats() {
   const entities = getFiles(ENTITIES_DIR).length;
   const concepts = getFiles(CONCEPTS_DIR).length;
   const sources = getFiles(SOURCES_DIR).length;
+  const comparisons = getFiles(COMPARISONS_DIR).length;
+  const queries = getFiles(QUERIES_DIR).length;
 
   let overlapCount = 0;
   let totalConnections = 0;
@@ -176,6 +225,8 @@ function printStats() {
   console.log(`   Entiteter:    ${entities}`);
   console.log(`   Koncept:      ${concepts}`);
   console.log(`   Källor:       ${sources}`);
+  console.log(`   Jämförelser:  ${comparisons}`);
+  console.log(`   Frågor:       ${queries}`);
   console.log(`   Kopplingar:   ${totalConnections} (varav ${overlapCount} overlappar)`);
 }
 
@@ -184,6 +235,7 @@ function printStats() {
 console.log("🔍 Lint: wiki/\n");
 
 checkFrontmatter();
+checkComparisonFrontmatter();
 checkSymmetry();
 checkWikilinks();
 checkIndex();

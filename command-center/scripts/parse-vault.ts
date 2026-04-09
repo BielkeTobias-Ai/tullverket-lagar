@@ -29,6 +29,15 @@ import type {
 } from "../lib/types";
 
 // ---------------------------------------------------------------------------
+// Skip on Vercel — content/ is pre-committed, wiki/ doesn't exist there
+// ---------------------------------------------------------------------------
+
+if (process.env.VERCEL) {
+  console.log("⏭️  Vercel detected — skipping parse (using committed content/)");
+  process.exit(0);
+}
+
+// ---------------------------------------------------------------------------
 // Config
 // ---------------------------------------------------------------------------
 
