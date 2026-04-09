@@ -4,11 +4,6 @@ import { z } from "zod";
 import { getAllEntities } from "@/lib/wiki-data";
 import { buildSystemPrompt } from "@/lib/chat-context";
 
-// Fail fast if API key is missing
-if (!process.env.OPENAI_API_KEY) {
-  throw new Error("OPENAI_API_KEY is not configured");
-}
-
 export const maxDuration = 30;
 
 const MAX_MESSAGES = 30;
@@ -37,6 +32,10 @@ const RequestSchema = z.object({
 });
 
 export async function POST(req: Request) {
+  if (!process.env.OPENAI_API_KEY) {
+    return new Response("OPENAI_API_KEY is not configured", { status: 503 });
+  }
+
   let body: unknown;
   try {
     body = await req.json();

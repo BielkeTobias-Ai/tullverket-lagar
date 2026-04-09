@@ -8,5 +8,4 @@
 # Firecrawl cache
 .firecrawl/
 
-# Generated content (rebuilt by prebuild script)
-command-center/content/
+# Generated content — committed for Vercel (prebuild needs wiki/ which is outside deploy root)

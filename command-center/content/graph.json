@@ -1,0 +1,1649 @@
+{
+  "nodes": [
+    {
+      "id": "alkohollagen",
+      "label": "Alkohollagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2010:1622",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "alkohol",
+        "privatinförsel",
+        "monopol",
+        "tillstånd"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "artskyddsforordningen",
+      "label": "Artskyddsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2007:845",
+      "status": "gallande",
+      "tags": [
+        "artskydd",
+        "CITES",
+        "import",
+        "export",
+        "fridlysning",
+        "tullkontroll"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "brottsdatalagen",
+      "label": "Brottsdatalagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2018:1177",
+      "status": "gallande",
+      "tags": [
+        "personuppgifter",
+        "dataskydd",
+        "brottsbekampning",
+        "tullverket",
+        "kustbevakning"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "forordning-om-tillstand-for-farliga-foremal",
+      "label": "Farliga-föremål-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1990:415",
+      "status": "gallande",
+      "tags": [
+        "farliga-foremal",
+        "granskontroll",
+        "springkniv",
+        "knogjarn",
+        "tillstand",
+        "polismyndigheten"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "inregranslagen",
+      "label": "Inregränslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1996:701",
+      "status": "gallande",
+      "tags": [
+        "lag",
+        "inregräns",
+        "EU-gräns",
+        "anmälningsskyldighet",
+        "kontanta-medel",
+        "tullverket"
+      ],
+      "depth": "full",
+      "connectionCount": 7
+    },
+    {
+      "id": "knivlagen",
+      "label": "Knivlagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1988:254",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "knivar",
+        "farliga-föremål",
+        "innehav",
+        "allmän-plats"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "kulturmiljolagen",
+      "label": "Kulturmiljölagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1988:950",
+      "status": "gallande",
+      "tags": [
+        "kulturarv",
+        "utforsel",
+        "fornminnen",
+        "kulturforemal",
+        "CITES-analog"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "kustbevakningslagen",
+      "label": "Kustbevakningslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2019:32",
+      "status": "gallande",
+      "tags": [
+        "kustbevakning",
+        "brottsbekampning",
+        "sjoterritorium",
+        "tull",
+        "smuggling"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
+    },
+    {
+      "id": "lagen-om-atgarder-mot-penningtvatt",
+      "label": "Penningtvättslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2017:630",
+      "status": "gallande",
+      "tags": [
+        "penningtvatt",
+        "finansiering-av-terrorism",
+        "finansiell-kontroll",
+        "tullverket"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor",
+      "label": "LBE",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2010:1011",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "explosiva-varor",
+        "brandfarliga-varor",
+        "tillstånd",
+        "säkerhet"
+      ],
+      "depth": "full",
+      "connectionCount": 5
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-dopningsmedel",
+      "label": "Dopningslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1991:1969",
+      "status": "gallande",
+      "tags": [
+        "dopning",
+        "folkhalsa",
+        "narkotika-adjacent",
+        "smuggling"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "label": "Hälsofarliga varor-lagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1999:42",
+      "status": "gallande",
+      "tags": [
+        "halsofarliga-varor",
+        "nps",
+        "folkhalsa",
+        "smuggling",
+        "tillstand"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-handel-med-lakemedel",
+      "label": "Läkemedelshandelslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2009:366",
+      "status": "gallande",
+      "tags": [
+        "lakemedel",
+        "handel",
+        "apotek",
+        "tillstand",
+        "narkotika-adjacent"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "label": "Dual-use-lagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2000:1064",
+      "status": "gallande",
+      "tags": [
+        "exportkontroll",
+        "dual-use",
+        "eu-forordning",
+        "tillstand",
+        "isp",
+        "kemiska-prekursorer"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "lagen-om-krigsmateriel",
+      "label": "Krigsmateriellagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1992:1300",
+      "status": "gallande",
+      "tags": [
+        "exportkontroll",
+        "krigsmateriel",
+        "tillstand",
+        "isp"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-skatt-pa-energi",
+      "label": "Energiskattelagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1994:1776",
+      "status": "gallande",
+      "tags": [
+        "lag",
+        "punktskatt",
+        "energi",
+        "bränsle",
+        "koldioxidskatt",
+        "märkta-oljeprodukter"
+      ],
+      "depth": "full",
+      "connectionCount": 2
+    },
+    {
+      "id": "lagen-om-straff-for-penningtvattsbrott",
+      "label": "Penningtvättsstrafflagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2014:307",
+      "status": "gallande",
+      "tags": [
+        "penningtvatt",
+        "ekonomisk-brottslighet",
+        "forbrott",
+        "forverkande"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "lagen-om-tobak-och-liknande-produkter",
+      "label": "Tobakslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2018:2088",
+      "status": "gallande",
+      "tags": [
+        "tobak",
+        "handel",
+        "tillstand",
+        "smuggling",
+        "folkhalsa",
+        "tullverket-involverad"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "lagen-om-vissa-internationella-sanktioner",
+      "label": "Sanktionslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1996:95",
+      "status": "gallande",
+      "tags": [
+        "sanktioner",
+        "export-import",
+        "FN",
+        "EU",
+        "internationell-ratt"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "livsmedelslagen",
+      "label": "Livsmedelslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2006:804",
+      "status": "gallande",
+      "tags": [
+        "livsmedel",
+        "import",
+        "halsa",
+        "granskontroll",
+        "offentlig-kontroll"
+      ],
+      "depth": "full",
+      "connectionCount": 2
+    },
+    {
+      "id": "miljobalken",
+      "label": "Miljöbalken",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1998:808",
+      "status": "gallande",
+      "tags": [
+        "miljo",
+        "kemikalier",
+        "artskydd",
+        "avfall",
+        "import",
+        "export",
+        "tillstand"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "narkotikastrafflagen",
+      "label": "Narkotikastrafflagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1968:64",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "narkotika",
+        "strafflag",
+        "innehav",
+        "överlåtelse"
+      ],
+      "depth": "full",
+      "connectionCount": 5
+    },
+    {
+      "id": "skattebrottslagen",
+      "label": "Skattebrottslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1971:69",
+      "status": "gallande",
+      "tags": [
+        "skattebrott",
+        "ekonomisk-brottslighet",
+        "skatt"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "smugglingslagen",
+      "label": "Smugglingslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2000:1225",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "smuggling",
+        "strafflag",
+        "gränsbrott",
+        "narkotika",
+        "vapen",
+        "explosiva-varor",
+        "tullbrott"
+      ],
+      "depth": "full",
+      "connectionCount": 20
+    },
+    {
+      "id": "stralskyddslagen",
+      "label": "Strålskyddslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2018:396",
+      "status": "gallande",
+      "tags": [
+        "stralskydd",
+        "radioaktivt-material",
+        "joniserande-stralning",
+        "tillstand",
+        "stralinspektionen"
+      ],
+      "depth": "full",
+      "connectionCount": 2
+    },
+    {
+      "id": "terroristbrottslagen",
+      "label": "Terroristbrottslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2022:666",
+      "status": "gallande",
+      "tags": [
+        "terrorism",
+        "sakerhet",
+        "finansiering-av-terrorism",
+        "forverkande",
+        "organiserad-brottslighet"
+      ],
+      "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "tobaksskattelagen",
+      "label": "Tobaksskattelagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2022:155",
+      "status": "gallande",
+      "tags": [
+        "lag",
+        "punktskatt",
+        "tobak",
+        "skattskyldighet",
+        "import"
+      ],
+      "depth": "full",
+      "connectionCount": 3
+    },
+    {
+      "id": "trafikbrottslagen",
+      "label": "Trafikbrottslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1951:649",
+      "status": "gallande",
+      "tags": [
+        "trafik",
+        "rattfylleri",
+        "narkotika",
+        "korkort"
+      ],
+      "depth": "full",
+      "connectionCount": 2
+    },
+    {
+      "id": "tullagen",
+      "label": "Tullagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2016:253",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "tull",
+        "tullskuld",
+        "tulltillägg",
+        "tullförseelse",
+        "eu-tullkodex"
+      ],
+      "depth": "full",
+      "connectionCount": 5
+    },
+    {
+      "id": "tullbefogenhetslagen",
+      "label": "Tullbefogenhetslagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2024:710",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "befogenheter",
+        "tullkontroll",
+        "brottsbekämpning",
+        "polismansbefogenhet"
+      ],
+      "depth": "full",
+      "connectionCount": 9
+    },
+    {
+      "id": "tullforordningen",
+      "label": "Tullförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "2016:287",
+      "status": "gallande",
+      "tags": [
+        "förordning",
+        "tullrätt",
+        "tullförfaranden",
+        "EU-tullkodex",
+        "tullverket"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "vapenlagen",
+      "label": "Vapenlagen",
+      "type": "entity",
+      "entity_type": "lag",
+      "sfs": "1996:67",
+      "status": "gällande",
+      "tags": [
+        "lag",
+        "vapen",
+        "skjutvapen",
+        "ammunition",
+        "tillstånd"
+      ],
+      "depth": "full",
+      "connectionCount": 7
+    },
+    {
+      "id": "artskydd-och-miljo",
+      "label": "Artskydd och miljo",
+      "type": "concept",
+      "tags": [
+        "artskydd",
+        "CITES",
+        "miljo",
+        "kulturarv",
+        "import",
+        "export",
+        "tillstand"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "brottsbekampning",
+      "label": "Brottsbekämpning — direkt och indirekt",
+      "type": "concept",
+      "tags": [
+        "befogenheter",
+        "brottsbekämpning",
+        "tullverket"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "exportkontroll",
+      "label": "Exportkontroll",
+      "type": "concept",
+      "tags": [
+        "exportkontroll",
+        "krigsmateriel",
+        "dual-use",
+        "sanktioner",
+        "isp"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "forverkande",
+      "label": "Förverkande",
+      "type": "concept",
+      "tags": [
+        "förverkande",
+        "beslag",
+        "tvångsmedel"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "narkotika",
+      "label": "Narkotika",
+      "type": "concept",
+      "tags": [
+        "narkotika",
+        "dopning",
+        "halsofarliga-varor",
+        "smuggling",
+        "granskontroll"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "penningtvatt",
+      "label": "Penningtvätt",
+      "type": "concept",
+      "tags": [
+        "penningtvatt",
+        "ekonomisk-brottslighet",
+        "finansiell-kontroll",
+        "tullverket"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "punktskatt",
+      "label": "Punktskatt",
+      "type": "concept",
+      "tags": [
+        "punktskatt",
+        "tobak",
+        "alkohol",
+        "energi",
+        "skatteundandragande",
+        "import"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "smuggling",
+      "label": "Smuggling",
+      "type": "concept",
+      "tags": [
+        "smuggling",
+        "gränsbrott",
+        "straffbart"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "tullbrott",
+      "label": "Tullbrott",
+      "type": "concept",
+      "tags": [
+        "tullbrott",
+        "skatteundandragande",
+        "straffbart"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    },
+    {
+      "id": "vapenreglering",
+      "label": "Vapenreglering",
+      "type": "concept",
+      "tags": [
+        "vapen",
+        "ammunition",
+        "knivar",
+        "farliga-foremal",
+        "explosiva-varor",
+        "tillstand"
+      ],
+      "depth": "standard",
+      "connectionCount": 0
+    }
+  ],
+  "edges": [
+    {
+      "id": "alkohollagen--hanvisar-till--smugglingslagen",
+      "source": "alkohollagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "11 kap. 12 §: 'Bestämmelser om ansvar för olovlig införsel och utförsel av sprit och alkoholdrycker finns i smugglingslagen.' Brott vid gräns = smugglingslagen, inte alkohollagen."
+    },
+    {
+      "id": "alkohollagen--overlappar--smugglingslagen",
+      "source": "alkohollagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Alkohollagen 4 kap. 4 § definierar vad som är laglig/olaglig införsel. Smugglingslagen straffar den olagliga införseln. Båda behövs för att bedöma en situation."
+    },
+    {
+      "id": "alkohollagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "alkohollagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Tullbefogenhetslagen 5 kap. 24 § och 27 § hänvisar till alkohollagen för omhändertagande av alkoholvara."
+    },
+    {
+      "id": "alkohollagen--hanvisar-till--tullagen",
+      "source": "alkohollagen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "12 kap. 5 §: alkoholdrycker i tillfällig lagring förverkas efter 30 dagar."
+    },
+    {
+      "id": "artskyddsforordningen--speciallag-till--miljobalken",
+      "source": "artskyddsforordningen",
+      "target": "miljobalken",
+      "type": "speciallag-till",
+      "context": "Meddelad med stod av 8 kap. 1-4 §§ miljobalken; ar genomforandeforordning till balkens artskyddsregler"
+    },
+    {
+      "id": "artskyddsforordningen--hanvisar-till--smugglingslagen",
+      "source": "artskyddsforordningen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olovlig import/export av skyddade arter kan atalas under smugglingslagen om importforbud overtrads"
+    },
+    {
+      "id": "artskyddsforordningen--overlappar--miljobalken",
+      "source": "artskyddsforordningen",
+      "target": "miljobalken",
+      "type": "overlappar",
+      "context": "Straffregler for artskyddsbrott finns bade i miljobalken 29 kap. och via denna forordning"
+    },
+    {
+      "id": "brottsdatalagen--kompletterar--tullbefogenhetslagen",
+      "source": "brottsdatalagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Tullverket är behörig myndighet; brottsdatalagen reglerar hur personuppgifter insamlade med stöd av tullbefogenhetslagen får behandlas"
+    },
+    {
+      "id": "brottsdatalagen--kompletterar--kustbevakningslagen",
+      "source": "brottsdatalagen",
+      "target": "kustbevakningslagen",
+      "type": "kompletterar",
+      "context": "Kustbevakningen är behörig myndighet; brottsdatalagen styr personuppgiftsbehandling i kustbevakningens brottsbekämpande verksamhet"
+    },
+    {
+      "id": "brottsdatalagen--overlappar--kustbevakningslagen",
+      "source": "brottsdatalagen",
+      "target": "kustbevakningslagen",
+      "type": "overlappar",
+      "context": "Kustbevakningen är behörig myndighet under brottsdatalagen; personuppgiftsbehandling i kustbevakningens brottsbekämpning regleras av båda lagarna"
+    },
+    {
+      "id": "brottsdatalagen--hanvisar-till--lagen-om-atgarder-mot-penningtvatt",
+      "source": "brottsdatalagen",
+      "target": "lagen-om-atgarder-mot-penningtvatt",
+      "type": "hanvisar-till",
+      "context": "Penningtvättslagen 5 kap. hänvisar till brottsdatalagen för personuppgiftsbehandling i brottsbekämpande verksamhet"
+    },
+    {
+      "id": "forordning-om-tillstand-for-farliga-foremal--hanvisar-till--smugglingslagen",
+      "source": "forordning-om-tillstand-for-farliga-foremal",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "5 § hänvisar direkt till smugglingslagen för påföljd vid olovlig införsel"
+    },
+    {
+      "id": "forordning-om-tillstand-for-farliga-foremal--hanvisar-till--vapenlagen",
+      "source": "forordning-om-tillstand-for-farliga-foremal",
+      "target": "vapenlagen",
+      "type": "hanvisar-till",
+      "context": "4 § föreskriver att vapenlagen och vapenförordningens regler om skjutvapen tillämpas i relevanta delar på förordningens föremål"
+    },
+    {
+      "id": "forordning-om-tillstand-for-farliga-foremal--overlappar--knivlagen",
+      "source": "forordning-om-tillstand-for-farliga-foremal",
+      "target": "knivlagen",
+      "type": "overlappar",
+      "context": "Knivlagen förbjuder innehav av knivar på offentlig plats; farliga-föremål-förordningen reglerar inresekontroll och tillstånd för import av springstiletter och springknivar"
+    },
+    {
+      "id": "inregranslagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "inregranslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "1 §, 4 §, 7 §: befogenheterna vid kontroll, husrannsakan och lagföring finns i tullbefogenhetslagen (2024:710)"
+    },
+    {
+      "id": "inregranslagen--hanvisar-till--narkotikastrafflagen",
+      "source": "inregranslagen",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "2 § 2: narkotika definieras med hänvisning till narkotikastrafflagen (1968:64)"
+    },
+    {
+      "id": "inregranslagen--hanvisar-till--vapenlagen",
+      "source": "inregranslagen",
+      "target": "vapenlagen",
+      "type": "hanvisar-till",
+      "context": "2 § 3: skjutvapen och ammunition definieras med hänvisning till vapenlagen (1996:67)"
+    },
+    {
+      "id": "inregranslagen--hanvisar-till--alkohollagen",
+      "source": "inregranslagen",
+      "target": "alkohollagen",
+      "type": "hanvisar-till",
+      "context": "2 § 9: alkohol definieras med hänvisning till alkohollagen (2010:1622)"
+    },
+    {
+      "id": "inregranslagen--hanvisar-till--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "inregranslagen",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "hanvisar-till",
+      "context": "2 § 15: explosiva varor definieras med hänvisning till lagen (2010:1011) om brandfarliga och explosiva varor"
+    },
+    {
+      "id": "inregranslagen--overlappar--smugglingslagen",
+      "source": "inregranslagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "6 §: ansvar döms inte ut om gärningen är belagd med straff i smugglingslagen (2000:1225); lagens brott är subsidiära till smugglingslagen"
+    },
+    {
+      "id": "inregranslagen--kompletterar--tullbefogenhetslagen",
+      "source": "inregranslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Inregränslagen skapar anmälningsskyldigheterna; tullbefogenhetslagen ger befogenheterna att genomföra kontrollen"
+    },
+    {
+      "id": "knivlagen--hanvisar-till--vapenlagen",
+      "source": "knivlagen",
+      "target": "vapenlagen",
+      "type": "hanvisar-till",
+      "context": "§3: Vapenlagen gäller istället för knivlagen för vapen och föremål som vapenlagen är tillämplig på."
+    },
+    {
+      "id": "knivlagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "knivlagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 § punkt 4). Brott enligt §4 knivlagen."
+    },
+    {
+      "id": "knivlagen--overlappar--smugglingslagen",
+      "source": "knivlagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Införsel av förbjudna knivar/föremål över gräns kan falla under både knivlagen (innehav) och smugglingslagen §3 (införsel av förbudsvara)."
+    },
+    {
+      "id": "knivlagen--overlappar--forordning-om-tillstand-for-farliga-foremal",
+      "source": "knivlagen",
+      "target": "forordning-om-tillstand-for-farliga-foremal",
+      "type": "overlappar",
+      "context": "Knivlagen = innehav på allmän plats. Förordningen = import/tillstånd. Samma föremål kan falla under båda."
+    },
+    {
+      "id": "kulturmiljolagen--hanvisar-till--smugglingslagen",
+      "source": "kulturmiljolagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "5 kap. 17 §: olovlig utforsel av kulturforemal bestraffas enligt smugglingslagen"
+    },
+    {
+      "id": "kulturmiljolagen--kompletterar--miljobalken",
+      "source": "kulturmiljolagen",
+      "target": "miljobalken",
+      "type": "kompletterar",
+      "context": "Parallella bestammelser om kulturmiljosskydd; miljobalken namnges i 1 kap. 2 §"
+    },
+    {
+      "id": "kulturmiljolagen--overlappar--miljobalken",
+      "source": "kulturmiljolagen",
+      "target": "miljobalken",
+      "type": "overlappar",
+      "context": "Kulturmiljölagen och miljöbalken har parallella bestämmelser om kulturmiljöskydd; båda kan aktualiseras vid utförsel av skyddade föremål"
+    },
+    {
+      "id": "kustbevakningslagen--kompletterar--tullbefogenhetslagen",
+      "source": "kustbevakningslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Kustbevakningstjänsteman har samma rätt som tulltjänsteman att vidta åtgärder enligt tullbefogenhetslagen 7 kap. 1-3 §§ (3 kap. 15 §)"
+    },
+    {
+      "id": "kustbevakningslagen--overlappar--smugglingslagen",
+      "source": "kustbevakningslagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smuggling (2000:1225) ingår i Kustbevakningens direkta brottsbekämpning (3 kap. 2 § 8 c); Kustbevakning och Tullverket kan båda ingripa"
+    },
+    {
+      "id": "kustbevakningslagen--hanvisar-till--tullagen",
+      "source": "kustbevakningslagen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Tullagen (2016:253) ingår i den direkta brottsbekämpningen (3 kap. 2 § 8 e)"
+    },
+    {
+      "id": "kustbevakningslagen--overlappar--vapenlagen",
+      "source": "kustbevakningslagen",
+      "target": "vapenlagen",
+      "type": "overlappar",
+      "context": "Vapenlagen (1996:67) ingår i Kustbevakningens direkta brottsbekämpning (3 kap. 2 § 4 d); kan beivra vapenbrott till sjöss"
+    },
+    {
+      "id": "kustbevakningslagen--kompletterar--brottsdatalagen",
+      "source": "kustbevakningslagen",
+      "target": "brottsdatalagen",
+      "type": "kompletterar",
+      "context": "Kustbevakningen är behörig myndighet; brottsdatalagen reglerar personuppgiftsbehandling i kustbevakningens brottsbekämpning"
+    },
+    {
+      "id": "lagen-om-atgarder-mot-penningtvatt--kompletterar--smugglingslagen",
+      "source": "lagen-om-atgarder-mot-penningtvatt",
+      "target": "smugglingslagen",
+      "type": "kompletterar",
+      "context": "Penningtvättslagen hanterar de finansiella flöden som uppstår vid smuggling; Tullverket är brottsbekämpande myndighet i samverkan"
+    },
+    {
+      "id": "lagen-om-atgarder-mot-penningtvatt--hanvisar-till--brottsdatalagen",
+      "source": "lagen-om-atgarder-mot-penningtvatt",
+      "target": "brottsdatalagen",
+      "type": "hanvisar-till",
+      "context": "5 kap. penningtvättslagen hänvisar till brottsdatalagen för behandling av personuppgifter i brottsbekämpande verksamhet"
+    },
+    {
+      "id": "lagen-om-atgarder-mot-penningtvatt--kompletterar--lagen-om-vissa-internationella-sanktioner",
+      "source": "lagen-om-atgarder-mot-penningtvatt",
+      "target": "lagen-om-vissa-internationella-sanktioner",
+      "type": "kompletterar",
+      "context": "Båda lagarna ingår i det finansiella kontrollsystemet; sanktionslagen förbjuder transaktioner, penningtvättslagen kräver rapportering av misstänkta sådana"
+    },
+    {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor--overlappar--smugglingslagen",
+      "source": "lagen-om-brandfarliga-och-explosiva-varor",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smugglingslagen §6b reglerar smuggling av explosiva varor över gräns. LBE reglerar hantering/tillstånd inom Sverige. §30: ansvar enligt LBE utgår om gärningen är belagd med straff i smugglingslagen."
+    },
+    {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor--overlappar--terroristbrottslagen",
+      "source": "lagen-om-brandfarliga-och-explosiva-varor",
+      "target": "terroristbrottslagen",
+      "type": "overlappar",
+      "context": "Terroristbrottslagen 5 § nämner brandfarliga och explosiva varor vid samröre med terroristorganisation — olovlig hantering kan ge ansvar under båda lagarna"
+    },
+    {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor--overlappar--lagen-om-krigsmateriel",
+      "source": "lagen-om-brandfarliga-och-explosiva-varor",
+      "target": "lagen-om-krigsmateriel",
+      "type": "overlappar",
+      "context": "Ammunition och explosiva varor kan falla under båda lagarna; krigsmateriellagen undantar hantering som regleras i LBE (4 §)"
+    },
+    {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-brandfarliga-och-explosiva-varor",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "§30 st.2: 'Till ansvar enligt 28, 29 eller 29 a § döms det inte om gärningen är belagd med straff i lagen (2000:1225) om straff för smuggling.'"
+    },
+    {
+      "id": "lagen-om-brandfarliga-och-explosiva-varor--hanvisar-till--tullbefogenhetslagen",
+      "source": "lagen-om-brandfarliga-och-explosiva-varor",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 §). Postspärr vid misstanke om explosiva varor (7 kap. 8 §)."
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-dopningsmedel--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-forbud-mot-vissa-dopningsmedel",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olovlig införsel av dopningsmedel straffas enligt smugglingslagen (3 §)"
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-dopningsmedel--overlappar--lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "source": "lagen-om-forbud-mot-vissa-dopningsmedel",
+      "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "type": "overlappar",
+      "context": "Hälsofarliga varor som uppgraderas till dopningsstatus byter regelverk; dopningslagen undantar redan hälsofarliga varor"
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-dopningsmedel--kompletterar--narkotikastrafflagen",
+      "source": "lagen-om-forbud-mot-vissa-dopningsmedel",
+      "target": "narkotikastrafflagen",
+      "type": "kompletterar",
+      "context": "Täcker dopningssubstanser som inte klassas som narkotika; parallell struktur med liknande förbud"
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-halsofarliga-varor--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olovlig införsel av hälsofarliga varor straffas enligt smugglingslagen (4 §)"
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-halsofarliga-varor--overlappar--narkotikastrafflagen",
+      "source": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "target": "narkotikastrafflagen",
+      "type": "overlappar",
+      "context": "Varor som reklassificeras kan röra sig mellan lagarna; hälsofarliga varor undantar redan narkotikaklassade substanser (2 §)"
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-halsofarliga-varor--overlappar--lagen-om-forbud-mot-vissa-dopningsmedel",
+      "source": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "target": "lagen-om-forbud-mot-vissa-dopningsmedel",
+      "type": "overlappar",
+      "context": "Dopningsmedel undantas uttryckligen från hälsofarliga varor-lagen (2 §)"
+    },
+    {
+      "id": "lagen-om-forbud-mot-vissa-halsofarliga-varor--hanvisar-till--lagen-om-tobak-och-liknande-produkter",
+      "source": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "target": "lagen-om-tobak-och-liknande-produkter",
+      "type": "hanvisar-till",
+      "context": "Tobakslagen tillämpas inte på varor klassade som hälsofarliga (tobakslagen 1 kap. 4 §)"
+    },
+    {
+      "id": "lagen-om-handel-med-lakemedel--hanvisar-till--narkotikastrafflagen",
+      "source": "lagen-om-handel-med-lakemedel",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "Narkotiska läkemedel regleras även av narkotikastrafflagen via hänvisning i 1 kap. 5 § och 2 kap. 6 § 9"
+    },
+    {
+      "id": "lagen-om-handel-med-lakemedel--kompletterar--tullagen",
+      "source": "lagen-om-handel-med-lakemedel",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Import av läkemedel kräver tillstånd; tulldeklaration och läkemedelshandelstillstånd samverkar vid import"
+    },
+    {
+      "id": "lagen-om-handel-med-lakemedel--hanvisar-till--alkohollagen",
+      "source": "lagen-om-handel-med-lakemedel",
+      "target": "alkohollagen",
+      "type": "hanvisar-till",
+      "context": "Apoteksombud får inte verka i serveringsutrymmen med serveringstillstånd (2 a kap. 7 §)"
+    },
+    {
+      "id": "lagen-om-kontroll-av-dubbla-anvandningsomraden--overlappar--lagen-om-krigsmateriel",
+      "source": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "target": "lagen-om-krigsmateriel",
+      "type": "overlappar",
+      "context": "Militära produkter i dual-use-lagen definieras som krigsmateriel enligt lagen om krigsmateriel (3 §); ISP är tillståndsmyndighet i båda lagarna"
+    },
+    {
+      "id": "lagen-om-kontroll-av-dubbla-anvandningsomraden--overlappar--stralskyddslagen",
+      "source": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "target": "stralskyddslagen",
+      "type": "overlappar",
+      "context": "Export av radioaktiva dual-use-produkter kan falla under båda lagarna; strålskyddslagen undantar utförsel som täcks av dual-use-lagen (6 kap. 3 §)"
+    },
+    {
+      "id": "lagen-om-kontroll-av-dubbla-anvandningsomraden--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olovlig export utgör även smuggling; 23 § möjliggör förverkande parallellt med smugglingslagens regler"
+    },
+    {
+      "id": "lagen-om-krigsmateriel--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-krigsmateriel",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "24 § hänvisar direkt till smugglingslagen för olovlig utförsel och försök därtill"
+    },
+    {
+      "id": "lagen-om-krigsmateriel--kompletterar--vapenlagen",
+      "source": "lagen-om-krigsmateriel",
+      "target": "vapenlagen",
+      "type": "kompletterar",
+      "context": "Krigsmateriellagen ger undantag från tillståndskrav när vapenlagen reglerar handeln; vapenlag gäller skjutvapen, krigsmateriellagen militär materiel i bredare mening"
+    },
+    {
+      "id": "lagen-om-krigsmateriel--overlappar--lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "source": "lagen-om-krigsmateriel",
+      "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "type": "overlappar",
+      "context": "Militära produkter i dubbla-användningslagen definieras som krigsmateriel enligt krigsmateriellagen; ISP är tillståndsmyndighet i båda"
+    },
+    {
+      "id": "lagen-om-krigsmateriel--kompletterar--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "lagen-om-krigsmateriel",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "kompletterar",
+      "context": "4 § undantar hantering av ammunition och explosiva varor som regleras i brandfarliga-och-explosiva-varor-lagen från krigsmateriellagen tillståndskrav"
+    },
+    {
+      "id": "lagen-om-skatt-pa-energi--hanvisar-till--tullagen",
+      "source": "lagen-om-skatt-pa-energi",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Tullagstiftningsbegreppet används; skattskyldighet vid import kopplas till tullskuld enligt UCC och tullagen"
+    },
+    {
+      "id": "lagen-om-skatt-pa-energi--overlappar--smugglingslagen",
+      "source": "lagen-om-skatt-pa-energi",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smuggling av bränsle (t.ex. odeklarerad diesel) ger parallellt skattskyldighet och straffansvar under smugglingslagen"
+    },
+    {
+      "id": "lagen-om-straff-for-penningtvattsbrott--overlappar--smugglingslagen",
+      "source": "lagen-om-straff-for-penningtvattsbrott",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Intäkter från smuggling kan utgöra förbrott till penningtvättsbrott — samma transaktion kan ge ansvar under båda lagarna"
+    },
+    {
+      "id": "lagen-om-straff-for-penningtvattsbrott--overlappar--skattebrottslagen",
+      "source": "lagen-om-straff-for-penningtvattsbrott",
+      "target": "skattebrottslagen",
+      "type": "overlappar",
+      "context": "Intäkter från skattebrott kan utgöra förbrott till penningtvättsbrott; ekonomisk brottslighet i importledet kan ge ansvar under båda"
+    },
+    {
+      "id": "lagen-om-straff-for-penningtvattsbrott--overlappar--terroristbrottslagen",
+      "source": "lagen-om-straff-for-penningtvattsbrott",
+      "target": "terroristbrottslagen",
+      "type": "overlappar",
+      "context": "Finansiering av terrorism (terroristbrottslagen 6 §) och penningtvättsbrott kan överlappa när medel tvättas för terrorismsyften"
+    },
+    {
+      "id": "lagen-om-tobak-och-liknande-produkter--hanvisar-till--smugglingslagen",
+      "source": "lagen-om-tobak-och-liknande-produkter",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olovlig in-/utförsel av tobaksvaror, e-cigaretter och påfyllningsbehållare bestraffas under smugglingslagen (10 kap. 6 §)"
+    },
+    {
+      "id": "lagen-om-tobak-och-liknande-produkter--hanvisar-till--narkotikastrafflagen",
+      "source": "lagen-om-tobak-och-liknande-produkter",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "Lagen tillämpas inte på produkter klassade som narkotika (1 kap. 4 §)"
+    },
+    {
+      "id": "lagen-om-tobak-och-liknande-produkter--hanvisar-till--lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "source": "lagen-om-tobak-och-liknande-produkter",
+      "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "type": "hanvisar-till",
+      "context": "Lagen tillämpas inte på varor klassade som hälsofarliga (1 kap. 4 §)"
+    },
+    {
+      "id": "lagen-om-tobak-och-liknande-produkter--overlappar--lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "source": "lagen-om-tobak-och-liknande-produkter",
+      "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "type": "overlappar",
+      "context": "Tobaksvaror och hälsofarliga varor kan överlappa vid gränsdragning; tobakslagen undantar varor klassade som hälsofarliga (1 kap. 4 §)"
+    },
+    {
+      "id": "lagen-om-vissa-internationella-sanktioner--hanvisar-till--tullbefogenhetslagen",
+      "source": "lagen-om-vissa-internationella-sanktioner",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Vid brott mot in- eller utförseltillstånd i sanktionslagen gäller tullbefogenhetslagensbestämmelser om utredning och lagföring (14 §)"
+    },
+    {
+      "id": "lagen-om-vissa-internationella-sanktioner--kompletterar--smugglingslagen",
+      "source": "lagen-om-vissa-internationella-sanktioner",
+      "target": "smugglingslagen",
+      "type": "kompletterar",
+      "context": "Smuggling av sanktionerade varor kan åtalas under båda lagarna; sanktionslagen tillför EU-sanktionsdimensionen"
+    },
+    {
+      "id": "lagen-om-vissa-internationella-sanktioner--kompletterar--lagen-om-atgarder-mot-penningtvatt",
+      "source": "lagen-om-vissa-internationella-sanktioner",
+      "target": "lagen-om-atgarder-mot-penningtvatt",
+      "type": "kompletterar",
+      "context": "Båda ingår i finansiellt kontrollsystem; sanktionslagen förbjuder transaktioner med sanktionerade parter, penningtvättslagen kräver rapportering"
+    },
+    {
+      "id": "livsmedelslagen--overlappar--smugglingslagen",
+      "source": "livsmedelslagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "30 §: om garningen belaggs med straff i smugglingslagen doems ej enligt livsmedelslagen; subsidiart forhallande"
+    },
+    {
+      "id": "livsmedelslagen--kompletterar--tullagen",
+      "source": "livsmedelslagen",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Livsmedel pa tullager och i frizoner kan forbjudas aterutforas; offentlig kontroll vid gransknontrollstationer regleras parallellt"
+    },
+    {
+      "id": "miljobalken--overlappar--artskyddsforordningen",
+      "source": "miljobalken",
+      "target": "artskyddsforordningen",
+      "type": "overlappar",
+      "context": "Artskyddsforordningen ar meddelad med stod av 8 kap. miljobalken; straffregler i 29 kap. miljobalken galler for artskyddsbrott"
+    },
+    {
+      "id": "miljobalken--hanvisar-till--smugglingslagen",
+      "source": "miljobalken",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Miljobalken ar primarlager for kemikalie- och artskyddsbrott; smugglingslagen kan ocksa tillampas vid tullundandragande"
+    },
+    {
+      "id": "miljobalken--kompletterar--kulturmiljolagen",
+      "source": "miljobalken",
+      "target": "kulturmiljolagen",
+      "type": "kompletterar",
+      "context": "1 kap. 2 § kulturmiljolagen: parallella bestammelser om kulturmiljosskydd finns i miljobalken"
+    },
+    {
+      "id": "narkotikastrafflagen--overlappar--smugglingslagen",
+      "source": "narkotikastrafflagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Narkotikastrafflagen reglerar innehav/överlåtelse/bruk. Smugglingslagen §6 reglerar smuggling över gräns. Subsidiaritet: Smugglingslagen §1 ger företräde åt speciallag, men §6 är specialbestämmelse för narkotikasmuggling."
+    },
+    {
+      "id": "narkotikastrafflagen--hanvisar-till--smugglingslagen",
+      "source": "narkotikastrafflagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "§1 sista stycket: 'Bestämmelser om straff för olovlig införsel och utförsel av narkotika finns i lagen (2000:1225) om straff för smuggling.'"
+    },
+    {
+      "id": "narkotikastrafflagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "narkotikastrafflagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 §). Tullåklagare får föra talan om innehav/bruk (9 kap. 1 §)."
+    },
+    {
+      "id": "narkotikastrafflagen--overlappar--lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "source": "narkotikastrafflagen",
+      "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+      "type": "overlappar",
+      "context": "Substanser kan reklassificeras mellan narkotika och hälsofarliga varor. Narkotika undantas från hälsofarliga varor-lagen."
+    },
+    {
+      "id": "narkotikastrafflagen--overlappar--lagen-om-forbud-mot-vissa-dopningsmedel",
+      "source": "narkotikastrafflagen",
+      "target": "lagen-om-forbud-mot-vissa-dopningsmedel",
+      "type": "overlappar",
+      "context": "Dopningslagen täcker substanser som inte klassas som narkotika; parallell struktur med liknande förbud mot innehav och överlåtelse"
+    },
+    {
+      "id": "skattebrottslagen--speciallag-till--smugglingslagen",
+      "source": "skattebrottslagen",
+      "target": "smugglingslagen",
+      "type": "speciallag-till",
+      "context": "Skattebrottslagen gäller inte gärningar som är straffbelagda i smugglingslagen (1 §) — smugglingslagen är lex specialis vid smugglingsbrott"
+    },
+    {
+      "id": "skattebrottslagen--kompletterar--tullbefogenhetslagen",
+      "source": "skattebrottslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "Tullbefogenhetslagen (2024:710) innehåller bestämmelser om utredning och lagföring av brott enligt skattebrottslagen som rör energiskatt, tobaksskatt och alkoholskatt (1 § tredje stycket)"
+    },
+    {
+      "id": "skattebrottslagen--overlappar--lagen-om-straff-for-penningtvattsbrott",
+      "source": "skattebrottslagen",
+      "target": "lagen-om-straff-for-penningtvattsbrott",
+      "type": "overlappar",
+      "context": "Intäkter från skattebrott kan utgöra förbrott till penningtvättsbrott; ekonomisk brottslighet i importledet kan ge ansvar under båda"
+    },
+    {
+      "id": "smugglingslagen--hanvisar-till--narkotikastrafflagen",
+      "source": "smugglingslagen",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "Definition av narkotika (§2). Undantag från smuggelgodsansvar om gärningen är belagd med straff i narkotikastrafflagen (§12)."
+    },
+    {
+      "id": "smugglingslagen--hanvisar-till--vapenlagen",
+      "source": "smugglingslagen",
+      "target": "vapenlagen",
+      "type": "hanvisar-till",
+      "context": "Definition av vapen (§2). Undantag från smuggelgodsansvar om gärningen är belagd med straff i vapenlagen (§12)."
+    },
+    {
+      "id": "smugglingslagen--hanvisar-till--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "smugglingslagen",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "hanvisar-till",
+      "context": "Definition av explosiva varor (§2). Undantag från smuggelgodsansvar (§12)."
+    },
+    {
+      "id": "smugglingslagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "smugglingslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Definition av tullbehandling (§2). Tullverkets rätt att försälja/förstöra beslagtagen egendom (§19)."
+    },
+    {
+      "id": "smugglingslagen--kompletteras-av--tullbefogenhetslagen",
+      "source": "smugglingslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletteras-av",
+      "context": "Smugglingslagen definierar brotten, Tullbefogenhetslagen ger befogenheterna. Två delar av 2024-reformen."
+    },
+    {
+      "id": "smugglingslagen--hanvisar-till--tullagen",
+      "source": "smugglingslagen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Tulldeklaration vid centraliserad klarering (§8). Tulltillägg (§20)."
+    },
+    {
+      "id": "smugglingslagen--overlappar--narkotikastrafflagen",
+      "source": "smugglingslagen",
+      "target": "narkotikastrafflagen",
+      "type": "overlappar",
+      "context": "Smugglingslagen §6 = narkotikasmuggling över gräns. Narkotikastrafflagen = innehav/överlåtelse/bruk inom Sverige."
+    },
+    {
+      "id": "smugglingslagen--overlappar--vapenlagen",
+      "source": "smugglingslagen",
+      "target": "vapenlagen",
+      "type": "overlappar",
+      "context": "Smugglingslagen §6a = vapensmuggling. Vapenlagen = innehav/tillstånd inom Sverige."
+    },
+    {
+      "id": "smugglingslagen--overlappar--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "smugglingslagen",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "overlappar",
+      "context": "Smugglingslagen §6b = smuggling av explosiva varor. LBE = olovlig hantering/tillstånd inom Sverige."
+    },
+    {
+      "id": "smugglingslagen--overlappar--knivlagen",
+      "source": "smugglingslagen",
+      "target": "knivlagen",
+      "type": "overlappar",
+      "context": "Införsel av förbjudna knivar kan falla under både smugglingslagen §3 och knivlagen (innehav)."
+    },
+    {
+      "id": "smugglingslagen--overlappar--alkohollagen",
+      "source": "smugglingslagen",
+      "target": "alkohollagen",
+      "type": "overlappar",
+      "context": "Alkohollagen definierar villkoren för införsel (4:4). Smugglingslagen straffar överträdelse vid gräns."
+    },
+    {
+      "id": "smugglingslagen--overlappar--tullagen",
+      "source": "smugglingslagen",
+      "target": "tullagen",
+      "type": "overlappar",
+      "context": "Tullförseelse (Tullagen 5 kap.) överlappar med tullbrott (Smugglingslagen §8-10). Smugglingslagen går före (subsidiaritet)."
+    },
+    {
+      "id": "smugglingslagen--overlappar--tobaksskattelagen",
+      "source": "smugglingslagen",
+      "target": "tobaksskattelagen",
+      "type": "overlappar",
+      "context": "Smuggling av tobak ger parallellt skattskyldighet under tobaksskattelagen och straffansvar under smugglingslagen; tobaksskattelagen 6 § inregränslagen subsidiar till smugglingslagen."
+    },
+    {
+      "id": "smugglingslagen--overlappar--lagen-om-skatt-pa-energi",
+      "source": "smugglingslagen",
+      "target": "lagen-om-skatt-pa-energi",
+      "type": "overlappar",
+      "context": "Odeklarerad import av bränsle ger parallellt skattskyldighet under LSE och straffansvar under smugglingslagen."
+    },
+    {
+      "id": "smugglingslagen--overlappar--kustbevakningslagen",
+      "source": "smugglingslagen",
+      "target": "kustbevakningslagen",
+      "type": "overlappar",
+      "context": "Smuggling ingår i Kustbevakningens direkta brottsbekämpning. Parallellt ansvar vid sjögränsen."
+    },
+    {
+      "id": "smugglingslagen--overlappar--lagen-om-straff-for-penningtvattsbrott",
+      "source": "smugglingslagen",
+      "target": "lagen-om-straff-for-penningtvattsbrott",
+      "type": "overlappar",
+      "context": "Smugglingsintäkter som tvättas ger ansvar under båda lagarna."
+    },
+    {
+      "id": "smugglingslagen--overlappar--livsmedelslagen",
+      "source": "smugglingslagen",
+      "target": "livsmedelslagen",
+      "type": "overlappar",
+      "context": "Livsmedelslagen 30 §: smugglingslagen har företräde vid olovlig införsel av livsmedel."
+    },
+    {
+      "id": "smugglingslagen--overlappar--inregranslagen",
+      "source": "smugglingslagen",
+      "target": "inregranslagen",
+      "type": "overlappar",
+      "context": "Inregränslagens brott är subsidiära till smugglingslagen (6 §); samma gärning vid inre EU-gräns kan falla under båda lagarna"
+    },
+    {
+      "id": "smugglingslagen--overlappar--lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "source": "smugglingslagen",
+      "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "type": "overlappar",
+      "context": "Olovlig export av dual-use-produkter kan utgöra smuggling; förverkande enligt 23 § dual-use-lagen parallellt med smugglingslagens regler"
+    },
+    {
+      "id": "smugglingslagen--overlappar--terroristbrottslagen",
+      "source": "smugglingslagen",
+      "target": "terroristbrottslagen",
+      "type": "overlappar",
+      "context": "Transport av vapen, ammunition och explosiva varor åt terroristorganisation (5 § terroristbrottslagen) kan samtidigt utgöra smuggling"
+    },
+    {
+      "id": "stralskyddslagen--hanvisar-till--smugglingslagen",
+      "source": "stralskyddslagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "6 kap. 15 § kräver stöd i smugglingslagen för avbildning med joniserande strålning (kroppsskanning) vid gränskontroll; 9 kap. 6 § subsidiaritetsregel — ansvar döms under smugglingslagen vid konkurrens"
+    },
+    {
+      "id": "stralskyddslagen--overlappar--lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "source": "stralskyddslagen",
+      "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "type": "overlappar",
+      "context": "6 kap. 3 § undantar utförsel av radioaktivt material om utförseln täcks av dual-use-lagen; lagarna möts vid export av radioaktiva produkter med dubbel användning"
+    },
+    {
+      "id": "terroristbrottslagen--overlappar--smugglingslagen",
+      "source": "terroristbrottslagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Samröre med terroristorganisation (5 §) kriminaliserar transport av vapen, ammunition och explosiva varor åt terroristorganisation — samma gärning kan utgöra smuggling"
+    },
+    {
+      "id": "terroristbrottslagen--overlappar--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "terroristbrottslagen",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "overlappar",
+      "context": "Samröre (5 §) nämner uttryckligen brandfarliga och explosiva varor; olovlig hantering kan överlappa med lagen om brandfarliga och explosiva varor"
+    },
+    {
+      "id": "terroristbrottslagen--overlappar--vapenlagen",
+      "source": "terroristbrottslagen",
+      "target": "vapenlagen",
+      "type": "overlappar",
+      "context": "Samröre (5 §) kriminaliserar hantering av vapen och ammunition åt terroristorganisation — överlapp med vapenlagen vid olovlig vapenhantering"
+    },
+    {
+      "id": "terroristbrottslagen--overlappar--lagen-om-straff-for-penningtvattsbrott",
+      "source": "terroristbrottslagen",
+      "target": "lagen-om-straff-for-penningtvattsbrott",
+      "type": "overlappar",
+      "context": "Finansiering av terrorism (6 §) och penningtvättsbrott kan överlappa när medel tvättas för terrorismsyften eller terrorismintäkter tvättas"
+    },
+    {
+      "id": "tobaksskattelagen--hanvisar-till--tullagen",
+      "source": "tobaksskattelagen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Tullagstiftningsbegreppet används; skattskyldighet vid import kopplas till tullskuld enligt UCC och tullagen"
+    },
+    {
+      "id": "tobaksskattelagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "tobaksskattelagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "9 kap. 24 §: beskattade varor omhändertagna av Tullverket enligt tullbefogenhetslagen 5 kap. 16 § ska beskattas"
+    },
+    {
+      "id": "tobaksskattelagen--overlappar--smugglingslagen",
+      "source": "tobaksskattelagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smuggling av tobak kan parallellt ge skattskyldighet under tobaksskattelagen och straffansvar under smugglingslagen"
+    },
+    {
+      "id": "trafikbrottslagen--hanvisar-till--narkotikastrafflagen",
+      "source": "trafikbrottslagen",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "4 § hänvisar uttryckligen till 8 § narkotikastrafflagen (1968:64) för definition av narkotika vid rattfylleribrott"
+    },
+    {
+      "id": "trafikbrottslagen--kompletterar--tullbefogenhetslagen",
+      "source": "trafikbrottslagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletterar",
+      "context": "7 § hänvisar till 10 kap. 1–3 §§ tullbefogenhetslagen (2024:710) som ger Tullverket befogenhet att tillfälligt omhänderta fordon för att förhindra rattfylleribrott"
+    },
+    {
+      "id": "tullagen--kompletteras-av--tullbefogenhetslagen",
+      "source": "tullagen",
+      "target": "tullbefogenhetslagen",
+      "type": "kompletteras-av",
+      "context": "Kap 4 upphävt 2024 — alla befogenheter flyttade till Tullbefogenhetslagen. Tullagen är det finansiella ramverket, Tullbefogenhetslagen det operativa."
+    },
+    {
+      "id": "tullagen--hanvisar-till--smugglingslagen",
+      "source": "tullagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "5 kap. 3 §: tullförseelse utgår om gärningen straffas i smugglingslagen. 2 kap. 5-6 §: preskriptionstid förlängs vid åtal för smuggling."
+    },
+    {
+      "id": "tullagen--overlappar--smugglingslagen",
+      "source": "tullagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Tullagen 5 kap. (tullförseelse) överlappar med Smugglingslagen §8-10 (tullbrott). Subsidiaritet: tullförseelse utgår om smugglingslagen tillämpas."
+    },
+    {
+      "id": "tullagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "tullagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "1 kap. 1 §: befogenhetsregler finns i tullbefogenhetslagen. 3 kap.: tullövervakning hänvisar till tullbefogenhetslagen."
+    },
+    {
+      "id": "tullagen--overlappar--livsmedelslagen",
+      "source": "tullagen",
+      "target": "livsmedelslagen",
+      "type": "overlappar",
+      "context": "Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
+    },
+    {
+      "id": "tullbefogenhetslagen--kompletterar--smugglingslagen",
+      "source": "tullbefogenhetslagen",
+      "target": "smugglingslagen",
+      "type": "kompletterar",
+      "context": "Smugglingslagen definierar brotten, Tullbefogenhetslagen ger befogenheterna att utreda dem. Direkt brottsbekämpning (8 kap. 1 §)."
+    },
+    {
+      "id": "tullbefogenhetslagen--hanvisar-till--narkotikastrafflagen",
+      "source": "tullbefogenhetslagen",
+      "target": "narkotikastrafflagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 §). Tullåklagare får föra talan om innehav/bruk (9 kap. 1 §)."
+    },
+    {
+      "id": "tullbefogenhetslagen--hanvisar-till--vapenlagen",
+      "source": "tullbefogenhetslagen",
+      "target": "vapenlagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 §). Postspärr vid misstanke om skjutvapen (7 kap. 8 §)."
+    },
+    {
+      "id": "tullbefogenhetslagen--hanvisar-till--knivlagen",
+      "source": "tullbefogenhetslagen",
+      "target": "knivlagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 § punkt 4). Brott enligt 4 § knivlagen."
+    },
+    {
+      "id": "tullbefogenhetslagen--hanvisar-till--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "tullbefogenhetslagen",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 §). Postspärr vid misstanke om explosiva varor (7 kap. 8 §)."
+    },
+    {
+      "id": "tullbefogenhetslagen--hanvisar-till--alkohollagen",
+      "source": "tullbefogenhetslagen",
+      "target": "alkohollagen",
+      "type": "hanvisar-till",
+      "context": "Omhändertagande av alkoholvara om mottagare saknar rätt att föra in den (5 kap. 24 §, 27 §)."
+    },
+    {
+      "id": "tullbefogenhetslagen--kompletterar--inregranslagen",
+      "source": "tullbefogenhetslagen",
+      "target": "inregranslagen",
+      "type": "kompletterar",
+      "context": "Inregränslagen skapar anmälningsskyldigheterna vid inre EU-gräns; tullbefogenhetslagen ger befogenheterna att genomföra kontrollen (1 §, 7 § inregränslagen hänvisar hit)."
+    },
+    {
+      "id": "tullbefogenhetslagen--overlappar--inregranslagen",
+      "source": "tullbefogenhetslagen",
+      "target": "inregranslagen",
+      "type": "overlappar",
+      "context": "Båda lagarna tillämpas vid kontroll vid inre EU-gräns; inregränslagen ger anmälningsskyldigheterna, tullbefogenhetslagen ger kontrollbefogenheterna"
+    },
+    {
+      "id": "tullbefogenhetslagen--kompletterar--tullagen",
+      "source": "tullbefogenhetslagen",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Tullagen reglerar tullförfarandet, Tullbefogenhetslagen ger befogenheter för att säkerställa att det följs. Direkt brottsbekämpning (8 kap. 1 §)."
+    },
+    {
+      "id": "tullforordningen--speciallag-till--tullagen",
+      "source": "tullforordningen",
+      "target": "tullagen",
+      "type": "speciallag-till",
+      "context": "Genomförandeförordning som kompletterar och preciserar tullagen (2016:253)"
+    },
+    {
+      "id": "tullforordningen--hanvisar-till--tullbefogenhetslagen",
+      "source": "tullforordningen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "5 kap. 3 § hänvisar till tullbefogenhetslagen (2024:710) för järnvägs- och postkontroll"
+    },
+    {
+      "id": "vapenlagen--overlappar--smugglingslagen",
+      "source": "vapenlagen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smugglingslagen §6a = vapensmuggling över gräns. Vapenlagen = tillståndsplikt och innehav inom Sverige. §9 kap 4 §: olovlig införsel regleras av smugglingslagen."
+    },
+    {
+      "id": "vapenlagen--overlappar--terroristbrottslagen",
+      "source": "vapenlagen",
+      "target": "terroristbrottslagen",
+      "type": "overlappar",
+      "context": "Terroristbrottslagen 5 § kriminaliserar hantering av vapen och ammunition åt terroristorganisation — överlapp med vapenlagen vid olovlig vapenhantering"
+    },
+    {
+      "id": "vapenlagen--hanvisar-till--smugglingslagen",
+      "source": "vapenlagen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "9 kap. 4 §: olovlig införsel av vapen, ammunition, ljuddämpare → smugglingslagen."
+    },
+    {
+      "id": "vapenlagen--hanvisar-till--tullbefogenhetslagen",
+      "source": "vapenlagen",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "Indirekt brottsbekämpning (8 kap. 2 §). Postspärr vid misstanke om skjutvapen (7 kap. 8 §)."
+    },
+    {
+      "id": "vapenlagen--speciallag-till--knivlagen",
+      "source": "vapenlagen",
+      "target": "knivlagen",
+      "type": "speciallag-till",
+      "context": "Knivlagen §3: vapenlagen gäller istället för föremål som vapenlagen är tillämplig på. Vapenlagen är lex specialis."
+    },
+    {
+      "id": "vapenlagen--hanvisar-till--lagen-om-brandfarliga-och-explosiva-varor",
+      "source": "vapenlagen",
+      "target": "lagen-om-brandfarliga-och-explosiva-varor",
+      "type": "hanvisar-till",
+      "context": "1 kap. 6 §: 'Bestämmelser om ammunition som räknas till explosiva varor finns även i lagen (2010:1011) om brandfarliga och explosiva varor.' Avgränsning mellan vapenlagens ammunitionsbegrepp och LBE:s explosiva varor."
+    },
+    {
+      "id": "vapenlagen--overlappar--kustbevakningslagen",
+      "source": "vapenlagen",
+      "target": "kustbevakningslagen",
+      "type": "overlappar",
+      "context": "Vapenbrott till sjöss ingår i Kustbevakningens direkta brottsbekämpning."
+    }
+  ]
+}

@@ -1,0 +1,1143 @@
+[
+  {
+    "slug": "alkohollagen",
+    "title": "Alkohollagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "alkohol",
+      "privatinförsel",
+      "monopol",
+      "tillstånd"
+    ],
+    "snippet": "# Alkohollagen (2010:1622) ## Sammanfattning Alkohollagen reglerar all handel med alkohol i Sverige — tillverkning, impo…",
+    "url": "/laws/alkohollagen",
+    "entity_type": "lag",
+    "sfs": "2010:1622",
+    "short_name": "Alkohollagen"
+  },
+  {
+    "slug": "artskyddsforordningen",
+    "title": "Artskyddsförordningen",
+    "type": "entity",
+    "tags": [
+      "artskydd",
+      "CITES",
+      "import",
+      "export",
+      "fridlysning",
+      "tullkontroll"
+    ],
+    "snippet": "## Sammanfattning Artskyddsförordningen (2007:845) är den centrala svenska förordningen för skydd av vilda djur- och väx…",
+    "url": "/laws/artskyddsforordningen",
+    "entity_type": "lag",
+    "sfs": "2007:845",
+    "short_name": "Artskyddsförordningen"
+  },
+  {
+    "slug": "brottsdatalagen",
+    "title": "Brottsdatalagen",
+    "type": "entity",
+    "tags": [
+      "personuppgifter",
+      "dataskydd",
+      "brottsbekampning",
+      "tullverket",
+      "kustbevakning"
+    ],
+    "snippet": "## Sammanfattning Brottsdatalagen (2018:1177) genomför EU:s dataskyddsdirektiv (2016/680) och reglerar hur behöriga mynd…",
+    "url": "/laws/brottsdatalagen",
+    "entity_type": "lag",
+    "sfs": "2018:1177",
+    "short_name": "Brottsdatalagen"
+  },
+  {
+    "slug": "forordning-om-tillstand-for-farliga-foremal",
+    "title": "Förordning om tillstånd för farliga föremål",
+    "type": "entity",
+    "tags": [
+      "farliga-foremal",
+      "granskontroll",
+      "springkniv",
+      "knogjarn",
+      "tillstand",
+      "polismyndigheten"
+    ],
+    "snippet": "## Sammanfattning Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål förbjuder import till Sverig…",
+    "url": "/laws/forordning-om-tillstand-for-farliga-foremal",
+    "entity_type": "lag",
+    "sfs": "1990:415",
+    "short_name": "Farliga-föremål-förordningen"
+  },
+  {
+    "slug": "inregranslagen",
+    "title": "Inregränslagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "inregräns",
+      "EU-gräns",
+      "anmälningsskyldighet",
+      "kontanta-medel",
+      "tullverket"
+    ],
+    "snippet": "# Inregränslagen (1996:701) ## Sammanfattning Inregränslagen reglerar anmälningsskyldigheten vid passage av Sveriges grä…",
+    "url": "/laws/inregranslagen",
+    "entity_type": "lag",
+    "sfs": "1996:701",
+    "short_name": "Inregränslagen"
+  },
+  {
+    "slug": "knivlagen",
+    "title": "Knivlagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "knivar",
+      "farliga-föremål",
+      "innehav",
+      "allmän-plats"
+    ],
+    "snippet": "# Knivlagen (1988:254) ## Sammanfattning Knivlagen förbjuder innehav av knivar, stick- och skärvapen och andra farliga f…",
+    "url": "/laws/knivlagen",
+    "entity_type": "lag",
+    "sfs": "1988:254",
+    "short_name": "Knivlagen"
+  },
+  {
+    "slug": "kulturmiljolagen",
+    "title": "Kulturmiljölagen",
+    "type": "entity",
+    "tags": [
+      "kulturarv",
+      "utforsel",
+      "fornminnen",
+      "kulturforemal",
+      "CITES-analog"
+    ],
+    "snippet": "## Sammanfattning Kulturmiljölagen (1988:950) är det centrala regelverket för skydd av det svenska kulturarvet. För tull…",
+    "url": "/laws/kulturmiljolagen",
+    "entity_type": "lag",
+    "sfs": "1988:950",
+    "short_name": "Kulturmiljölagen"
+  },
+  {
+    "slug": "kustbevakningslagen",
+    "title": "Kustbevakningslagen",
+    "type": "entity",
+    "tags": [
+      "kustbevakning",
+      "brottsbekampning",
+      "sjoterritorium",
+      "tull",
+      "smuggling"
+    ],
+    "snippet": "## Sammanfattning Kustbevakningslagen (2019:32) reglerar Kustbevakningens och kustbevakningstjänstemäns befogenheter ino…",
+    "url": "/laws/kustbevakningslagen",
+    "entity_type": "lag",
+    "sfs": "2019:32",
+    "short_name": "Kustbevakningslagen"
+  },
+  {
+    "slug": "lagen-om-atgarder-mot-penningtvatt",
+    "title": "Lagen om åtgärder mot penningtvätt och finansiering av terrorism",
+    "type": "entity",
+    "tags": [
+      "penningtvatt",
+      "finansiering-av-terrorism",
+      "finansiell-kontroll",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Penningtvättslagen (2017:630) syftar till att förhindra att finansiell verksamhet och annan näringsver…",
+    "url": "/laws/lagen-om-atgarder-mot-penningtvatt",
+    "entity_type": "lag",
+    "sfs": "2017:630",
+    "short_name": "Penningtvättslagen"
+  },
+  {
+    "slug": "lagen-om-brandfarliga-och-explosiva-varor",
+    "title": "Lagen om brandfarliga och explosiva varor",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "explosiva-varor",
+      "brandfarliga-varor",
+      "tillstånd",
+      "säkerhet"
+    ],
+    "snippet": "# Lagen om brandfarliga och explosiva varor (2010:1011) ## Sammanfattning LBE reglerar hantering, överföring, import och…",
+    "url": "/laws/lagen-om-brandfarliga-och-explosiva-varor",
+    "entity_type": "lag",
+    "sfs": "2010:1011",
+    "short_name": "LBE"
+  },
+  {
+    "slug": "lagen-om-forbud-mot-vissa-dopningsmedel",
+    "title": "Lagen om förbud mot vissa dopningsmedel",
+    "type": "entity",
+    "tags": [
+      "dopning",
+      "folkhalsa",
+      "narkotika-adjacent",
+      "smuggling"
+    ],
+    "snippet": "# Lagen om förbud mot vissa dopningsmedel (1991:1969) ## Sammanfattning Dopningslagen förbjuder all icke-medicinsk hante…",
+    "url": "/laws/lagen-om-forbud-mot-vissa-dopningsmedel",
+    "entity_type": "lag",
+    "sfs": "1991:1969",
+    "short_name": "Dopningslagen"
+  },
+  {
+    "slug": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
+    "title": "Lagen om förbud mot vissa hälsofarliga varor",
+    "type": "entity",
+    "tags": [
+      "halsofarliga-varor",
+      "nps",
+      "folkhalsa",
+      "smuggling",
+      "tillstand"
+    ],
+    "snippet": "# Lagen om förbud mot vissa hälsofarliga varor (1999:42) ## Sammanfattning Lagen täcker \"nya psykoaktiva substanser\" och…",
+    "url": "/laws/lagen-om-forbud-mot-vissa-halsofarliga-varor",
+    "entity_type": "lag",
+    "sfs": "1999:42",
+    "short_name": "Hälsofarliga varor-lagen"
+  },
+  {
+    "slug": "lagen-om-handel-med-lakemedel",
+    "title": "Lagen om handel med läkemedel",
+    "type": "entity",
+    "tags": [
+      "lakemedel",
+      "handel",
+      "apotek",
+      "tillstand",
+      "narkotika-adjacent"
+    ],
+    "snippet": "# Lagen om handel med läkemedel (2009:366) ## Sammanfattning Läkemedelshandelslagen reglerar hur läkemedel får säljas i …",
+    "url": "/laws/lagen-om-handel-med-lakemedel",
+    "entity_type": "lag",
+    "sfs": "2009:366",
+    "short_name": "Läkemedelshandelslagen"
+  },
+  {
+    "slug": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+    "title": "Lagen om kontroll av produkter med dubbla användningsområden",
+    "type": "entity",
+    "tags": [
+      "exportkontroll",
+      "dual-use",
+      "eu-forordning",
+      "tillstand",
+      "isp",
+      "kemiska-prekursorer"
+    ],
+    "snippet": "## Sammanfattning Lagen (2000:1064) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd kompl…",
+    "url": "/laws/lagen-om-kontroll-av-dubbla-anvandningsomraden",
+    "entity_type": "lag",
+    "sfs": "2000:1064",
+    "short_name": "Dual-use-lagen"
+  },
+  {
+    "slug": "lagen-om-krigsmateriel",
+    "title": "Lagen om krigsmateriel",
+    "type": "entity",
+    "tags": [
+      "exportkontroll",
+      "krigsmateriel",
+      "tillstand",
+      "isp"
+    ],
+    "snippet": "## Sammanfattning Lagen om krigsmateriel (1992:1300) reglerar all hantering av militärt utformad materiel och tekniskt b…",
+    "url": "/laws/lagen-om-krigsmateriel",
+    "entity_type": "lag",
+    "sfs": "1992:1300",
+    "short_name": "Krigsmateriellagen"
+  },
+  {
+    "slug": "lagen-om-skatt-pa-energi",
+    "title": "Lagen om skatt på energi",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "punktskatt",
+      "energi",
+      "bränsle",
+      "koldioxidskatt",
+      "märkta-oljeprodukter"
+    ],
+    "snippet": "# Lagen om skatt på energi (1994:1776) ## Sammanfattning Energiskattelagen reglerar energiskatt, koldioxidskatt och svav…",
+    "url": "/laws/lagen-om-skatt-pa-energi",
+    "entity_type": "lag",
+    "sfs": "1994:1776",
+    "short_name": "Energiskattelagen"
+  },
+  {
+    "slug": "lagen-om-straff-for-penningtvattsbrott",
+    "title": "Lagen om straff för penningtvättsbrott",
+    "type": "entity",
+    "tags": [
+      "penningtvatt",
+      "ekonomisk-brottslighet",
+      "forbrott",
+      "forverkande"
+    ],
+    "snippet": "## Sammanfattning Lagen om straff för penningtvättsbrott (2014:307) är den centrala straffrättsliga lagen för penningtvä…",
+    "url": "/laws/lagen-om-straff-for-penningtvattsbrott",
+    "entity_type": "lag",
+    "sfs": "2014:307",
+    "short_name": "Penningtvättsstrafflagen"
+  },
+  {
+    "slug": "lagen-om-tobak-och-liknande-produkter",
+    "title": "Lagen om tobak och liknande produkter",
+    "type": "entity",
+    "tags": [
+      "tobak",
+      "handel",
+      "tillstand",
+      "smuggling",
+      "folkhalsa",
+      "tullverket-involverad"
+    ],
+    "snippet": "# Lagen om tobak och liknande produkter (2018:2088) ## Sammanfattning Tobakslagen reglerar hela livscykeln för tobakspro…",
+    "url": "/laws/lagen-om-tobak-och-liknande-produkter",
+    "entity_type": "lag",
+    "sfs": "2018:2088",
+    "short_name": "Tobakslagen"
+  },
+  {
+    "slug": "lagen-om-vissa-internationella-sanktioner",
+    "title": "Lagen om vissa internationella sanktioner",
+    "type": "entity",
+    "tags": [
+      "sanktioner",
+      "export-import",
+      "FN",
+      "EU",
+      "internationell-ratt"
+    ],
+    "snippet": "## Sammanfattning Lagen (1996:95) om vissa internationella sanktioner ger den rättsliga ramen för genomförandet av inter…",
+    "url": "/laws/lagen-om-vissa-internationella-sanktioner",
+    "entity_type": "lag",
+    "sfs": "1996:95",
+    "short_name": "Sanktionslagen"
+  },
+  {
+    "slug": "livsmedelslagen",
+    "title": "Livsmedelslagen",
+    "type": "entity",
+    "tags": [
+      "livsmedel",
+      "import",
+      "halsa",
+      "granskontroll",
+      "offentlig-kontroll"
+    ],
+    "snippet": "## Sammanfattning Livsmedelslagen (2006:804) syftar till att säkerställa en hög skyddsnivå för människors hälsa och kons…",
+    "url": "/laws/livsmedelslagen",
+    "entity_type": "lag",
+    "sfs": "2006:804",
+    "short_name": "Livsmedelslagen"
+  },
+  {
+    "slug": "miljobalken",
+    "title": "Miljöbalken",
+    "type": "entity",
+    "tags": [
+      "miljo",
+      "kemikalier",
+      "artskydd",
+      "avfall",
+      "import",
+      "export",
+      "tillstand"
+    ],
+    "snippet": "## Sammanfattning Miljöbalken (1998:808) är Sveriges miljörättsliga ramlag. Balken sammanförde 16 tidigare miljölagar oc…",
+    "url": "/laws/miljobalken",
+    "entity_type": "lag",
+    "sfs": "1998:808",
+    "short_name": "Miljöbalken"
+  },
+  {
+    "slug": "narkotikastrafflagen",
+    "title": "Narkotikastrafflagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "narkotika",
+      "strafflag",
+      "innehav",
+      "överlåtelse"
+    ],
+    "snippet": "# Narkotikastrafflagen (1968:64) ## Sammanfattning Narkotikastrafflagen är Sveriges grundläggande strafflag för narkotik…",
+    "url": "/laws/narkotikastrafflagen",
+    "entity_type": "lag",
+    "sfs": "1968:64",
+    "short_name": "Narkotikastrafflagen"
+  },
+  {
+    "slug": "skattebrottslagen",
+    "title": "Skattebrottslagen",
+    "type": "entity",
+    "tags": [
+      "skattebrott",
+      "ekonomisk-brottslighet",
+      "skatt"
+    ],
+    "snippet": "## Sammanfattning Skattebrottslagen (1971:69) är den centrala lagen för straffrättsligt ansvar vid skattebrott i Sverige…",
+    "url": "/laws/skattebrottslagen",
+    "entity_type": "lag",
+    "sfs": "1971:69",
+    "short_name": "Skattebrottslagen"
+  },
+  {
+    "slug": "smugglingslagen",
+    "title": "Smugglingslagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "smuggling",
+      "strafflag",
+      "gränsbrott",
+      "narkotika",
+      "vapen",
+      "explosiva-varor",
+      "tullbrott"
+    ],
+    "snippet": "# Smugglingslagen (2000:1225) ## Sammanfattning Smugglingslagen är Sveriges centrala strafflag för olaglig in- och utför…",
+    "url": "/laws/smugglingslagen",
+    "entity_type": "lag",
+    "sfs": "2000:1225",
+    "short_name": "Smugglingslagen"
+  },
+  {
+    "slug": "stralskyddslagen",
+    "title": "Strålskyddslagen",
+    "type": "entity",
+    "tags": [
+      "stralskydd",
+      "radioaktivt-material",
+      "joniserande-stralning",
+      "tillstand",
+      "stralinspektionen"
+    ],
+    "snippet": "## Sammanfattning Strålskyddslagen (2018:396) skyddar människors hälsa och miljön mot skadlig strålning. Lagen täcker jo…",
+    "url": "/laws/stralskyddslagen",
+    "entity_type": "lag",
+    "sfs": "2018:396",
+    "short_name": "Strålskyddslagen"
+  },
+  {
+    "slug": "terroristbrottslagen",
+    "title": "Terroristbrottslagen",
+    "type": "entity",
+    "tags": [
+      "terrorism",
+      "sakerhet",
+      "finansiering-av-terrorism",
+      "forverkande",
+      "organiserad-brottslighet"
+    ],
+    "snippet": "## Sammanfattning Terroristbrottslagen (2022:666) ersatte den tidigare terroristbrottslagen (2003:148) och innehåller et…",
+    "url": "/laws/terroristbrottslagen",
+    "entity_type": "lag",
+    "sfs": "2022:666",
+    "short_name": "Terroristbrottslagen"
+  },
+  {
+    "slug": "tobaksskattelagen",
+    "title": "Tobaksskattelagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "punktskatt",
+      "tobak",
+      "skattskyldighet",
+      "import"
+    ],
+    "snippet": "# Tobaksskattelagen (2022:155) ## Sammanfattning Tobaksskattelagen reglerar punktbeskattning av tobaksvaror och genomför…",
+    "url": "/laws/tobaksskattelagen",
+    "entity_type": "lag",
+    "sfs": "2022:155",
+    "short_name": "Tobaksskattelagen"
+  },
+  {
+    "slug": "trafikbrottslagen",
+    "title": "Trafikbrottslagen",
+    "type": "entity",
+    "tags": [
+      "trafik",
+      "rattfylleri",
+      "narkotika",
+      "korkort"
+    ],
+    "snippet": "## Sammanfattning Trafikbrottslagen (1951:649) är en av de äldsta fortfarande gällande trafikstraffrättsliga lagarna i S…",
+    "url": "/laws/trafikbrottslagen",
+    "entity_type": "lag",
+    "sfs": "1951:649",
+    "short_name": "Trafikbrottslagen"
+  },
+  {
+    "slug": "tullagen",
+    "title": "Tullagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "tull",
+      "tullskuld",
+      "tulltillägg",
+      "tullförseelse",
+      "eu-tullkodex"
+    ],
+    "snippet": "# Tullagen (2016:253) ## Sammanfattning Tullagen är en **kompletteringslagstiftning** till EU:s tullkodex (UTK, förordni…",
+    "url": "/laws/tullagen",
+    "entity_type": "lag",
+    "sfs": "2016:253",
+    "short_name": "Tullagen"
+  },
+  {
+    "slug": "tullbefogenhetslagen",
+    "title": "Tullbefogenhetslagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "befogenheter",
+      "tullkontroll",
+      "brottsbekämpning",
+      "polismansbefogenhet"
+    ],
+    "snippet": "# Tullbefogenhetslagen (2024:710) ## Sammanfattning Tullbefogenhetslagen är Tullverkets centrala befogenhetslag. Den reg…",
+    "url": "/laws/tullbefogenhetslagen",
+    "entity_type": "lag",
+    "sfs": "2024:710",
+    "short_name": "Tullbefogenhetslagen"
+  },
+  {
+    "slug": "tullforordningen",
+    "title": "Tullförordningen",
+    "type": "entity",
+    "tags": [
+      "förordning",
+      "tullrätt",
+      "tullförfaranden",
+      "EU-tullkodex",
+      "tullverket"
+    ],
+    "snippet": "# Tullförordningen (2016:287) ## Sammanfattning Tullförordningen är den centrala svenska genomförandeförordningen till t…",
+    "url": "/laws/tullforordningen",
+    "entity_type": "lag",
+    "sfs": "2016:287",
+    "short_name": "Tullförordningen"
+  },
+  {
+    "slug": "vapenlagen",
+    "title": "Vapenlagen",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "vapen",
+      "skjutvapen",
+      "ammunition",
+      "tillstånd"
+    ],
+    "snippet": "# Vapenlagen (1996:67) ## Sammanfattning Vapenlagen reglerar tillståndsplikt för innehav, handel och in-/utförsel av skj…",
+    "url": "/laws/vapenlagen",
+    "entity_type": "lag",
+    "sfs": "1996:67",
+    "short_name": "Vapenlagen"
+  },
+  {
+    "slug": "artskydd-och-miljo",
+    "title": "Artskydd och miljo",
+    "type": "concept",
+    "tags": [
+      "artskydd",
+      "CITES",
+      "miljo",
+      "kulturarv",
+      "import",
+      "export",
+      "tillstand"
+    ],
+    "snippet": "# Artskydd och miljo ## Definition Artskydd och miljoskydd vid gransen avser Tullverkets roll i att forhindra olovlig in…",
+    "url": "/concepts/artskydd-och-miljo"
+  },
+  {
+    "slug": "brottsbekampning",
+    "title": "Brottsbekämpning — direkt och indirekt",
+    "type": "concept",
+    "tags": [
+      "befogenheter",
+      "brottsbekämpning",
+      "tullverket"
+    ],
+    "snippet": "# Brottsbekämpning — direkt och indirekt ## Definition [[Tullbefogenhetslagen]] delar in Tullverkets brottsbekämpning i …",
+    "url": "/concepts/brottsbekampning"
+  },
+  {
+    "slug": "exportkontroll",
+    "title": "Exportkontroll",
+    "type": "concept",
+    "tags": [
+      "exportkontroll",
+      "krigsmateriel",
+      "dual-use",
+      "sanktioner",
+      "isp"
+    ],
+    "snippet": "# Exportkontroll ## Definition Exportkontroll innebar att staten reglerar och begransar utforsel av varor, teknik och tj…",
+    "url": "/concepts/exportkontroll"
+  },
+  {
+    "slug": "forverkande",
+    "title": "Förverkande",
+    "type": "concept",
+    "tags": [
+      "förverkande",
+      "beslag",
+      "tvångsmedel"
+    ],
+    "snippet": "# Förverkande ## Definition Förverkande innebär att egendom som varit föremål för brott, eller använts som hjälpmedel vi…",
+    "url": "/concepts/forverkande"
+  },
+  {
+    "slug": "narkotika",
+    "title": "Narkotika",
+    "type": "concept",
+    "tags": [
+      "narkotika",
+      "dopning",
+      "halsofarliga-varor",
+      "smuggling",
+      "granskontroll"
+    ],
+    "snippet": "# Narkotika ## Definition Narkotika definieras i [[narkotikastrafflagen]] 8 § som läkemedel eller hälsofarliga varor med…",
+    "url": "/concepts/narkotika"
+  },
+  {
+    "slug": "penningtvatt",
+    "title": "Penningtvätt",
+    "type": "concept",
+    "tags": [
+      "penningtvatt",
+      "ekonomisk-brottslighet",
+      "finansiell-kontroll",
+      "tullverket"
+    ],
+    "snippet": "# Penningtvätt ## Definition Penningtvätt innebär åtgärder som syftar till att dölja att pengar eller annan egendom härr…",
+    "url": "/concepts/penningtvatt"
+  },
+  {
+    "slug": "punktskatt",
+    "title": "Punktskatt",
+    "type": "concept",
+    "tags": [
+      "punktskatt",
+      "tobak",
+      "alkohol",
+      "energi",
+      "skatteundandragande",
+      "import"
+    ],
+    "snippet": "# Punktskatt ## Definition Punktskatter (excise duties) ar sarskilda konsumtionsskatter som tas ut pa specifika varugrup…",
+    "url": "/concepts/punktskatt"
+  },
+  {
+    "slug": "smuggling",
+    "title": "Smuggling",
+    "type": "concept",
+    "tags": [
+      "smuggling",
+      "gränsbrott",
+      "straffbart"
+    ],
+    "snippet": "# Smuggling ## Definition Smuggling innebär att olagligt föra in eller ut varor över Sveriges gräns i strid med förbud e…",
+    "url": "/concepts/smuggling"
+  },
+  {
+    "slug": "tullbrott",
+    "title": "Tullbrott",
+    "type": "concept",
+    "tags": [
+      "tullbrott",
+      "skatteundandragande",
+      "straffbart"
+    ],
+    "snippet": "# Tullbrott ## Definition Tullbrott innebär att uppsåtligen undandra tull, skatt eller avgift från det allmänna i samban…",
+    "url": "/concepts/tullbrott"
+  },
+  {
+    "slug": "vapenreglering",
+    "title": "Vapenreglering",
+    "type": "concept",
+    "tags": [
+      "vapen",
+      "ammunition",
+      "knivar",
+      "farliga-foremal",
+      "explosiva-varor",
+      "tillstand"
+    ],
+    "snippet": "# Vapenreglering ## Definition Vapenreglering vid gransen omfattar kontrollen av skjutvapen, ammunition, knivar, farliga…",
+    "url": "/concepts/vapenreglering"
+  },
+  {
+    "slug": "alkohollagen-2010-1622",
+    "title": "Alkohollag (2010:1622)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "alkohol",
+      "privatinförsel",
+      "monopol"
+    ],
+    "snippet": "# Alkohollag (2010:1622) **SFS:** 2010:1622 | **Ändrad t.o.m.:** SFS 2025:442 Reglerar all handel med alkohol i Sverige.…",
+    "url": "/sources/alkohollagen-2010-1622"
+  },
+  {
+    "slug": "artskyddsforordningen-2007-845",
+    "title": "Artskyddsförordning (2007:845)",
+    "type": "source",
+    "tags": [
+      "forordning",
+      "artskydd",
+      "CITES",
+      "import",
+      "export",
+      "fridlysning"
+    ],
+    "snippet": "# Artskyddsförordning (2007:845) ## Översikt Artskyddsförordningen (2007:845) genomför EU:s fågeldirektiv och art- och h…",
+    "url": "/sources/artskyddsforordningen-2007-845"
+  },
+  {
+    "slug": "brottsdatalagen-2018-1177",
+    "title": "Brottsdatalag (2018:1177)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "personuppgifter",
+      "dataskydd",
+      "brottsbekampning",
+      "EU-direktiv"
+    ],
+    "snippet": "# Brottsdatalag (2018:1177) ## Översikt Brottsdatalagen genomför EU:s dataskyddsdirektiv (2016/680) i svensk rätt och re…",
+    "url": "/sources/brottsdatalagen-2018-1177"
+  },
+  {
+    "slug": "forordning-om-tillstand-for-farliga-foremal-1990-415",
+    "title": "Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål",
+    "type": "source",
+    "tags": [
+      "forordning",
+      "farliga-foremal",
+      "granskontroll",
+      "tillstand",
+      "justitiedepartementet"
+    ],
+    "snippet": "# Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål ## Översikt Förordningen förbjuder utan särs…",
+    "url": "/sources/forordning-om-tillstand-for-farliga-foremal-1990-415"
+  },
+  {
+    "slug": "inregranslagen-1996-701",
+    "title": "Lag (1996:701) om Tullverkets befogenheter vid Sveriges gräns mot ett annat land inom Europeiska unionen",
+    "type": "source",
+    "tags": [
+      "lag",
+      "inregräns",
+      "EU-gräns",
+      "anmälningsskyldighet",
+      "kontanta-medel",
+      "tullverket"
+    ],
+    "snippet": "# Lag (1996:701) om Tullverkets befogenheter vid Sveriges gräns mot ett annat land inom Europeiska unionen (inregränslag…",
+    "url": "/sources/inregranslagen-1996-701"
+  },
+  {
+    "slug": "knivlagen-1988-254",
+    "title": "Lag (1988:254) om förbud beträffande knivar och andra farliga föremål",
+    "type": "source",
+    "tags": [
+      "lag",
+      "knivar",
+      "farliga-föremål"
+    ],
+    "snippet": "# Lag (1988:254) om förbud beträffande knivar och andra farliga föremål ## Översikt Kort lag (4 aktiva §§) som förbjuder…",
+    "url": "/sources/knivlagen-1988-254"
+  },
+  {
+    "slug": "kulturmiljolagen-1988-950",
+    "title": "Kulturmiljölag (1988:950)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "kulturarv",
+      "utforsel",
+      "fornminnen",
+      "kulturforemal"
+    ],
+    "snippet": "# Kulturmiljölag (1988:950) ## Översikt Kulturmiljölagen (1988:950) skyddar det svenska kulturarvet i bred bemärkelse: f…",
+    "url": "/sources/kulturmiljolagen-1988-950"
+  },
+  {
+    "slug": "kustbevakningslagen-2019-32",
+    "title": "Kustbevakningslag (2019:32)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "kustbevakning",
+      "brottsbekampning",
+      "sjoterritorium",
+      "tull",
+      "smuggling"
+    ],
+    "snippet": "# Kustbevakningslag (2019:32) ## Översikt Kustbevakningslagen reglerar Kustbevakningens och kustbevakningstjänstemäns be…",
+    "url": "/sources/kustbevakningslagen-2019-32"
+  },
+  {
+    "slug": "lagen-om-atgarder-mot-penningtvatt-2017-630",
+    "title": "Lag (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism",
+    "type": "source",
+    "tags": [
+      "lag",
+      "penningtvatt",
+      "finansiering-av-terrorism",
+      "finansiell-verksamhet",
+      "tillsyn"
+    ],
+    "snippet": "# Lag (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism ## Översikt Penningtvättslagen syftar till a…",
+    "url": "/sources/lagen-om-atgarder-mot-penningtvatt-2017-630"
+  },
+  {
+    "slug": "lagen-om-brandfarliga-och-explosiva-varor-2010-1011",
+    "title": "Lag (2010:1011) om brandfarliga och explosiva varor",
+    "type": "source",
+    "tags": [
+      "lag",
+      "explosiva-varor",
+      "brandfarliga-varor",
+      "tillstånd"
+    ],
+    "snippet": "# Lag (2010:1011) om brandfarliga och explosiva varor ## Översikt Reglerar hantering, överföring, import och export av b…",
+    "url": "/sources/lagen-om-brandfarliga-och-explosiva-varor-2010-1011"
+  },
+  {
+    "slug": "lagen-om-forbud-mot-vissa-dopningsmedel-1991-1969",
+    "title": "Lag (1991:1969) om förbud mot vissa dopningsmedel",
+    "type": "source",
+    "tags": [
+      "lag",
+      "dopning",
+      "narkotika-adjacent",
+      "folkhalsa",
+      "smuggling"
+    ],
+    "snippet": "# Lag (1991:1969) om förbud mot vissa dopningsmedel ## Översikt Lagen förbjuder hantering av syntetiska anabola steroide…",
+    "url": "/sources/lagen-om-forbud-mot-vissa-dopningsmedel-1991-1969"
+  },
+  {
+    "slug": "lagen-om-forbud-mot-vissa-halsofarliga-varor-1999-42",
+    "title": "Lag (1999:42) om förbud mot vissa hälsofarliga varor",
+    "type": "source",
+    "tags": [
+      "lag",
+      "halsofarliga-varor",
+      "folkhalsa",
+      "smuggling",
+      "narkotika-adjacent"
+    ],
+    "snippet": "# Lag (1999:42) om förbud mot vissa hälsofarliga varor ## Översikt Lagen reglerar varor som innebär fara för människors …",
+    "url": "/sources/lagen-om-forbud-mot-vissa-halsofarliga-varor-1999-42"
+  },
+  {
+    "slug": "lagen-om-handel-med-lakemedel-2009-366",
+    "title": "Lag (2009:366) om handel med läkemedel",
+    "type": "source",
+    "tags": [
+      "lag",
+      "lakemedel",
+      "handel",
+      "apotek",
+      "tillstand"
+    ],
+    "snippet": "# Lag (2009:366) om handel med läkemedel ## Översikt Lagen reglerar all handel med läkemedel i Sverige — detaljhandel vi…",
+    "url": "/sources/lagen-om-handel-med-lakemedel-2009-366"
+  },
+  {
+    "slug": "lagen-om-kontroll-av-dubbla-anvandningsomraden-2000-1064",
+    "title": "Lag (2000:1064) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd",
+    "type": "source",
+    "tags": [
+      "lag",
+      "dubbla-anvandningsomraden",
+      "exportkontroll",
+      "eu-forordning",
+      "utrikesdepartementet"
+    ],
+    "snippet": "# Lag (2000:1064) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd ## Översikt Lagen kompl…",
+    "url": "/sources/lagen-om-kontroll-av-dubbla-anvandningsomraden-2000-1064"
+  },
+  {
+    "slug": "lagen-om-krigsmateriel-1992-1300",
+    "title": "Lag (1992:1300) om krigsmateriel",
+    "type": "source",
+    "tags": [
+      "lag",
+      "krigsmateriel",
+      "exportkontroll",
+      "tillstand",
+      "utrikesdepartementet"
+    ],
+    "snippet": "# Lag (1992:1300) om krigsmateriel ## Översikt Lagen reglerar tillverkning, tillhandahållande, utförsel och tekniskt bis…",
+    "url": "/sources/lagen-om-krigsmateriel-1992-1300"
+  },
+  {
+    "slug": "lagen-om-skatt-pa-energi-1994-1776",
+    "title": "Lag (1994:1776) om skatt på energi",
+    "type": "source",
+    "tags": [
+      "lag",
+      "punktskatt",
+      "energi",
+      "bränsle",
+      "tullrätt",
+      "koldioxidskatt"
+    ],
+    "snippet": "# Lag (1994:1776) om skatt på energi ## Översikt Lagen om skatt på energi (LSE) reglerar energiskatt, koldioxidskatt och…",
+    "url": "/sources/lagen-om-skatt-pa-energi-1994-1776"
+  },
+  {
+    "slug": "lagen-om-straff-for-penningtvattsbrott-2014-307",
+    "title": "Lag (2014:307) om straff för penningtvättsbrott",
+    "type": "source",
+    "tags": [
+      "lag",
+      "penningtvatt",
+      "ekonomisk-brottslighet",
+      "forverkande"
+    ],
+    "snippet": "# Lag (2014:307) om straff för penningtvättsbrott ## Översikt Lagen om straff för penningtvättsbrott (2014:307) innehåll…",
+    "url": "/sources/lagen-om-straff-for-penningtvattsbrott-2014-307"
+  },
+  {
+    "slug": "lagen-om-tobak-och-liknande-produkter-2018-2088",
+    "title": "Lag (2018:2088) om tobak och liknande produkter",
+    "type": "source",
+    "tags": [
+      "lag",
+      "tobak",
+      "handel",
+      "tillstand",
+      "smuggling",
+      "folkhalsa"
+    ],
+    "snippet": "# Lag (2018:2088) om tobak och liknande produkter ## Översikt Lagen syftar till att begränsa hälsorisker av tobak och li…",
+    "url": "/sources/lagen-om-tobak-och-liknande-produkter-2018-2088"
+  },
+  {
+    "slug": "lagen-om-vissa-internationella-sanktioner-1996-95",
+    "title": "Lag (1996:95) om vissa internationella sanktioner",
+    "type": "source",
+    "tags": [
+      "lag",
+      "sanktioner",
+      "internationell-ratt",
+      "export-import",
+      "UN",
+      "EU"
+    ],
+    "snippet": "# Lag (1996:95) om vissa internationella sanktioner ## Översikt Sanktionslagen reglerar genomförandet av internationella…",
+    "url": "/sources/lagen-om-vissa-internationella-sanktioner-1996-95"
+  },
+  {
+    "slug": "livsmedelslagen-2006-804",
+    "title": "Livsmedelslag (2006:804)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "livsmedel",
+      "import",
+      "granskontroll",
+      "halsa"
+    ],
+    "snippet": "# Livsmedelslag (2006:804) ## Översikt Livsmedelslagen (2006:804) syftar till att säkerställa en hög skyddsnivå för männ…",
+    "url": "/sources/livsmedelslagen-2006-804"
+  },
+  {
+    "slug": "miljobalken-1998-808",
+    "title": "Miljöbalk (1998:808)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "miljoratt",
+      "kemikalier",
+      "avfall",
+      "artskydd",
+      "import",
+      "export"
+    ],
+    "snippet": "# Miljöbalk (1998:808) ## Översikt Miljöbalken (1998:808) är Sveriges huvudsakliga miljörättsliga ramlag med 33 kapitel …",
+    "url": "/sources/miljobalken-1998-808"
+  },
+  {
+    "slug": "narkotikastrafflagen-1968-64",
+    "title": "Narkotikastrafflag (1968:64)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "narkotika",
+      "strafflag"
+    ],
+    "snippet": "# Narkotikastrafflag (1968:64) ## Översikt Sveriges grundläggande strafflag för narkotikabrott. Reglerar all olovlig bef…",
+    "url": "/sources/narkotikastrafflagen-1968-64"
+  },
+  {
+    "slug": "skattebrottslagen-1971-69",
+    "title": "Skattebrottslag (1971:69)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "skatt",
+      "skattebrott",
+      "ekonomisk-brottslighet"
+    ],
+    "snippet": "# Skattebrottslag (1971:69) ## Översikt Skattebrottslagen (1971:69) reglerar det straffrättsliga ansvaret för skattebrot…",
+    "url": "/sources/skattebrottslagen-1971-69"
+  },
+  {
+    "slug": "smugglingslagen-2000-1225",
+    "title": "Lag (2000:1225) om straff för smuggling",
+    "type": "source",
+    "tags": [
+      "lag",
+      "smuggling",
+      "strafflag",
+      "gränsbrott"
+    ],
+    "snippet": "# Lag (2000:1225) om straff för smuggling ## Översikt Smugglingslagen är den centrala strafflagen för olaglig in- och ut…",
+    "url": "/sources/smugglingslagen-2000-1225"
+  },
+  {
+    "slug": "stralskyddslagen-2018-396",
+    "title": "Strålskyddslag (2018:396)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "stralskydd",
+      "joniserande-stralning",
+      "radioaktivt-material",
+      "tillstand",
+      "klimat-naringsliv"
+    ],
+    "snippet": "# Strålskyddslag (2018:396) ## Översikt Lagen syftar till att skydda människors hälsa och miljön mot skadlig verkan av s…",
+    "url": "/sources/stralskyddslagen-2018-396"
+  },
+  {
+    "slug": "terroristbrottslagen-2022-666",
+    "title": "Terroristbrottslag (2022:666)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "terrorism",
+      "sakerhet",
+      "finansiering-av-terrorism",
+      "forverkande"
+    ],
+    "snippet": "# Terroristbrottslag (2022:666) ## Översikt Terroristbrottslagen (2022:666) innehåller bestämmelser om terrorism och ann…",
+    "url": "/sources/terroristbrottslagen-2022-666"
+  },
+  {
+    "slug": "tobaksskattelagen-2022-155",
+    "title": "Lag (2022:155) om tobaksskatt",
+    "type": "source",
+    "tags": [
+      "lag",
+      "punktskatt",
+      "tobak",
+      "tullrätt",
+      "skattskyldighet"
+    ],
+    "snippet": "# Lag (2022:155) om tobaksskatt ## Översikt Tobaksskattelagen (2022:155) reglerar punktbeskattning av tobaksvaror i Sver…",
+    "url": "/sources/tobaksskattelagen-2022-155"
+  },
+  {
+    "slug": "trafikbrottslagen-1951-649",
+    "title": "Lag (1951:649) om straff för vissa trafikbrott",
+    "type": "source",
+    "tags": [
+      "lag",
+      "trafik",
+      "rattfylleri",
+      "korkort"
+    ],
+    "snippet": "# Lag (1951:649) om straff för vissa trafikbrott ## Översikt Trafikbrottslagen (1951:649) reglerar straff för ett antal …",
+    "url": "/sources/trafikbrottslagen-1951-649"
+  },
+  {
+    "slug": "tullagen-2016-253",
+    "title": "Tullag (2016:253)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "tull",
+      "tullskuld",
+      "eu-tullkodex"
+    ],
+    "snippet": "# Tullag (2016:253) **SFS:** 2016:253 | **Ändrad t.o.m.:** SFS 2026:148 Kompletteringslagstiftning till EU:s tullkodex. …",
+    "url": "/sources/tullagen-2016-253"
+  },
+  {
+    "slug": "tullbefogenhetslagen-2024-710",
+    "title": "Tullbefogenhetslag (2024:710)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "befogenheter",
+      "tullkontroll",
+      "brottsbekämpning"
+    ],
+    "snippet": "# Tullbefogenhetslag (2024:710) ## Översikt Tullbefogenhetslagen är den centrala befogenhetslagen för Tullverkets verksa…",
+    "url": "/sources/tullbefogenhetslagen-2024-710"
+  },
+  {
+    "slug": "tullforordningen-2016-287",
+    "title": "Tullförordning (2016:287)",
+    "type": "source",
+    "tags": [
+      "förordning",
+      "tullrätt",
+      "tullförfaranden",
+      "EU-tullkodex",
+      "tullverket"
+    ],
+    "snippet": "# Tullförordning (2016:287) ## Översikt Tullförordningen (2016:287) är den centrala svenska genomförandeförordningen som…",
+    "url": "/sources/tullforordningen-2016-287"
+  },
+  {
+    "slug": "vapenlagen-1996-67",
+    "title": "Vapenlag (1996:67)",
+    "type": "source",
+    "tags": [
+      "lag",
+      "vapen",
+      "skjutvapen",
+      "tillstånd"
+    ],
+    "snippet": "# Vapenlag (1996:67) **SFS:** 1996:67 | **Ändrad t.o.m.:** SFS 2024:828 Reglerar tillståndsplikt för skjutvapen, ammunit…",
+    "url": "/sources/vapenlagen-1996-67"
+  },
+  {
+    "slug": "springknivar-kaststjarnor-postpaket",
+    "title": "Situation: Springknivar och kaststjärnor i postpaket från utlandet",
+    "type": "query",
+    "tags": [
+      "situation",
+      "knivar",
+      "postpaket",
+      "gränskontroll"
+    ],
+    "snippet": "# Situation: Springknivar och kaststjärnor i postpaket från utlandet ## Scenario En tulltjänsteman öppnar ett postpaket …",
+    "url": "/querys/springknivar-kaststjarnor-postpaket"
+  }
+]
