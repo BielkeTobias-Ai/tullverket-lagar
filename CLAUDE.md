@@ -398,7 +398,33 @@ Wiki-innehåll är alltid markdown. Men svar på frågor kan ta olika former:
 ## Underhåll
 
 ### Periodisk lint
+Kör `node scripts/lint-wiki.js` (eller `cd command-center && npm run lint-wiki`). Kontrollerar frontmatter, symmetriska kopplingar, broken wikilinks, index-konsistens. **Obligatoriskt efter batch-ingest med parallella agenter** — race conditions skapar asymmetriska kopplingar.
+
 Föreslå hälsokontroll var ~10:e ingest eller när människan frågar.
+
+### Post-batch-ingest checklista
+Vid batch-ingest med flera parallella agenter, kör **alltid** dessa steg efter att agenterna är klara:
+
+1. `node scripts/lint-wiki.js` — fixa rapporterade fel
+2. Konsolidera `wiki/index.md` — agenter kan ha skrivit över varandras tillägg
+3. Konsolidera `wiki/log.md` — verifiera att alla batch-poster finns
+4. Verifiera `wiki/overview.md` — uppdatera om nya kategorier tillkommit
+
+### Deploy till Vercel
+Command center deployar från `command-center/`-mappen. Wiki-filerna (`../wiki/`) är **inte tillgängliga** på Vercel — därför committas genererade JSON-filer i `command-center/content/`.
+
+**Deploy-workflow efter wiki-ändring:**
+
+```bash
+cd command-center
+npm run parse          # Generera content/*.json från wiki/
+git add content/       # Staga uppdaterade JSON-filer
+git commit -m "chore: uppdatera content/ efter wiki-ändring"
+git push               # Triggar Vercel-deploy (om git-integration aktiv)
+# Eller: vercel deploy --prod --scope tobias-projects-a3a09044
+```
+
+**Viktigt:** Om `npm run parse` inte körs efter wiki-ändring hamnar Vercel ur synk med wiki-datan.
 
 ### Sidsplittning
 När en sida passerar ~300 rader, föreslå uppdelning i mer specifika sidor.

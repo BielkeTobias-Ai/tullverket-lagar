@@ -8,7 +8,8 @@
     "prebuild": "tsx scripts/parse-vault.ts",
     "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "lint-wiki": "node ../scripts/lint-wiki.js"
   },
   "dependencies": {
     "@ai-sdk/openai": "^3.0.52",
