@@ -50,6 +50,9 @@ connections:
   - type: overlappar
     target: "[[lagen-om-forbud-mot-vissa-halsofarliga-varor]]"
     context: "Substanser kan reklassificeras mellan narkotika och hälsofarliga varor. Narkotika undantas från hälsofarliga varor-lagen."
+  - type: overlappar
+    target: "[[lagen-om-forbud-mot-vissa-dopningsmedel]]"
+    context: "Dopningslagen täcker substanser som inte klassas som narkotika; parallell struktur med liknande förbud mot innehav och överlåtelse"
 tags:
   - lag
   - narkotika

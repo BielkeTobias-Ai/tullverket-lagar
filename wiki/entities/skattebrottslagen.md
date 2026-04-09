@@ -41,6 +41,9 @@ connections:
   - type: kompletterar
     target: "[[tullbefogenhetslagen]]"
     context: "Tullbefogenhetslagen (2024:710) innehåller bestämmelser om utredning och lagföring av brott enligt skattebrottslagen som rör energiskatt, tobaksskatt och alkoholskatt (1 § tredje stycket)"
+  - type: overlappar
+    target: "[[lagen-om-straff-for-penningtvattsbrott]]"
+    context: "Intäkter från skattebrott kan utgöra förbrott till penningtvättsbrott; ekonomisk brottslighet i importledet kan ge ansvar under båda"
 tags:
   - skattebrott
   - ekonomisk-brottslighet

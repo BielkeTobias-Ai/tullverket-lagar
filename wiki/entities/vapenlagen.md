@@ -41,6 +41,9 @@ connections:
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Smugglingslagen §6a = vapensmuggling över gräns. Vapenlagen = tillståndsplikt och innehav inom Sverige. §9 kap 4 §: olovlig införsel regleras av smugglingslagen."
+  - type: overlappar
+    target: "[[terroristbrottslagen]]"
+    context: "Terroristbrottslagen 5 § kriminaliserar hantering av vapen och ammunition åt terroristorganisation — överlapp med vapenlagen vid olovlig vapenhantering"
   - type: hanvisar-till
     target: "[[smugglingslagen]]"
     context: "9 kap. 4 §: olovlig införsel av vapen, ammunition, ljuddämpare → smugglingslagen."

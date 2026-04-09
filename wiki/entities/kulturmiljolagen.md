@@ -31,6 +31,9 @@ connections:
   - type: kompletterar
     target: "[[miljobalken]]"
     context: "Parallella bestammelser om kulturmiljosskydd; miljobalken namnges i 1 kap. 2 §"
+  - type: overlappar
+    target: "[[miljobalken]]"
+    context: "Kulturmiljölagen och miljöbalken har parallella bestämmelser om kulturmiljöskydd; båda kan aktualiseras vid utförsel av skyddade föremål"
 tags:
   - kulturarv
   - utforsel

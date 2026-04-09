@@ -40,6 +40,9 @@ connections:
   - type: overlappar
     target: "[[lagen-om-krigsmateriel]]"
     context: "Militära produkter i dual-use-lagen definieras som krigsmateriel enligt lagen om krigsmateriel (3 §); ISP är tillståndsmyndighet i båda lagarna"
+  - type: overlappar
+    target: "[[stralskyddslagen]]"
+    context: "Export av radioaktiva dual-use-produkter kan falla under båda lagarna; strålskyddslagen undantar utförsel som täcks av dual-use-lagen (6 kap. 3 §)"
   - type: hanvisar-till
     target: "[[smugglingslagen]]"
     context: "Olovlig export utgör även smuggling; 23 § möjliggör förverkande parallellt med smugglingslagens regler"

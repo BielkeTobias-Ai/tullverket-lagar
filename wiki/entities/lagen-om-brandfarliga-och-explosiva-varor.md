@@ -39,6 +39,12 @@ connections:
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Smugglingslagen §6b reglerar smuggling av explosiva varor över gräns. LBE reglerar hantering/tillstånd inom Sverige. §30: ansvar enligt LBE utgår om gärningen är belagd med straff i smugglingslagen."
+  - type: overlappar
+    target: "[[terroristbrottslagen]]"
+    context: "Terroristbrottslagen 5 § nämner brandfarliga och explosiva varor vid samröre med terroristorganisation — olovlig hantering kan ge ansvar under båda lagarna"
+  - type: overlappar
+    target: "[[lagen-om-krigsmateriel]]"
+    context: "Ammunition och explosiva varor kan falla under båda lagarna; krigsmateriellagen undantar hantering som regleras i LBE (4 §)"
   - type: hanvisar-till
     target: "[[smugglingslagen]]"
     context: "§30 st.2: 'Till ansvar enligt 28, 29 eller 29 a § döms det inte om gärningen är belagd med straff i lagen (2000:1225) om straff för smuggling.'"

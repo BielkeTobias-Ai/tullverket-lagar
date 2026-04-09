@@ -84,6 +84,9 @@ connections:
   - type: kompletterar
     target: "[[inregranslagen]]"
     context: "Inregränslagen skapar anmälningsskyldigheterna vid inre EU-gräns; tullbefogenhetslagen ger befogenheterna att genomföra kontrollen (1 §, 7 § inregränslagen hänvisar hit)."
+  - type: overlappar
+    target: "[[inregranslagen]]"
+    context: "Båda lagarna tillämpas vid kontroll vid inre EU-gräns; inregränslagen ger anmälningsskyldigheterna, tullbefogenhetslagen ger kontrollbefogenheterna"
   - type: kompletterar
     target: "[[tullagen]]"
     context: "Tullagen reglerar tullförfarandet, Tullbefogenhetslagen ger befogenheter för att säkerställa att det följs. Direkt brottsbekämpning (8 kap. 1 §)."

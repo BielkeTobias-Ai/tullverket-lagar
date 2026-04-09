@@ -105,6 +105,15 @@ connections:
   - type: overlappar
     target: "[[livsmedelslagen]]"
     context: "Livsmedelslagen 30 §: smugglingslagen har företräde vid olovlig införsel av livsmedel."
+  - type: overlappar
+    target: "[[inregranslagen]]"
+    context: "Inregränslagens brott är subsidiära till smugglingslagen (6 §); samma gärning vid inre EU-gräns kan falla under båda lagarna"
+  - type: overlappar
+    target: "[[lagen-om-kontroll-av-dubbla-anvandningsomraden]]"
+    context: "Olovlig export av dual-use-produkter kan utgöra smuggling; förverkande enligt 23 § dual-use-lagen parallellt med smugglingslagens regler"
+  - type: overlappar
+    target: "[[terroristbrottslagen]]"
+    context: "Transport av vapen, ammunition och explosiva varor åt terroristorganisation (5 § terroristbrottslagen) kan samtidigt utgöra smuggling"
 tags:
   - lag
   - smuggling

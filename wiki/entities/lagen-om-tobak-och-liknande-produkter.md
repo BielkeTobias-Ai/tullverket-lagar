@@ -47,6 +47,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-forbud-mot-vissa-halsofarliga-varor]]"
     context: "Lagen tillämpas inte på varor klassade som hälsofarliga (1 kap. 4 §)"
+  - type: overlappar
+    target: "[[lagen-om-forbud-mot-vissa-halsofarliga-varor]]"
+    context: "Tobaksvaror och hälsofarliga varor kan överlappa vid gränsdragning; tobakslagen undantar varor klassade som hälsofarliga (1 kap. 4 §)"
 tags:
   - tobak
   - handel

@@ -95,7 +95,7 @@ Försök och förberedelse till dopningsbrott (ej ringa) är straffbart (4 §).
 ## Praktisk tillämpning
 
 > [!situation] Gränskontroll — beslag av dopningsmedel
-> Vid fynd av anabola steroider eller tillväxthormon i postpaket, baggage eller vid fordonskontroll: [[dopningslagen]] för brotten mot 2 §, men **olovlig införsel** åtalas under [[smugglingslagen]]. Beslagregler hämtas från lagen om förverkande av alkohol m.m.
+> Vid fynd av anabola steroider eller tillväxthormon i postpaket, baggage eller vid fordonskontroll: [[lagen-om-forbud-mot-vissa-dopningsmedel|dopningslagen]] för brotten mot 2 §, men **olovlig införsel** åtalas under [[smugglingslagen]]. Beslagregler hämtas från lagen om förverkande av alkohol m.m.
 
 - **Postpaket:** Vanligt förekommande — steroider beställda från utlandet via internet
 - **Kroppskontroll:** Innehav är straffbart utan medicinskt syfte

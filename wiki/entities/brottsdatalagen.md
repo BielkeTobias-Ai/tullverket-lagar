@@ -28,6 +28,9 @@ connections:
   - type: kompletterar
     target: "[[kustbevakningslagen]]"
     context: "Kustbevakningen är behörig myndighet; brottsdatalagen styr personuppgiftsbehandling i kustbevakningens brottsbekämpande verksamhet"
+  - type: overlappar
+    target: "[[kustbevakningslagen]]"
+    context: "Kustbevakningen är behörig myndighet under brottsdatalagen; personuppgiftsbehandling i kustbevakningens brottsbekämpning regleras av båda lagarna"
   - type: hanvisar-till
     target: "[[lagen-om-atgarder-mot-penningtvatt]]"
     context: "Penningtvättslagen 5 kap. hänvisar till brottsdatalagen för personuppgiftsbehandling i brottsbekämpande verksamhet"

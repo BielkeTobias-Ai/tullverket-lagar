@@ -40,6 +40,9 @@ connections:
   - type: hanvisar-till
     target: "[[tullbefogenhetslagen]]"
     context: "1 kap. 1 §: befogenhetsregler finns i tullbefogenhetslagen. 3 kap.: tullövervakning hänvisar till tullbefogenhetslagen."
+  - type: overlappar
+    target: "[[livsmedelslagen]]"
+    context: "Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
 tags:
   - lag
   - tull
