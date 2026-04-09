@@ -53,6 +53,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-brandfarliga-och-explosiva-varor]]"
     context: "1 kap. 6 §: 'Bestämmelser om ammunition som räknas till explosiva varor finns även i lagen (2010:1011) om brandfarliga och explosiva varor.' Avgränsning mellan vapenlagens ammunitionsbegrepp och LBE:s explosiva varor."
+  - type: overlappar
+    target: "[[kustbevakningslagen]]"
+    context: "Vapenbrott till sjöss ingår i Kustbevakningens direkta brottsbekämpning."
 tags:
   - lag
   - vapen

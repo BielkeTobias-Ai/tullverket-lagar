@@ -82,6 +82,9 @@ connections:
     target: "[[alkohollagen]]"
     context: "Omhändertagande av alkoholvara om mottagare saknar rätt att föra in den (5 kap. 24 §, 27 §)."
   - type: kompletterar
+    target: "[[inregranslagen]]"
+    context: "Inregränslagen skapar anmälningsskyldigheterna vid inre EU-gräns; tullbefogenhetslagen ger befogenheterna att genomföra kontrollen (1 §, 7 § inregränslagen hänvisar hit)."
+  - type: kompletterar
     target: "[[tullagen]]"
     context: "Tullagen reglerar tullförfarandet, Tullbefogenhetslagen ger befogenheter för att säkerställa att det följs. Direkt brottsbekämpning (8 kap. 1 §)."
 tags:
@@ -202,6 +205,7 @@ För materiella brott hänvisar lagen till [[smugglingslagen]], brottsbalken m.f
 |-----|----------|
 | [[smugglingslagen]] | Smugglingslagen definierar brotten, Tullbefogenhetslagen ger befogenheterna. Två delar av 2024-reformen. |
 | [[tullagen]] | Tullagen reglerar tullförfarandet, Tullbefogenhetslagen säkerställer att det följs. |
+| [[inregranslagen]] | Inregränslagen skapar anmälningsskyldigheterna vid inre EU-gräns; Tullbefogenhetslagen ger kontrollbefogenheterna. |
 
 ### Hänvisar till
 

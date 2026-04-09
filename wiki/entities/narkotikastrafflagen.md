@@ -47,6 +47,9 @@ connections:
   - type: hanvisar-till
     target: "[[tullbefogenhetslagen]]"
     context: "Indirekt brottsbekämpning (8 kap. 2 §). Tullåklagare får föra talan om innehav/bruk (9 kap. 1 §)."
+  - type: overlappar
+    target: "[[lagen-om-forbud-mot-vissa-halsofarliga-varor]]"
+    context: "Substanser kan reklassificeras mellan narkotika och hälsofarliga varor. Narkotika undantas från hälsofarliga varor-lagen."
 tags:
   - lag
   - narkotika

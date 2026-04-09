@@ -2,7 +2,7 @@
 title: Logg
 type: overview
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-09
 tags:
   - meta
   - logg
@@ -53,6 +53,27 @@ Kompletterade råkällor med full lagtext: Narkotikastrafflagen, Knivlagen, LBE 
 
 ## [2026-04-08] query | Springknivar och kaststjärnor i postpaket
 SITUATION-test: analyserade vilka lagar som gäller vid fynd av springknivar och kaststjärnor i postpaket. Arkiverad som: [[springknivar-kaststjarnor-postpaket]]. Nyckelinsikt: postspärr (7:8) gäller INTE för knivlagen-föremål — bara narkotika/vapen/explosiva varor. Identifierad lucka: införselförordning för knivar saknas i wikin.
+
+## [2026-04-09] ingest | Kulturmiljölagen (1988:950), Artskyddsförordningen (2007:845), Livsmedelslagen (2006:804), Miljöbalken (1998:808)
+Batch-ingest av 4 lagar. Skapade: [[kulturmiljolagen-1988-950]] (källa), [[kulturmiljolagen]] (entitet), [[artskyddsforordningen-2007-845]] (källa), [[artskyddsforordningen]] (entitet), [[livsmedelslagen-2006-804]] (källa), [[livsmedelslagen]] (entitet), [[miljobalken-1998-808]] (källa), [[miljobalken]] (entitet). Uppdaterade: [[index]]. Nyckelkopplingar: kulturmiljölagen → [[smugglingslagen]] (straffhänvisning 5:17), artskyddsförordningen → [[miljobalken]] (speciallag-till), livsmedelslagen → [[smugglingslagen]] (overlapp/subsidiaritet 30 §), miljöbalken → [[artskyddsforordningen]] (overlapp bemyndigandebas).
+
+## [2026-04-09] ingest | Batch A: Skattebrottslagen, Penningtvättsbrottslagen, Trafikbrottslagen, Terroristbrottslagen
+Batch-ingest av 4 lagar. Skapade: [[skattebrottslagen-1971-69]], [[skattebrottslagen]], [[lagen-om-straff-for-penningtvattsbrott-2014-307]], [[lagen-om-straff-for-penningtvattsbrott]], [[trafikbrottslagen-1951-649]], [[trafikbrottslagen]], [[terroristbrottslagen-2022-666]], [[terroristbrottslagen]]. Nyckelkopplingar: skattebrottslagen subsidiär till smugglingslagen (1 §), terroristbrottslagen överlappar smugglingslagen vid samröre med vapen/explosiva varor.
+
+## [2026-04-09] ingest | Batch B: Penningtvättsåtgärder, Internationella sanktioner, Brottsdatalagen, Kustbevakningslagen
+Batch-ingest av 4 lagar. Skapade: [[lagen-om-atgarder-mot-penningtvatt-2017-630]], [[lagen-om-atgarder-mot-penningtvatt]], [[lagen-om-vissa-internationella-sanktioner-1996-95]], [[lagen-om-vissa-internationella-sanktioner]], [[brottsdatalagen-2018-1177]], [[brottsdatalagen]], [[kustbevakningslagen-2019-32]], [[kustbevakningslagen]]. Nyckelkopplingar: kustbevakningslagen ger kustbevakningstjänsteman = tulltjänsteman (7 kap.), sanktionslagen 14 § → tullbefogenhetslagen.
+
+## [2026-04-09] ingest | Batch C: Tullförordningen, Tobaksskattelagen, Energiskattelagen, Inregränslagen
+Batch-ingest av 4 lagar. Skapade: [[tullforordningen-2016-287]], [[tullforordningen]], [[tobaksskattelagen-2022-155]], [[tobaksskattelagen]], [[lagen-om-skatt-pa-energi-1994-1776]], [[lagen-om-skatt-pa-energi]], [[inregranslagen-1996-701]], [[inregranslagen]]. Uppdaterade: [[smugglingslagen]] (overlappar tobaks-/energiskatt), [[tullbefogenhetslagen]] (kompletterar inregränslagen).
+
+## [2026-04-09] ingest | Batch D: Krigsmateriellagen, Dual-use-lagen, Förordning farliga föremål, Strålskyddslagen
+Batch-ingest av 4 lagar. Skapade: [[lagen-om-krigsmateriel-1992-1300]], [[lagen-om-krigsmateriel]], [[lagen-om-kontroll-av-dubbla-anvandningsomraden-2000-1064]], [[lagen-om-kontroll-av-dubbla-anvandningsomraden]], [[forordning-om-tillstand-for-farliga-foremal-1990-415]], [[forordning-om-tillstand-for-farliga-foremal]], [[stralskyddslagen-2018-396]], [[stralskyddslagen]]. Nyckelkopplingar: krigsmateriel och dual-use → smugglingslagen (hänvisar-till), farliga föremål ↔ knivlagen (overlappar).
+
+## [2026-04-09] ingest | Batch E: Dopningsmedel, Hälsofarliga varor, Läkemedelshandel, Tobaksprodukter
+Batch-ingest av 4 lagar. Skapade: [[lagen-om-forbud-mot-vissa-dopningsmedel-1991-1969]], [[lagen-om-forbud-mot-vissa-dopningsmedel]], [[lagen-om-forbud-mot-vissa-halsofarliga-varor-1999-42]], [[lagen-om-forbud-mot-vissa-halsofarliga-varor]], [[lagen-om-handel-med-lakemedel-2009-366]], [[lagen-om-handel-med-lakemedel]], [[lagen-om-tobak-och-liknande-produkter-2018-2088]], [[lagen-om-tobak-och-liknande-produkter]]. Nyckelkopplingar: dopningsmedel/hälsofarliga varor → smugglingslagen (hänvisar-till), hälsofarliga varor ↔ narkotikastrafflagen (overlappar).
+
+## [2026-04-09] update | Symmetriska kopplingar konsoliderade
+Lade till saknade overlappar-kopplingar: smugglingslagen ← kustbevakningslagen/penningtvättsbrottslagen/livsmedelslagen, knivlagen ← förordning farliga föremål, narkotikastrafflagen ← hälsofarliga varor, vapenlagen ← kustbevakningslagen. Uppdaterade: [[index]], [[overview]], [[log]].
 
 ## [2026-04-08] connect | Vapenlagen — nya kopplingar kartlagda
 CONNECT-test: granskade vapenlagen (raw) mot befintliga connections. Hittade saknad koppling: vapenlagen 1:6 → [[lagen-om-brandfarliga-och-explosiva-varor]] (ammunition/explosiva varor). Uppdaterade entitetssidan. Identifierade 6 externa lagar som refereras men saknar råkälla — listade i `raw/att-hamta.md` med URL:er för Obsidian Clipper.

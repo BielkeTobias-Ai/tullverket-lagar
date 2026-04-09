@@ -90,6 +90,21 @@ connections:
   - type: overlappar
     target: "[[tullagen]]"
     context: "Tullförseelse (Tullagen 5 kap.) överlappar med tullbrott (Smugglingslagen §8-10). Smugglingslagen går före (subsidiaritet)."
+  - type: overlappar
+    target: "[[tobaksskattelagen]]"
+    context: "Smuggling av tobak ger parallellt skattskyldighet under tobaksskattelagen och straffansvar under smugglingslagen; tobaksskattelagen 6 § inregränslagen subsidiar till smugglingslagen."
+  - type: overlappar
+    target: "[[lagen-om-skatt-pa-energi]]"
+    context: "Odeklarerad import av bränsle ger parallellt skattskyldighet under LSE och straffansvar under smugglingslagen."
+  - type: overlappar
+    target: "[[kustbevakningslagen]]"
+    context: "Smuggling ingår i Kustbevakningens direkta brottsbekämpning. Parallellt ansvar vid sjögränsen."
+  - type: overlappar
+    target: "[[lagen-om-straff-for-penningtvattsbrott]]"
+    context: "Smugglingsintäkter som tvättas ger ansvar under båda lagarna."
+  - type: overlappar
+    target: "[[livsmedelslagen]]"
+    context: "Livsmedelslagen 30 §: smugglingslagen har företräde vid olovlig införsel av livsmedel."
 tags:
   - lag
   - smuggling
@@ -179,6 +194,11 @@ Smugglingslagen ger i sig inte tulltjänstemän operativa befogenheter (dessa fi
 | [[knivlagen]] | Införsel av förbjudna knivar kan falla under både smugglingslagen §3 och knivlagen. |
 | [[alkohollagen]] | Alkohollagen definierar villkoren (4:4), smugglingslagen straffar överträdelse vid gräns. |
 | [[tullagen]] | Tullförseelse (Tullagen 5 kap.) överlappas av tullbrott (§8-10). Smugglingslagen går före. |
+| [[tobaksskattelagen]] | Tobakssmuggling ger parallellt skattskyldighet och straffansvar. |
+| [[lagen-om-skatt-pa-energi]] | Odeklarerad bränsleimport ger parallellt skattskyldighet och straffansvar. |
+| [[kustbevakningslagen]] | Smuggling ingår i Kustbevakningens direkta brottsbekämpning. Parallellt ansvar vid sjögränsen. |
+| [[lagen-om-straff-for-penningtvattsbrott]] | Smugglingsintäkter som tvättas ger ansvar under båda lagarna. |
+| [[livsmedelslagen]] | Livsmedelslagen 30 §: smugglingslagen har företräde vid olovlig införsel av livsmedel. |
 
 ### Hänvisar till
 

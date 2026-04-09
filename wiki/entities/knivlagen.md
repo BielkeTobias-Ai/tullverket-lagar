@@ -34,6 +34,9 @@ connections:
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Införsel av förbjudna knivar/föremål över gräns kan falla under både knivlagen (innehav) och smugglingslagen §3 (införsel av förbudsvara)."
+  - type: overlappar
+    target: "[[forordning-om-tillstand-for-farliga-foremal]]"
+    context: "Knivlagen = innehav på allmän plats. Förordningen = import/tillstånd. Samma föremål kan falla under båda."
 tags:
   - lag
   - knivar
@@ -74,6 +77,7 @@ Knivlagen ger inga egna befogenheter. Beslag och förverkande följer brottsbalk
 | Lag | Kontext |
 |-----|---------|
 | [[smugglingslagen]] | Införsel av förbjudna knivar/föremål kan falla under både knivlagen (innehav på allmän plats) och smugglingslagen §3 (införsel av förbudsvara). |
+| [[forordning-om-tillstand-for-farliga-foremal]] | Knivlagen = innehav på allmän plats. Förordningen = import/tillstånd. Samma föremål kan falla under båda. |
 
 ### Hänvisar till
 
