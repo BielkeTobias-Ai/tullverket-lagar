@@ -146,6 +146,23 @@ Befogenheter samlades i [[tullbefogenhetslagen]]. [[Smugglingslagen]] behöll st
 | Grovt skattebrott | [[skattebrottslagen]] 4 § | 6 år |
 | Grovt penningtvättsbrott | [[lagen-om-straff-for-penningtvattsbrott]] 5 § | 6 år |
 
+## Konceptguider
+
+Fördjupade tematiska sidor som syntetiserar kunskap tvärs över lagentiteter:
+
+| Koncept | Fokus |
+|---------|-------|
+| [[smuggling]] | Förbuds- och villkorssmuggling, avgränsning mot tullbrott |
+| [[tullbrott]] | Skatteundandragande vid tullbehandling |
+| [[brottsbekampning\|brottsbekämpning]] | Direkt och indirekt brottsbekämpning — Tullverkets befogenhetsnivåer |
+| [[forverkande\|förverkande]] | Beslag och förverkande av varor vid brott |
+| [[narkotika]] | Tre substanslagar, straffskalejämförelse, gränsarbetsfördelning |
+| [[penningtvatt\|penningtvätt]] | Dubbel lagstiftning, förbrott, Tullverkets samverkansroll |
+| [[exportkontroll]] | Krigsmateriel, dual-use, sanktioner — tre pelare |
+| [[vapenreglering]] | Hela vapenspektrumet vid gränsen, subsidiaritetsregler |
+| [[punktskatt]] | Tobak, alkohol, energi — skattskyldighet vid import |
+| [[artskydd-och-miljo]] | CITES, miljöbalken, kulturarv vid gränskontroll |
+
 ## Kopplingsgraf — översikt
 
 Smugglingslagen är den mest sammankopplade noden — de flesta lagar hänvisar till den. Tullbefogenhetslagen är befogenhetsnavet. Mönstret:

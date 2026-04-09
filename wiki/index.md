@@ -89,6 +89,12 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[brottsbekampning|brottsbekämpning]] — Direkt och indirekt brottsbekämpning — Tullverkets två befogenhetsnivåer
 - [[tullbrott]] — Skatteundandragande vid tullbehandling
 - [[forverkande|förverkande]] — Beslag och förverkande av varor vid brott
+- [[penningtvatt|penningtvätt]] — Dubbel lagstiftning (straff + prevention), förbrott vid smuggling, Tullverkets samverkansroll
+- [[narkotika]] — Tre substanslagar (narkotika/dopning/hälsofarliga varor), narkotikasmuggling, gränskontroll
+- [[punktskatt]] — Punktskatter (tobak, alkohol, energi) i tullsammanhang — skattskyldighet vid import
+- [[artskydd-och-miljo]] — Artskydd (CITES), miljöskydd och kulturarv vid gränskontroll
+- [[exportkontroll]] — Kontroll av utförsel: krigsmateriel, dual-use och sanktioner
+- [[vapenreglering]] — Vapenreglering vid gränsen: skjutvapen, explosiva varor, farliga föremål
 
 ## Jämförelser
 

@@ -77,3 +77,12 @@ Lade till saknade overlappar-kopplingar: smugglingslagen ← kustbevakningslagen
 
 ## [2026-04-08] connect | Vapenlagen — nya kopplingar kartlagda
 CONNECT-test: granskade vapenlagen (raw) mot befintliga connections. Hittade saknad koppling: vapenlagen 1:6 → [[lagen-om-brandfarliga-och-explosiva-varor]] (ammunition/explosiva varor). Uppdaterade entitetssidan. Identifierade 6 externa lagar som refereras men saknar råkälla — listade i `raw/att-hamta.md` med URL:er för Obsidian Clipper.
+
+## [2026-04-09] concept | Punktskatt och Artskydd och miljö
+Skapade 2 nya konceptsidor: [[punktskatt]] (punktskatter i tullsammanhang — tobak, alkohol, energi, skattskyldighet vid import, tullbrott vs punktskatteundandragande) och [[artskydd-och-miljo]] (CITES, artskyddsförordningen, miljöbalken, kulturmiljölagen, typiska gränssituationer). Uppdaterade: [[index]]. Källor: [[tobaksskattelagen]], [[lagen-om-skatt-pa-energi]], [[alkohollagen]], [[artskyddsforordningen]], [[miljobalken]], [[kulturmiljolagen]], [[smugglingslagen]].
+
+## [2026-04-09] update | Konceptsidor: penningtvätt och narkotika
+Skapade: [[penningtvatt|penningtvätt]] (koncept), [[narkotika]] (koncept). Penningtvätt täcker dubbel lagstiftning (strafflag + preventivlag), förbrott-principen, Tullverkets samverkansroll, typiska situationer (kontanter vid gräns, hawala, bulvanupplägg). Narkotika täcker tre substanslagar (narkotika/dopning/hälsofarliga varor), hierarki och reklassificering, narkotikasmuggling som specialbrott, straffskalejämförelse, arbetsfördelning vid gräns. Uppdaterade: [[index]].
+
+## [2026-04-09] concept | Exportkontroll och vapenreglering
+Skapade 2 nya konceptsidor: [[exportkontroll]] (tre pelare: krigsmateriel/dual-use/sanktioner, ISP:s roll, PGS-forordningen, catch-all-klausul, typiska situationer) och [[vapenreglering]] (hela vapenspektrumet vid gransen: skjutvapen/ammunition/explosiva varor/farliga foremal/knivar, lagsamverkan med smugglingslagen, subsidiaritetsregler, Tullverkets befogenheter, postparr-luckan). Uppdaterade: [[index]]. Kallor: [[lagen-om-krigsmateriel]], [[lagen-om-kontroll-av-dubbla-anvandningsomraden]], [[lagen-om-vissa-internationella-sanktioner]], [[vapenlagen]], [[lagen-om-brandfarliga-och-explosiva-varor]], [[forordning-om-tillstand-for-farliga-foremal]], [[smugglingslagen]].
