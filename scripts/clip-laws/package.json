@@ -1,0 +1,18 @@
+{
+  "name": "clip-laws",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "clip": "tsx clip-laws.ts",
+    "clip:force": "tsx clip-laws.ts --force",
+    "clip:one": "tsx clip-laws.ts --url"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

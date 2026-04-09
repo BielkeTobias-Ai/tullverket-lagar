@@ -278,7 +278,29 @@ Vanliga situationer där lagen används vid tullkontroll.
 5. msb.se — föreskrifter om brandfarliga/explosiva varor
 6. Övriga myndighetssidor — vid behov
 
-**Regel:** Skriv ALDRIG wiki-innehåll baserat på sökresultat. Research-steget identifierar bara *vilken* källa som behövs och *var* den finns. Innehållet skrivs först efter att råkällan finns i `raw/` (via Clipper eller scraping).
+**Regel:** Skriv ALDRIG wiki-innehåll baserat på sökresultat. Research-steget identifierar bara *vilken* källa som behövs och *var* den finns. Innehållet skrivs först efter att råkällan finns i `raw/` (via clip-scriptet eller Clipper).
+
+### CLIP — Hämta lagtext från riksdagen.se
+
+**Trigger:** En lag/förordning identifierad i RESEARCH behöver hämtas, eller människan säger "clippa", "hämta lagen", "scrapa".
+
+**Verktyg:** `scripts/clip-laws/` — Playwright-script som navigerar riksdagen.se, extraherar metadata + lagtext, formaterar till Format A, sparar till `raw/`.
+
+**Användning:**
+
+```bash
+# En enskild lag:
+cd scripts/clip-laws
+npx tsx clip-laws.ts --url "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/..." --name "lagnamn-yyyy-nnn"
+
+# Alla i laws.ts (batch):
+npm run clip          # skippar befintliga
+npm run clip:force    # skriver över alla
+```
+
+**Filnamnskonvention:** `{lagnamn-utan-aao}-{year}-{number}` (t.ex. `skattebrottslagen-1971-69`)
+
+**Efter clipping:** Kör INGEST-workflowet på den nya filen.
 
 ### UPDATE — Uppdatera befintlig sida
 
