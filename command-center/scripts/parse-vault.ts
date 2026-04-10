@@ -248,7 +248,24 @@ function buildGraph(
     });
   }
 
-  return { nodes, edges };
+  // Filter out edges referencing non-existent nodes (laws not yet in wiki)
+  const nodeIds = new Set(nodes.map((n) => n.id));
+  const validEdges = edges.filter(
+    (e) => nodeIds.has(e.source) && nodeIds.has(e.target)
+  );
+  const droppedCount = edges.length - validEdges.length;
+  if (droppedCount > 0) {
+    console.warn(
+      `  ⚠️  Dropped ${droppedCount} edges with missing target nodes:`
+    );
+    for (const e of edges) {
+      if (!nodeIds.has(e.target)) {
+        console.warn(`     ${e.source} -> ${e.target} (${e.type})`);
+      }
+    }
+  }
+
+  return { nodes, edges: validEdges };
 }
 
 // ---------------------------------------------------------------------------

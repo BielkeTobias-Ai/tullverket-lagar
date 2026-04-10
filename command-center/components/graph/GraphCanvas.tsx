@@ -45,7 +45,11 @@ export function GraphCanvas({ data, activeTypes, searchQuery }: GraphCanvasProps
 
   // Build filtered elements
   const elements = useCallback(() => {
-    const filteredEdges = data.edges.filter((e) => activeTypes.includes(e.type));
+    // Guard: skip edges referencing nodes not in the dataset
+    const nodeIds = new Set(data.nodes.map((n) => n.id));
+    const filteredEdges = data.edges.filter(
+      (e) => activeTypes.includes(e.type) && nodeIds.has(e.source) && nodeIds.has(e.target)
+    );
     const connectedNodeIds = new Set<string>();
     for (const e of filteredEdges) {
       connectedNodeIds.add(e.source);

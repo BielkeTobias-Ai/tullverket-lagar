@@ -1335,27 +1335,6 @@
       "context": "Verkställighetsförordning som meddelad enligt delegation i moderlagen. Reglerar administrativa processer och Skatteverkets befogenheter."
     },
     {
-      "id": "forordningen-om-alkoholskatt--hanvisar-till--EU-förordning-2022-1636",
-      "source": "forordningen-om-alkoholskatt",
-      "target": "EU-förordning-2022-1636",
-      "type": "hanvisar-till",
-      "context": "Dokumentstandard och varuslagskoder enligt bilaga II"
-    },
-    {
-      "id": "forordningen-om-alkoholskatt--hanvisar-till--EU-förordning-2022-1637",
-      "source": "forordningen-om-alkoholskatt",
-      "target": "EU-förordning-2022-1637",
-      "type": "hanvisar-till",
-      "context": "Tillämpningsföreskrifter för dokumenthantering vid uppskovsförfarande"
-    },
-    {
-      "id": "forordningen-om-alkoholskatt--hanvisar-till--EU-förordning-389-2012",
-      "source": "forordningen-om-alkoholskatt",
-      "target": "EU-förordning-389-2012",
-      "type": "hanvisar-till",
-      "context": "Punktskattenummer och administrativt samarbete mellan medlemsstater"
-    },
-    {
       "id": "forordningen-om-dual-use--speciallag-till--lagen-om-kontroll-av-dubbla-anvandningsomraden",
       "source": "forordningen-om-dual-use",
       "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
@@ -1391,32 +1370,11 @@
       "context": "Verkställighetsförordning till sälproduktslagen"
     },
     {
-      "id": "forordningen-om-handel-med-salprodukter--hanvisar-till--eu-forordning-1007-2009-handel-med-salprodukter",
-      "source": "forordningen-om-handel-med-salprodukter",
-      "target": "eu-forordning-1007-2009-handel-med-salprodukter",
-      "type": "hanvisar-till",
-      "context": "Kompletterar Europaparlamentets och rådets förordning (EG) 1007/2009"
-    },
-    {
-      "id": "forordningen-om-handel-med-salprodukter--hanvisar-till--eu-forordning-2015-1850-genomforing-salprodukter",
-      "source": "forordningen-om-handel-med-salprodukter",
-      "target": "eu-forordning-2015-1850-genomforing-salprodukter",
-      "type": "hanvisar-till",
-      "context": "Kompletterar kommissionens genomförandeförordning (EU) 2015/1850"
-    },
-    {
       "id": "forordningen-om-import-och-exportreglering--hanvisar-till--tullagen",
       "source": "forordningen-om-import-och-exportreglering",
       "target": "tullagen",
       "type": "hanvisar-till",
       "context": "Import och export sker inom tullförfarandet. Licensmyndigheterna samverkar med Tullverket."
-    },
-    {
-      "id": "forordningen-om-import-och-exportreglering--hanvisar-till--lagen-om-internationella-sanktioner",
-      "source": "forordningen-om-import-och-exportreglering",
-      "target": "lagen-om-internationella-sanktioner",
-      "type": "hanvisar-till",
-      "context": "Sanktioner kan medföra importlicenstvång som hanteras av denna förordning."
     },
     {
       "id": "forordningen-om-import-och-exportreglering--hanvisar-till--lagen-om-kontroll-av-dubbla-anvandningsomraden",
@@ -1438,13 +1396,6 @@
       "target": "smugglingslagen",
       "type": "hanvisar-till",
       "context": "Olovlig import eller export av licensreglerade varor utgör smuggling med straff enligt denna lag."
-    },
-    {
-      "id": "forordningen-om-import-och-exportreglering--kompletterar--tullkodex-for-unionen",
-      "source": "forordningen-om-import-och-exportreglering",
-      "target": "tullkodex-for-unionen",
-      "type": "kompletterar",
-      "context": "Denna förordning implementerar och verkställer EU:s tullkodex för licenserade varor."
     },
     {
       "id": "forordningen-om-import-och-exportreglering--overlappar--exportkontroll",
@@ -1503,13 +1454,6 @@
       "context": "Verkställighetsförordning till LPK. Reglerar procedur och myndighetssamverkan medan LPK innehåller det substantiella rättsinnehållet."
     },
     {
-      "id": "forordningen-om-punktskattekontroll--hanvisar-till--skatteförfarandeförordningen",
-      "source": "forordningen-om-punktskattekontroll",
-      "target": "skatteförfarandeförordningen",
-      "type": "hanvisar-till",
-      "context": "Betalningssäkring i punktskattärenden styrs av SkatteförF (2011:1261) 11, 17-19 kap. Tullverket träder i Skatteverkets ställe."
-    },
-    {
       "id": "forordningen-om-skatt-pa-energi--kompletterar--lagen-om-skatt-pa-energi",
       "source": "forordningen-om-skatt-pa-energi",
       "target": "lagen-om-skatt-pa-energi",
@@ -1522,13 +1466,6 @@
       "target": "tullagen",
       "type": "hanvisar-till",
       "context": "Omfattande koordination mellan Tullverket och Skatteverket vid import, export och transitering av energiprodukter"
-    },
-    {
-      "id": "forordningen-om-skatt-pa-energi--hanvisar-till--unionstullkodexen",
-      "source": "forordningen-om-skatt-pa-energi",
-      "target": "unionstullkodexen",
-      "type": "hanvisar-till",
-      "context": "Refererar till UCC:s bestämmelser om exportdeklaration, transitering och tullformalia"
     },
     {
       "id": "forordningen-om-skatt-pa-kemikalier--kompletterar--lagen-om-skatt-pa-kemikalier",
@@ -1571,20 +1508,6 @@
       "target": "lagen-om-brandfarliga-och-explosiva-varor",
       "type": "hanvisar-till",
       "context": "4 § undantar vissa transporter enligt lagen om brandfarliga och explosiva varor från förordningens tillämpning när Försvarsmakten är transportör."
-    },
-    {
-      "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--fordonslagen",
-      "source": "forordningen-om-transport-av-farligt-gods",
-      "target": "fordonslagen",
-      "type": "hanvisar-till",
-      "context": "9 § hänvisar till fordonslagen (2002:574) för definitionen av behöriga besiktningsorgan för teknisk kontroll."
-    },
-    {
-      "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--lagen-om-ackreditering-och-teknisk-kontroll",
-      "source": "forordningen-om-transport-av-farligt-gods",
-      "target": "lagen-om-ackreditering-och-teknisk-kontroll",
-      "type": "hanvisar-till",
-      "context": "9 § hänvisar till lagen (2011:791) för Swedacs ackrediteringsbefogenheter."
     },
     {
       "id": "forordningen-om-transport-av-farligt-gods--hanvisar-till--kustbevakningslagen",
@@ -1874,13 +1797,6 @@
       "context": "Straffbestämmelser för olovlig import och export av förbjudna varor"
     },
     {
-      "id": "lagen-om-forbud-mot-pals-av-katt-och-hund--kompletterar--eu-forordning-1523-2007",
-      "source": "lagen-om-forbud-mot-pals-av-katt-och-hund",
-      "target": "eu-forordning-1523-2007",
-      "type": "kompletterar",
-      "context": "Denna lag är nationell implementering av EU-förordningen"
-    },
-    {
       "id": "lagen-om-forbud-mot-vissa-dopningsmedel--hanvisar-till--smugglingslagen",
       "source": "lagen-om-forbud-mot-vissa-dopningsmedel",
       "target": "smugglingslagen",
@@ -2012,20 +1928,6 @@
       "target": "smugglingslagen",
       "type": "hanvisar-till",
       "context": "Import av sälprodukter i strid mot EU-förordningen straffas enligt smugglingslagen (9 §)"
-    },
-    {
-      "id": "lagen-om-handel-med-salprodukter--hanvisar-till--jaktlagen",
-      "source": "lagen-om-handel-med-salprodukter",
-      "target": "jaktlagen",
-      "type": "hanvisar-till",
-      "context": "Kan också tillämpas på överträdelser relaterade till sälprodukter; ansvar utgår inte enligt denna lag om gärningen redan är belagd med straff enligt jaktlagen (8 §)"
-    },
-    {
-      "id": "lagen-om-handel-med-salprodukter--kompletterar--eu-forordning-1007-2009-salprodukter",
-      "source": "lagen-om-handel-med-salprodukter",
-      "target": "eu-forordning-1007-2009-salprodukter",
-      "type": "kompletterar",
-      "context": "Denna lag implementerar och kompletterar EU-förordningen i svensk rätt"
     },
     {
       "id": "lagen-om-handel-med-salprodukter--relevantfor--artskydd-och-miljo",
@@ -2238,32 +2140,11 @@
       "context": "Import definieras via unionstullkodexen; Tullverket beslutar om skatt vid import/otillåten införsel"
     },
     {
-      "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--unionstullkodex",
-      "source": "lagen-om-skatt-pa-kemikalier",
-      "target": "unionstullkodex",
-      "type": "hanvisar-till",
-      "context": "Import avses enligt artikel 201 i UCC; tullskuld enligt artikel 79.1 och 124.1"
-    },
-    {
-      "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--skatteförfarandelagen",
-      "source": "lagen-om-skatt-pa-kemikalier",
-      "target": "skatteförfarandelagen",
-      "type": "hanvisar-till",
-      "context": "Proceduren för skatteväxling, beslut och överklagande följer skatteförfarandelagen (2011:1244) i tillämpliga delar"
-    },
-    {
       "id": "lagen-om-skatt-pa-kemikalier--hanvisar-till--skattebrottslagen",
       "source": "lagen-om-skatt-pa-kemikalier",
       "target": "skattebrottslagen",
       "type": "hanvisar-till",
       "context": "Skatteundandragande vid smuggling kan åtalas även under skattebrottslagen"
-    },
-    {
-      "id": "lagen-om-skatt-pa-kemikalier--kompletterar--miljöbalken",
-      "source": "lagen-om-skatt-pa-kemikalier",
-      "target": "miljöbalken",
-      "type": "kompletterar",
-      "context": "Kemikalieskatten kompletterar miljöbalkens regler om farliga ämnen genom ekonomisk incitament"
     },
     {
       "id": "lagen-om-skatt-pa-kemikalier--overlappar--punktskatt",
@@ -2306,13 +2187,6 @@
       "target": "lagen-om-forbud-mot-vissa-halsofarliga-varor",
       "type": "hanvisar-till",
       "context": "Produkter klassificerade som hälsofarliga enligt denna lag (1999:42) är undantagna från nikotinskatten (5 § 1). E-vätskor klassificerade som akut giftig (farokategori 1–3) är också undantagna, utom högkoncentrerade e-vätskor."
-    },
-    {
-      "id": "lagen-om-skatt-pa-nikotinhaltiga-produkter--hanvisar-till--skatteförfarandelagen",
-      "source": "lagen-om-skatt-pa-nikotinhaltiga-produkter",
-      "target": "skatteförfarandelagen",
-      "type": "hanvisar-till",
-      "context": "Generell administrativ ramen för skattebeslut, omprövning och överklagande — utom för import, där tullagen (2016:253) gäller istället."
     },
     {
       "id": "lagen-om-straff-for-penningtvattsbrott--overlappar--smugglingslagen",
@@ -2474,20 +2348,6 @@
       "target": "tullagen",
       "type": "hanvisar-till",
       "context": "Använd vid lagring av varor i tullagret och frizoner, samt importförfaranden"
-    },
-    {
-      "id": "mervardesskatteforordningen--hanvisar-till--skatteforfarandelagen",
-      "source": "mervardesskatteforordningen",
-      "target": "skatteforfarandelagen",
-      "type": "hanvisar-till",
-      "context": "Bestämmelser om skattekonto (61 kap. 1 §)"
-    },
-    {
-      "id": "mervardesskatteforordningen--hanvisar-till--skatteforfarandeforordningen",
-      "source": "mervardesskatteforordningen",
-      "target": "skatteforfarandeforordningen",
-      "type": "hanvisar-till",
-      "context": "Bestämmelser om förvaring av deklarationer och uppgifter (20 kap. 1 §)"
     },
     {
       "id": "mervardesskattelagen--hanvisar-till--tullagen",
