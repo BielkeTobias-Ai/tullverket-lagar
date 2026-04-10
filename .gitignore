@@ -8,5 +8,9 @@
 # Firecrawl cache
 .firecrawl/
 
+# Node dependencies
+scripts/*/node_modules/
+scripts/*/package-lock.json
+
 # Generated content — committed for Vercel (prebuild needs wiki/ which is outside deploy root)
 .session-saves/
