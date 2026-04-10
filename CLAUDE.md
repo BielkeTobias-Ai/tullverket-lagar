@@ -402,13 +402,26 @@ Kör `node scripts/lint-wiki.js` (eller `cd command-center && npm run lint-wiki`
 
 Föreslå hälsokontroll var ~10:e ingest eller när människan frågar.
 
-### Post-batch-ingest checklista
-Vid batch-ingest med flera parallella agenter, kör **alltid** dessa steg efter att agenterna är klara:
+### Parallella agenter — delade filer
+
+**Regel:** Parallella agenter får BARA skapa/redigera sina egna filer (t.ex. en ny comparison-sida, en ny entity). De ska **INTE** skriva till delade filer:
+- `wiki/index.md`
+- `wiki/log.md`
+- `wiki/overview.md`
+- Konceptsidor eller andra befintliga sidor
+
+Orkestratorn (huvud-agenten) uppdaterar alla delade filer **efter** att de parallella agenterna är klara.
+
+**Varför:** Parallella agenter ser inte varandras skrivningar. Den sista agenten som skriver till en delad fil överskriver alla andras ändringar. Att fixa i efterhand fungerar men är opålitligt.
+
+### Post-batch checklista
+Vid batch-operationer med parallella agenter, kör **alltid** dessa steg efter att agenterna är klara:
 
 1. `node scripts/lint-wiki.js` — fixa rapporterade fel
-2. Konsolidera `wiki/index.md` — agenter kan ha skrivit över varandras tillägg
-3. Konsolidera `wiki/log.md` — verifiera att alla batch-poster finns
-4. Verifiera `wiki/overview.md` — uppdatera om nya kategorier tillkommit
+2. Uppdatera `wiki/index.md` — lägg till alla nya sidor
+3. Uppdatera `wiki/log.md` — en samlad batch-post
+4. Uppdatera berörda konceptsidor med nya korsreferenser
+5. Verifiera `wiki/overview.md` — uppdatera om nya kategorier tillkommit
 
 ### Deploy till Vercel
 Command center deployar från `command-center/`-mappen. Wiki-filerna (`../wiki/`) är **inte tillgängliga** på Vercel — därför committas genererade JSON-filer i `command-center/content/`.
