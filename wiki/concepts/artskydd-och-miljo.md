@@ -3,7 +3,7 @@ title: Artskydd och miljo
 type: concept
 domain: miljo och kulturarv
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 tags:
   - artskydd
   - CITES
@@ -116,6 +116,11 @@ Sarskilt relevanta ar **fluorerade vaxthusgaser (F-gaser)** och **ozonnedbrytand
 
 > [!situation] Skyddat traslag i importerad vara
 > Gods innehaller tropiskt tra av arten Dalbergia (rosentra), listad i CITES Annex B. Kraver import-/exporttillstand fran bade avsandar- och mottagarland. Beslag om tillstand saknas; straffansvar enligt [[miljobalken]] 29 kap. 2b §.
+
+## Jamforelser
+
+- [[artskyddsforordningen-vs-miljobalken]] — Speciallag vs ramlag: CITES-kontroll och kemikalier vid grans
+- [[kulturmiljolagen-vs-artskyddsforordningen]] — Kulturarv vs artskydd: tillstandsmyndigheter, straffvagar och gransdragning
 
 ## Relaterade koncept
 

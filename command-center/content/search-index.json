@@ -2101,6 +2101,35 @@
     "url": "/sources/vapenlagen-1996-67"
   },
   {
+    "slug": "alkohollagen-vs-alkoholskattelagen",
+    "title": "Alkohollagen vs Alkoholskattelagen",
+    "type": "comparison",
+    "tags": [
+      "alkohol",
+      "punktskatt",
+      "import",
+      "privatinforsel",
+      "skattskyldighet"
+    ],
+    "snippet": "# Alkohollagen vs Alkoholskattelagen ## Sammanfattning Sverige reglerar alkohol vid gränsen med två parallella regelverk…",
+    "url": "/comparisons/alkohollagen-vs-alkoholskattelagen"
+  },
+  {
+    "slug": "artskyddsforordningen-vs-miljobalken",
+    "title": "Artskyddsförordningen vs Miljöbalken",
+    "type": "comparison",
+    "tags": [
+      "artskydd",
+      "CITES",
+      "miljo",
+      "kemikalier",
+      "import",
+      "export"
+    ],
+    "snippet": "# Artskyddsförordningen vs Miljöbalken ## Sammanfattning [[Miljöbalken]] (1998:808) är den svenska miljörättens ramlag —…",
+    "url": "/comparisons/artskyddsforordningen-vs-miljobalken"
+  },
+  {
     "slug": "exportkontroll-krigsmateriel-vs-dual-use",
     "title": "Exportkontroll — krigsmateriel vs dual-use",
     "type": "comparison",
@@ -2115,6 +2144,36 @@
     "url": "/comparisons/exportkontroll-krigsmateriel-vs-dual-use"
   },
   {
+    "slug": "kulturmiljolagen-vs-artskyddsforordningen",
+    "title": "Kulturmiljölagen vs Artskyddsförordningen",
+    "type": "comparison",
+    "tags": [
+      "kulturarv",
+      "artskydd",
+      "CITES",
+      "utforsel",
+      "smuggling",
+      "tillstand"
+    ],
+    "snippet": "# Kulturmiljölagen vs Artskyddsförordningen ## Sammanfattning [[kulturmiljolagen]] (1988:950) och [[artskyddsforordninge…",
+    "url": "/comparisons/kulturmiljolagen-vs-artskyddsforordningen"
+  },
+  {
+    "slug": "kustbevakningslagen-vs-tullbefogenhetslagen",
+    "title": "Kustbevakningslagen vs Tullbefogenhetslagen",
+    "type": "comparison",
+    "tags": [
+      "kustbevakning",
+      "tullverket",
+      "befogenheter",
+      "brottsbekampning",
+      "sjoterritorium",
+      "samverkan"
+    ],
+    "snippet": "# Kustbevakningslagen vs Tullbefogenhetslagen ## Sammanfattning Sverige har två myndigheter med överlappande befogenhete…",
+    "url": "/comparisons/kustbevakningslagen-vs-tullbefogenhetslagen"
+  },
+  {
     "slug": "narkotika-dopning-halsofarliga-varor",
     "title": "Narkotika, dopning och hälsofarliga varor — tre substanslagar",
     "type": "comparison",
@@ -2127,6 +2186,21 @@
     ],
     "snippet": "# Narkotika, dopning och hälsofarliga varor — tre substanslagar ## Sammanfattning Sverige reglerar olagliga substanser g…",
     "url": "/comparisons/narkotika-dopning-halsofarliga-varor"
+  },
+  {
+    "slug": "narkotikakontroll-vs-narkotikastrafflagen",
+    "title": "Narkotikakontroll vs Narkotikastrafflagen",
+    "type": "comparison",
+    "tags": [
+      "narkotika",
+      "tillstand",
+      "import",
+      "export",
+      "lakemedelsverket",
+      "smuggling"
+    ],
+    "snippet": "# Narkotikakontroll vs Narkotikastrafflagen ## Sammanfattning Sverige reglerar narkotika med två separata lagar som täck…",
+    "url": "/comparisons/narkotikakontroll-vs-narkotikastrafflagen"
   },
   {
     "slug": "penningtvatt-straff-vs-prevention",

@@ -15,6 +15,18 @@ Kronologisk aktivitetslogg. Append-only. Varje inlägg har parsbart prefix.
 
 ---
 
+## [2026-04-10] comparison | 5 nya jämförelsesidor (batch 2)
+Skapade 5 comparison-sidor parallellt. Totalt: 62 entiteter, 62 källor, 10 koncept, 12 jämförelser.
+
+Skapade:
+- [[artskyddsforordningen-vs-miljobalken]] — Speciallag vs ramlag: CITES-kontroll och kemikalier vid gräns
+- [[alkohollagen-vs-alkoholskattelagen]] — Substansreglering vs beskattning: privatinförsel, uppskov, smuggling
+- [[narkotikakontroll-vs-narkotikastrafflagen]] — Tillståndsregim vs straff: kontroll av legal hantering vs kriminalisering
+- [[kustbevakningslagen-vs-tullbefogenhetslagen]] — Myndighetsöverlapp till sjöss: 7 kap. equvalens, preja, borda
+- [[kulturmiljolagen-vs-artskyddsforordningen]] — Kulturarv vs artskydd: Riksantikvarieämbetet vs Jordbruksverket, straffvägar
+
+Uppdaterade: [[index]].
+
 ## [2026-04-07] init | Wiki initialiserad
 Wiki-strukturen skapad. Mappar: `raw/`, `wiki/sources/`, `wiki/entities/`, `wiki/concepts/`, `wiki/comparisons/`, `wiki/queries/`. Schema: `CLAUDE.md`. Grundfiler: `index.md`, `log.md`, `overview.md`. Redo för första ingest.
 
@@ -115,3 +127,12 @@ Skapade 5 comparison-sidor med parallella agenter:
 - [[penningtvatt-straff-vs-prevention]] — kriminalisering (2014:307) vs prevention (2017:630), kontant-medelkontroll
 - [[exportkontroll-krigsmateriel-vs-dual-use]] — krigsmateriel vs dual-use: ISP, catch-all, sanktioner
 Uppdaterade: [[index]]. Total: 62 entiteter, 62 kallor, 10 koncept, 7 comparisons.
+
+## [2026-04-10] comparison | Artskyddsförordningen vs Miljöbalken
+Skapade [[artskyddsforordningen-vs-miljobalken]]: speciallag vs ramlag vid gränskontroll av arter och kemikalier. Täcker CITES-regimet (21 §), kemikalier (14 kap. MB), straffvägar via miljöbalken 29 kap., 5 typiska situationer, gränsfall och kopplingstabeller. Uppdaterade: [[index]]. Total: 8 comparisons.
+
+## [2026-04-10] comparison | Alkohollagen vs Alkoholskattelagen
+Skapade [[alkohollagen-vs-alkoholskattelagen]]: substansreglering (2010:1622) vs beskattning (2022:156) — två parallella regelverk vid alkoholkontroll vid gräns. Täcker privatinförselsbedömningens tvåstegsprövning (4 kap. 4 § → indikativa mängder), uppskovsförfarandets roll vid kommersiell import, subsidiäritetskedjan vid smuggling, gränsdragningen privatinförsel/kommersiell, distansförsäljning. 5 typiska situationer, 1 gap-callout om Tullverkets TFS. Uppdaterade: [[index]], [[log]]. Total: 9 comparisons.
+
+## [2026-04-10] comparison | Kustbevakningslagen vs Tullbefogenhetslagen
+Skapade [[kustbevakningslagen-vs-tullbefogenhetslagen]]: myndighetsöverlapp vid sjöbaserad brottsbekämpning — Kustbevakningen (2019:32) vs Tullverket (2024:710). Täcker 7 kap.-equvalensen (kustbevakningstjänsteman = tulltjänsteman enligt 3 kap. 15 § st. 2), sjöoperativa befogenheter (preja/borda/föra till hamn), direkt/indirekt brottsbekämpning i båda myndigheterna, gränsdragning sjö vs land vs hamn, 5 typiska situationer, 1 gap-callout om TBL 7 kap. 4-12 §§ räckvidd. Uppdaterade: [[index]]. Total: 10 comparisons.

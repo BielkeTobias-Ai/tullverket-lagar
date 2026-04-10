@@ -3,7 +3,7 @@ title: Narkotika
 type: concept
 domain: narkotika och substanser
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 tags:
   - narkotika
   - dopning
@@ -120,6 +120,11 @@ Sedan 2023 kriminaliserar [[narkotikastrafflagen]] 3b § olovlig befattning med 
 
 > [!situation] NPS/designerdroger — okänd substans
 > Vid fynd av okänd substans misstänkt vara psykoaktiv: identifiera om substansen finns på narkotikaförteckningen, dopningslistan eller listan över hälsofarliga varor. Rätt lag bestäms av klassificeringen. Om ej listad: kan ej lagföras under någon av de tre lagarna.
+
+## Jamforelser
+
+- [[narkotikakontroll-vs-narkotikastrafflagen]] — Tillstandsregim vs straff: kontroll av legal hantering vs kriminalisering
+- [[narkotika-dopning-halsofarliga-varor]] — Tre substanslagar jamforda: straffskalor, klassificering, eget bruk
 
 ## Relaterade koncept
 

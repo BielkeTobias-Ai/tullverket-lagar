@@ -166,6 +166,11 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[tullbrott-vs-skattebrott]] — Undandragande av tull (smugglingslagen §8) vs skatt (skattebrottslagen) vid import
 - [[penningtvatt-straff-vs-prevention]] — Kriminalisering (2014:307) vs prevention/rapportering (2017:630), Tullverkets kontant-medelkontroll
 - [[exportkontroll-krigsmateriel-vs-dual-use]] — Totalförbud med undantag vs fri handel med kontrollpunkter: ISP, catch-all, sanktioner
+- [[artskyddsforordningen-vs-miljobalken]] — Speciallag vs ramlag: CITES-kontroll och kemikalier vid gräns, straffvägar via 29 kap. MB
+- [[alkohollagen-vs-alkoholskattelagen]] — Substansreglering (tillstånd/privatinförsel) vs beskattning (punktskatt/uppskov): två parallella spår vid alkoholkontroll
+- [[narkotikakontroll-vs-narkotikastrafflagen]] — Tillståndsregim (1992:860) vs straffrättslig kriminalisering (1968:64): kontroll vs brott vid narkotikahantering
+- [[kustbevakningslagen-vs-tullbefogenhetslagen]] — Myndighetsöverlapp till sjöss: kustbevakningstjänsteman som tulltjänsteman (7 kap.), preja, borda, brottsbekämpning
+- [[kulturmiljolagen-vs-artskyddsforordningen]] — Kulturarv (75+ år) vs biologiskt artskydd (CITES): tillståndsmyndigheter, straffvägar och gränsdragning vid gränskontroll
 
 ## Frågor
 

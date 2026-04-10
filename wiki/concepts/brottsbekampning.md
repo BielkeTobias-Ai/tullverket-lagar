@@ -3,7 +3,7 @@ title: Brottsbekämpning — direkt och indirekt
 type: concept
 domain: befogenheter
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-10
 tags:
   - befogenheter
   - brottsbekämpning
@@ -59,3 +59,8 @@ Distinktionen är avgörande för vardagsarbetet:
 ## Ingripande utanför både direkt och indirekt brottsbekämpning
 
 Om Tullverket upptäcker brott som varken faller under direkt eller indirekt brottsbekämpning (t.ex. stöld, misshandel) får de ingripa med Polismyndighetens godkännande (8 kap. 25 §). Vid väsentlig olägenhet av att vänta på godkännande får tullen agera direkt.
+
+## Jamforelser
+
+- [[kustbevakningslagen-vs-tullbefogenhetslagen]] — Myndighetsoverlapp till sjoss: kustbevakningstjansteman som tulltjansteman (7 kap.)
+- [[smugglingslagen-vs-tullbefogenhetslagen]] — Brott vs befogenheter: trigger-punkt kontroll till utredning

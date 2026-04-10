@@ -3,7 +3,7 @@ title: Punktskatt
 type: concept
 domain: beskattning
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 
 tags:
   - punktskatt
@@ -102,6 +102,10 @@ Regelverket for punktskattekontroll ar uppdelat i tva lagar som kompletterar var
 | [[lagen-om-punktskattekontroll]] | Skattekonsekvenser: skattebeslut, transporttillagg (40%), administrativt forverkande |
 
 Fore 2024-reformen (SFS 2024:735) fanns kontrollbefogenheterna i LPK:s kapitel 3. Nu ar LPK en ren forfarandelag.
+
+## Jamforelser
+
+- [[alkohollagen-vs-alkoholskattelagen]] — Substansreglering vs beskattning: privatinforsel, uppskov, smuggling
 
 ## Relaterade koncept
 
