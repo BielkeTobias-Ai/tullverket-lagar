@@ -15,6 +15,12 @@ Kronologisk aktivitetslogg. Append-only. Varje inlägg har parsbart prefix.
 
 ---
 
+## [2026-04-11] ingest | Unionens tullkodex (UCC) — EU 952/2013
+Första EU-förordningen i wikin. Hämtad via nytt clip-eu Playwright-script mot EUR-Lex.
+Skapade: [[ucc-eu-952-2013]] (källa), [[ucc]] (entitet).
+Uppdaterade: [[tullagen]] (ny connection: speciallag-till UCC), [[index]], [[overview]].
+Verktyg: scripts/clip-eu/ — EUR-Lex-scraper med oj-*-klasser, AWS WAF-hantering.
+
 ## [2026-04-10] comparison | 5 nya jämförelsesidor (batch 2)
 Skapade 5 comparison-sidor parallellt. Totalt: 62 entiteter, 62 källor, 10 koncept, 12 jämförelser.
 

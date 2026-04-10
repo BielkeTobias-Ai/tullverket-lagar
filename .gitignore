@@ -9,3 +9,4 @@
 .firecrawl/
 
 # Generated content — committed for Vercel (prebuild needs wiki/ which is outside deploy root)
+.session-saves/

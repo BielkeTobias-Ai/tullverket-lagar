@@ -1068,6 +1068,25 @@
     "short_name": "Tullförordningen"
   },
   {
+    "slug": "ucc",
+    "title": "Unionens tullkodex (UCC)",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "ucc",
+      "tullforfaranden",
+      "tullvarde",
+      "ursprung",
+      "klassificering",
+      "AEO"
+    ],
+    "snippet": "# Unionens tullkodex (UCC) — EU 952/2013 ## Sammanfattning Unionens tullkodex (UCC) är EU:s grundläggande tullrättsliga …",
+    "url": "/laws/ucc",
+    "entity_type": "lag",
+    "short_name": "UCC"
+  },
+  {
     "slug": "vapenlagen",
     "title": "Vapenlagen",
     "type": "entity",
@@ -2086,6 +2105,18 @@
     ],
     "snippet": "# Tullförordning (2016:287) ## Översikt Tullförordningen (2016:287) är den centrala svenska genomförandeförordningen som…",
     "url": "/sources/tullforordningen-2016-287"
+  },
+  {
+    "slug": "ucc-eu-952-2013",
+    "title": "Unionens tullkodex (UCC) — EU 952/2013",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "ucc"
+    ],
+    "snippet": "# Unionens tullkodex (UCC) — EU 952/2013 ## Metadata - **CELEX:** 32013R0952 - **EUT:** L 269, 10.10.2013 - **Antagen:**…",
+    "url": "/sources/ucc-eu-952-2013"
   },
   {
     "slug": "vapenlagen-1996-67",

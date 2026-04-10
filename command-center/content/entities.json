@@ -4503,6 +4503,12 @@
         "target": "[[livsmedelslagen]]",
         "targetSlug": "livsmedelslagen",
         "context": "Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
+      },
+      {
+        "type": "speciallag-till",
+        "target": "[[ucc]]",
+        "targetSlug": "ucc",
+        "context": "Tullagen är nationell komplettering (lex specialis) till UCC. 1 kap. 1 §: denna lag kompletterar EU:s tullkodex. UCC reglerar tullförfaranden, tullagen reglerar tullskuld och sanktioner."
       }
     ],
     "depth": "full"
@@ -4779,6 +4785,97 @@
         "target": "[[tullbefogenhetslagen]]",
         "targetSlug": "tullbefogenhetslagen",
         "context": "5 kap. 3 § hänvisar till tullbefogenhetslagen (2024:710) för järnvägs- och postkontroll"
+      }
+    ],
+    "depth": "standard"
+  },
+  {
+    "slug": "ucc",
+    "title": "Unionens tullkodex (UCC)",
+    "type": "entity",
+    "created": "Sat Apr 11 2026 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+    "updated": "Sat Apr 11 2026 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "ucc",
+      "tullforfaranden",
+      "tullvarde",
+      "ursprung",
+      "klassificering",
+      "AEO"
+    ],
+    "sources": [
+      "[[ucc-eu-952-2013]]"
+    ],
+    "bodyHtml": "<h1>Unionens tullkodex (UCC) — EU 952/2013</h1>\n<h2>Sammanfattning</h2>\n<p>Unionens tullkodex (UCC) är EU:s grundläggande tullrättsliga regelverk. Förordningen fastställer regler för varor som förs in i eller ut ur EU:s tullområde och är direkt tillämplig i alla medlemsstater. UCC ersatte den tidigare gemenskapens tullkodex (EEG 2913/92) och trädde i kraft den 1 maj 2016.</p>\n<p>UCC är i princip det \"konstitutionella dokumentet\" för all tullverksamhet i EU — varje svensk lag i wikin som rör tull bygger på eller kompletterar UCC.</p>\n<h2>Befogenheter</h2>\n<p>UCC ger tullmyndigheterna rätt att:</p>\n<ul>\n<li>Genomföra <strong>tullkontroller</strong> genom granskning av varor, handlingar och ekonomiska aktörers räkenskaper (art. 46–49)</li>\n<li><strong>Kvarhålla varor</strong> som saknar korrekta handlingar eller som misstänks bryta mot tullagstiftningen (art. 134)</li>\n<li><strong>Destruera varor</strong> som inte kan hänföras till ett förfarande (art. 197–198)</li>\n<li><strong>Återkalla tillstånd</strong> och AEO-status vid bristande efterlevnad (art. 28, 39)</li>\n<li>Kräva <strong>garantier</strong> för tullskuld (art. 89–100)</li>\n</ul>\n<h2>Struktur</h2>\n<p>UCC har 288 artiklar organiserade i 9 avdelningar:</p>\n<p>| Avdelning | Innehåll | Centrala artiklar |\n|-----------|----------|-------------------|\n| I. Allmänna bestämmelser | Definitioner, AEO, informationskrav | Art. 1–37 |\n| II. Import-/exporttullar | Tulltaxan, klassificering, ursprung, tullvärde | Art. 38–76 |\n| III. Tullskuld och garantier | Skuldens uppkomst, betalning, återbetalning | Art. 77–100 |\n| IV. Varors ankomst | Summarisk deklaration, tillfällig lagring | Art. 101–152 |\n| V. Tullstatus och förfaranden | Unionsstatus, deklaration, förenklingar | Art. 153–209 |\n| VI. Fri omsättning, tullfrihet | Import och tullbefrielse | Art. 210–225 |\n| VII. Särskilda förfaranden | Transit, lagring, aktiv/passiv förädling | Art. 226–262 |\n| VIII. Utförsel | Export och återexport | Art. 263–277 |\n| IX. Slutbestämmelser | Delegering, ikraftträdande | Art. 278–288 |</p>\n<h2>Nyckelbestämmelser</h2>\n<h3>Definitioner (Art. 5)</h3>\n<p>Artikel 5 definierar 48 begrepp som utgör den gemensamma EU-terminologin för tull. De viktigaste:</p>\n<ul>\n<li><strong>Tullförfarande</strong> (p. 16): övergång till fri omsättning, särskilda förfaranden och export</li>\n<li><strong>Unionsvaror</strong> (p. 23): varor helt framställda i EU, varor övergått till fri omsättning, eller framställda av sådana</li>\n<li><strong>Icke-unionsvaror</strong> (p. 24): alla andra varor</li>\n<li><strong>Ekonomisk aktör</strong> (p. 5): person vars verksamhet omfattas av tullagstiftningen</li>\n<li><strong>Tullvärde</strong>: transaktionsvärdet (art. 69–76), centralt för beräkning av tull och moms</li>\n</ul>\n<h3>AEO — Godkänd ekonomisk aktör (Art. 38–39)</h3>\n<p>Tillstånd i två typer:</p>\n<ul>\n<li><strong>AEOC</strong> (tullförenklingar): snabbare handläggning, färre kontroller</li>\n<li><strong>AEOS</strong> (säkerhet): befrielse från vissa deklarationskrav</li>\n</ul>\n<h3>Klassificering (Art. 56–57)</h3>\n<p>Alla varor ska klassificeras enligt Kombinerade nomenklaturen (KN) och TARIC. Klassificeringen avgör tillämplig tullavgift, restriktioner och statistik.</p>\n<h3>Ursprung (Art. 59–68)</h3>\n<p>Två system:</p>\n<ul>\n<li><strong>Icke-preferentiellt ursprung</strong> (art. 59–63): \"Made in\"-bestämning</li>\n<li><strong>Preferentiellt ursprung</strong> (art. 64–68): tullförmåner via frihandelsavtal</li>\n</ul>\n<h3>Tullskuld (Art. 77–87)</h3>\n<p>Tullskulden uppkommer vid:</p>\n<ul>\n<li>Övergång till fri omsättning (art. 77)</li>\n<li>Otillåtet undandragande (art. 79)</li>\n<li>Bristande efterlevnad (art. 79–82)</li>\n</ul>\n<p>Gäldenär är normalt deklaranten (art. 77.3).</p>\n<h2>Kopplingar</h2>\n<p>| Typ | Mål | Kontext |\n|-----|-----|---------|\n| kompletterar | <a href=\"/laws/tullagen\" class=\"wikilink\" data-slug=\"tullagen\">tullagen</a> | Nationell komplettering: tullskuld, tulltillägg, överklagande |\n| kompletterar | <a href=\"/laws/tullforordningen\" class=\"wikilink\" data-slug=\"tullforordningen\">tullforordningen</a> | Verkställighet: myndighetsutpekande, processer |\n| hänvisar-till | <a href=\"/laws/tullbefogenhetslagen\" class=\"wikilink\" data-slug=\"tullbefogenhetslagen\">tullbefogenhetslagen</a> | Kontrollbefogenheter (art. 46–49 förutsätter nationella regler) |\n| hänvisar-till | <a href=\"/laws/lagen-om-tullfrihet\" class=\"wikilink\" data-slug=\"lagen-om-tullfrihet\">lagen-om-tullfrihet</a> | Tullbefrielse (komplement till avd. VI) |\n| hänvisar-till | <a href=\"/laws/lagen-om-frihet-fran-skatt-vid-import\" class=\"wikilink\" data-slug=\"lagen-om-frihet-fran-skatt-vid-import\">lagen-om-frihet-fran-skatt-vid-import</a> | Skattefrihet vid import |\n| hänvisar-till | <a href=\"/laws/smugglingslagen\" class=\"wikilink\" data-slug=\"smugglingslagen\">smugglingslagen</a> | Smuggling = brott mot UCC:s formaliakrav |\n| hänvisar-till | <a href=\"/laws/mervardesskattelagen\" class=\"wikilink\" data-slug=\"mervardesskattelagen\">mervardesskattelagen</a> | Moms vid import bygger på UCC:s tullvärderegler |</p>\n<h2>Praktisk tillämpning</h2>\n<p>UCC tillämpas i alla situationer där varor passerar EU:s yttre gräns:</p>\n<blockquote>\n<p>[!situation] Importdeklaration\nDeklarant lämnar tulldeklaration (art. 158–163). Tullvärde beräknas (art. 69–76). Tullskuld uppkommer (art. 77). Varorna övergår till fri omsättning (art. 201).</p>\n</blockquote>\n<blockquote>\n<p>[!situation] Aktiv förädling\nIcke-unionsvaror importeras tullfritt för bearbetning (art. 256). Förädlade produkter reexporteras eller övergår till fri omsättning med tull på slutprodukten.</p>\n</blockquote>\n<blockquote>\n<p>[!situation] Transitering\nVaror transporteras genom EU:s tullområde under tullkontroll utan att tull uppbärs (art. 226–232). Garantikrav för potentiell tullskuld.</p>\n</blockquote>\n<blockquote>\n<p>[!situation] AEO-kontroll\nEkonomisk aktör med AEOS-status (art. 38–39) får lägre kontrollfrekvens. <a href=\"/laws/tullbefogenhetslagen\" class=\"wikilink\" data-slug=\"tullbefogenhetslagen\">tullbefogenhetslagen</a> styr den faktiska kontrollen.</p>\n</blockquote>\n<blockquote>\n<p>[!gap] Informationslucka\nKompletteringsförordningen (EU 2015/2446) och genomförandeförordningen (EU 2015/2447) saknas ännu i raw/. Operativa detaljer om deklarationsformulär, ursprungsintyg och transitdokument finns där.</p>\n</blockquote>\n",
+    "bodyRaw": "\n# Unionens tullkodex (UCC) — EU 952/2013\n\n## Sammanfattning\n\nUnionens tullkodex (UCC) är EU:s grundläggande tullrättsliga regelverk. Förordningen fastställer regler för varor som förs in i eller ut ur EU:s tullområde och är direkt tillämplig i alla medlemsstater. UCC ersatte den tidigare gemenskapens tullkodex (EEG 2913/92) och trädde i kraft den 1 maj 2016.\n\nUCC är i princip det \"konstitutionella dokumentet\" för all tullverksamhet i EU — varje svensk lag i wikin som rör tull bygger på eller kompletterar UCC.\n\n## Befogenheter\n\nUCC ger tullmyndigheterna rätt att:\n- Genomföra **tullkontroller** genom granskning av varor, handlingar och ekonomiska aktörers räkenskaper (art. 46–49)\n- **Kvarhålla varor** som saknar korrekta handlingar eller som misstänks bryta mot tullagstiftningen (art. 134)\n- **Destruera varor** som inte kan hänföras till ett förfarande (art. 197–198)\n- **Återkalla tillstånd** och AEO-status vid bristande efterlevnad (art. 28, 39)\n- Kräva **garantier** för tullskuld (art. 89–100)\n\n## Struktur\n\nUCC har 288 artiklar organiserade i 9 avdelningar:\n\n| Avdelning | Innehåll | Centrala artiklar |\n|-----------|----------|-------------------|\n| I. Allmänna bestämmelser | Definitioner, AEO, informationskrav | Art. 1–37 |\n| II. Import-/exporttullar | Tulltaxan, klassificering, ursprung, tullvärde | Art. 38–76 |\n| III. Tullskuld och garantier | Skuldens uppkomst, betalning, återbetalning | Art. 77–100 |\n| IV. Varors ankomst | Summarisk deklaration, tillfällig lagring | Art. 101–152 |\n| V. Tullstatus och förfaranden | Unionsstatus, deklaration, förenklingar | Art. 153–209 |\n| VI. Fri omsättning, tullfrihet | Import och tullbefrielse | Art. 210–225 |\n| VII. Särskilda förfaranden | Transit, lagring, aktiv/passiv förädling | Art. 226–262 |\n| VIII. Utförsel | Export och återexport | Art. 263–277 |\n| IX. Slutbestämmelser | Delegering, ikraftträdande | Art. 278–288 |\n\n## Nyckelbestämmelser\n\n### Definitioner (Art. 5)\n\nArtikel 5 definierar 48 begrepp som utgör den gemensamma EU-terminologin för tull. De viktigaste:\n\n- **Tullförfarande** (p. 16): övergång till fri omsättning, särskilda förfaranden och export\n- **Unionsvaror** (p. 23): varor helt framställda i EU, varor övergått till fri omsättning, eller framställda av sådana\n- **Icke-unionsvaror** (p. 24): alla andra varor\n- **Ekonomisk aktör** (p. 5): person vars verksamhet omfattas av tullagstiftningen\n- **Tullvärde**: transaktionsvärdet (art. 69–76), centralt för beräkning av tull och moms\n\n### AEO — Godkänd ekonomisk aktör (Art. 38–39)\n\nTillstånd i två typer:\n- **AEOC** (tullförenklingar): snabbare handläggning, färre kontroller\n- **AEOS** (säkerhet): befrielse från vissa deklarationskrav\n\n### Klassificering (Art. 56–57)\n\nAlla varor ska klassificeras enligt Kombinerade nomenklaturen (KN) och TARIC. Klassificeringen avgör tillämplig tullavgift, restriktioner och statistik.\n\n### Ursprung (Art. 59–68)\n\nTvå system:\n- **Icke-preferentiellt ursprung** (art. 59–63): \"Made in\"-bestämning\n- **Preferentiellt ursprung** (art. 64–68): tullförmåner via frihandelsavtal\n\n### Tullskuld (Art. 77–87)\n\nTullskulden uppkommer vid:\n- Övergång till fri omsättning (art. 77)\n- Otillåtet undandragande (art. 79)\n- Bristande efterlevnad (art. 79–82)\n\nGäldenär är normalt deklaranten (art. 77.3).\n\n## Kopplingar\n\n| Typ | Mål | Kontext |\n|-----|-----|---------|\n| kompletterar | [[tullagen]] | Nationell komplettering: tullskuld, tulltillägg, överklagande |\n| kompletterar | [[tullforordningen]] | Verkställighet: myndighetsutpekande, processer |\n| hänvisar-till | [[tullbefogenhetslagen]] | Kontrollbefogenheter (art. 46–49 förutsätter nationella regler) |\n| hänvisar-till | [[lagen-om-tullfrihet]] | Tullbefrielse (komplement till avd. VI) |\n| hänvisar-till | [[lagen-om-frihet-fran-skatt-vid-import]] | Skattefrihet vid import |\n| hänvisar-till | [[smugglingslagen]] | Smuggling = brott mot UCC:s formaliakrav |\n| hänvisar-till | [[mervardesskattelagen]] | Moms vid import bygger på UCC:s tullvärderegler |\n\n## Praktisk tillämpning\n\nUCC tillämpas i alla situationer där varor passerar EU:s yttre gräns:\n\n> [!situation] Importdeklaration\n> Deklarant lämnar tulldeklaration (art. 158–163). Tullvärde beräknas (art. 69–76). Tullskuld uppkommer (art. 77). Varorna övergår till fri omsättning (art. 201).\n\n> [!situation] Aktiv förädling\n> Icke-unionsvaror importeras tullfritt för bearbetning (art. 256). Förädlade produkter reexporteras eller övergår till fri omsättning med tull på slutprodukten.\n\n> [!situation] Transitering\n> Varor transporteras genom EU:s tullområde under tullkontroll utan att tull uppbärs (art. 226–232). Garantikrav för potentiell tullskuld.\n\n> [!situation] AEO-kontroll\n> Ekonomisk aktör med AEOS-status (art. 38–39) får lägre kontrollfrekvens. [[tullbefogenhetslagen]] styr den faktiska kontrollen.\n\n> [!gap] Informationslucka\n> Kompletteringsförordningen (EU 2015/2446) och genomförandeförordningen (EU 2015/2447) saknas ännu i raw/. Operativa detaljer om deklarationsformulär, ursprungsintyg och transitdokument finns där.\n",
+    "entity_type": "lag",
+    "short_name": "UCC",
+    "status": "gallande",
+    "befogenheter": [
+      "tullkontroll (art. 46-49)",
+      "kvarhallande av varor (art. 134)",
+      "destruktion av varor (art. 197)",
+      "atertagande av tillstand (art. 28)",
+      "AEO-suspension (art. 39)"
+    ],
+    "tillampningsomrade": "Alla varor som fors in i eller ut ur EU:s tullomrade. Direkt tillamplig i alla medlemsstater. Fastsaller tullforfaranden, tullvarde, ursprung, klassificering, tullskuld och garantier.",
+    "straffskala": [],
+    "situationer": [
+      "tulldeklaration-import",
+      "tulldeklaration-export",
+      "transitering",
+      "tillfällig-lagring",
+      "aktiv-forädling",
+      "passiv-forädling",
+      "tullvärdering",
+      "ursprungsbestämning",
+      "klassificering-KN",
+      "AEO-ansökan"
+    ],
+    "connections": [
+      {
+        "type": "kompletterar",
+        "target": "[[tullagen]]",
+        "targetSlug": "tullagen",
+        "context": "Tullagen (2016:253) ar nationell komplettering till UCC. UCC fastsaller ramverket, tullagen reglerar tullskuld, sanktioner och overklagande."
+      },
+      {
+        "type": "kompletterar",
+        "target": "[[tullforordningen]]",
+        "targetSlug": "tullforordningen",
+        "context": "Tullforordningen (2016:287) ar verkstallighetsforordning som pekar ut myndigheter och processer for UCC-tillampning i Sverige."
+      },
+      {
+        "type": "hanvisar-till",
+        "target": "[[tullbefogenhetslagen]]",
+        "targetSlug": "tullbefogenhetslagen",
+        "context": "UCC art. 46-49 forutsatter nationella kontrollbefogenheter. I Sverige finns dessa i TBL (2024:710)."
+      },
+      {
+        "type": "hanvisar-till",
+        "target": "[[lagen-om-tullfrihet]]",
+        "targetSlug": "lagen-om-tullfrihet",
+        "context": "UCC avd. VI (tullbefrielse) kompletteras pa nationell niva av lag (1994:1547) om tullfrihet."
+      },
+      {
+        "type": "hanvisar-till",
+        "target": "[[lagen-om-frihet-fran-skatt-vid-import]]",
+        "targetSlug": "lagen-om-frihet-fran-skatt-vid-import",
+        "context": "Skattefrihet vid import (1994:1551) hanterar den skatterattsliga sidan som UCC inte reglerar."
+      },
+      {
+        "type": "hanvisar-till",
+        "target": "[[smugglingslagen]]",
+        "targetSlug": "smugglingslagen",
+        "context": "Smuggling innebar brott mot UCC:s formaliakrav. Smugglingslagen kriminaliserar overträdelser av in- och utforselregler som UCC fastsaller."
+      },
+      {
+        "type": "hanvisar-till",
+        "target": "[[mervardesskattelagen]]",
+        "targetSlug": "mervardesskattelagen",
+        "context": "Moms vid import (ML 2023:200) bygger pa UCC:s tullvarderegler for att berakna moms."
       }
     ],
     "depth": "standard"

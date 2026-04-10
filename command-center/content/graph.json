@@ -1013,7 +1013,7 @@
         "eu-tullkodex"
       ],
       "depth": "full",
-      "connectionCount": 5
+      "connectionCount": 6
     },
     {
       "id": "tullbefogenhetsforordningen",
@@ -1067,6 +1067,25 @@
       ],
       "depth": "standard",
       "connectionCount": 2
+    },
+    {
+      "id": "ucc",
+      "label": "UCC",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullkodex",
+        "ucc",
+        "tullforfaranden",
+        "tullvarde",
+        "ursprung",
+        "klassificering",
+        "AEO"
+      ],
+      "depth": "standard",
+      "connectionCount": 7
     },
     {
       "id": "vapenlagen",
@@ -2791,6 +2810,13 @@
       "context": "Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
     },
     {
+      "id": "tullagen--speciallag-till--ucc",
+      "source": "tullagen",
+      "target": "ucc",
+      "type": "speciallag-till",
+      "context": "Tullagen är nationell komplettering (lex specialis) till UCC. 1 kap. 1 §: denna lag kompletterar EU:s tullkodex. UCC reglerar tullförfaranden, tullagen reglerar tullskuld och sanktioner."
+    },
+    {
       "id": "tullbefogenhetsforordningen--kompletterar--tullbefogenhetslagen",
       "source": "tullbefogenhetsforordningen",
       "target": "tullbefogenhetslagen",
@@ -2901,6 +2927,55 @@
       "target": "tullbefogenhetslagen",
       "type": "hanvisar-till",
       "context": "5 kap. 3 § hänvisar till tullbefogenhetslagen (2024:710) för järnvägs- och postkontroll"
+    },
+    {
+      "id": "ucc--kompletterar--tullagen",
+      "source": "ucc",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Tullagen (2016:253) ar nationell komplettering till UCC. UCC fastsaller ramverket, tullagen reglerar tullskuld, sanktioner och overklagande."
+    },
+    {
+      "id": "ucc--kompletterar--tullforordningen",
+      "source": "ucc",
+      "target": "tullforordningen",
+      "type": "kompletterar",
+      "context": "Tullforordningen (2016:287) ar verkstallighetsforordning som pekar ut myndigheter och processer for UCC-tillampning i Sverige."
+    },
+    {
+      "id": "ucc--hanvisar-till--tullbefogenhetslagen",
+      "source": "ucc",
+      "target": "tullbefogenhetslagen",
+      "type": "hanvisar-till",
+      "context": "UCC art. 46-49 forutsatter nationella kontrollbefogenheter. I Sverige finns dessa i TBL (2024:710)."
+    },
+    {
+      "id": "ucc--hanvisar-till--lagen-om-tullfrihet",
+      "source": "ucc",
+      "target": "lagen-om-tullfrihet",
+      "type": "hanvisar-till",
+      "context": "UCC avd. VI (tullbefrielse) kompletteras pa nationell niva av lag (1994:1547) om tullfrihet."
+    },
+    {
+      "id": "ucc--hanvisar-till--lagen-om-frihet-fran-skatt-vid-import",
+      "source": "ucc",
+      "target": "lagen-om-frihet-fran-skatt-vid-import",
+      "type": "hanvisar-till",
+      "context": "Skattefrihet vid import (1994:1551) hanterar den skatterattsliga sidan som UCC inte reglerar."
+    },
+    {
+      "id": "ucc--hanvisar-till--smugglingslagen",
+      "source": "ucc",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Smuggling innebar brott mot UCC:s formaliakrav. Smugglingslagen kriminaliserar overträdelser av in- och utforselregler som UCC fastsaller."
+    },
+    {
+      "id": "ucc--hanvisar-till--mervardesskattelagen",
+      "source": "ucc",
+      "target": "mervardesskattelagen",
+      "type": "hanvisar-till",
+      "context": "Moms vid import (ML 2023:200) bygger pa UCC:s tullvarderegler for att berakna moms."
     },
     {
       "id": "vapenlagen--overlappar--smugglingslagen",

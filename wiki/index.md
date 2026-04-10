@@ -2,7 +2,7 @@
 title: Index
 type: overview
 created: 2026-04-07
-updated: 2026-04-10
+updated: 2026-04-11
 
 tags:
   - meta
@@ -18,6 +18,11 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[overview]] — Toppnivå-syntes av all kunskap om svensk tullrätt
 
 ## Källor
+
+### EU-förordningar
+- [[ucc-eu-952-2013]] — Unionens tullkodex (UCC), EU 952/2013 — kärnregelverket (2026-04-11)
+
+### SFS-lagar
 - [[smugglingslagen-2000-1225]] — Lag (2000:1225) om straff för smuggling (2026-04-07)
 - [[tullbefogenhetslagen-2024-710]] — Tullbefogenhetslag (2024:710) (2026-04-08)
 - [[narkotikastrafflagen-1968-64]] — Narkotikastrafflag (1968:64) (2026-04-08)
@@ -82,6 +87,11 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[lagen-om-immunitet-och-privilegier-1976-661]] — Lag (1976:661) om immunitet och privilegier (2026-04-09)
 
 ## Entiteter
+
+### EU-förordningar
+- [[ucc]] — Unionens tullkodex (EU 952/2013) — kärnregelverk för all tullverksamhet i EU
+
+### SFS-lagar
 - [[smugglingslagen]] — Strafflag för smuggling, tullbrott och smuggelgods (SFS 2000:1225)
 - [[tullbefogenhetslagen]] — Befogenhetslag för Tullverkets kontroll och brottsbekämpning (SFS 2024:710)
 - [[narkotikastrafflagen]] — Strafflag för narkotikabrott och narkotikaprekursorer (SFS 1968:64)

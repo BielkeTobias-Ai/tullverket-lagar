@@ -1,0 +1,18 @@
+{
+  "name": "clip-eu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "clip": "tsx clip-eu.ts",
+    "clip:force": "tsx clip-eu.ts --force",
+    "clip:one": "tsx clip-eu.ts --celex"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -2,7 +2,7 @@
 title: Översikt — Svensk tullrätt
 type: overview
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-11
 tags:
   - översikt
   - tullrätt
@@ -39,6 +39,7 @@ sources:
   - "[[artskyddsforordningen-2007-845]]"
   - "[[livsmedelslagen-2006-804]]"
   - "[[miljobalken-1998-808]]"
+  - "[[ucc-eu-952-2013]]"
 ---
 
 # Översikt — Svensk tullrätt
@@ -47,9 +48,17 @@ sources:
 
 Denna wiki samlar kunskap om svensk tullrätt — regelverket som styr import, export och transit av varor genom Sveriges gränser. Fokus ligger på **lagkopplingar**: hur lagar överlappar, kompletterar och hänvisar till varandra i Tullverkets dagliga verksamhet.
 
-**32 lagentiteter** ingestade (8 grundlagar + 24 utökade).
+**63 lagentiteter** ingestade (62 SFS + 1 EU-förordning). 10 koncept, 12 jämförelser.
 
-## Regelverkets struktur
+## EU-nivå — det överordnade regelverket
+
+All svensk tullrätt bygger på EU-rätt. **[[ucc|Unionens tullkodex (UCC)]]** (EU 952/2013) är kärnregelverket — 288 artiklar som fastställer tullförfaranden, tullvärde, ursprung, klassificering, tullskuld och AEO. UCC är direkt tillämplig i alla EU-länder. Svenska lagar ([[tullagen]], [[tullforordningen]]) kompletterar UCC på nationell nivå.
+
+UCC kompletteras av:
+- **Kompletteringsförordningen** (EU 2015/2446) — detaljregler
+- **Genomförandeförordningen** (EU 2015/2447) — processer och formulär
+
+## Regelverkets struktur — svensk lagstiftning
 
 ### 1. Straffrätt — vad är brottsligt?
 

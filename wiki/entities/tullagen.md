@@ -43,6 +43,9 @@ connections:
   - type: overlappar
     target: "[[livsmedelslagen]]"
     context: "Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
+  - type: speciallag-till
+    target: "[[ucc]]"
+    context: "Tullagen är nationell komplettering (lex specialis) till UCC. 1 kap. 1 §: denna lag kompletterar EU:s tullkodex. UCC reglerar tullförfaranden, tullagen reglerar tullskuld och sanktioner."
 tags:
   - lag
   - tull
