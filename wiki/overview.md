@@ -48,15 +48,43 @@ sources:
 
 Denna wiki samlar kunskap om svensk tullrätt — regelverket som styr import, export och transit av varor genom Sveriges gränser. Fokus ligger på **lagkopplingar**: hur lagar överlappar, kompletterar och hänvisar till varandra i Tullverkets dagliga verksamhet.
 
-**63 lagentiteter** ingestade (62 SFS + 1 EU-förordning). 10 koncept, 12 jämförelser.
+**96 lagentiteter** ingestade (62 SFS + 34 EU-förordningar). 10 koncept, 12 jämförelser.
 
 ## EU-nivå — det överordnade regelverket
 
 All svensk tullrätt bygger på EU-rätt. **[[ucc|Unionens tullkodex (UCC)]]** (EU 952/2013) är kärnregelverket — 288 artiklar som fastställer tullförfaranden, tullvärde, ursprung, klassificering, tullskuld och AEO. UCC är direkt tillämplig i alla EU-länder. Svenska lagar ([[tullagen]], [[tullforordningen]]) kompletterar UCC på nationell nivå.
 
-UCC kompletteras av:
-- **Kompletteringsförordningen** (EU 2015/2446) — detaljregler
-- **Genomförandeförordningen** (EU 2015/2447) — processer och formulär
+### UCC-familjen (5 förordningar)
+- **[[kompletteringsforordningen]]** (EU 2015/2446) — ~260 artiklar om EORI, AEO, ursprung, tullvärde, garanti, förenklade deklarationer
+- **[[genomforandeforordningen]]** (EU 2015/2447) — den mest omfångsrika: EORI-tilldelning, BTI/EBTI, AEO-förfaranden, NCTS-transitering, tullkvoter, REX
+- **[[ucc-elektroniska-system]]** (EU 2025/512) — IT-arbetsprogram: 14 centrala system (CDS, ICS2, AES, NCTS, EBTI, EORI 2, AEO, GUM m.fl.)
+- **[[ucc-enda-kontaktpunkt]]** (EU 2022/2399) — EU CSW-CERTEX: automatisk certifikatkontroll vid tulldeklaration
+
+### CITES och djurskydd (6 förordningar)
+- **[[cites-genomforande]]** (EG 865/2006) — CITES-detaljregler: tillstånd, fångenskapsundantag, märkning
+- **[[cites-tillstand]]** (EU 792/2012) — 10 dokumenttyper för CITES-handel
+- **[[importforbud-arter]]** (EU 2025/6) — absolut importförbud för listade arter
+- **[[pals-forbud-eu]]** (EG 1523/2007) — förbud päls av katt/hund
+- **[[salproduktforordningen]]** (EG 1007/2009) — importförbud sälprodukter, undantag för inuit
+- **[[salprodukter-genomforande]]** (EU 2015/1850) — intyg och godkända organ
+
+### Tullar, tullbefrielse och handelsskydd (7 förordningar)
+- **[[tullbefrielseforordningen]]** (EG 1186/2009) — gemenskapssystemet för tullbefrielse, ~25 kategorier
+- **[[tullbefrielse-eu-2018]]** (EU 2018/581) — tullbefrielse för luftfartygsdelar
+- **[[antidumpingsforordningen]]** (EU 2016/1036) — skydd mot dumpad import
+- **[[antisubventionsforordningen]]** (EU 2016/1037) — skydd mot subventionerad import
+- 3 genomförandeförordningar: [[genomforande-tullbefrielse]], [[genomforande-antidumping]], [[tullkvoter-genomforande]]
+
+### Fiske (3 förordningar)
+- **[[fiskerikontrollforordningen]]** (EG 1224/2009) — kontrollsystem för gemensam fiskeripolitik
+- **[[iuu-fiskeforordningen]]** (EG 1005/2008) — fångstintyg vid import, bekämpning av IUU-fiske
+- **[[iuu-genomforande]]** (EG 1010/2009)
+
+### Dual-use, transport, statistik (7 förordningar)
+- **[[pgs-forordningen]]** (EU 2021/821) — exportkontroll för produkter med dubbla användningsområden
+- **[[vagtransportforordningen]]** (EG 1072/2009) — gemenskapstillstånd för godstransport
+- **[[inre-vattenvaagar-forordningen]]** (EG 1100/2008) — avskaffande av gränskontroller
+- 4 statistikförordningar: [[foretagsstatistikforordningen]], [[handelsstatistik-genomforande]], [[foretagsstatistik-genomforande]], [[handelsstatistik-komplettering]]
 
 ## Regelverkets struktur — svensk lagstiftning
 

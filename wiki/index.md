@@ -20,7 +20,58 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 ## Källor
 
 ### EU-förordningar
+
+#### Tullkodex
 - [[ucc-eu-952-2013]] — Unionens tullkodex (UCC), EU 952/2013 — kärnregelverket (2026-04-11)
+- [[ucc-komplettering-eu-2015-2446]] — Kompletteringsförordningen (EU) 2015/2446 — detaljregler till UCC (2026-04-11)
+- [[ucc-genomforande-eu-2015-2447]] — Genomförandeförordningen (EU) 2015/2447 — processer och formulär (2026-04-11)
+- [[ucc-overgang-eu-2016-341]] — Övergångsförordningen (EU) 2016/341 — temporära UCC-regler (2026-04-11)
+- [[ucc-elektroniska-system-eu-2023-2879]] — Elektroniska system (EU) 2023/2879 — IT-arbetsprogram 2023 (2026-04-11)
+- [[ucc-elektroniska-system-eu-2025-512]] — Elektroniska system (EU) 2025/512 — IT-arbetsprogram för UCC (2026-04-11)
+- [[ucc-enda-kontaktpunkt-eu-2022-2399]] — Enda kontaktpunkt (EU) 2022/2399 — EU CSW-CERTEX (2026-04-11)
+
+#### CITES och djurskydd
+- [[cites-forordningen-eg-338-97]] — CITES-förordningen (EG) 338/97 — huvudförordning artskydd (2026-04-11)
+- [[cites-genomforande-eg-865-2006]] — CITES genomförandeförordning (EG) 865/2006 (2026-04-11)
+- [[cites-tillstand-eu-792-2012]] — CITES tillståndsmallar (EU) 792/2012 (2026-04-11)
+- [[importforbud-arter-eu-2025-6]] — Importförbud arter (EU) 2025/6 (2026-04-11)
+- [[forbud-pals-katt-hund-eg-1523-2007]] — Förbud päls katt/hund (EG) 1523/2007 (2026-04-11)
+- [[salprodukter-eg-1007-2009]] — Sälproduktsförordningen (EG) 1007/2009 (2026-04-11)
+- [[salprodukter-genomforande-eu-2015-1850]] — Sälprodukter genomförande (EU) 2015/1850 (2026-04-11)
+
+#### Tulltaxan
+- [[kombinerade-nomenklaturen-eeg-2658-87]] — Kombinerade nomenklaturen (EEG) 2658/87 — KN/TARIC (2026-04-11)
+
+#### Tullar, tullbefrielse och handelsskydd
+- [[tullbefrielse-eg-1186-2009]] — Tullbefrielseförordningen (EG) 1186/2009 (2026-04-11)
+- [[tullbefrielse-eg-150-2003]] — Tullbefrielse militär utrustning (EG) 150/2003 (2026-04-11)
+- [[tullbefrielse-eu-2018-581]] — Tullbefrielse luftfartyg (EU) 2018/581 (2026-04-11)
+- [[antidumping-eu-2016-1036]] — Antidumpningsförordningen (EU) 2016/1036 (2026-04-11)
+- [[antisubvention-eu-2016-1037]] — Antisubventionsförordningen (EU) 2016/1037 (2026-04-11)
+- [[genomforande-tullar-eu-1224-2011]] — Genomförande tullbefrielse institutioner (EU) 1224/2011 (2026-04-11)
+- [[genomforande-antidumping-eu-1225-2011]] — Genomförande vetenskapsmateriel (EU) 1225/2011 (2026-04-11)
+- [[genomforande-tullkvoter-eu-80-2012]] — Förteckning biologiska/kemiska ämnen (EU) 80/2012 (2026-04-11)
+
+#### Fiske
+- [[fiskerikontroll-eg-1224-2009]] — Fiskerikontrollförordningen (EG) 1224/2009 (2026-04-11)
+- [[iuu-fiske-eg-1005-2008]] — IUU-fiskeförordningen (EG) 1005/2008 (2026-04-11)
+- [[iuu-genomforande-eg-1010-2009]] — IUU genomförande (EG) 1010/2009 (2026-04-11)
+
+#### Dual-use
+- [[pgs-forordningen-eu-2021-821]] — PGS-förordningen (EU) 2021/821 — dual-use exportkontroll (2026-04-11)
+
+#### Tullterritorium
+- [[tullterritorium-eeg-3912-92]] — Tullterritorium/kontroll (EEG) 3912/92 (2026-04-11)
+
+#### Transport
+- [[vagtransport-eg-1072-2009]] — Vägtransportförordningen (EG) 1072/2009 (2026-04-11)
+- [[inre-vattenvaagar-eg-1100-2008]] — Inre vattenvägar (EG) 1100/2008 (2026-04-11)
+
+#### Statistik
+- [[eu-foretagsstatistik-eu-2019-2152]] — Företagsstatistik (EU) 2019/2152 (2026-04-11)
+- [[eu-handelsstatistik-eu-2021-1704]] — Handelsstatistik genomförande (EU) 2021/1704 (2026-04-11)
+- [[eu-foretagsstatistik-genomforande-eu-2020-1197]] — Företagsstatistik tekniska spec (EU) 2020/1197 (2026-04-11)
+- [[eu-handelsstatistik-komplettering-eu-2020-1470]] — Handelsstatistik landnomenklatur (EU) 2020/1470 (2026-04-11)
 
 ### SFS-lagar
 - [[smugglingslagen-2000-1225]] — Lag (2000:1225) om straff för smuggling (2026-04-07)
@@ -89,7 +140,58 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 ## Entiteter
 
 ### EU-förordningar
+
+#### Tullkodex
 - [[ucc]] — Unionens tullkodex (EU 952/2013) — kärnregelverk för all tullverksamhet i EU
+- [[kompletteringsforordningen]] — Kompletteringsförordningen (EU) 2015/2446 — detaljregler till UCC
+- [[genomforandeforordningen]] — Genomförandeförordningen (EU) 2015/2447 — processer, formulär, NCTS
+- [[overgangsforordningen]] — Övergångsförordningen (EU) 2016/341 — temporära UCC-regler
+- [[ucc-elektroniska-system-2023]] — Elektroniska system (EU) 2023/2879 — IT-arbetsprogram 2023
+- [[ucc-elektroniska-system]] — Elektroniska system (EU) 2025/512 — IT-arbetsprogram (14 system)
+- [[ucc-enda-kontaktpunkt]] — Enda kontaktpunkt (EU) 2022/2399 — EU CSW-CERTEX
+
+#### Tulltaxan
+- [[kombinerade-nomenklaturen]] — Kombinerade nomenklaturen (EEG) 2658/87 — KN/TARIC, varuklassificering
+
+#### CITES och djurskydd
+- [[cites-forordningen]] — CITES-förordningen (EG) 338/97 — huvudförordning arthandelsreglering
+- [[cites-genomforande]] — CITES genomförande (EG) 865/2006 — tillstånd, fångenskapsundantag, märkning
+- [[cites-tillstand]] — CITES tillståndsmallar (EU) 792/2012 — 10 dokumenttyper
+- [[importforbud-arter]] — Importförbud arter (EU) 2025/6 — absolut importförbud för listade arter
+- [[pals-forbud-eu]] — Förbud päls katt/hund (EG) 1523/2007 — EU-harmoniserat importförbud
+- [[salproduktforordningen]] — Sälproduktsförordningen (EG) 1007/2009 — importförbud med undantag
+- [[salprodukter-genomforande]] — Sälprodukter genomförande (EU) 2015/1850 — intyg och godkända organ
+
+#### Tullar, tullbefrielse och handelsskydd
+- [[tullbefrielseforordningen]] — Tullbefrielseförordningen (EG) 1186/2009 — gemenskapssystemet, ~25 kategorier
+- [[tullbefrielse-suspension]] — Tullbefrielse militär utrustning (EG) 150/2003
+- [[tullbefrielse-eu-2018]] — Tullbefrielse luftfartyg (EU) 2018/581
+- [[antidumpingsforordningen]] — Antidumpningsförordningen (EU) 2016/1036 — skydd mot dumpad import
+- [[antisubventionsforordningen]] — Antisubventionsförordningen (EU) 2016/1037 — skydd mot subventionerad import
+- [[genomforande-tullbefrielse]] — Genomförande tullbefrielse institutioner (EU) 1224/2011
+- [[genomforande-antidumping]] — Genomförande vetenskapsmateriel (EU) 1225/2011
+- [[tullkvoter-genomforande]] — Förteckning biologiska/kemiska ämnen (EU) 80/2012
+
+#### Fiske
+- [[fiskerikontrollforordningen]] — Fiskerikontroll (EG) 1224/2009 — kontrollsystem för gemensam fiskeripolitik
+- [[iuu-fiskeforordningen]] — IUU-fiske (EG) 1005/2008 — fångstintyg, bekämpning av olagligt fiske
+- [[iuu-genomforande]] — IUU genomförande (EG) 1010/2009
+
+#### Dual-use
+- [[pgs-forordningen]] — PGS-förordningen (EU) 2021/821 — dual-use exportkontroll
+
+#### Tullterritorium
+- [[tullterritorium-forordningen]] — Tullterritorium/kontroll (EEG) 3912/92
+
+#### Transport
+- [[vagtransportforordningen]] — Vägtransport (EG) 1072/2009 — gemenskapstillstånd
+- [[inre-vattenvaagar-forordningen]] — Inre vattenvägar (EG) 1100/2008 — avskaffande av gränskontroller
+
+#### Statistik
+- [[foretagsstatistikforordningen]] — Företagsstatistik (EU) 2019/2152 — gemensam ram
+- [[handelsstatistik-genomforande]] — Handelsstatistik tull-/skattedata (EU) 2021/1704
+- [[foretagsstatistik-genomforande]] — Företagsstatistik tekniska spec (EU) 2020/1197
+- [[handelsstatistik-komplettering]] — Handelsstatistik landnomenklatur (EU) 2020/1470
 
 ### SFS-lagar
 - [[smugglingslagen]] — Strafflag för smuggling, tullbrott och smuggelgods (SFS 2000:1225)

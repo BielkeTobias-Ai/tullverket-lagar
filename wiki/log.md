@@ -2,7 +2,7 @@
 title: Logg
 type: overview
 created: 2026-04-07
-updated: 2026-04-10
+updated: 2026-04-11
 tags:
   - meta
   - logg
@@ -142,3 +142,13 @@ Skapade [[alkohollagen-vs-alkoholskattelagen]]: substansreglering (2010:1622) vs
 
 ## [2026-04-10] comparison | Kustbevakningslagen vs Tullbefogenhetslagen
 Skapade [[kustbevakningslagen-vs-tullbefogenhetslagen]]: myndighetsöverlapp vid sjöbaserad brottsbekämpning — Kustbevakningen (2019:32) vs Tullverket (2024:710). Täcker 7 kap.-equvalensen (kustbevakningstjänsteman = tulltjänsteman enligt 3 kap. 15 § st. 2), sjöoperativa befogenheter (preja/borda/föra till hamn), direkt/indirekt brottsbekämpning i båda myndigheterna, gränsdragning sjö vs land vs hamn, 5 typiska situationer, 1 gap-callout om TBL 7 kap. 4-12 §§ räckvidd. Uppdaterade: [[index]]. Total: 10 comparisons.
+
+## [2026-04-11] batch-ingest | 27 EU-förordningar
+
+Batch-klippning från EUR-Lex med `scripts/clip-eu/clip-eu.ts` (Playwright, headless: false). 34 förordningar i listan, 1 redan klar (UCC), 27 lyckades, 6 misslyckades (timeout på CSS-selektor — äldre EUR-Lex-sidlayout).
+
+**Klippade (27 st):** Kompletteringsförordningen (EU 2015/2446), Genomförandeförordningen (EU 2015/2447), Elektroniska system (EU 2025/512), Enda kontaktpunkt (EU 2022/2399), CITES genomförande (EG 865/2006), CITES tillstånd (EU 792/2012), Importförbud arter (EU 2025/6), Päls katt/hund (EG 1523/2007), Sälprodukter (EG 1007/2009), Sälprodukter genomförande (EU 2015/1850), Tullbefrielse (EG 1186/2009), Tullbefrielse luftfartyg (EU 2018/581), Antidumping (EU 2016/1036), Antisubvention (EU 2016/1037), Genomförande tullar (EU 1224/2011), Genomförande antidumping (EU 1225/2011), Tullkvoter (EU 80/2012), Fiskerikontroll (EG 1224/2009), IUU-fiske (EG 1005/2008), IUU genomförande (EG 1010/2009), PGS dual-use (EU 2021/821), Vägtransport (EG 1072/2009), Inre vattenvägar (EG 1100/2008), Företagsstatistik (EU 2019/2152), Handelsstatistik (EU 2021/1704), Företagsstatistik genomförande (EU 2020/1197), Handelsstatistik komplettering (EU 2020/1470).
+
+**Misslyckade (6 st):** Övergångsförordningen (EU 2016/341), Elektroniska system 2023 (EU 2023/2879), CITES-förordningen (EG 338/97), Kombinerade nomenklaturen (EEG 2658/87), Tullbefrielse (EG 150/2003), Tullterritorium (EEG 3912/92).
+
+**Ingest:** 4 parallella agenter (Tullkodex, CITES, Tullar, Mixed). Skapade 27 source-sidor + 27 entity-sidor. Orkestrator konsoliderade index, log, overview. Total: 90 entiteter (62 SFS + 28 EU).

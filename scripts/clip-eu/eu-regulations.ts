@@ -10,7 +10,7 @@ export const TULLKODEX: EuRegulation[] = [
   { celex: "32015R2446", filename: "ucc-komplettering-eu-2015-2446", shortName: "Kompletteringsforordningen" },
   { celex: "32015R2447", filename: "ucc-genomforande-eu-2015-2447", shortName: "Genomforandeforordningen" },
   { celex: "32016R0341", filename: "ucc-overgang-eu-2016-341", shortName: "Overgangsforordningen" },
-  { celex: "32023R2879", filename: "ucc-elektroniska-system-eu-2023-2879", shortName: "Elektroniska system (2023)" },
+  { celex: "32023D2879", filename: "ucc-elektroniska-system-eu-2023-2879", shortName: "Elektroniska system (2023)" },
   { celex: "32025R0512", filename: "ucc-elektroniska-system-eu-2025-512", shortName: "Elektroniska system (2025)" },
   { celex: "32022R2399", filename: "ucc-enda-kontaktpunkt-eu-2022-2399", shortName: "Enda kontaktpunkt" },
 ];

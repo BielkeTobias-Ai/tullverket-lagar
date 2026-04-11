@@ -236,10 +236,47 @@ async function main() {
       // EUR-Lex can be slow for large regulations — generous timeouts
       await page.goto(url, { waitUntil: "load", timeout: 90_000 });
 
-      // Wait for the actual regulation content to render
-      await page.waitForSelector("#docHtml, .eli-container", {
-        timeout: 60_000,
+      // Check for "document does not exist" error
+      const docMissing = await page.evaluate(() =>
+        document.title.includes("does not exist") ||
+        (document.body.textContent || "").includes("The requested document does not exist")
+      );
+      if (docMissing) {
+        throw new Error("Dokumentet finns inte pa EUR-Lex (fel CELEX?)");
+      }
+
+      // Check for "too large to display" with a click-through link
+      const oversizeLink = await page.evaluate(() => {
+        const el = document.querySelector("#errorDocumentView a, .alert a");
+        if (!el) return null;
+        const text = (el.closest("#errorDocumentView, .alert")?.textContent || "");
+        if (text.includes("cannot be displayed due to its size") || text.includes("Click here")) {
+          return (el as HTMLAnchorElement).href;
+        }
+        return null;
       });
+
+      if (oversizeLink) {
+        console.log(`${prefix} OVERSIZE — following direct link`);
+        await page.goto(oversizeLink, { waitUntil: "load", timeout: 120_000 });
+        // Oversize documents load as raw HTML — wait longer
+        await page.waitForTimeout(10000);
+      }
+
+      // Wait for the actual regulation content to render
+      // Try multiple selectors with a shorter individual timeout
+      try {
+        await page.waitForSelector("#docHtml, .eli-container, #document1, #TexteOnly", {
+          timeout: 60_000,
+        });
+      } catch {
+        // Last resort: check if page has substantial text content anyway
+        const bodyLen = await page.evaluate(() => (document.body.textContent || "").length);
+        if (bodyLen < 5000) {
+          throw new Error(`Inget innehall hittat (body: ${bodyLen} tecken)`);
+        }
+        // Content exists but no known container — proceed with extraction
+      }
 
       // Extra wait for large documents to fully render
       await page.waitForTimeout(3000);

@@ -18,6 +18,37 @@
       "connectionCount": 5
     },
     {
+      "id": "antidumpingsforordningen",
+      "label": "Antidumpningsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "antidumping",
+        "handelsforsvar",
+        "importtullar"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "antisubventionsforordningen",
+      "label": "Antisubventionsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "antisubvention",
+        "utjamningstullar",
+        "handelsforsvar",
+        "importtullar"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
       "id": "artskyddsforordningen",
       "label": "Artskyddsförordningen",
       "type": "entity",
@@ -50,6 +81,106 @@
         "kustbevakning"
       ],
       "depth": "full",
+      "connectionCount": 4
+    },
+    {
+      "id": "cites-forordningen",
+      "label": "CITES-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "cites",
+        "artskydd",
+        "handel",
+        "eu-forordning",
+        "natur",
+        "import",
+        "export",
+        "tullkontroll",
+        "vilda-djur-vaxter"
+      ],
+      "depth": "full",
+      "connectionCount": 6
+    },
+    {
+      "id": "cites-genomforande",
+      "label": "CITES genomförandeförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "cites",
+        "artskydd",
+        "tillstand",
+        "intyg"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
+    },
+    {
+      "id": "cites-tillstand",
+      "label": "CITES tillståndsmallsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "cites",
+        "artskydd",
+        "tillstand",
+        "dokumentmallar"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "fiskerikontrollforordningen",
+      "label": "Fiskerikontrollförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "fiske",
+        "kontroll",
+        "gemensam-fiskeripolitik"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "foretagsstatistik-genomforande",
+      "label": "Företagsstatistik tekniska specifikationer",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "statistik",
+        "foretagsstatistik",
+        "tekniska-specifikationer",
+        "genomforande",
+        "sdmx"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "foretagsstatistikforordningen",
+      "label": "Företagsstatistikförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "statistik",
+        "foretagsstatistik",
+        "handelsstatistik",
+        "eurostat"
+      ],
+      "depth": "standard",
       "connectionCount": 4
     },
     {
@@ -302,6 +433,117 @@
       "connectionCount": 3
     },
     {
+      "id": "genomforande-antidumping",
+      "label": "Genomförandeförordning vetenskapsmateriel",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullbefrielse",
+        "genomforande",
+        "vetenskap",
+        "undervisning"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "genomforande-tullbefrielse",
+      "label": "Genomförandeförordning tullbefrielse institutioner",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullbefrielse",
+        "genomforande",
+        "institutioner"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "genomforandeforordningen",
+      "label": "Genomförandeförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullkodex",
+        "genomforandeforordning",
+        "ucc-familj"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
+    },
+    {
+      "id": "handelsstatistik-genomforande",
+      "label": "Handelsstatistik tull- och skattedata",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "statistik",
+        "handelsstatistik",
+        "tulldata",
+        "skattedata",
+        "delegerad"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "handelsstatistik-komplettering",
+      "label": "Handelsstatistik landnomenklatur",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "statistik",
+        "handelsstatistik",
+        "landnomenklatur",
+        "geografisk-uppdelning"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "importforbud-arter",
+      "label": "Importförbudsförordningen för arter",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "cites",
+        "artskydd",
+        "importforbud",
+        "vilda-djur"
+      ],
+      "depth": "standard",
+      "connectionCount": 4
+    },
+    {
+      "id": "inre-vattenvaagar-forordningen",
+      "label": "Inre vattenvägar-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "transport",
+        "gransreglering",
+        "inre-marknaden",
+        "vattenvaagar"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
+    },
+    {
       "id": "inregransforordningen",
       "label": "Inregränsförordningen",
       "type": "entity",
@@ -337,6 +579,38 @@
       "connectionCount": 7
     },
     {
+      "id": "iuu-fiskeforordningen",
+      "label": "IUU-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "fiske",
+        "iuu",
+        "import-kontroll",
+        "fangstintyg"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "iuu-genomforande",
+      "label": "IUU-genomförandeförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "fiske",
+        "iuu",
+        "genomforande",
+        "fangstintyg"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
+    },
+    {
       "id": "knivlagen",
       "label": "Knivlagen",
       "type": "entity",
@@ -352,6 +626,38 @@
       ],
       "depth": "full",
       "connectionCount": 4
+    },
+    {
+      "id": "kombinerade-nomenklaturen",
+      "label": "KN",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "KN",
+        "varuklassificering",
+        "tulltaxa",
+        "TARIC",
+        "nomenklatur",
+        "EU-forordning"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "kompletteringsforordningen",
+      "label": "Kompletteringsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullkodex",
+        "delegerad-forordning",
+        "ucc-familj"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
     },
     {
       "id": "kulturmiljolagen",
@@ -877,6 +1183,55 @@
       "connectionCount": 5
     },
     {
+      "id": "overgangsforordningen",
+      "label": "UCC Övergångsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "UCC",
+        "overgang",
+        "EU-forordning",
+        "IT-system",
+        "historisk"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "pals-forbud-eu",
+      "label": "Päls-förbudet katt/hund",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "djurskydd",
+        "pals",
+        "importforbud",
+        "katt",
+        "hund"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "pgs-forordningen",
+      "label": "PGS-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "dual-use",
+        "exportkontroll",
+        "sakerhet",
+        "icke-spridning"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
       "id": "rattegangsbalken",
       "label": "Rättegångsbalken",
       "type": "entity",
@@ -894,6 +1249,38 @@
       ],
       "depth": "standard",
       "connectionCount": 3
+    },
+    {
+      "id": "salprodukter-genomforande",
+      "label": "Sälprodukter genomförandeförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "salprodukter",
+        "djurskydd",
+        "intyg",
+        "godkanda-organ"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "salproduktforordningen",
+      "label": "Sälproduktsförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "salprodukter",
+        "djurskydd",
+        "importforbud",
+        "inuit"
+      ],
+      "depth": "standard",
+      "connectionCount": 4
     },
     {
       "id": "skattebrottslagen",
@@ -1052,6 +1439,52 @@
       "connectionCount": 11
     },
     {
+      "id": "tullbefrielse-eu-2018",
+      "label": "Luftfartstullbefrielsen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullbefrielse",
+        "luftfart",
+        "gemensamma-tulltaxan"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "tullbefrielse-suspension",
+      "label": "Militär tullbefrielse 150/2003",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "tullbefrielse",
+        "militär-utrustning",
+        "vapen",
+        "suspension",
+        "EU-forordning",
+        "försvar"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "tullbefrielseforordningen",
+      "label": "Tullbefrielseförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullbefrielse",
+        "gemenskapssystem"
+      ],
+      "depth": "standard",
+      "connectionCount": 5
+    },
+    {
       "id": "tullforordningen",
       "label": "Tullförordningen",
       "type": "entity",
@@ -1064,6 +1497,93 @@
         "tullförfaranden",
         "EU-tullkodex",
         "tullverket"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "tullkvoter-genomforande",
+      "label": "Förteckning biologiska/kemiska ämnen tullbefrielse",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullbefrielse",
+        "genomforande",
+        "biologiska-amnen",
+        "kemiska-amnen",
+        "vetenskap"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "tullterritorium-forordningen",
+      "label": "Transportkontrollförordningen 3912/92",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "tullterritorium",
+        "transportkontroll",
+        "inre-marknad",
+        "tredjeland",
+        "EU-forordning",
+        "gränskontroll"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "ucc-elektroniska-system-2023",
+      "label": "UCC elektroniska system 2023",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "ucc",
+        "elektroniska-system",
+        "tullkodex",
+        "digitalisering",
+        "eu-beslut",
+        "ics2",
+        "ncts",
+        "aes",
+        "cci"
+      ],
+      "depth": "standard",
+      "connectionCount": 2
+    },
+    {
+      "id": "ucc-elektroniska-system",
+      "label": "UCC IT-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullkodex",
+        "elektroniska-system",
+        "it-infrastruktur",
+        "ucc-familj"
+      ],
+      "depth": "standard",
+      "connectionCount": 3
+    },
+    {
+      "id": "ucc-enda-kontaktpunkt",
+      "label": "EU CSW-förordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "tullkodex",
+        "digitalisering",
+        "enda-kontaktpunkt",
+        "eu-csw-certex",
+        "ucc-familj"
       ],
       "depth": "standard",
       "connectionCount": 2
@@ -1086,6 +1606,22 @@
       ],
       "depth": "standard",
       "connectionCount": 7
+    },
+    {
+      "id": "vagtransportforordningen",
+      "label": "Vägtransportförordningen",
+      "type": "entity",
+      "entity_type": "lag",
+      "status": "gallande",
+      "tags": [
+        "eu-forordning",
+        "transport",
+        "vagtransport",
+        "cabotage",
+        "gemenskapstillstand"
+      ],
+      "depth": "standard",
+      "connectionCount": 1
     },
     {
       "id": "vapenlagen",
@@ -1277,6 +1813,48 @@
       "context": "Alkohollagen reglerar handeln och tillstanden; alkoholskattelagen (2022:156) reglerar beskattningen. Kvantitetsgranser for resandeinforsel finns i alkoholskattelagen 2 kap. 11 ss."
     },
     {
+      "id": "antidumpingsforordningen--overlappar--antisubventionsforordningen",
+      "source": "antidumpingsforordningen",
+      "target": "antisubventionsforordningen",
+      "type": "overlappar",
+      "context": "Parallella handelsskyddsförordningar; antidumping och antisubvention kan tillämpas parallellt mot samma import"
+    },
+    {
+      "id": "antidumpingsforordningen--kompletterar--ucc",
+      "source": "antidumpingsforordningen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Antidumpningstullar tas ut inom ramen för UCC:s tullförfaranden; samma deklarationsförfaranden"
+    },
+    {
+      "id": "antidumpingsforordningen--kompletterar--tullagen",
+      "source": "antidumpingsforordningen",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Tullverket verkställer antidumpningstullar i Sverige"
+    },
+    {
+      "id": "antisubventionsforordningen--overlappar--antidumpingsforordningen",
+      "source": "antisubventionsforordningen",
+      "target": "antidumpingsforordningen",
+      "type": "overlappar",
+      "context": "Parallella handelsskyddsförordningar; antidumping och antisubvention kan tillämpas parallellt mot samma import"
+    },
+    {
+      "id": "antisubventionsforordningen--kompletterar--ucc",
+      "source": "antisubventionsforordningen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Utjämningstullar tas ut inom ramen för UCC:s tullförfaranden"
+    },
+    {
+      "id": "antisubventionsforordningen--kompletterar--tullagen",
+      "source": "antisubventionsforordningen",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "Tullverket verkställer utjämningstullar i Sverige"
+    },
+    {
       "id": "artskyddsforordningen--speciallag-till--miljobalken",
       "source": "artskyddsforordningen",
       "target": "miljobalken",
@@ -1324,6 +1902,132 @@
       "target": "lagen-om-atgarder-mot-penningtvatt",
       "type": "hanvisar-till",
       "context": "Penningtvättslagen 5 kap. hänvisar till brottsdatalagen för personuppgiftsbehandling i brottsbekämpande verksamhet"
+    },
+    {
+      "id": "cites-forordningen--kompletterar--artskyddsforordningen",
+      "source": "cites-forordningen",
+      "target": "artskyddsforordningen",
+      "type": "kompletterar",
+      "context": "Artskyddsförordningen kompletterar CITES-förordningens skydd av arter inom Sverige"
+    },
+    {
+      "id": "cites-forordningen--hanvisar-till--miljobalken",
+      "source": "cites-forordningen",
+      "target": "miljobalken",
+      "type": "hanvisar-till",
+      "context": "Miljöbalken innehåller straffsanktioner och inhemsk tillämpning av artskyddsbestämmelserna"
+    },
+    {
+      "id": "cites-forordningen--hanvisar-till--smugglingslagen",
+      "source": "cites-forordningen",
+      "target": "smugglingslagen",
+      "type": "hanvisar-till",
+      "context": "Olaglig handel med CITES-skyddade arter kan utgöra smuggling och åtalas under smugglingslagen"
+    },
+    {
+      "id": "cites-forordningen--overlappar--cites-genomforande",
+      "source": "cites-forordningen",
+      "target": "cites-genomforande",
+      "type": "overlappar",
+      "context": "Detaljerade genomförandebestämmelser för CITES-förordningens tillämpning"
+    },
+    {
+      "id": "cites-forordningen--overlappar--cites-tillstand",
+      "source": "cites-forordningen",
+      "target": "cites-tillstand",
+      "type": "overlappar",
+      "context": "Reglerar tillståndshantering och utfärdande av CITES-intyg"
+    },
+    {
+      "id": "cites-forordningen--overlappar--importforbud-arter",
+      "source": "cites-forordningen",
+      "target": "importforbud-arter",
+      "type": "overlappar",
+      "context": "Importförbud för specifika arter som komplement till CITES-systemet"
+    },
+    {
+      "id": "cites-genomforande--kompletterar--artskyddsforordningen",
+      "source": "cites-genomforande",
+      "target": "artskyddsforordningen",
+      "type": "kompletterar",
+      "context": "Artskyddsförordningen (SFS 2007:845) är den svenska implementeringen av CITES; EU-förordningen är direkt tillämplig men artskyddsförordningen specificerar svenska myndigheter och förfaranden"
+    },
+    {
+      "id": "cites-genomforande--overlappar--miljobalken",
+      "source": "cites-genomforande",
+      "target": "miljobalken",
+      "type": "overlappar",
+      "context": "Artskyddsbrott och brott mot CITES-regelverket kan beivras under 29 kap. miljöbalken"
+    },
+    {
+      "id": "cites-genomforande--overlappar--smugglingslagen",
+      "source": "cites-genomforande",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smuggling av CITES-skyddade arter utgör brott enligt smugglingslagen"
+    },
+    {
+      "id": "cites-tillstand--overlappar--smugglingslagen",
+      "source": "cites-tillstand",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Smuggling av CITES-skyddade arter beivras även under smugglingslagen"
+    },
+    {
+      "id": "fiskerikontrollforordningen--kompletterar--iuu-fiskeforordningen",
+      "source": "fiskerikontrollforordningen",
+      "target": "iuu-fiskeforordningen",
+      "type": "kompletterar",
+      "context": "Fiskerikontrollförordningen utgör det breda kontrollsystemet; IUU-förordningen specificerar åtgärder mot olagligt fiske"
+    },
+    {
+      "id": "fiskerikontrollforordningen--hanvisar-till--iuu-fiskeforordningen",
+      "source": "fiskerikontrollforordningen",
+      "target": "iuu-fiskeforordningen",
+      "type": "hanvisar-till",
+      "context": "Skäl (6): kräver att fiskerikontrollförordningen kompletterar IUU-förordningen"
+    },
+    {
+      "id": "foretagsstatistik-genomforande--speciallag-till--foretagsstatistikforordningen",
+      "source": "foretagsstatistik-genomforande",
+      "target": "foretagsstatistikforordningen",
+      "type": "speciallag-till",
+      "context": "Genomförandeförordning för tekniska specifikationer till förordning (EU) 2019/2152"
+    },
+    {
+      "id": "foretagsstatistik-genomforande--overlappar--handelsstatistik-genomforande",
+      "source": "foretagsstatistik-genomforande",
+      "target": "handelsstatistik-genomforande",
+      "type": "overlappar",
+      "context": "Båda genomförandeakterna preciserar tillämpningen av företagsstatistikförordningen; denna förordning täcker bredare tekniska krav"
+    },
+    {
+      "id": "foretagsstatistikforordningen--hanvisar-till--tullforordningen",
+      "source": "foretagsstatistikforordningen",
+      "target": "tullforordningen",
+      "type": "hanvisar-till",
+      "context": "Tulldeklarationer (UCC art. 179) är primär datakälla för utrikeshandelsstatistik"
+    },
+    {
+      "id": "foretagsstatistikforordningen--hanvisar-till--handelsstatistik-genomforande",
+      "source": "foretagsstatistikforordningen",
+      "target": "handelsstatistik-genomforande",
+      "type": "hanvisar-till",
+      "context": "Kompletteras av delegerad förordning (EU) 2021/1704 om detaljer för tull- och skattedata"
+    },
+    {
+      "id": "foretagsstatistikforordningen--hanvisar-till--foretagsstatistik-genomforande",
+      "source": "foretagsstatistikforordningen",
+      "target": "foretagsstatistik-genomforande",
+      "type": "hanvisar-till",
+      "context": "Genomförs av genomförandeförordning (EU) 2020/1197 om tekniska specifikationer"
+    },
+    {
+      "id": "foretagsstatistikforordningen--hanvisar-till--handelsstatistik-komplettering",
+      "source": "foretagsstatistikforordningen",
+      "target": "handelsstatistik-komplettering",
+      "type": "hanvisar-till",
+      "context": "Landnomenklatur fastställs i genomförandeförordning (EU) 2020/1470"
     },
     {
       "id": "forordning-om-tillstand-for-farliga-foremal--hanvisar-till--smugglingslagen",
@@ -1557,6 +2261,139 @@
       "context": "1 § anger att kompletterande bestämmelser även finns i tullförordningen (2016:287)."
     },
     {
+      "id": "genomforande-antidumping--speciallag-till--tullbefrielseforordningen",
+      "source": "genomforande-antidumping",
+      "target": "tullbefrielseforordningen",
+      "type": "speciallag-till",
+      "context": "Genomför art. 42–52, 57 och 58 i förordning 1186/2009; preciserar de praktiska skyldigheterna"
+    },
+    {
+      "id": "genomforande-antidumping--overlappar--genomforande-tullbefrielse",
+      "source": "genomforande-antidumping",
+      "target": "genomforande-tullbefrielse",
+      "type": "overlappar",
+      "context": "Systerförordning (1224/2011) för art. 66–73 i samma moderförordning; liknande struktur"
+    },
+    {
+      "id": "genomforande-antidumping--overlappar--tullkvoter-genomforande",
+      "source": "genomforande-antidumping",
+      "target": "tullkvoter-genomforande",
+      "type": "overlappar",
+      "context": "Systerförordning (80/2012) för art. 53.1 b i samma moderförordning"
+    },
+    {
+      "id": "genomforande-tullbefrielse--speciallag-till--tullbefrielseforordningen",
+      "source": "genomforande-tullbefrielse",
+      "target": "tullbefrielseforordningen",
+      "type": "speciallag-till",
+      "context": "Genomför art. 66–73 i förordning 1186/2009; preciserar de praktiska skyldigheterna"
+    },
+    {
+      "id": "genomforande-tullbefrielse--overlappar--genomforande-antidumping",
+      "source": "genomforande-tullbefrielse",
+      "target": "genomforande-antidumping",
+      "type": "overlappar",
+      "context": "Systerförordning (1225/2011) för art. 42–52, 57–58 i samma moderförordning; liknande struktur och skyldigheter"
+    },
+    {
+      "id": "genomforande-tullbefrielse--overlappar--tullkvoter-genomforande",
+      "source": "genomforande-tullbefrielse",
+      "target": "tullkvoter-genomforande",
+      "type": "overlappar",
+      "context": "Systerförordning (80/2012) för art. 53.1 b i samma moderförordning"
+    },
+    {
+      "id": "genomforandeforordningen--kompletterar--ucc",
+      "source": "genomforandeforordningen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Genomförandeakt antagen med stöd av UCC artikel 291 — specificerar förfaranderegler"
+    },
+    {
+      "id": "genomforandeforordningen--kompletterar--tullagen",
+      "source": "genomforandeforordningen",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "EU:s genomföranderegler tillämpas parallellt med och är överordnade svensk tullag"
+    },
+    {
+      "id": "genomforandeforordningen--kompletterar--tullforordningen",
+      "source": "genomforandeforordningen",
+      "target": "tullforordningen",
+      "type": "kompletterar",
+      "context": "EU:s förfaranderegler kompletterar och är överordnade den svenska tullförordningen"
+    },
+    {
+      "id": "genomforandeforordningen--overlappar--kompletteringsforordningen",
+      "source": "genomforandeforordningen",
+      "target": "kompletteringsforordningen",
+      "type": "overlappar",
+      "context": "Systerförordning — IA och DA delar upp reglerna för samma UCC-bestämmelser"
+    },
+    {
+      "id": "genomforandeforordningen--hanvisar-till--ucc-elektroniska-system",
+      "source": "genomforandeforordningen",
+      "target": "ucc-elektroniska-system",
+      "type": "hanvisar-till",
+      "context": "Förordning 2025/512 ersatte delar av 2015/2447 vad gäller tekniska IT-arrangemang"
+    },
+    {
+      "id": "handelsstatistik-genomforande--speciallag-till--foretagsstatistikforordningen",
+      "source": "handelsstatistik-genomforande",
+      "target": "foretagsstatistikforordningen",
+      "type": "speciallag-till",
+      "context": "Delegerad förordning som preciserar bilagorna V och VI i företagsstatistikförordningen"
+    },
+    {
+      "id": "handelsstatistik-genomforande--hanvisar-till--tullforordningen",
+      "source": "handelsstatistik-genomforande",
+      "target": "tullforordningen",
+      "type": "hanvisar-till",
+      "context": "Hänvisar till UCC artikel 179 (centraliserad klarering) för utvidgad uppgiftsskyldighet"
+    },
+    {
+      "id": "handelsstatistik-komplettering--speciallag-till--foretagsstatistikforordningen",
+      "source": "handelsstatistik-komplettering",
+      "target": "foretagsstatistikforordningen",
+      "type": "speciallag-till",
+      "context": "Genomförandeförordning som specificerar landklassificering enligt artikel 7.1 d i förordning (EU) 2019/2152"
+    },
+    {
+      "id": "handelsstatistik-komplettering--overlappar--foretagsstatistik-genomforande",
+      "source": "handelsstatistik-komplettering",
+      "target": "foretagsstatistik-genomforande",
+      "type": "overlappar",
+      "context": "Båda är genomförandeakter till företagsstatistikförordningen; denna specificerar landnomenklatur"
+    },
+    {
+      "id": "handelsstatistik-komplettering--overlappar--handelsstatistik-genomforande",
+      "source": "handelsstatistik-komplettering",
+      "target": "handelsstatistik-genomforande",
+      "type": "overlappar",
+      "context": "Samtliga fyra statistikförordningar (2019/2152 + tre genomförandeakter) bildar ett sammanhängande paket"
+    },
+    {
+      "id": "importforbud-arter--overlappar--smugglingslagen",
+      "source": "importforbud-arter",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Import i strid med importförbud kan utgöra smuggling"
+    },
+    {
+      "id": "importforbud-arter--overlappar--artskyddsforordningen",
+      "source": "importforbud-arter",
+      "target": "artskyddsforordningen",
+      "type": "overlappar",
+      "context": "Artskyddsförordningen implementerar CITES; importförbud i 2025/6 gäller parallellt"
+    },
+    {
+      "id": "inre-vattenvaagar-forordningen--overlappar--tullagen",
+      "source": "inre-vattenvaagar-forordningen",
+      "target": "tullagen",
+      "type": "overlappar",
+      "context": "Tullkontroller är undantagna; förordningen avser tekniska och dokumentkontroller, inte tullkontroller"
+    },
+    {
       "id": "inregransforordningen--kompletterar--inregranslagen",
       "source": "inregransforordningen",
       "target": "inregranslagen",
@@ -1613,6 +2450,34 @@
       "context": "Inregränslagen skapar anmälningsskyldigheterna; tullbefogenhetslagen ger befogenheterna att genomföra kontrollen"
     },
     {
+      "id": "iuu-fiskeforordningen--kompletterar--fiskerikontrollforordningen",
+      "source": "iuu-fiskeforordningen",
+      "target": "fiskerikontrollforordningen",
+      "type": "kompletterar",
+      "context": "IUU-förordningen specificerar åtgärder mot olagligt fiske; fiskerikontrollförordningen ger det breda kontrollsystemet"
+    },
+    {
+      "id": "iuu-fiskeforordningen--hanvisar-till--iuu-genomforande",
+      "source": "iuu-fiskeforordningen",
+      "target": "iuu-genomforande",
+      "type": "hanvisar-till",
+      "context": "Moderförordning; genomförandeförordning (EG) nr 1010/2009 fastställer tillämpningsföreskrifter"
+    },
+    {
+      "id": "iuu-fiskeforordningen--overlappar--smugglingslagen",
+      "source": "iuu-fiskeforordningen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Import av fiskeriprodukter utan giltigt fångstintyg kan utgöra smuggling vid tullkontroll"
+    },
+    {
+      "id": "iuu-genomforande--speciallag-till--iuu-fiskeforordningen",
+      "source": "iuu-genomforande",
+      "target": "iuu-fiskeforordningen",
+      "type": "speciallag-till",
+      "context": "Genomförandeförordning som preciserar tillämpningen av IUU-förordningen (EG) nr 1005/2008"
+    },
+    {
       "id": "knivlagen--hanvisar-till--vapenlagen",
       "source": "knivlagen",
       "target": "vapenlagen",
@@ -1639,6 +2504,62 @@
       "target": "forordning-om-tillstand-for-farliga-foremal",
       "type": "overlappar",
       "context": "Knivlagen = innehav på allmän plats. Förordningen = import/tillstånd. Samma föremål kan falla under båda."
+    },
+    {
+      "id": "kombinerade-nomenklaturen--kompletterar--ucc",
+      "source": "kombinerade-nomenklaturen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "UCC art. 56-57 reglerar varuklassificering och hänvisar till KN som den nomenklaturen som ska användas. KN är den tekniska grunden för UCC:s klassificeringssystem."
+    },
+    {
+      "id": "kombinerade-nomenklaturen--hanvisar-till--tullagen",
+      "source": "kombinerade-nomenklaturen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Tullagen hänvisar till KN-koder vid tulldeklaration och beräkning av tullskuld."
+    },
+    {
+      "id": "kombinerade-nomenklaturen--hanvisar-till--tullforordningen",
+      "source": "kombinerade-nomenklaturen",
+      "target": "tullforordningen",
+      "type": "hanvisar-till",
+      "context": "Tullförordningen specificerar hur KN-koder används i svenska tullförfaranden."
+    },
+    {
+      "id": "kompletteringsforordningen--kompletterar--ucc",
+      "source": "kompletteringsforordningen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Delegerad akt antagen med stöd av UCC artikel 290 — kompletterande icke väsentliga delar"
+    },
+    {
+      "id": "kompletteringsforordningen--kompletterar--tullagen",
+      "source": "kompletteringsforordningen",
+      "target": "tullagen",
+      "type": "kompletterar",
+      "context": "EU:s kompletteringsregler tillämpas parallellt med och är överordnade svensk tullag"
+    },
+    {
+      "id": "kompletteringsforordningen--kompletterar--tullforordningen",
+      "source": "kompletteringsforordningen",
+      "target": "tullforordningen",
+      "type": "kompletterar",
+      "context": "EU:s detaljregler kompletterar och är överordnade den svenska tullförordningen"
+    },
+    {
+      "id": "kompletteringsforordningen--overlappar--genomforandeforordningen",
+      "source": "kompletteringsforordningen",
+      "target": "genomforandeforordningen",
+      "type": "overlappar",
+      "context": "Systerförordning — DA och IA delar upp reglerna för samma UCC-bestämmelser"
+    },
+    {
+      "id": "kompletteringsforordningen--hanvisar-till--lagen-om-tullfrihet",
+      "source": "kompletteringsforordningen",
+      "target": "lagen-om-tullfrihet",
+      "type": "hanvisar-till",
+      "context": "Kompletteringsförordningen specificerar villkor för befrielse från importtullar"
     },
     {
       "id": "kulturmiljolagen--hanvisar-till--smugglingslagen",
@@ -2474,6 +3395,69 @@
       "context": "Dopningslagen täcker substanser som inte klassas som narkotika; parallell struktur med liknande förbud mot innehav och överlåtelse"
     },
     {
+      "id": "overgangsforordningen--kompletterar--ucc",
+      "source": "overgangsforordningen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Övergångsförordningen kompletterar UCC (EU 952/2013) med temporära regler för perioden 2016-2020 medan UCC:s IT-krav implementerades stegvis."
+    },
+    {
+      "id": "overgangsforordningen--overlappar--kompletteringsforordningen",
+      "source": "overgangsforordningen",
+      "target": "kompletteringsforordningen",
+      "type": "overlappar",
+      "context": "Kompletteringsförordningen (EU 2015/2446) ersatte successivt övergångsförordningens bestämmelser. Överlapp finns i hur befogenheter och undantag fördelas mellan de två instrumenten."
+    },
+    {
+      "id": "overgangsforordningen--overlappar--genomforandeforordningen",
+      "source": "overgangsforordningen",
+      "target": "genomforandeforordningen",
+      "type": "overlappar",
+      "context": "Genomförandeförordningen (EU 2015/2447) är det operativa regelverket för UCC-tillämpning. Övergångsförordningen definierade avvikelser från genomförandeförordningens krav under övergångsperioden."
+    },
+    {
+      "id": "pals-forbud-eu--overlappar--smugglingslagen",
+      "source": "pals-forbud-eu",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Import eller export av päls av katt/hund i strid med förbudet kan utgöra smuggling"
+    },
+    {
+      "id": "pals-forbud-eu--overlappar--artskyddsforordningen",
+      "source": "pals-forbud-eu",
+      "target": "artskyddsforordningen",
+      "type": "overlappar",
+      "context": "Artskyddsförordningen reglerar skyddade vilda arter; päls-förbudet specifikt riktar sig mot tamkatt/tamhund oavsett CITES-status"
+    },
+    {
+      "id": "pals-forbud-eu--hanvisar-till--lagen-om-forbud-mot-pals-av-katt-och-hund",
+      "source": "pals-forbud-eu",
+      "target": "lagen-om-forbud-mot-pals-av-katt-och-hund",
+      "type": "hanvisar-till",
+      "context": "Eventuell svensk lag som kompletterar EU-förordningen med nationella sanktioner och myndighetsansvar"
+    },
+    {
+      "id": "pgs-forordningen--kompletterar--lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "source": "pgs-forordningen",
+      "target": "lagen-om-kontroll-av-dubbla-anvandningsomraden",
+      "type": "kompletterar",
+      "context": "Svensk lag implementerar PGS-förordningens krav i nationell rätt"
+    },
+    {
+      "id": "pgs-forordningen--kompletterar--forordningen-om-dual-use",
+      "source": "pgs-forordningen",
+      "target": "forordningen-om-dual-use",
+      "type": "kompletterar",
+      "context": "Svensk förordning om verkställighet av PGS-förordningen"
+    },
+    {
+      "id": "pgs-forordningen--hanvisar-till--exportkontroll",
+      "source": "pgs-forordningen",
+      "target": "exportkontroll",
+      "type": "hanvisar-till",
+      "context": "PGS-förordningen är kärnan i EU:s exportkontrollsystem för dual-use"
+    },
+    {
       "id": "rattegangsbalken--kompletterar--tullbefogenhetslagen",
       "source": "rattegangsbalken",
       "target": "tullbefogenhetslagen",
@@ -2493,6 +3477,48 @@
       "target": "smugglingslagen",
       "type": "kompletterar",
       "context": "RB:s tvångsmedel (beslag, husrannsakan) används vid utredning av smugglingsbrott"
+    },
+    {
+      "id": "salprodukter-genomforande--hanvisar-till--salproduktforordningen",
+      "source": "salprodukter-genomforande",
+      "target": "salproduktforordningen",
+      "type": "hanvisar-till",
+      "context": "Genomför artikel 3 i sälproduktsförordningen (EG) nr 1007/2009 i detalj"
+    },
+    {
+      "id": "salprodukter-genomforande--overlappar--smugglingslagen",
+      "source": "salprodukter-genomforande",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Sälprodukter utan föreskrivet intyg vid import kan utgöra smuggling"
+    },
+    {
+      "id": "salprodukter-genomforande--hanvisar-till--lagen-om-handel-med-salprodukter",
+      "source": "salprodukter-genomforande",
+      "target": "lagen-om-handel-med-salprodukter",
+      "type": "hanvisar-till",
+      "context": "Eventuell svensk genomförandelag som utser behöriga myndigheter"
+    },
+    {
+      "id": "salproduktforordningen--overlappar--smugglingslagen",
+      "source": "salproduktforordningen",
+      "target": "smugglingslagen",
+      "type": "overlappar",
+      "context": "Import eller saluföring av sälprodukter i strid med förordningen kan utgöra smuggling"
+    },
+    {
+      "id": "salproduktforordningen--hanvisar-till--lagen-om-handel-med-salprodukter",
+      "source": "salproduktforordningen",
+      "target": "lagen-om-handel-med-salprodukter",
+      "type": "hanvisar-till",
+      "context": "Eventuell svensk genomförandelag som komplement"
+    },
+    {
+      "id": "salproduktforordningen--hanvisar-till--forordningen-om-handel-med-salprodukter",
+      "source": "salproduktforordningen",
+      "target": "forordningen-om-handel-med-salprodukter",
+      "type": "hanvisar-till",
+      "context": "Eventuell svensk genomförandeförordning"
     },
     {
       "id": "skattebrottslagen--speciallag-till--smugglingslagen",
@@ -2915,6 +3941,69 @@
       "context": "5 kap. ger kontrollbefogenheterna (stoppa, undersöka, omhänderta). LPK reglerar skattekonsekvenserna efteråt (skattebeslut, förverkande, transporttillägg)."
     },
     {
+      "id": "tullbefrielse-eu-2018--speciallag-till--tullbefrielseforordningen",
+      "source": "tullbefrielse-eu-2018",
+      "target": "tullbefrielseforordningen",
+      "type": "speciallag-till",
+      "context": "Sektorspecifikt undantag för luftfart som kompletterar det generella tullbefrielsesystemet"
+    },
+    {
+      "id": "tullbefrielse-eu-2018--hanvisar-till--ucc",
+      "source": "tullbefrielse-eu-2018",
+      "target": "ucc",
+      "type": "hanvisar-till",
+      "context": "Tullkodexkommittén (art. 285 UCC) biträder kommissionen; genomförandebefogenheter via UCC-strukturen"
+    },
+    {
+      "id": "tullbefrielse-suspension--hanvisar-till--tullbefrielseforordningen",
+      "source": "tullbefrielse-suspension",
+      "target": "tullbefrielseforordningen",
+      "type": "hanvisar-till",
+      "context": "Tullbefrielseförordningen (1186/2009) är den allmänna tullbefrielseförordningen. Förordning 150/2003 är en specifik lex specialis för militär utrustning som kompletterar det allmänna systemet."
+    },
+    {
+      "id": "tullbefrielse-suspension--hanvisar-till--ucc",
+      "source": "tullbefrielse-suspension",
+      "target": "ucc",
+      "type": "hanvisar-till",
+      "context": "UCC (och dess föregångare tullkodexen 2913/92) reglerar användning för särskilda ändamål (art. 21 och 82 i 2913/92, numera UCC art. 254). Förordning 150/2003 anger att dessa UCC-regler gäller för militär import, med undantaget att tullövervakning avslutas efter 3 år."
+    },
+    {
+      "id": "tullbefrielseforordningen--kompletterar--ucc",
+      "source": "tullbefrielseforordningen",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "UCC reglerar tullförfarandena; tullbefrielse beviljas i samband med UCC:s förfarande för övergång till fri omsättning"
+    },
+    {
+      "id": "tullbefrielseforordningen--hanvisar-till--genomforande-tullbefrielse",
+      "source": "tullbefrielseforordningen",
+      "target": "genomforande-tullbefrielse",
+      "type": "hanvisar-till",
+      "context": "Art. 66–73 genomförs av genomförandeförordning 1224/2011"
+    },
+    {
+      "id": "tullbefrielseforordningen--hanvisar-till--genomforande-antidumping",
+      "source": "tullbefrielseforordningen",
+      "target": "genomforande-antidumping",
+      "type": "hanvisar-till",
+      "context": "Art. 42–52, 57 och 58 genomförs av genomförandeförordning 1225/2011"
+    },
+    {
+      "id": "tullbefrielseforordningen--hanvisar-till--tullkvoter-genomforande",
+      "source": "tullbefrielseforordningen",
+      "target": "tullkvoter-genomforande",
+      "type": "hanvisar-till",
+      "context": "Art. 53.1 b genomförs av genomförandeförordning 80/2012"
+    },
+    {
+      "id": "tullbefrielseforordningen--kompletterar--tullbefrielse-eu-2018",
+      "source": "tullbefrielseforordningen",
+      "target": "tullbefrielse-eu-2018",
+      "type": "kompletterar",
+      "context": "2018/581 är ett sektorspecifikt undantag (luftfart) utöver det generella systemet"
+    },
+    {
       "id": "tullforordningen--speciallag-till--tullagen",
       "source": "tullforordningen",
       "target": "tullagen",
@@ -2927,6 +4016,90 @@
       "target": "tullbefogenhetslagen",
       "type": "hanvisar-till",
       "context": "5 kap. 3 § hänvisar till tullbefogenhetslagen (2024:710) för järnvägs- och postkontroll"
+    },
+    {
+      "id": "tullkvoter-genomforande--speciallag-till--tullbefrielseforordningen",
+      "source": "tullkvoter-genomforande",
+      "target": "tullbefrielseforordningen",
+      "type": "speciallag-till",
+      "context": "Genomför art. 53.1 b i förordning 1186/2009; upprättar förteckning som möjliggör tullfri import"
+    },
+    {
+      "id": "tullkvoter-genomforande--overlappar--genomforande-tullbefrielse",
+      "source": "tullkvoter-genomforande",
+      "target": "genomforande-tullbefrielse",
+      "type": "overlappar",
+      "context": "Systerförordning (1224/2011) för art. 66–73 i samma moderförordning"
+    },
+    {
+      "id": "tullkvoter-genomforande--overlappar--genomforande-antidumping",
+      "source": "tullkvoter-genomforande",
+      "target": "genomforande-antidumping",
+      "type": "overlappar",
+      "context": "Systerförordning (1225/2011) för art. 42–52, 57 och 58 i samma moderförordning"
+    },
+    {
+      "id": "tullterritorium-forordningen--hanvisar-till--ucc",
+      "source": "tullterritorium-forordningen",
+      "target": "ucc",
+      "type": "hanvisar-till",
+      "context": "UCC art. 4 definierar EU:s tullområde och art. 46-49 reglerar tullkontrollbefogenheter. Denna förordning reglerar det territoriella utövandet av transportkontroller i linje med tullområdets gränser."
+    },
+    {
+      "id": "tullterritorium-forordningen--hanvisar-till--tullagen",
+      "source": "tullterritorium-forordningen",
+      "target": "tullagen",
+      "type": "hanvisar-till",
+      "context": "Tullagen reglerar svenska Tullverkets kontrollbefogenheter, inklusive möjligheten att stoppa och kontrollera fordon inne på territoriet."
+    },
+    {
+      "id": "ucc-elektroniska-system-2023--overlappar--ucc-elektroniska-system",
+      "source": "ucc-elektroniska-system-2023",
+      "target": "ucc-elektroniska-system",
+      "type": "overlappar",
+      "context": "2025-versionen ersätter 2023-versionen när tidsplaner revideras ytterligare"
+    },
+    {
+      "id": "ucc-elektroniska-system-2023--kompletterar--ucc",
+      "source": "ucc-elektroniska-system-2023",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Beslutet genomför UCC art. 280-281 om elektroniska system; UCC är den primära rättsliga grunden"
+    },
+    {
+      "id": "ucc-elektroniska-system--kompletterar--ucc",
+      "source": "ucc-elektroniska-system",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Specificerar IT-infrastrukturen för UCC:s elektroniska system per artiklarna 8.1 b, 17 och 50.1"
+    },
+    {
+      "id": "ucc-elektroniska-system--hanvisar-till--genomforandeforordningen",
+      "source": "ucc-elektroniska-system",
+      "target": "genomforandeforordningen",
+      "type": "hanvisar-till",
+      "context": "Ersätter delar av 2015/2447 avseende tekniska arrangemang för IT-systemen"
+    },
+    {
+      "id": "ucc-elektroniska-system--overlappar--ucc-enda-kontaktpunkt",
+      "source": "ucc-elektroniska-system",
+      "target": "ucc-enda-kontaktpunkt",
+      "type": "overlappar",
+      "context": "EU CSW-CERTEX koordineras med IT-infrastrukturen i 2025/512 (bl.a. EORI-integration)"
+    },
+    {
+      "id": "ucc-enda-kontaktpunkt--kompletterar--ucc",
+      "source": "ucc-enda-kontaktpunkt",
+      "target": "ucc",
+      "type": "kompletterar",
+      "context": "Ändrar UCC artiklarna 5.2 och 163.1; integrerar enda kontaktpunkt i definitionen av tullagstiftning"
+    },
+    {
+      "id": "ucc-enda-kontaktpunkt--overlappar--ucc-elektroniska-system",
+      "source": "ucc-enda-kontaktpunkt",
+      "target": "ucc-elektroniska-system",
+      "type": "overlappar",
+      "context": "EU CSW-CERTEX koordineras med IT-infrastrukturen i 2025/512; EORI som gemensam identifierare"
     },
     {
       "id": "ucc--kompletterar--tullagen",
@@ -2976,6 +4149,13 @@
       "target": "mervardesskattelagen",
       "type": "hanvisar-till",
       "context": "Moms vid import (ML 2023:200) bygger pa UCC:s tullvarderegler for att berakna moms."
+    },
+    {
+      "id": "vagtransportforordningen--overlappar--lagen-om-transport-av-farligt-gods",
+      "source": "vagtransportforordningen",
+      "target": "lagen-om-transport-av-farligt-gods",
+      "type": "overlappar",
+      "context": "Vid transport av farligt gods i kombination med cabotage/internationell transport gäller båda regelverken"
     },
     {
       "id": "vapenlagen--overlappar--smugglingslagen",

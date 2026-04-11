@@ -17,6 +17,37 @@
     "short_name": "Alkohollagen"
   },
   {
+    "slug": "antidumpingsforordningen",
+    "title": "Förordning (EU) 2016/1036 — Antidumpningsförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "antidumping",
+      "handelsforsvar",
+      "importtullar"
+    ],
+    "snippet": "## Sammanfattning Förordning (EU) 2016/1036 är EU:s grundläggande antidumpningsinstrument och genomför 1994 års WTO-avta…",
+    "url": "/laws/antidumpingsforordningen",
+    "entity_type": "lag",
+    "short_name": "Antidumpningsförordningen"
+  },
+  {
+    "slug": "antisubventionsforordningen",
+    "title": "Förordning (EU) 2016/1037 — Antisubventionsförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "antisubvention",
+      "utjamningstullar",
+      "handelsforsvar",
+      "importtullar"
+    ],
+    "snippet": "## Sammanfattning Förordning (EU) 2016/1037 är EU:s grundläggande antisubventionsinstrument och genomför WTO:s avtal om …",
+    "url": "/laws/antisubventionsforordningen",
+    "entity_type": "lag",
+    "short_name": "Antisubventionsförordningen"
+  },
+  {
     "slug": "artskyddsforordningen",
     "title": "Artskyddsförordningen",
     "type": "entity",
@@ -50,6 +81,106 @@
     "entity_type": "lag",
     "sfs": "2018:1177",
     "short_name": "Brottsdatalagen"
+  },
+  {
+    "slug": "cites-forordningen",
+    "title": "Rådets förordning (EG) nr 338/97 — CITES-förordningen",
+    "type": "entity",
+    "tags": [
+      "cites",
+      "artskydd",
+      "handel",
+      "eu-forordning",
+      "natur",
+      "import",
+      "export",
+      "tullkontroll",
+      "vilda-djur-vaxter"
+    ],
+    "snippet": "# Rådets förordning (EG) nr 338/97 — CITES-förordningen ## Sammanfattning CITES-förordningen är den primära EU-rättsliga…",
+    "url": "/laws/cites-forordningen",
+    "entity_type": "lag",
+    "short_name": "CITES-förordningen"
+  },
+  {
+    "slug": "cites-genomforande",
+    "title": "CITES genomförandeförordning (EG) 865/2006",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "cites",
+      "artskydd",
+      "tillstand",
+      "intyg"
+    ],
+    "snippet": "## Sammanfattning CITES genomförandeförordning (EG) nr 865/2006 är kommissionens detaljregelsamling för hur rådets CITES…",
+    "url": "/laws/cites-genomforande",
+    "entity_type": "lag",
+    "short_name": "CITES genomförandeförordningen"
+  },
+  {
+    "slug": "cites-tillstand",
+    "title": "CITES tillståndsmallar (EU) 792/2012",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "cites",
+      "artskydd",
+      "tillstand",
+      "dokumentmallar"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) nr 792/2012 fastställer de tekniska specifikationerna och ma…",
+    "url": "/laws/cites-tillstand",
+    "entity_type": "lag",
+    "short_name": "CITES tillståndsmallsförordningen"
+  },
+  {
+    "slug": "fiskerikontrollforordningen",
+    "title": "Fiskerikontrollförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "fiske",
+      "kontroll",
+      "gemensam-fiskeripolitik"
+    ],
+    "snippet": "## Sammanfattning Fiskerikontrollförordningen (EG) nr 1224/2009 inrättar ett heltäckande kontrollsystem för att säkerstä…",
+    "url": "/laws/fiskerikontrollforordningen",
+    "entity_type": "lag",
+    "short_name": "Fiskerikontrollförordningen"
+  },
+  {
+    "slug": "foretagsstatistik-genomforande",
+    "title": "Företagsstatistik — tekniska specifikationer (genomförandeförordning)",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "foretagsstatistik",
+      "tekniska-specifikationer",
+      "genomforande",
+      "sdmx"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning (EU) 2020/1197 fastställer de tekniska specifikationerna för genomförandet av f…",
+    "url": "/laws/foretagsstatistik-genomforande",
+    "entity_type": "lag",
+    "short_name": "Företagsstatistik tekniska specifikationer"
+  },
+  {
+    "slug": "foretagsstatistikforordningen",
+    "title": "Företagsstatistikförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "foretagsstatistik",
+      "handelsstatistik",
+      "eurostat"
+    ],
+    "snippet": "## Sammanfattning Företagsstatistikförordningen (EU) 2019/2152 skapar en gemensam rättslig ram för all europeisk företag…",
+    "url": "/laws/foretagsstatistikforordningen",
+    "entity_type": "lag",
+    "short_name": "Företagsstatistikförordningen"
   },
   {
     "slug": "forordning-om-tillstand-for-farliga-foremal",
@@ -301,6 +432,117 @@
     "short_name": "Tullfrihetsförordningen"
   },
   {
+    "slug": "genomforande-antidumping",
+    "title": "Genomförandeförordning (EU) nr 1225/2011 — Tullbefrielse för undervisnings- och vetenskapsmateriel (art. 42–52, 57–58)",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "genomforande",
+      "vetenskap",
+      "undervisning"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) nr 1225/2011 preciserar de praktiska skyldigheterna för till…",
+    "url": "/laws/genomforande-antidumping",
+    "entity_type": "lag",
+    "short_name": "Genomförandeförordning vetenskapsmateriel"
+  },
+  {
+    "slug": "genomforande-tullbefrielse",
+    "title": "Genomförandeförordning (EU) nr 1224/2011 — Tullbefrielse för institutioner (art. 66–73)",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "genomforande",
+      "institutioner"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) nr 1224/2011 preciserar de praktiska skyldigheterna för till…",
+    "url": "/laws/genomforande-tullbefrielse",
+    "entity_type": "lag",
+    "short_name": "Genomförandeförordning tullbefrielse institutioner"
+  },
+  {
+    "slug": "genomforandeforordningen",
+    "title": "Genomförandeförordningen (EU) 2015/2447",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "genomforandeforordning",
+      "ucc-familj"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) 2015/2447 — Genomförandeförordningen — är den mest omfångsri…",
+    "url": "/laws/genomforandeforordningen",
+    "entity_type": "lag",
+    "short_name": "Genomförandeförordningen"
+  },
+  {
+    "slug": "handelsstatistik-genomforande",
+    "title": "Handelsstatistik — delegerad förordning om tull- och skattedata",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "handelsstatistik",
+      "tulldata",
+      "skattedata",
+      "delegerad"
+    ],
+    "snippet": "## Sammanfattning Delegerad förordning (EU) 2021/1704 preciserar de statistiska uppgifter som skatte- och tullmyndighete…",
+    "url": "/laws/handelsstatistik-genomforande",
+    "entity_type": "lag",
+    "short_name": "Handelsstatistik tull- och skattedata"
+  },
+  {
+    "slug": "handelsstatistik-komplettering",
+    "title": "Handelsstatistik — landnomenklatur",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "handelsstatistik",
+      "landnomenklatur",
+      "geografisk-uppdelning"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning (EU) 2020/1470 fastställer nomenklaturen avseende länder och territorier för eu…",
+    "url": "/laws/handelsstatistik-komplettering",
+    "entity_type": "lag",
+    "short_name": "Handelsstatistik landnomenklatur"
+  },
+  {
+    "slug": "importforbud-arter",
+    "title": "Importförbud för vissa arter (EU) 2025/6",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "cites",
+      "artskydd",
+      "importforbud",
+      "vilda-djur"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning (EU) 2025/6, antagen den 6 januari 2025, fastställer EU:s uppdaterade förteckni…",
+    "url": "/laws/importforbud-arter",
+    "entity_type": "lag",
+    "short_name": "Importförbudsförordningen för arter"
+  },
+  {
+    "slug": "inre-vattenvaagar-forordningen",
+    "title": "Inre vattenvägar-förordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "transport",
+      "gransreglering",
+      "inre-marknaden",
+      "vattenvaagar"
+    ],
+    "snippet": "## Sammanfattning Inre vattenvägar-förordningen (EG) nr 1100/2008 är en kortfattad kodifiering (6 artiklar) av principen…",
+    "url": "/laws/inre-vattenvaagar-forordningen",
+    "entity_type": "lag",
+    "short_name": "Inre vattenvägar-förordningen"
+  },
+  {
     "slug": "inregransforordningen",
     "title": "Inregränsförordningen",
     "type": "entity",
@@ -336,6 +578,38 @@
     "short_name": "Inregränslagen"
   },
   {
+    "slug": "iuu-fiskeforordningen",
+    "title": "IUU-fiskeförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "fiske",
+      "iuu",
+      "import-kontroll",
+      "fangstintyg"
+    ],
+    "snippet": "## Sammanfattning IUU-fiskeförordningen (EG) nr 1005/2008 inrättar EU:s system för att bekämpa olagligt, orapporterat oc…",
+    "url": "/laws/iuu-fiskeforordningen",
+    "entity_type": "lag",
+    "short_name": "IUU-förordningen"
+  },
+  {
+    "slug": "iuu-genomforande",
+    "title": "IUU-genomförandeförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "fiske",
+      "iuu",
+      "genomforande",
+      "fangstintyg"
+    ],
+    "snippet": "## Sammanfattning IUU-genomförandeförordningen (EG) nr 1010/2009 fastställer de detaljerade tillämpningsreglerna för IUU…",
+    "url": "/laws/iuu-genomforande",
+    "entity_type": "lag",
+    "short_name": "IUU-genomförandeförordningen"
+  },
+  {
     "slug": "knivlagen",
     "title": "Knivlagen",
     "type": "entity",
@@ -351,6 +625,38 @@
     "entity_type": "lag",
     "sfs": "1988:254",
     "short_name": "Knivlagen"
+  },
+  {
+    "slug": "kombinerade-nomenklaturen",
+    "title": "Kombinerade nomenklaturen (KN)",
+    "type": "entity",
+    "tags": [
+      "KN",
+      "varuklassificering",
+      "tulltaxa",
+      "TARIC",
+      "nomenklatur",
+      "EU-forordning"
+    ],
+    "snippet": "## Sammanfattning Den kombinerade nomenklaturen (KN) är EU:s system för varuklassificering, upprättat genom rådets föror…",
+    "url": "/laws/kombinerade-nomenklaturen",
+    "entity_type": "lag",
+    "short_name": "KN"
+  },
+  {
+    "slug": "kompletteringsforordningen",
+    "title": "Kompletteringsförordningen (EU) 2015/2446",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "delegerad-forordning",
+      "ucc-familj"
+    ],
+    "snippet": "## Sammanfattning Kommissionens delegerade förordning (EU) 2015/2446 — Kompletteringsförordningen — är en av de tre cent…",
+    "url": "/laws/kompletteringsforordningen",
+    "entity_type": "lag",
+    "short_name": "Kompletteringsförordningen"
   },
   {
     "slug": "kulturmiljolagen",
@@ -876,6 +1182,55 @@
     "short_name": "Narkotikastrafflagen"
   },
   {
+    "slug": "overgangsforordningen",
+    "title": "UCC Övergångsförordningen (EU 2016/341)",
+    "type": "entity",
+    "tags": [
+      "UCC",
+      "overgang",
+      "EU-forordning",
+      "IT-system",
+      "historisk"
+    ],
+    "snippet": "## Sammanfattning Kommissionens delegerade förordning (EU) 2016/341 fastställde övergångsregler för tillämpningen av uni…",
+    "url": "/laws/overgangsforordningen",
+    "entity_type": "lag",
+    "short_name": "UCC Övergångsförordningen"
+  },
+  {
+    "slug": "pals-forbud-eu",
+    "title": "EU-förbud mot päls av katt och hund (EG) 1523/2007",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "djurskydd",
+      "pals",
+      "importforbud",
+      "katt",
+      "hund"
+    ],
+    "snippet": "## Sammanfattning Förordning (EG) nr 1523/2007 förbjuder absolut all marknadsföring, import och export av päls av katt o…",
+    "url": "/laws/pals-forbud-eu",
+    "entity_type": "lag",
+    "short_name": "Päls-förbudet katt/hund"
+  },
+  {
+    "slug": "pgs-forordningen",
+    "title": "PGS-förordningen (dual-use)",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "dual-use",
+      "exportkontroll",
+      "sakerhet",
+      "icke-spridning"
+    ],
+    "snippet": "## Sammanfattning PGS-förordningen (EU) 2021/821 (produkter med dubbla användningsområden) är EU:s primära rättsakt för …",
+    "url": "/laws/pgs-forordningen",
+    "entity_type": "lag",
+    "short_name": "PGS-förordningen"
+  },
+  {
     "slug": "rattegangsbalken",
     "title": "Rättegångsbalken",
     "type": "entity",
@@ -893,6 +1248,38 @@
     "entity_type": "lag",
     "sfs": "1942:740",
     "short_name": "Rättegångsbalken"
+  },
+  {
+    "slug": "salprodukter-genomforande",
+    "title": "Genomförandebestämmelser för sälprodukter (EU) 2015/1850",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "salprodukter",
+      "djurskydd",
+      "intyg",
+      "godkanda-organ"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) 2015/1850 fastställer de praktiska detaljerna för tillämpnin…",
+    "url": "/laws/salprodukter-genomforande",
+    "entity_type": "lag",
+    "short_name": "Sälprodukter genomförandeförordningen"
+  },
+  {
+    "slug": "salproduktforordningen",
+    "title": "Sälproduktsförordningen (EG) 1007/2009",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "salprodukter",
+      "djurskydd",
+      "importforbud",
+      "inuit"
+    ],
+    "snippet": "## Sammanfattning Sälproduktsförordningen (EG) nr 1007/2009 fastställer harmoniserade regler för handel med sälprodukter…",
+    "url": "/laws/salproduktforordningen",
+    "entity_type": "lag",
+    "short_name": "Sälproduktsförordningen"
   },
   {
     "slug": "skattebrottslagen",
@@ -1051,6 +1438,52 @@
     "short_name": "Tullbefogenhetslagen"
   },
   {
+    "slug": "tullbefrielse-eu-2018",
+    "title": "Förordning (EU) 2018/581 — Tullbefrielse för luftfartygsdelar",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "luftfart",
+      "gemensamma-tulltaxan"
+    ],
+    "snippet": "## Sammanfattning Förordning (EU) 2018/581 inför ett temporärt upphörande med tillämpningen av Gemensamma tulltaxans aut…",
+    "url": "/laws/tullbefrielse-eu-2018",
+    "entity_type": "lag",
+    "short_name": "Luftfartstullbefrielsen"
+  },
+  {
+    "slug": "tullbefrielse-suspension",
+    "title": "Tullbefrielse för militär utrustning (EG 150/2003)",
+    "type": "entity",
+    "tags": [
+      "tullbefrielse",
+      "militär-utrustning",
+      "vapen",
+      "suspension",
+      "EU-forordning",
+      "försvar"
+    ],
+    "snippet": "## Sammanfattning Rådets förordning (EG) nr 150/2003 suspenderar (upphäver) importtullar för specifika vapen och militär…",
+    "url": "/laws/tullbefrielse-suspension",
+    "entity_type": "lag",
+    "short_name": "Militär tullbefrielse 150/2003"
+  },
+  {
+    "slug": "tullbefrielseforordningen",
+    "title": "Förordning (EG) nr 1186/2009 — Gemenskapssystemet för tullbefrielse",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "gemenskapssystem"
+    ],
+    "snippet": "## Sammanfattning Förordning (EG) nr 1186/2009 upprättar EU:s gemensamma system för tullbefrielse och är den centrala rä…",
+    "url": "/laws/tullbefrielseforordningen",
+    "entity_type": "lag",
+    "short_name": "Tullbefrielseförordningen"
+  },
+  {
     "slug": "tullforordningen",
     "title": "Tullförordningen",
     "type": "entity",
@@ -1066,6 +1499,93 @@
     "entity_type": "lag",
     "sfs": "2016:287",
     "short_name": "Tullförordningen"
+  },
+  {
+    "slug": "tullkvoter-genomforande",
+    "title": "Genomförandeförordning (EU) nr 80/2012 — Förteckning biologiska och kemiska ämnen för tullbefrielse",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "genomforande",
+      "biologiska-amnen",
+      "kemiska-amnen",
+      "vetenskap"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) nr 80/2012 upprättar den officiella förteckning över biologi…",
+    "url": "/laws/tullkvoter-genomforande",
+    "entity_type": "lag",
+    "short_name": "Förteckning biologiska/kemiska ämnen tullbefrielse"
+  },
+  {
+    "slug": "tullterritorium-forordningen",
+    "title": "Kontrollförordning för tredjelandstransportmedel (EEG 3912/92)",
+    "type": "entity",
+    "tags": [
+      "tullterritorium",
+      "transportkontroll",
+      "inre-marknad",
+      "tredjeland",
+      "EU-forordning",
+      "gränskontroll"
+    ],
+    "snippet": "## Sammanfattning Rådets förordning (EEG) nr 3912/92, i kraft från 1 januari 1993, reglerar hur kontroller av **transpor…",
+    "url": "/laws/tullterritorium-forordningen",
+    "entity_type": "lag",
+    "short_name": "Transportkontrollförordningen 3912/92"
+  },
+  {
+    "slug": "ucc-elektroniska-system-2023",
+    "title": "Kommissionens genomförandebeslut (EU) 2023/2879 — Elektroniska system för UCC",
+    "type": "entity",
+    "tags": [
+      "ucc",
+      "elektroniska-system",
+      "tullkodex",
+      "digitalisering",
+      "eu-beslut",
+      "ics2",
+      "ncts",
+      "aes",
+      "cci"
+    ],
+    "snippet": "# Kommissionens genomförandebeslut (EU) 2023/2879 — Elektroniska system för UCC ## Sammanfattning Genomförandebeslutet 2…",
+    "url": "/laws/ucc-elektroniska-system-2023",
+    "entity_type": "lag",
+    "short_name": "UCC elektroniska system 2023"
+  },
+  {
+    "slug": "ucc-elektroniska-system",
+    "title": "Förordningen om elektroniska system för UCC (EU) 2025/512",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "elektroniska-system",
+      "it-infrastruktur",
+      "ucc-familj"
+    ],
+    "snippet": "## Sammanfattning Kommissionens genomförandeförordning (EU) 2025/512, antagen den 13 mars 2025, fastställer de tekniska …",
+    "url": "/laws/ucc-elektroniska-system",
+    "entity_type": "lag",
+    "short_name": "UCC IT-förordningen"
+  },
+  {
+    "slug": "ucc-enda-kontaktpunkt",
+    "title": "Förordningen om enda kontaktpunkt för tullen i EU (EU) 2022/2399",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "digitalisering",
+      "enda-kontaktpunkt",
+      "eu-csw-certex",
+      "ucc-familj"
+    ],
+    "snippet": "## Sammanfattning Europaparlamentets och rådets förordning (EU) 2022/2399, antagen den 23 november 2022, inrättar en mil…",
+    "url": "/laws/ucc-enda-kontaktpunkt",
+    "entity_type": "lag",
+    "short_name": "EU CSW-förordningen"
   },
   {
     "slug": "ucc",
@@ -1085,6 +1605,22 @@
     "url": "/laws/ucc",
     "entity_type": "lag",
     "short_name": "UCC"
+  },
+  {
+    "slug": "vagtransportforordningen",
+    "title": "Vägtransportförordningen",
+    "type": "entity",
+    "tags": [
+      "eu-forordning",
+      "transport",
+      "vagtransport",
+      "cabotage",
+      "gemenskapstillstand"
+    ],
+    "snippet": "## Sammanfattning Vägtransportförordningen (EG) nr 1072/2009 reglerar tillträdet till den internationella marknaden för …",
+    "url": "/laws/vagtransportforordningen",
+    "entity_type": "lag",
+    "short_name": "Vägtransportförordningen"
   },
   {
     "slug": "vapenlagen",
@@ -1252,6 +1788,33 @@
     "url": "/sources/alkohollagen-2010-1622"
   },
   {
+    "slug": "antidumping-eu-2016-1036",
+    "title": "Förordning (EU) 2016/1036 — Skydd mot dumpad import (kodifiering)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "antidumping",
+      "handelsforsvar",
+      "import"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32016R1036 | | EUT-referens | EUT L 176, 30.6.2016 | | Antagen |…",
+    "url": "/sources/antidumping-eu-2016-1036"
+  },
+  {
+    "slug": "antisubvention-eu-2016-1037",
+    "title": "Förordning (EU) 2016/1037 — Skydd mot subventionerad import (kodifiering)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "antisubvention",
+      "utjamningstullar",
+      "handelsforsvar",
+      "import"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32016R1037 | | EUT-referens | EUT L 176, 30.6.2016 | | Antagen |…",
+    "url": "/sources/antisubvention-eu-2016-1037"
+  },
+  {
     "slug": "artskyddsforordningen-2007-845",
     "title": "Artskyddsförordning (2007:845)",
     "type": "source",
@@ -1279,6 +1842,138 @@
     ],
     "snippet": "# Brottsdatalag (2018:1177) ## Översikt Brottsdatalagen genomför EU:s dataskyddsdirektiv (2016/680) i svensk rätt och re…",
     "url": "/sources/brottsdatalagen-2018-1177"
+  },
+  {
+    "slug": "cites-forordningen-eg-338-97",
+    "title": "Rådets förordning (EG) nr 338/97 om skyddet av arter av vilda djur och växter genom kontroll av handeln med dem",
+    "type": "source",
+    "tags": [
+      "cites",
+      "artskydd",
+      "handel",
+      "eu-forordning",
+      "natur",
+      "import",
+      "export",
+      "tullkontroll"
+    ],
+    "snippet": "# Rådets förordning (EG) nr 338/97 — CITES-förordningen ## Bibliografi | Fält | Uppgift | |------|---------| | Typ | Råd…",
+    "url": "/sources/cites-forordningen-eg-338-97"
+  },
+  {
+    "slug": "cites-genomforande-eg-865-2006",
+    "title": "Kommissionens förordning (EG) nr 865/2006 — CITES genomförandeförordning",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "cites",
+      "artskydd",
+      "tillstand",
+      "intyg"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32006R0865 | | Förordningsnummer | EG nr 865/2006 | | Antagen | …",
+    "url": "/sources/cites-genomforande-eg-865-2006"
+  },
+  {
+    "slug": "cites-tillstand-eu-792-2012",
+    "title": "Kommissionens genomförandeförordning (EU) nr 792/2012 — CITES tillståndsmallar",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "cites",
+      "artskydd",
+      "tillstand",
+      "intyg",
+      "dokumentmallar"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32012R0792 | | Förordningsnummer | EU nr 792/2012 | | Antagen | …",
+    "url": "/sources/cites-tillstand-eu-792-2012"
+  },
+  {
+    "slug": "eu-foretagsstatistik-eu-2019-2152",
+    "title": "Europaparlamentets och rådets förordning (EU) 2019/2152 — Företagsstatistikförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "foretagsstatistik",
+      "handelsstatistik",
+      "eurostat"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32019R2152 | | EUT-referens | EUT L 327, 17.12.2019 | | Antagen …",
+    "url": "/sources/eu-foretagsstatistik-eu-2019-2152"
+  },
+  {
+    "slug": "eu-foretagsstatistik-genomforande-eu-2020-1197",
+    "title": "Kommissionens genomförandeförordning (EU) 2020/1197 — Tekniska specifikationer för företagsstatistik",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "foretagsstatistik",
+      "tekniska-specifikationer",
+      "genomforande",
+      "sdmx"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32020R1197 | | EUT-referens | EUT L 271, 18.8.2020 | | Antagen |…",
+    "url": "/sources/eu-foretagsstatistik-genomforande-eu-2020-1197"
+  },
+  {
+    "slug": "eu-handelsstatistik-eu-2021-1704",
+    "title": "Kommissionens delegerade förordning (EU) 2021/1704 — Handelsstatistik tull- och skattedata",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "handelsstatistik",
+      "tulldata",
+      "skattedata",
+      "delegerad"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32021R1704 | | EUT-referens | EUT L 340, 24.9.2021 | | Antagen |…",
+    "url": "/sources/eu-handelsstatistik-eu-2021-1704"
+  },
+  {
+    "slug": "eu-handelsstatistik-komplettering-eu-2020-1470",
+    "title": "Kommissionens genomförandeförordning (EU) 2020/1470 — Landnomenklatur för handelsstatistik",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "statistik",
+      "handelsstatistik",
+      "landnomenklatur",
+      "geografisk-uppdelning"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32020R1470 | | EUT-referens | EUT L 334, 13.10.2020 | | Antagen …",
+    "url": "/sources/eu-handelsstatistik-komplettering-eu-2020-1470"
+  },
+  {
+    "slug": "fiskerikontroll-eg-1224-2009",
+    "title": "Rådets förordning (EG) nr 1224/2009 — Fiskerikontrollförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "fiske",
+      "kontroll",
+      "gemensam-fiskeripolitik"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32009R1224 | | EUT-referens | EUT L 343, 22.12.2009 | | Antagen …",
+    "url": "/sources/fiskerikontroll-eg-1224-2009"
+  },
+  {
+    "slug": "forbud-pals-katt-hund-eg-1523-2007",
+    "title": "Europaparlamentets och rådets förordning (EG) nr 1523/2007 — Förbud mot päls av katt och hund",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "djurskydd",
+      "pals",
+      "importforbud",
+      "katt",
+      "hund"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32007R1523 | | Förordningsnummer | EG nr 1523/2007 | | Antagen |…",
+    "url": "/sources/forbud-pals-katt-hund-eg-1523-2007"
   },
   {
     "slug": "forordning-om-tillstand-for-farliga-foremal-1990-415",
@@ -1484,6 +2179,77 @@
     "url": "/sources/forordningen-om-tullfrihet-1994-1605"
   },
   {
+    "slug": "genomforande-antidumping-eu-1225-2011",
+    "title": "Genomförandeförordning (EU) nr 1225/2011 — Tullbefrielse för undervisnings- och vetenskapsmateriel (art. 42–52, 57–58)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "genomforande",
+      "undervisning",
+      "vetenskap"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32011R1225 | | EUT-referens | EUT L 310, 25.11.2011 | | Antagen …",
+    "url": "/sources/genomforande-antidumping-eu-1225-2011"
+  },
+  {
+    "slug": "genomforande-tullar-eu-1224-2011",
+    "title": "Genomförandeförordning (EU) nr 1224/2011 — Tullbefrielse för institutioner och org. (art. 66–73)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "genomforande",
+      "institutioner",
+      "organisationer"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32011R1224 | | EUT-referens | EUT L 310, 25.11.2011 | | Antagen …",
+    "url": "/sources/genomforande-tullar-eu-1224-2011"
+  },
+  {
+    "slug": "genomforande-tullkvoter-eu-80-2012",
+    "title": "Genomförandeförordning (EU) nr 80/2012 — Förteckning biologiska och kemiska ämnen för tullbefrielse (art. 53.1 b)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "genomforande",
+      "biologiska-amnen",
+      "kemiska-amnen",
+      "vetenskap"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32012R0080 | | EUT-referens | EUT L 29, 1.2.2012 | | Antagen | 3…",
+    "url": "/sources/genomforande-tullkvoter-eu-80-2012"
+  },
+  {
+    "slug": "importforbud-arter-eu-2025-6",
+    "title": "Kommissionens genomförandeförordning (EU) 2025/6 — Importförbud för vissa arter",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "cites",
+      "artskydd",
+      "importforbud",
+      "vilda-djur"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32025R0006 | | Förordningsnummer | EU 2025/6 | | Antagen | 6 jan…",
+    "url": "/sources/importforbud-arter-eu-2025-6"
+  },
+  {
+    "slug": "inre-vattenvaagar-eg-1100-2008",
+    "title": "Europaparlamentets och rådets förordning (EG) nr 1100/2008 — Inre vattenvägar-förordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "transport",
+      "gransreglering",
+      "inre-marknaden",
+      "vattenvaagar"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32008R1100 | | EUT-referens | EUT L 304, 14.11.2008 | | Antagen …",
+    "url": "/sources/inre-vattenvaagar-eg-1100-2008"
+  },
+  {
     "slug": "inregransforordningen-1996-702",
     "title": "Inregränsförordning (1996:702)",
     "type": "source",
@@ -1513,6 +2279,34 @@
     "url": "/sources/inregranslagen-1996-701"
   },
   {
+    "slug": "iuu-fiske-eg-1005-2008",
+    "title": "Rådets förordning (EG) nr 1005/2008 — IUU-fiskeförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "fiske",
+      "iuu",
+      "import-kontroll",
+      "fangstintyg"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32008R1005 | | EUT-referens | EUT L 286, 29.10.2008 | | Antagen …",
+    "url": "/sources/iuu-fiske-eg-1005-2008"
+  },
+  {
+    "slug": "iuu-genomforande-eg-1010-2009",
+    "title": "Kommissionens förordning (EG) nr 1010/2009 — IUU-genomförandeförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "fiske",
+      "iuu",
+      "genomforande",
+      "fangstintyg"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32009R1010 | | EUT-referens | EUT L 280, 27.10.2009 | | Antagen …",
+    "url": "/sources/iuu-genomforande-eg-1010-2009"
+  },
+  {
     "slug": "knivlagen-1988-254",
     "title": "Lag (1988:254) om förbud beträffande knivar och andra farliga föremål",
     "type": "source",
@@ -1523,6 +2317,22 @@
     ],
     "snippet": "# Lag (1988:254) om förbud beträffande knivar och andra farliga föremål ## Översikt Kort lag (4 aktiva §§) som förbjuder…",
     "url": "/sources/knivlagen-1988-254"
+  },
+  {
+    "slug": "kombinerade-nomenklaturen-eeg-2658-87",
+    "title": "Rådets förordning (EEG) nr 2658/87 om tulltaxe- och statistiknomenklaturen och om Gemensamma tulltaxan",
+    "type": "source",
+    "tags": [
+      "KN",
+      "kombinerade-nomenklaturen",
+      "tulltaxa",
+      "TARIC",
+      "klassificering",
+      "varunomenklatur",
+      "EU-forordning"
+    ],
+    "snippet": "## Sammanfattning Rådets förordning (EEG) nr 2658/87, antagen den 23 juli 1987, upprättar den **kombinerade nomenklature…",
+    "url": "/sources/kombinerade-nomenklaturen-eeg-2658-87"
   },
   {
     "slug": "kulturmiljolagen-1988-950",
@@ -1952,6 +2762,20 @@
     "url": "/sources/narkotikastrafflagen-1968-64"
   },
   {
+    "slug": "pgs-forordningen-eu-2021-821",
+    "title": "Europaparlamentets och rådets förordning (EU) 2021/821 — PGS-förordningen (dual-use)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "dual-use",
+      "exportkontroll",
+      "sakerhet",
+      "icke-spridning"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32021R0821 | | EUT-referens | EUT L 206, 11.6.2021 | | Antagen |…",
+    "url": "/sources/pgs-forordningen-eu-2021-821"
+  },
+  {
     "slug": "rattegangsbalken-1942-740",
     "title": "Rättegångsbalk (1942:740)",
     "type": "source",
@@ -1967,6 +2791,34 @@
     ],
     "snippet": "# Rättegångsbalk (1942:740) ## Översikt Rättegångsbalken (RB) är Sveriges centrala processlag som reglerar domstolsförfa…",
     "url": "/sources/rattegangsbalken-1942-740"
+  },
+  {
+    "slug": "salprodukter-eg-1007-2009",
+    "title": "Europaparlamentets och rådets förordning (EG) nr 1007/2009 — Handel med sälprodukter",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "salprodukter",
+      "djurskydd",
+      "importforbud",
+      "inuit"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32009R1007 | | Förordningsnummer | EG nr 1007/2009 | | Antagen |…",
+    "url": "/sources/salprodukter-eg-1007-2009"
+  },
+  {
+    "slug": "salprodukter-genomforande-eu-2015-1850",
+    "title": "Kommissionens genomförandeförordning (EU) 2015/1850 — Genomförandebestämmelser för sälprodukter",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "salprodukter",
+      "djurskydd",
+      "intyg",
+      "godkanda-organ"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32015R1850 | | Förordningsnummer | EU 2015/1850 | | Antagen | 13…",
+    "url": "/sources/salprodukter-genomforande-eu-2015-1850"
   },
   {
     "slug": "skattebrottslagen-1971-69",
@@ -2093,6 +2945,46 @@
     "url": "/sources/tullbefogenhetslagen-2024-710"
   },
   {
+    "slug": "tullbefrielse-eg-1186-2009",
+    "title": "Förordning (EG) nr 1186/2009 — Gemenskapssystemet för tullbefrielse (kodifiering)",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "gemenskapssystem",
+      "kodifiering"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32009R1186 | | EUT-referens | EUT L 324, 10.12.2009, s. 23 | | A…",
+    "url": "/sources/tullbefrielse-eg-1186-2009"
+  },
+  {
+    "slug": "tullbefrielse-eg-150-2003",
+    "title": "Rådets förordning (EG) nr 150/2003 om befrielse från importtullar för vissa vapen och militär utrustning",
+    "type": "source",
+    "tags": [
+      "tullbefrielse",
+      "militär-utrustning",
+      "vapen",
+      "suspension",
+      "EU-forordning"
+    ],
+    "snippet": "## Sammanfattning Rådets förordning (EG) nr 150/2003, antagen den 21 januari 2003, upphäver (suspenderar) importtullar p…",
+    "url": "/sources/tullbefrielse-eg-150-2003"
+  },
+  {
+    "slug": "tullbefrielse-eu-2018-581",
+    "title": "Förordning (EU) 2018/581 — Tullbefrielse för luftfartygsdelar",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullbefrielse",
+      "luftfart",
+      "gemensamma-tulltaxan"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32018R0581 | | EUT-referens | EUT L 98, 18.4.2018 | | Antagen | …",
+    "url": "/sources/tullbefrielse-eu-2018-581"
+  },
+  {
     "slug": "tullforordningen-2016-287",
     "title": "Tullförordning (2016:287)",
     "type": "source",
@@ -2107,6 +2999,66 @@
     "url": "/sources/tullforordningen-2016-287"
   },
   {
+    "slug": "tullterritorium-eeg-3912-92",
+    "title": "Rådets förordning (EEG) nr 3912/92 om kontroller som utförs inom gemenskapens tullområde",
+    "type": "source",
+    "tags": [
+      "tullterritorium",
+      "transportkontroll",
+      "inre-gränser",
+      "tredjeland-transportmedel",
+      "EU-forordning"
+    ],
+    "snippet": "## Sammanfattning Rådets förordning (EEG) nr 3912/92, antagen den 17 december 1992, reglerar hur **kontroller av transpo…",
+    "url": "/sources/tullterritorium-eeg-3912-92"
+  },
+  {
+    "slug": "ucc-elektroniska-system-eu-2023-2879",
+    "title": "Kommissionens genomförandebeslut (EU) 2023/2879 om arbetsprogram för elektroniska system i unionens tullkodex",
+    "type": "source",
+    "tags": [
+      "ucc",
+      "elektroniska-system",
+      "tullkodex",
+      "digitalisering",
+      "eu-beslut",
+      "ics2",
+      "ncts",
+      "aes"
+    ],
+    "snippet": "# Kommissionens genomförandebeslut (EU) 2023/2879 — Elektroniska system UCC ## Bibliografi | Fält | Uppgift | |------|--…",
+    "url": "/sources/ucc-elektroniska-system-eu-2023-2879"
+  },
+  {
+    "slug": "ucc-elektroniska-system-eu-2025-512",
+    "title": "Kommissionens genomförandeförordning (EU) 2025/512 — Elektroniska system för UCC",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "elektroniska-system",
+      "it-infrastruktur",
+      "ucc-familj"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | Fullständigt namn | Kommissionens genomförandeförordning (EU) 2025/512 a…",
+    "url": "/sources/ucc-elektroniska-system-eu-2025-512"
+  },
+  {
+    "slug": "ucc-enda-kontaktpunkt-eu-2022-2399",
+    "title": "Europaparlamentets och rådets förordning (EU) 2022/2399 — Enda kontaktpunkt för tullen i EU",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "digitalisering",
+      "enda-kontaktpunkt",
+      "eu-csw-certex",
+      "ucc-familj"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | Fullständigt namn | Europaparlamentets och rådets förordning (EU) 2022/2…",
+    "url": "/sources/ucc-enda-kontaktpunkt-eu-2022-2399"
+  },
+  {
     "slug": "ucc-eu-952-2013",
     "title": "Unionens tullkodex (UCC) — EU 952/2013",
     "type": "source",
@@ -2117,6 +3069,46 @@
     ],
     "snippet": "# Unionens tullkodex (UCC) — EU 952/2013 ## Metadata - **CELEX:** 32013R0952 - **EUT:** L 269, 10.10.2013 - **Antagen:**…",
     "url": "/sources/ucc-eu-952-2013"
+  },
+  {
+    "slug": "ucc-genomforande-eu-2015-2447",
+    "title": "Kommissionens genomförandeförordning (EU) 2015/2447 — Genomförandeförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "genomforandeforordning",
+      "ucc-familj"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | Fullständigt namn | Kommissionens genomförandeförordning (EU) 2015/2447 …",
+    "url": "/sources/ucc-genomforande-eu-2015-2447"
+  },
+  {
+    "slug": "ucc-komplettering-eu-2015-2446",
+    "title": "Kommissionens delegerade förordning (EU) 2015/2446 — Kompletteringsförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "tullkodex",
+      "delegerad-forordning",
+      "ucc-familj"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | Fullständigt namn | Kommissionens delegerade förordning (EU) 2015/2446 a…",
+    "url": "/sources/ucc-komplettering-eu-2015-2446"
+  },
+  {
+    "slug": "vagtransport-eg-1072-2009",
+    "title": "Europaparlamentets och rådets förordning (EG) nr 1072/2009 — Vägtransportförordningen",
+    "type": "source",
+    "tags": [
+      "eu-forordning",
+      "transport",
+      "vagtransport",
+      "cabotage",
+      "gemenskapstillstand"
+    ],
+    "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32009R1072 | | EUT-referens | EUT L 300, 14.11.2009 | | Antagen …",
+    "url": "/sources/vagtransport-eg-1072-2009"
   },
   {
     "slug": "vapenlagen-1996-67",
