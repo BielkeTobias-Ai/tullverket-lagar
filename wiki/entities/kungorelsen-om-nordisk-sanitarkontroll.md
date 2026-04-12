@@ -2,6 +2,7 @@
 title: "Kungörelse (1955:105) om nordisk sanitärkontroll"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1955:105"
 short_name: Nordiska sanitärkontrollkungörelsen
 status: gallande

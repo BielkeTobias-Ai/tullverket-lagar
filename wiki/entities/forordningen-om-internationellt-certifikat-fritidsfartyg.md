@@ -2,6 +2,7 @@
 title: "Förordning (1978:205) om internationellt certifikat för fritidsfartyg"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1978:205"
 short_name: Fritidsbåtscertifikatförordningen
 status: gallande

@@ -2,6 +2,7 @@
 title: Lagen om skatt på kemikalier i viss elektronik
 type: entity
 entity_type: lag
+source_type: lag
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2016:1067"
@@ -42,16 +43,16 @@ connections:
     target: "[[tullagen]]"
     context: "Import definieras via unionstullkodexen; Tullverket beslutar om skatt vid import/otillåten införsel"
   - type: hanvisar-till
-    target: "[[unionstullkodex]]"
+    target: "[[ucc]]"
     context: "Import avses enligt artikel 201 i UCC; tullskuld enligt artikel 79.1 och 124.1"
   - type: hanvisar-till
-    target: "[[skatteförfarandelagen]]"
+    target: "[[skatteforfarandelagen]]"
     context: "Proceduren för skatteväxling, beslut och överklagande följer skatteförfarandelagen (2011:1244) i tillämpliga delar"
   - type: hanvisar-till
     target: "[[skattebrottslagen]]"
     context: "Skatteundandragande vid smuggling kan åtalas även under skattebrottslagen"
   - type: kompletterar
-    target: "[[miljöbalken]]"
+    target: "[[miljobalken]]"
     context: "Kemikalieskatten kompletterar miljöbalkens regler om farliga ämnen genom ekonomisk incitament"
   - type: overlappar
     target: "[[punktskatt]]"
@@ -109,11 +110,11 @@ Lagbrott handläggs enligt skatteförfarandelagen (2011:1244).
 | Typ | Lag/koncept | Kontext |
 |-----|-----------|---------|
 | Hänvisar till | [[tullagen]] | Import definieras via unionstullkodexen (UCC); Tullverket beslutar om skatt vid import |
-| Hänvisar till | [[unionstullkodex]] | Tekniska definitioner av import, otillåten införsel, tullskuld och unionsvara |
-| Hänvisar till | [[skatteförfarandelagen]] | Procedurer för skatteväxling, överklagande, omprövning, information |
+| Hänvisar till | [[ucc]] | Tekniska definitioner av import, otillåten införsel, tullskuld och unionsvara |
+| Hänvisar till | [[skatteforfarandelagen]] | Procedurer för skatteväxling, överklagande, omprövning, information |
 | Hänvisar till | [[skattebrottslagen]] | Straffhänvisning för skatteundandragande |
 | Hänvisar till | [[smugglingslagen]] | Straffhänvisning för otillåten införsel eller dolande |
-| Kompletterar | [[miljöbalken]] | Skapar ekonomiska incitament för att undvika bromerade flamskyddsmedel |
+| Kompletterar | [[miljobalken]] | Skapar ekonomiska incitament för att undvika bromerade flamskyddsmedel |
 | Överlappar | [[punktskatt]] | Kemikalieskatten är en särskild form av punktskatt |
 
 ---

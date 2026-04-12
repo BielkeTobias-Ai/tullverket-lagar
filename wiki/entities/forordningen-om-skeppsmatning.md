@@ -2,6 +2,7 @@
 title: "Förordning (1994:1162) om skeppsmätning"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1994:1162"
 short_name: Skeppsmätningsförordningen
 status: gallande

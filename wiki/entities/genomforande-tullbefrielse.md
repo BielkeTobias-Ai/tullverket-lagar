@@ -2,6 +2,7 @@
 title: "Genomförandeförordning (EU) nr 1224/2011 — Tullbefrielse för institutioner (art. 66–73)"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32011R1224"
 short_name: Genomförandeförordning tullbefrielse institutioner
 status: gallande

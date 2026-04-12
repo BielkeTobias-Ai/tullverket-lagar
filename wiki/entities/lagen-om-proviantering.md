@@ -2,6 +2,7 @@
 title: Lag om proviantering av fartyg och luftfartyg
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1999:446"
 short_name: Provianteringslagen
 status: gällande

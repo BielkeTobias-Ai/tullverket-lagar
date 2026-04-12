@@ -2,6 +2,7 @@
 title: Lagen om tobak och liknande produkter
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2018:2088"
 short_name: Tobakslagen
 status: gallande

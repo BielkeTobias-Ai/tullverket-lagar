@@ -2,6 +2,7 @@
 title: Tullagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2016:253"
 short_name: Tullagen
 status: gällande
@@ -46,6 +47,18 @@ connections:
   - type: speciallag-till
     target: "[[ucc]]"
     context: "Tullagen är nationell komplettering (lex specialis) till UCC. 1 kap. 1 §: denna lag kompletterar EU:s tullkodex. UCC reglerar tullförfaranden, tullagen reglerar tullskuld och sanktioner."
+  - type: overlappar
+    target: "[[antidumpingsforordningen]]"
+    context: "Speglad fran [[antidumpingsforordningen]] — Tullverket verkställer antidumpningstullar i Sverige"
+  - type: overlappar
+    target: "[[antisubventionsforordningen]]"
+    context: "Speglad fran [[antisubventionsforordningen]] — Tullverket verkställer utjämningstullar i Sverige"
+  - type: overlappar
+    target: "[[fartygssakerhetslagen]]"
+    context: "Speglad fran [[fartygssakerhetslagen]] — 6 kap. 9 §: Tullverket stoppar tullförrättning vid fartygsförbud; tar nationalitetshandling"
+  - type: overlappar
+    target: "[[inre-vattenvaagar-forordningen]]"
+    context: "Speglad fran [[inre-vattenvaagar-forordningen]] — Tullkontroller är undantagna; förordningen avser tekniska och dokumentkontroller, inte tullkontroller"
 tags:
   - lag
   - tull

@@ -2,6 +2,7 @@
 title: "Förordning (EG) nr 1186/2009 — Gemenskapssystemet för tullbefrielse"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32009R1186"
 short_name: Tullbefrielseförordningen
 status: gallande

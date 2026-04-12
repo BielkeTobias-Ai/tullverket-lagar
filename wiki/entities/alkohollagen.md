@@ -2,6 +2,7 @@
 title: Alkohollagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2010:1622"
 short_name: Alkohollagen
 status: gällande

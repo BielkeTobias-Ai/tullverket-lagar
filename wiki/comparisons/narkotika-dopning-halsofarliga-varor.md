@@ -86,7 +86,7 @@ Den praktiska konsekvensen: samma mängd av en substans kan ge vitt skilda straf
 
 ## Befogenheter vid gränskontroll
 
-[[Tullbefogenhetslagen]] ger tulltjänstemän befogenheter som varierar beroende på vilken substanslag som aktualiseras:
+[[tullbefogenhetslagen]] ger tulltjänstemän befogenheter som varierar beroende på vilken substanslag som aktualiseras:
 
 | Befogenhet | Narkotika | Dopning | Hälsofarliga varor |
 |---|---|---|---|

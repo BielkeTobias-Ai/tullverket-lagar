@@ -2,6 +2,7 @@
 title: Kombinerade nomenklaturen (KN)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "31987R2658"
 short_name: KN
 status: gallande

@@ -2,6 +2,7 @@
 title: "Luftfartslag (2010:500)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2010:500"
 short_name: Luftfartslagen
 status: gallande
@@ -37,6 +38,7 @@ tags:
   - gransovervaking
 sources:
   - "[[luftfartslagen-2010-500]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

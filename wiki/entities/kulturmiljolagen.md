@@ -2,6 +2,7 @@
 title: Kulturmiljölagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1988:950"
 short_name: Kulturmiljölagen
 status: gallande

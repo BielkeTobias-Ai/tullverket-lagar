@@ -2,6 +2,7 @@
 title: Genomförandebestämmelser för sälprodukter (EU) 2015/1850
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32015R1850"
 short_name: Sälprodukter genomförandeförordningen
 status: gallande

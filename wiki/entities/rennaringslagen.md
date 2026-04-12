@@ -2,6 +2,7 @@
 title: "Rennäringslag"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1971:437"
 short_name: Rennäringslagen
 status: gallande
@@ -38,6 +39,7 @@ tags:
   - tier3
 sources:
   - "[[rennaringslagen-1971-437]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

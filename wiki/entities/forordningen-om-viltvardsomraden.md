@@ -2,6 +2,7 @@
 title: "Förordning om viltvårdsområden"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1980:896"
 short_name: Viltvårdsområdesförordningen
 status: gallande

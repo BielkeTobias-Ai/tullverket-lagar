@@ -11,22 +11,6 @@
             "id": "577202250ab634b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Ny flik"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e75df3dfcb13858",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfbbaa93062f5fbb",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -166,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Välkommen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposition av Välkommen"
+              "title": "Disposition"
             }
           }
         ]
@@ -193,22 +176,53 @@
       "bases:Skapa ny bas": false
     }
   },
-  "active": "cdbfc74d6191bd86",
+  "active": "577202250ab634b9",
   "lastOpenFiles": [
-    "wiki/overview.md",
-    "wiki/overview.md.tmp.10456.1775595255176",
-    "wiki/log.md",
-    "wiki/index.md",
-    "CLAUDE.md",
-    "CLAUDE.md.tmp.10456.1775595224552",
-    "wiki/sources",
-    "wiki/queries",
-    "wiki/entities",
-    "wiki/concepts",
-    "wiki/comparisons",
-    "wiki",
-    "raw/assets",
-    "raw",
-    "Välkommen.md"
+    "wiki/index.md.tmp.12964.1775858675928",
+    "wiki/entities/ucc.md",
+    "wiki/entities/ucc.md.tmp.12964.1775858590476",
+    "wiki/sources/ucc-eu-952-2013.md",
+    "raw/ucc-eu-952-2013.md",
+    "scripts/clip-eu/clip-eu.ts.tmp.12964.1775858307797",
+    "scripts/clip-eu/clip-eu.ts.tmp.12964.1775858292483",
+    "scripts/clip-eu/clip-eu.ts.tmp.12964.1775858284436",
+    "scripts/clip-eu/diagnose.ts",
+    "scripts/clip-eu/package-lock.json",
+    "scripts/clip-eu/node_modules/playwright-core/README.md",
+    "scripts/clip-eu/node_modules/typescript/ThirdPartyNoticeText.txt",
+    "scripts/clip-eu/node_modules/typescript/LICENSE.txt",
+    "scripts/clip-eu/node_modules/playwright/types/testReporter.d.ts",
+    "scripts/clip-eu/node_modules/playwright/types/test.d.ts",
+    "scripts/clip-eu/node_modules/@esbuild/win32-x64/README.md",
+    "command-center/node_modules/next/dist/docs/01-app/02-guides/production-checklist.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-plan.prompt.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-planner.agent.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-healer.agent.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-heal.prompt.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-generator.agent.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-generate.prompt.md",
+    "scripts/clip-eu/node_modules/playwright/lib/agents/playwright-test-coverage.prompt.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/video-recording.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/tracing.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/test-generation.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/storage-state.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/session-management.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/running-code.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/request-mocking.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/playwright-tests.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/references/element-attributes.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/cli-client/skill/SKILL.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/vite/traceViewer/playwright-logo.svg",
+    "scripts/clip-eu/node_modules/playwright-core/lib/vite/recorder/playwright-logo.svg",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/trace/SKILL.md",
+    "scripts/clip-eu/node_modules/playwright-core/lib/tools/dashboard/appIcon.png",
+    "scripts/clip-eu/node_modules/playwright-core/lib/server/chromium/appIcon.png",
+    "wiki/comparisons/kulturmiljolagen-vs-artskyddsforordningen.md",
+    "command-center/public/icon-512.png",
+    "command-center/public/icon-192.png",
+    "command-center/public/window.svg",
+    "command-center/public/vercel.svg",
+    "command-center/public/next.svg",
+    "command-center/public/globe.svg"
   ]
 }

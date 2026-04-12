@@ -2,6 +2,7 @@
 title: "Fartygsregisterförordning (1975:927)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1975:927"
 short_name: Fartygsregisterförordningen
 status: gallande

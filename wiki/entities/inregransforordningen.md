@@ -2,6 +2,7 @@
 title: Inregränsförordningen
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1996:702"
 short_name: Inregränsförordningen
 status: gällande

@@ -2,6 +2,7 @@
 title: "Kungörelse (1969:475) om uppbörd av särskilda avgifter genom Tullverkets försorg"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1969:475"
 short_name: Tullverkets uppbörd av tredjepartsavgifter
 status: gallande

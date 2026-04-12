@@ -2,6 +2,7 @@
 title: "Förordning om fisket, vattenbruket och fiskerinäringen"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1994:1716"
 short_name: Fiskeförordningen
 status: gallande

@@ -2,6 +2,7 @@
 title: Narkotikastrafflagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1968:64"
 short_name: Narkotikastrafflagen
 status: gällande

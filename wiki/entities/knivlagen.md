@@ -2,6 +2,7 @@
 title: Knivlagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1988:254"
 short_name: Knivlagen
 status: gällande

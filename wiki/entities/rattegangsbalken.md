@@ -2,6 +2,7 @@
 title: Rättegångsbalken
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1942:740"
 short_name: Rättegångsbalken
 status: gällande

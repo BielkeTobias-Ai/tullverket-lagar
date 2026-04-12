@@ -2,6 +2,7 @@
 title: Förordningen om krigsmateriel
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1992:1303"
 short_name: Krigsmaterielförordningen
 status: gällande

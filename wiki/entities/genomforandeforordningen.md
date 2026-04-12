@@ -2,6 +2,7 @@
 title: Genomförandeförordningen (EU) 2015/2447
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32015R2447"
 short_name: Genomförandeförordningen
 status: gallande
@@ -44,6 +45,9 @@ connections:
   - type: hanvisar-till
     target: "[[ucc-elektroniska-system]]"
     context: "Förordning 2025/512 ersatte delar av 2015/2447 vad gäller tekniska IT-arrangemang"
+  - type: overlappar
+    target: "[[overgangsforordningen]]"
+    context: "Speglad fran [[overgangsforordningen]] — Genomförandeförordningen (EU 2015/2447) är det operativa regelverket för UCC-tillämpning. Övergångsförordningen definierade avvikelser från genomförandeförordningens krav under övergångsperioden."
 tags:
   - eu-forordning
   - tullkodex

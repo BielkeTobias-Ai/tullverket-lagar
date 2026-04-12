@@ -2,6 +2,7 @@
 title: Terroristbrottslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2022:666"
 short_name: Terroristbrottslagen
 status: gallande

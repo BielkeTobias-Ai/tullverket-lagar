@@ -22,7 +22,7 @@ compares:
 
 ## Sammanfattning
 
-[[Miljöbalken]] (1998:808) är den svenska miljörättens ramlag — 33 kapitel som samlar naturskydd, artskydd, kemikalier och avfall under ett tak. Balken skapar befogenhetsdelegation och straffansvar, men innehåller inga detaljregler om vilka arter som är skyddade eller vilka tullkontor som får ta emot CITES-gods. Det är istället [[artskyddsforordningen]] (2007:845) som fyller detta vacuum: förordningen är meddelad med stöd av 8 kap. 1–4 §§ miljöbalken och är artskyddets operativa speciallag — en genomförandeförordning till EU:s fågeldirektiv, art- och habitatdirektiv och CITES-förordningen (EG) nr 338/97.
+[[miljobalken]] (1998:808) är den svenska miljörättens ramlag — 33 kapitel som samlar naturskydd, artskydd, kemikalier och avfall under ett tak. Balken skapar befogenhetsdelegation och straffansvar, men innehåller inga detaljregler om vilka arter som är skyddade eller vilka tullkontor som får ta emot CITES-gods. Det är istället [[artskyddsforordningen]] (2007:845) som fyller detta vacuum: förordningen är meddelad med stöd av 8 kap. 1–4 §§ miljöbalken och är artskyddets operativa speciallag — en genomförandeförordning till EU:s fågeldirektiv, art- och habitatdirektiv och CITES-förordningen (EG) nr 338/97.
 
 Hierarkin är tydlig: miljöbalken är ramlagens normgivningsbas; artskyddsförordningen är den normen som faktiskt styr gränskontrollen. Straffansvaret för artskyddsbrott finns dock inte i artskyddsförordningen utan i miljöbalken 29 kap. 2b § — de två lagarna samverkar alltså: förordningen förbjuder, balken straffar. För kemikalier och F-gaser gäller miljöbalken direkt (14 kap. + 29 kap. 3–3b §§) utan någon mellanliggande genomförandeförordning av samma slag.
 

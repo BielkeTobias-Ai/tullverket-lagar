@@ -2,6 +2,7 @@
 title: Tullbefrielse för militär utrustning (EG 150/2003)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32003R0150"
 short_name: Militär tullbefrielse 150/2003
 status: gallande

@@ -2,6 +2,7 @@
 title: Artskyddsförordningen
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2007:845"
 short_name: Artskyddsförordningen
 status: gallande
@@ -38,6 +39,12 @@ connections:
   - type: overlappar
     target: "[[miljobalken]]"
     context: "Straffregler for artskyddsbrott finns bade i miljobalken 29 kap. och via denna forordning"
+  - type: overlappar
+    target: "[[importforbud-arter]]"
+    context: "Speglad fran [[importforbud-arter]] — Artskyddsförordningen implementerar CITES; importförbud i 2025/6 gäller parallellt"
+  - type: overlappar
+    target: "[[pals-forbud-eu]]"
+    context: "Speglad fran [[pals-forbud-eu]] — Artskyddsförordningen reglerar skyddade vilda arter; päls-förbudet specifikt riktar sig mot tamkatt/tamhund oavsett CITES-status"
 tags:
   - artskydd
   - CITES

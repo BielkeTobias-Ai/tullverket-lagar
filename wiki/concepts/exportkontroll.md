@@ -45,13 +45,13 @@ Inspektionen for strategiska produkter (ISP) ar tillstandsmyndighet for de tva f
 
 ## EU-dimensionen
 
-EU:s forordning (EU) 2021/821 — ofta kallad **PGS-forordningen** (produkter med dubbla anvandningsomraden) — ar direkt tillamplig i Sverige. [[Lagen-om-kontroll-av-dubbla-anvandningsomraden]] kompletterar forordningen med nationella tillstandskrav, straffskalor och ISP som tillstandsmyndighet.
+EU:s forordning (EU) 2021/821 — ofta kallad **PGS-forordningen** (produkter med dubbla anvandningsomraden) — ar direkt tillamplig i Sverige. [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] kompletterar forordningen med nationella tillstandskrav, straffskalor och ISP som tillstandsmyndighet.
 
-For sanktioner galler EU-forordningar antagna med stod av art. 215 FEUF. [[Lagen-om-vissa-internationella-sanktioner]] ger straffansvar for brott mot bade EU-sanktioner och FN-sanktioner.
+For sanktioner galler EU-forordningar antagna med stod av art. 215 FEUF. [[lagen-om-vissa-internationella-sanktioner]] ger straffansvar for brott mot bade EU-sanktioner och FN-sanktioner.
 
 ## Sanktionsregimer
 
-[[Lagen-om-vissa-internationella-sanktioner]] ger ramverket for att genomfora:
+[[lagen-om-vissa-internationella-sanktioner]] ger ramverket for att genomfora:
 
 - **FN-sanktioner** — beslutade av FN:s sakerhetsrad
 - **EU-sanktioner** — inom gemensam utrikes- och sakerhetspolitiken
@@ -76,19 +76,19 @@ Tullverket kontrollerar varufloden mot EU:s konsoliderade sanktionslista vid tul
 - **Tillstandsplikt:** All export av krigsmateriel och dual-use-produkter kraver ISP-tillstand. Tre typer: individuella, globala och generella tillstand.
 - **Subsidiaritet med smugglingslagen:** Olovlig utforsel utan tillstand straffas under [[smugglingslagen]]; [[lagen-om-krigsmateriel]] 24 § hanvisar direkt dit.
 - **Catch-all-klausul:** Aven produkter som inte ar listade kan krava tillstand om exportoren vet att de kan anvandas for massforstorelsevapen (PGS-forordningen art. 4).
-- **Kemiska prekursorer:** [[Lagen-om-kontroll-av-dubbla-anvandningsomraden]] 10 § kraver tillstand for inforseltillstand av amnen som kan anvandas for kemiska stridsmedel.
+- **Kemiska prekursorer:** [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] 10 § kraver tillstand for inforseltillstand av amnen som kan anvandas for kemiska stridsmedel.
 - **Dubbel lagforing:** Brott mot exportkontroll kan ge ansvar under bade speciallagen och [[smugglingslagen]] parallellt.
 
 ## Praktisk tillamning
 
 > [!situation] Olovlig utforsel av krigsmateriel
-> Vid granskontroll hittas militar utrustning utan ISP-tillstand. Brottet rubriceras under [[smugglingslagen]] (dit [[lagen-om-krigsmateriel]] 24 § hanvisar). [[Tullbefogenhetslagen]] ger tvangsmedel for beslag och utredning. ISP kontaktas for klassificering.
+> Vid granskontroll hittas militar utrustning utan ISP-tillstand. Brottet rubriceras under [[smugglingslagen]] (dit [[lagen-om-krigsmateriel]] 24 § hanvisar). [[tullbefogenhetslagen]] ger tvangsmedel for beslag och utredning. ISP kontaktas for klassificering.
 
 > [!situation] Export av dual-use-teknik utan tillstand
 > Foretag exporterar kryptoutrustning eller precisionsmaskiner utan tillstand. ISP provar om produkten faller under PGS-forordningens bilagor. Straff: boter–fangelse 2 ar, grovt brott 6 man–6 ar ([[lagen-om-kontroll-av-dubbla-anvandningsomraden]] 18 §).
 
 > [!situation] Sanktionerad vara vid tullklarering
-> Tullverket upptacker att exportvarorna ar destinerade till ett sanktionerat land eller en listad person/entitet. Kontroll mot EU:s konsoliderade sanktionslista. [[Lagen-om-vissa-internationella-sanktioner]] ger straffansvar (boter–fangelse 4 ar). [[Tullbefogenhetslagen]] ger tvangsmedel (14 §).
+> Tullverket upptacker att exportvarorna ar destinerade till ett sanktionerat land eller en listad person/entitet. Kontroll mot EU:s konsoliderade sanktionslista. [[lagen-om-vissa-internationella-sanktioner]] ger straffansvar (boter–fangelse 4 ar). [[tullbefogenhetslagen]] ger tvangsmedel (14 §).
 
 > [!situation] Granskontroll — dual-use eller krigsmateriel?
 > Vid oklart om produkt ar krigsmateriel eller dual-use: [[lagen-om-krigsmateriel]] 1 § definierar krigsmateriel; [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] 3 § definierar militara produkter med hanvisning till krigsmateriellagen. ISP avgransar.

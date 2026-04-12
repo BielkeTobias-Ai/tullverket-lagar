@@ -2,6 +2,7 @@
 title: Förordningen om enda kontaktpunkt för tullen i EU (EU) 2022/2399
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32022R2399"
 short_name: EU CSW-förordningen
 status: gallande

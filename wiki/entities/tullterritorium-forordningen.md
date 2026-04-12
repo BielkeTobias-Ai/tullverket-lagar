@@ -2,6 +2,7 @@
 title: Kontrollförordning för tredjelandstransportmedel (EEG 3912/92)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "31992R3912"
 short_name: Transportkontrollförordningen 3912/92
 status: gallande

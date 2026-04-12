@@ -2,6 +2,7 @@
 title: "Lag (1979:377) om registrering av båtar"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1979:377"
 short_name: Båtregistreringslagen
 status: gallande
@@ -30,6 +31,7 @@ tags:
   - identifiering
 sources:
   - "[[lagen-om-registrering-av-batar-1979-377]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

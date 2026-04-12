@@ -2,6 +2,7 @@
 title: "Yrkestrafiklag (2012:210)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2012:210"
 short_name: Yrkestrafiklagen
 status: gallande
@@ -32,6 +33,7 @@ tags:
   - internationell-transport
 sources:
   - "[[yrkestrafiklagen-2012-210]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

@@ -2,6 +2,7 @@
 title: Sälproduktsförordningen (EG) 1007/2009
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32009R1007"
 short_name: Sälproduktsförordningen
 status: gallande

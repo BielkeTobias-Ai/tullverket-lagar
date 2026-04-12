@@ -2,6 +2,7 @@
 title: "Förordning (1975:929) med vissa bestämmelser om fartygs identifiering"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1975:929"
 short_name: Fartygsidentifieringsförordningen
 status: gallande

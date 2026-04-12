@@ -2,6 +2,7 @@
 title: "Lag (1974:1065) om visst stöldgods m.m."
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1974:1065"
 short_name: Stöldgodslagen
 status: gallande
@@ -22,6 +23,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-forfarande-med-forverkad-egendom]]"
     context: "Förfarandet med gods i förvar regleras i förfarandelagen (1974:1066)"
+  - type: overlappar
+    target: "[[lagen-om-forfarande-med-forverkad-egendom]]"
+    context: "Speglad fran [[lagen-om-forfarande-med-forverkad-egendom]] — Speglad fran [[lagen-om-visst-stoldgods]] — Förfarandet med gods i förvar regleras i förfarandelagen (1974:1066)"
 tags:
   - stoldgods
   - forvar
@@ -29,6 +33,7 @@ tags:
   - forverkande
 sources:
   - "[[lagen-om-visst-stoldgods-1974-1065]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

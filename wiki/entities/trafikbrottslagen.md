@@ -2,6 +2,7 @@
 title: Trafikbrottslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1951:649"
 short_name: Trafikbrottslagen
 status: gallande

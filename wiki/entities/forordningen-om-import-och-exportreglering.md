@@ -2,6 +2,7 @@
 title: Förordningen om import- och exportreglering
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "1997:969"
@@ -36,7 +37,7 @@ connections:
     target: "[[tullagen]]"
     context: "Import och export sker inom tullförfarandet. Licensmyndigheterna samverkar med Tullverket."
   - type: hanvisar-till
-    target: "[[lagen-om-internationella-sanktioner]]"
+    target: "[[lagen-om-vissa-internationella-sanktioner]]"
     context: "Sanktioner kan medföra importlicenstvång som hanteras av denna förordning."
   - type: hanvisar-till
     target: "[[lagen-om-kontroll-av-dubbla-anvandningsomraden]]"
@@ -48,7 +49,7 @@ connections:
     target: "[[smugglingslagen]]"
     context: "Olovlig import eller export av licensreglerade varor utgör smuggling med straff enligt denna lag."
   - type: kompletterar
-    target: "[[tullkodex-for-unionen]]"
+    target: "[[ucc]]"
     context: "Denna förordning implementerar och verkställer EU:s tullkodex för licenserade varor."
   - type: overlappar
     target: "[[exportkontroll]]"
@@ -84,10 +85,10 @@ Denna förordning innehåller inga självständiga straffbestämmelser. Straff f
 |----------|---|---|
 | **Hanvisar till** | [[tullagen]] | Import/export sker via tullförfarande; licensmyndigheterna samverkar med Tullverket |
 | **Hanvisar till** | [[smugglingslagen]] | Olovlig import/export utan licens utgör smugling med straff |
-| **Hanvisar till** | [[lagen-om-internationella-sanktioner]] | Sanktioner kan medföra licenstvång |
+| **Hanvisar till** | [[lagen-om-vissa-internationella-sanktioner]] | Sanktioner kan medföra licenstvång |
 | **Undantar** | [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] | Dubbla användningsområden regleras separat (bilaga 1) |
 | **Undantar** | [[lagen-om-krigsmateriel]] | Kriegsmateriel undantas från tillämpningsområde (bilaga 1) |
-| **Kompletterar** | [[tullkodex-for-unionen]] | Implementerar EU:s tullkodex för licenserade varor |
+| **Kompletterar** | [[ucc]] | Implementerar EU:s tullkodex för licenserade varor |
 | **Överlappar** | [[exportkontroll]] | Export av vissa varor kan kräva både licens och kontroll |
 
 ## Nyckelbestämmelser
@@ -136,4 +137,4 @@ Senaste ändring: SFS 2016:293. Bilaga 3 upphävd genom SFS 2011:662.
 - [[kommerskollegium]] — Övriga licenser och sanktioner
 - [[tullverket]] — Gränskontroll och tullklarering
 - [[kombinerade-nomenklaturen]] — Varuklassificering för licenser
-- [[tullkodex-for-unionen]] — EU:s ramverk för tullreglering
+- [[ucc]] — EU:s ramverk för tullreglering

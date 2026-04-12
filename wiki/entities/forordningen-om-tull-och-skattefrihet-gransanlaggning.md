@@ -2,6 +2,7 @@
 title: "Förordning (1968:226) om tull- och skattefrihet för gränsanläggning"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1968:226"
 short_name: Gränsanläggningsförordningen
 status: gallande

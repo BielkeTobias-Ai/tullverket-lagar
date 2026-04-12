@@ -53,7 +53,7 @@ Båda systemen administreras av **Inspektionen för strategiska produkter (ISP)*
 
 ### KMF-listan och materialdefinition
 
-[[Forordningen-om-krigsmateriel]] (1992:1303) innehåller en bilaga som anger exakt vilken materiel som omfattas. Materielen delas i:
+[[forordningen-om-krigsmateriel]] (1992:1303) innehåller en bilaga som anger exakt vilken materiel som omfattas. Materielen delas i:
 
 - **Krigsmateriel för strid** — vapen, ammunition, stridsfordon, örlogsfartyg, militärflygplan
 - **Övrig krigsmateriel** — komponenter, utbildningsutrustning, kommunikationssystem
@@ -89,7 +89,7 @@ Exporttillstånd krävs för all export till länder utanför EU/EES för förte
 
 ### Nationell kontrollförteckning — avancerade produkter
 
-[[Forordningen-om-dual-use]] 4 g § och dess bilaga innehåller en nationell kontrollförteckning som utvidgar kontrollen till produkter som inte finns i EU 2021/821. Exempel:
+[[forordningen-om-dual-use]] 4 g § och dess bilaga innehåller en nationell kontrollförteckning som utvidgar kontrollen till produkter som inte finns i EU 2021/821. Exempel:
 
 - **Kvantdatorer** med ≥ 34 fysiska kvantbitar (specificerade C-NOT-felgränser)
 - **AI-chip** med total prestanda ≥ 6 000 TPP (GPU, TPU, ASIC)
@@ -119,13 +119,13 @@ Olovlig utförsel bestraffas via [[smugglingslagen]], men mekanismerna skiljer s
 | | **Krigsmateriel** | **Dual-use** |
 |---|---|---|
 | **Hänvisning** | 24 § krigsm. hänvisar *direkt* till smugglingslagen | 18 § dual-use-lagen + smugglingslagen parallellt |
-| **Primär straffparagraf** | [[Smugglingslagen]] §3 (olovlig utförsel) | Dual-use-lagen 18 § *eller* smugglingslagen §3 |
+| **Primär straffparagraf** | [[smugglingslagen]] §3 (olovlig utförsel) | Dual-use-lagen 18 § *eller* smugglingslagen §3 |
 | **Grundbrott** | Böter–fängelse 2 år | Böter–fängelse 2 år |
-| **Grovt brott** | [[Smugglingslagen]] §5: fängelse 6 mån–6 år | Dual-use-lagen 18 § grovt: fängelse 6 mån–6 år |
-| **Tullverkets roll** | [[Tullbefogenhetslagen]] ger tvångsmedel | [[Tullbefogenhetslagen]] ger tvångsmedel |
+| **Grovt brott** | [[smugglingslagen]] §5: fängelse 6 mån–6 år | Dual-use-lagen 18 § grovt: fängelse 6 mån–6 år |
+| **Tullverkets roll** | [[tullbefogenhetslagen]] ger tvångsmedel | [[tullbefogenhetslagen]] ger tvångsmedel |
 
 > [!situation] Olovlig utförsel av krigsmateriel vid gräns
-> Tulltjänsteman hittar militär utrustning utan ISP-tillstånd. [[Tullbefogenhetslagen]] ger befogenhet att stoppa och beslagta. Brottet rubriceras under [[smugglingslagen]] §3 (dit [[lagen-om-krigsmateriel]] 24 § hänvisar). ISP kontaktas för klassificering mot KMF-listan. Vid storskalig eller systematisk utförsel → grov smuggling [[smugglingslagen]] §5 (6 mån–6 år).
+> Tulltjänsteman hittar militär utrustning utan ISP-tillstånd. [[tullbefogenhetslagen]] ger befogenhet att stoppa och beslagta. Brottet rubriceras under [[smugglingslagen]] §3 (dit [[lagen-om-krigsmateriel]] 24 § hänvisar). ISP kontaktas för klassificering mot KMF-listan. Vid storskalig eller systematisk utförsel → grov smuggling [[smugglingslagen]] §5 (6 mån–6 år).
 
 > [!situation] Olovlig export av dual-use-teknik
 > Företag exporterar kryptoutrustning eller precisionsmaskiner utan ISP-tillstånd. Dual-use-lagen 18 § och [[smugglingslagen]] §3 kan tillämpas parallellt. Grovt brott: dual-use-lagen 18 § (6 mån–6 år) — strängare maximum än krigsmateriellagen (4 år).
@@ -136,7 +136,7 @@ Olovlig utförsel bestraffas via [[smugglingslagen]], men mekanismerna skiljer s
 
 Samma produkt kan simultant klassas som krigsmateriel och dual-use. Reglerna för avgränsning:
 
-1. **Definitionen styr:** [[Lagen-om-krigsmateriel]] 1 § definierar *materiel utformad för militärt bruk*. [[Lagen-om-kontroll-av-dubbla-anvandningsomraden]] 3 § hänvisar uttryckligen till denna definition: militära produkter i dual-use-lagen = krigsmateriel enligt krigsm. 1 §.
+1. **Definitionen styr:** [[lagen-om-krigsmateriel]] 1 § definierar *materiel utformad för militärt bruk*. [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] 3 § hänvisar uttryckligen till denna definition: militära produkter i dual-use-lagen = krigsmateriel enligt krigsm. 1 §.
 
 2. **Krigsmateriel har prioritet:** En produkt som klassas som krigsmateriel regleras av krigsmateriellagen — inte dual-use-lagen. Dual-use-lagen täcker produkter som *inte* är krigsmateriel men ändå kan ha militär användning.
 
@@ -153,7 +153,7 @@ Exportkontroll och sanktioner är separata juridiska spår men samverkar i prakt
 
 | Aspekt | Exportkontroll (ISP) | Sanktioner |
 |---|---|---|
-| **Rättslig grund** | [[Lagen-om-krigsmateriel]] / [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] | [[Lagen-om-vissa-internationella-sanktioner]] + EU-förordningar (art. 215 FEUF) |
+| **Rättslig grund** | [[lagen-om-krigsmateriel]] / [[lagen-om-kontroll-av-dubbla-anvandningsomraden]] | [[lagen-om-vissa-internationella-sanktioner]] + EU-förordningar (art. 215 FEUF) |
 | **Styrning** | ISP-tillstånd per transaktion | Regeringsförordnanden baserade på FN/EU-beslut |
 | **Vapenembargo** | Tillstånd nekas (ISP:s kriterier) | Absolut förbud via sanktionsförordning |
 | **Kontrollista** | KMF-listan / EU 2021/821 bilaga I | EU:s konsoliderade sanktionslista |
@@ -163,7 +163,7 @@ Exportkontroll och sanktioner är separata juridiska spår men samverkar i prakt
 Vapenembargon mot specifika länder (t.ex. Ryssland, Iran) fungerar i praktiken som ett parallellt tillståndssystem: ISP kan inte bevilja tillstånd som strider mot ett sanktionsförbud. Export av krigsmateriel eller dual-use-produkter till ett sanktionerat land ger ansvar under *båda* systemen.
 
 > [!situation] Export till sanktionerat land
-> Företag söker ISP-tillstånd för export av militär utrustning till ett land med vapenembargo. ISP kan inte bevilja tillstånd som strider mot EU:s sanktionsförordning. Vid otillåten export: ansvar under [[lagen-om-krigsmateriel]] (via [[smugglingslagen]] 24 §) *och* [[lagen-om-vissa-internationella-sanktioner]] 8 § parallellt. [[Tullbefogenhetslagen]] ger Tullverket tvångsmedel (sanktionslagen 14 §).
+> Företag söker ISP-tillstånd för export av militär utrustning till ett land med vapenembargo. ISP kan inte bevilja tillstånd som strider mot EU:s sanktionsförordning. Vid otillåten export: ansvar under [[lagen-om-krigsmateriel]] (via [[smugglingslagen]] 24 §) *och* [[lagen-om-vissa-internationella-sanktioner]] 8 § parallellt. [[tullbefogenhetslagen]] ger Tullverket tvångsmedel (sanktionslagen 14 §).
 
 ---
 
@@ -201,7 +201,7 @@ Avancerade halvledare och AI-chip saknar normalt militär specificering men kan 
 ## Typiska situationer
 
 > [!situation] Gränskontroll — utförsel utan tillstånd
-> Tulltjänsteman stoppar lastbil vid gräns. Lasten innehåller militär optik utan ISP-tillstånd. [[Tullbefogenhetslagen]] 3 kap. 10 § ger befogenhet att undersöka transportmedlet. KMF-listan konsulteras. Finns materielen i bilagan → [[lagen-om-krigsmateriel]] 24 § → [[smugglingslagen]] §3. ISP underrättas för klassificering.
+> Tulltjänsteman stoppar lastbil vid gräns. Lasten innehåller militär optik utan ISP-tillstånd. [[tullbefogenhetslagen]] 3 kap. 10 § ger befogenhet att undersöka transportmedlet. KMF-listan konsulteras. Finns materielen i bilagan → [[lagen-om-krigsmateriel]] 24 § → [[smugglingslagen]] §3. ISP underrättas för klassificering.
 
 > [!situation] Catch-all — kund avslöjar militär slutanvändning
 > Exportör tar order på precisionsmaskiner (ej förtecknade i EU 2021/821). Kunden avslöjar i e-post att maskinerna ska användas i ett vapenprogram. Exportören är skyldig att anmäla till ISP (dual-use-förordning 4 a §). Exporterar utan att anmäla → dual-use-lagen 18 § (böter–2 år, grovt: 6 mån–6 år).

@@ -2,6 +2,7 @@
 title: Tullbefogenhetslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2024:710"
 short_name: Tullbefogenhetslagen
 status: gällande
@@ -96,6 +97,12 @@ connections:
   - type: kompletterar
     target: "[[lagen-om-punktskattekontroll]]"
     context: "5 kap. ger kontrollbefogenheterna (stoppa, undersöka, omhänderta). LPK reglerar skattekonsekvenserna efteråt (skattebeslut, förverkande, transporttillägg)."
+  - type: overlappar
+    target: "[[utlanningsforordningen]]"
+    context: "Speglad fran [[utlanningsforordningen]] — Tullverkets underrättelseskyldighet vid inreseproblem kompletterar tulls övriga befogenheter vid gräns"
+  - type: overlappar
+    target: "[[utlanningslagen]]"
+    context: "Speglad fran [[utlanningslagen]] — Båda berör gränsövervakning; utlänningslagen styr identitetskontroll, tullbefogenhetslagen varukontrollen"
 tags:
   - lag
   - befogenheter

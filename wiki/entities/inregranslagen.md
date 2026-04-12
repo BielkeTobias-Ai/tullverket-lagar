@@ -2,6 +2,7 @@
 title: Inregränslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1996:701"
 short_name: Inregränslagen
 status: gallande
@@ -51,6 +52,9 @@ connections:
   - type: kompletterar
     target: "[[tullbefogenhetslagen]]"
     context: "Inregränslagen skapar anmälningsskyldigheterna; tullbefogenhetslagen ger befogenheterna att genomföra kontrollen"
+  - type: overlappar
+    target: "[[tullbefogenhetslagen]]"
+    context: "Speglad fran [[tullbefogenhetslagen]] — Båda lagarna tillämpas vid kontroll vid inre EU-gräns; inregränslagen ger anmälningsskyldigheterna, tullbefogenhetslagen ger kontrollbefogenheterna"
 tags:
   - lag
   - inregräns

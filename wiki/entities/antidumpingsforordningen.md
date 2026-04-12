@@ -2,6 +2,7 @@
 title: "Förordning (EU) 2016/1036 — Antidumpningsförordningen"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32016R1036"
 short_name: Antidumpningsförordningen
 status: gallande
@@ -34,6 +35,9 @@ connections:
   - type: kompletterar
     target: "[[tullagen]]"
     context: "Tullverket verkställer antidumpningstullar i Sverige"
+  - type: overlappar
+    target: "[[tullagen]]"
+    context: "Speglad fran [[tullagen]] — Speglad fran [[antidumpingsforordningen]] — Tullverket verkställer antidumpningstullar i Sverige"
 tags:
   - eu-forordning
   - antidumping

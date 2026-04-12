@@ -2,6 +2,7 @@
 title: "Luftfartsförordning (2010:770)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2010:770"
 short_name: Luftfartsförordningen
 status: gallande

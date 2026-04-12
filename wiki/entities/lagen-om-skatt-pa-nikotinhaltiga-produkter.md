@@ -2,6 +2,7 @@
 title: Lagen om skatt på vissa nikotinhaltiga produkter
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2018:696"
 short_name: Nikotinskattelagen
 status: gallande
@@ -42,7 +43,7 @@ connections:
     target: "[[lagen-om-forbud-mot-vissa-halsofarliga-varor]]"
     context: "Produkter klassificerade som hälsofarliga enligt denna lag (1999:42) är undantagna från nikotinskatten (5 § 1). E-vätskor klassificerade som akut giftig (farokategori 1–3) är också undantagna, utom högkoncentrerade e-vätskor."
   - type: hanvisar-till
-    target: "[[skatteförfarandelagen]]"
+    target: "[[skatteforfarandelagen]]"
     context: "Generell administrativ ramen för skattebeslut, omprövning och överklagande — utom för import, där tullagen (2016:253) gäller istället."
 tags:
   - lag
@@ -159,7 +160,7 @@ Godkännandet kan återkallas om förutsättningarna försvinner.
 ### Överklagande (18 §)
 
 - Lagerhållarnas godkännande kan överklagas till allmän förvaltningsdomstol
-- För övriga skattebeslut gäller [[skatteförfarandelagen]] (2011:1244), **utom** import — där tullagen gäller
+- För övriga skattebeslut gäller [[skatteforfarandelagen]] (2011:1244), **utom** import — där tullagen gäller
 
 ## Kopplingar
 
@@ -170,7 +171,7 @@ Godkännandet kan återkallas om förutsättningarna försvinner.
 | **hanvisar-till** | [[tullagen]] | UCC-definitionerna är ankarpunkten; tullskuldens uppkomst enligt UCC art. 201 utlöser skattskyldighet. Tullverket beslutar skatt; skatten betalas enligt tullagen. |
 | **hanvisar-till** | [[narkotikastrafflagen]] | Narkotikaklassificeringar ger undantag från skatt (5 § 1). Gränsdragningen mellan narkotika och nikotinprodukter är praktiskt viktig. |
 | **hanvisar-till** | [[lagen-om-forbud-mot-vissa-halsofarliga-varor]] | Hälsofarlig-klassificeringar ger undantag från skatt (5 § 1). E-vätskor klassificerade som akut giftig är undantagna (utom högkoncentrerade). |
-| **hanvisar-till** | [[skatteförfarandelagen]] | Generell administrativ ram för skattebeslut och överklagande — **utom för import**, där tullagen gäller |
+| **hanvisar-till** | [[skatteforfarandelagen]] | Generell administrativ ram för skattebeslut och överklagande — **utom för import**, där tullagen gäller |
 
 ## Praktisk tillämpning
 

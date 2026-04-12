@@ -2,6 +2,7 @@
 title: "Lag (1974:1066) om förfarande med förverkad egendom och hittegods m.m."
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1974:1066"
 short_name: Förfarandelagen (förverkad egendom)
 status: gallande
@@ -31,6 +32,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-hittegods]]"
     context: "Hittegods som tillfaller staten hanteras enligt denna lag"
+  - type: overlappar
+    target: "[[lagen-om-visst-stoldgods]]"
+    context: "Speglad fran [[lagen-om-visst-stoldgods]] — Förfarandet med gods i förvar regleras i förfarandelagen (1974:1066)"
 tags:
   - forverkande
   - hittegods
@@ -40,6 +44,7 @@ tags:
   - egendomshantering
 sources:
   - "[[lagen-om-forfarande-med-forverkad-egendom-1974-1066]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

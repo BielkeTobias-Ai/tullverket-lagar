@@ -2,6 +2,7 @@
 title: "Lag (1918:163) med vissa bestämmelser om sjöfynd"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1918:163"
 short_name: Sjöfyndslagen
 status: gallande
@@ -29,6 +30,9 @@ connections:
   - type: kompletterar
     target: "[[kustbevakningslagen]]"
     context: "Kustbevakningstjänsteman mottar anmälningar och underrättar Polismyndigheten (§ 1)"
+  - type: overlappar
+    target: "[[lagen-om-hittegods]]"
+    context: "Speglad fran [[lagen-om-hittegods]] — Lagen hänvisar till sjöfyndslagen för fartygslämningar och sjöfynd (§ 11)"
 tags:
   - sjofynd
   - bargning
@@ -36,6 +40,7 @@ tags:
   - tull
 sources:
   - "[[lagen-om-sjofynd-1918-163]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

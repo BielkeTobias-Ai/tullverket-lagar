@@ -59,7 +59,7 @@ Inte alla tullkontor far hantera CITES-import och -export. Jordbruksverket besta
 
 ## Miljobalken — kemikalier och F-gaser
 
-[[Miljobalken]] (1998:808) ar ramlagen for svensk miljoratt. For tullverksamheten ar tva kapitel centrala:
+[[miljobalken]] (1998:808) ar ramlagen for svensk miljoratt. For tullverksamheten ar tva kapitel centrala:
 
 - **14 kap.** — Kemikalier: import/export av kemiska produkter kraver i manga fall tillstand, anmalan eller registrering i produktregistret. Tullverket kan identifiera oregistrerade kemikalier.
 - **29 kap.** — Straffbestammelser: miljofarlig kemikaliehantering (inkl. olovlig import/export) ger boter eller fangelse i hogst 2 ar.
@@ -68,7 +68,7 @@ Sarskilt relevanta ar **fluorerade vaxthusgaser (F-gaser)** och **ozonnedbrytand
 
 ## Kulturarv vid gransen
 
-[[Kulturmiljolagen]] (1988:950) skyddar svenska kulturforemal fran olovlig utforsel. For tullverksamheten ar 5 kap. centralt:
+[[kulturmiljolagen]] (1988:950) skyddar svenska kulturforemal fran olovlig utforsel. For tullverksamheten ar 5 kap. centralt:
 
 - **Tillstandskrav:** Kulturforemal som kan antas ha funnits i Sverige i minst **75 ar** och som ar av stor betydelse for kulturarvet kraver utforseltillstand (5 kap. 1 §)
 - **Tillstandsmyndigheter:** Riksantikvarieambetet, Kungl. biblioteket, Riksarkivet, Nationalmuseum, Stiftelsen Nordiska museet (5 kap. 7–9 §§)

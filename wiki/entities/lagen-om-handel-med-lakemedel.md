@@ -2,6 +2,7 @@
 title: Lagen om handel med läkemedel
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2009:366"
 short_name: Läkemedelshandelslagen
 status: gallande

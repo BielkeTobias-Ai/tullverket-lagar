@@ -2,6 +2,7 @@
 title: Lagen om brandfarliga och explosiva varor
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2010:1011"
 short_name: LBE
 status: gällande
@@ -127,5 +128,5 @@ Tullverkets befogenheter vid brott mot LBE regleras i [[tullbefogenhetslagen]].
 ## Praktisk tillämpning
 
 - **Gränskontroll — explosiva varor**: Primärt [[smugglingslagen]] §6b. LBE är relevant som bakgrund för tillståndskrav.
-- **Postkontroll**: [[Tullbefogenhetslagen]] 7 kap. 8 § ger postspärr vid misstanke om explosiva varor.
+- **Postkontroll**: [[tullbefogenhetslagen]] 7 kap. 8 § ger postspärr vid misstanke om explosiva varor.
 - **Tillståndskontroll**: Främst MSB:s och kommuners ansvar, men Tullverket får utreda om misstanke uppstår vid kontroll.

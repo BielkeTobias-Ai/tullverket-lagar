@@ -19,6 +19,12 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 
 ## Källor
 
+### Myndigheter (officiella "Om oss"-sidor)
+- [[myndighet-tullverket]] — Tullverket officiell beskrivning (tullverket.se, 2026-04-12)
+- [[myndighet-skatteverket]] — Skatteverket officiell beskrivning (skatteverket.se, 2026-04-12)
+- [[myndighet-statens-jordbruksverk]] — Jordbruksverket officiell beskrivning (jordbruksverket.se, 2026-04-12)
+- [[myndighet-kommerskollegium]] — Kommerskollegium officiell beskrivning (kommerskollegium.se, 2026-04-12)
+
 ### EU-förordningar
 
 #### Tullkodex
@@ -218,6 +224,12 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 
 ## Entiteter
 
+### Myndigheter
+- [[tullverket]] — Gränskontroll, tullavgifter, AEO-tillstånd, brottsbekämpning tullrelaterad brottslighet
+- [[skatteverket]] — Punktskatter, mervärdesskatt, skatteförfarande, lagerhållare för uppskovsvaror
+- [[statens-jordbruksverk]] — CITES-tillstånd, jordbruksprodukter, IUU-fiske, växtskydd, EU-stöd
+- [[kommerskollegium]] — Handelspolitik, exportkontroll (dual-use), EU:s inre marknad, Solvit
+
 ### EU-förordningar
 
 #### Tullkodex
@@ -414,8 +426,25 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 ### Tier 3 — Övrigt (tullfrihet m.m.)
 - [[forordningen-om-tull-och-skattefrihet-gransanlaggning]] — Tullfrihet för nordiska gränsanläggningsprojekt (SFS 1968:226)
 - [[kungorelsen-om-tull-och-skattefrihet-renstangsel]] — Tullfrihet för renstängselimport, svensk-norska gränsen (SFS 1972:116)
+- [[lagen-om-exportbutiker]] — Exportbutiker på flygplats: punktskattefri försäljning till tredjeland (SFS 1999:445)
+
+### Tier 3 — Skatteförfarande
+- [[skatteforfarandelagen]] — Generell administrativ ram för skatter, omprövning, överklagande (SFS 2011:1244)
+- [[skatteforfarandeforordningen]] — Genomförande: deklarationer, betalningsansvar, förseningsavgifter (SFS 2011:1261)
+
+### Tier 3 — Fordon och ackreditering
+- [[fordonslagen]] — Fordonstypgodkännande, besiktning, kontrollbefogenhet vid vägsidan (SFS 2002:574)
+- [[lagen-om-ackreditering-och-teknisk-kontroll]] — Ackrediterade organ, teknisk kontroll, certifiering (SFS 2011:791)
 
 ## Koncept
+
+### Tullförfaranden och klassificering
+- [[tulltaxan-och-klassificering]] — KN/HS/TARIC, 11-siffrig varuklassificering, BTI, kapitelindelning
+- [[ursprung-och-preferensursprung]] — Icke-preferentiellt vs preferentiellt ursprung, EUR.1, Form A, REX-systemet
+- [[tullvarde-och-vardering]] — Transaktionsvärde, alternativa metoder, royalties, närstående parter (artikel 69-76 UCC)
+- [[aeo-tillstand]] — Authorised Economic Operator: AEOC/AEOS/AEOF, kriterier, MRA, omsesidigt erkannande
+
+### Kontroll och brottsbekämpning
 - [[smuggling]] — Olaglig in- eller utförsel av varor i strid med förbud eller villkor
 - [[brottsbekampning|brottsbekämpning]] — Direkt och indirekt brottsbekämpning — Tullverkets två befogenhetsnivåer
 - [[tullbrott]] — Skatteundandragande vid tullbehandling

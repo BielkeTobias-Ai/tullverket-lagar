@@ -137,7 +137,7 @@ Europadomstolen (EKMR, artikel 4 i protokoll 7) och EU-domstolen (stadgan artike
 
 ### Tulllagens hantering
 
-[[Tullagen]] 5 kap. 17 § ger Tullverket möjlighet att befria från tulltillägg om åtal väcks för samma gärning. **Regeln är dock permissiv, inte obligatorisk** — det råder osäkerhet om den fullt ut uppfyller Europadomstolens krav.
+[[tullagen]] 5 kap. 17 § ger Tullverket möjlighet att befria från tulltillägg om åtal väcks för samma gärning. **Regeln är dock permissiv, inte obligatorisk** — det råder osäkerhet om den fullt ut uppfyller Europadomstolens krav.
 
 I praktiken: Tullverket och åklagare koordinerar för att undvika parallella processer för identiska gärningar.
 
@@ -162,7 +162,7 @@ Det är inte alltid uppenbart vilket spår som är rätt. Tullverket gör en bed
 
 ## Befogenheter — TBL vid de olika spåren
 
-[[Tullbefogenhetslagen]] ger tulltjänstemannen olika befogenheter beroende på vilket spår som aktiveras:
+[[tullbefogenhetslagen]] ger tulltjänstemannen olika befogenheter beroende på vilket spår som aktiveras:
 
 | Situation | Relevant befogenhet (TBL) |
 |-----------|--------------------------|
@@ -205,7 +205,7 @@ Administrativt tulltillägg riktas primärt mot **deklarationsskyldiga** (import
 
 ### Parallell skatteskuld — skattebrottslagens gränsdragning
 
-[[Skattebrottslagen]] (1971:69) utesluts uttryckligen (1 §) när gärningen är belagd med straff i [[smugglingslagen]]. Smugglingslagen är *lex specialis*. Det innebär:
+[[skattebrottslagen]] (1971:69) utesluts uttryckligen (1 §) när gärningen är belagd med straff i [[smugglingslagen]]. Smugglingslagen är *lex specialis*. Det innebär:
 
 - Oriktig tulldeklaration med skatteundandragande → smugglingslagen §8 (tullbrott), INTE skattebrottslagen.
 - Energiskatt, tobaksskatt och alkoholskatt vid import → [[tullbefogenhetslagen]] 8 kap. 1 § ger Tullverket utredningsbefogenhet även för brott under skattebrottslagen i dessa fall.

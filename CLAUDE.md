@@ -65,8 +65,19 @@ sources:
 
 **Extra fält för `entity_type: lag`:**
 
+`source_type` avgör vilka fält som är obligatoriska. Tre värden:
+
+| `source_type` | Obligatoriska fält | Förklaring |
+|--------------|---------------------|-----------|
+| `lag` | `sfs`, `straffskala`, `befogenheter`, `situationer`, `connections` | Svensk lag. Har SFS-nummer och egna straffbestämmelser. |
+| `forordning` | `sfs`, `befogenheter`, `situationer`, `connections` (`straffskala: []` tillåtet) | Svensk förordning/kungörelse. Har SFS-nummer men straffen står ofta i modellagen. |
+| `eu-forordning` | `celex`, `situationer`, `connections` (`sfs: ""` och `straffskala: []` tillåtet) | EU-förordning. Har CELEX-nummer, inte SFS. Sanktioner implementeras nationellt. |
+
 ```yaml
-sfs: "2000:1225"                    # SFS-nummer
+# Svensk lag (t.ex. smugglingslagen)
+entity_type: lag
+source_type: lag
+sfs: "2000:1225"                    # SFS-nummer (obligatoriskt)
 short_name: Smugglingslagen         # Vardagsnamn
 status: gallande | upphavd | andrad
 befogenheter:                       # Vad lagen ger ratt att gora
@@ -75,7 +86,7 @@ befogenheter:                       # Vad lagen ger ratt att gora
   - beslagta varor
 tillampningsomrade: >               # Kort: nar galler lagen?
   Smuggling av varor over Sveriges grans
-straffskala:                        # Straffskalor per brottstyp
+straffskala:                        # Straffskalor per brottstyp (obligatoriskt)
   - brott: smuggling
     straff: "boter till fangelse 2 ar"
   - brott: grov smuggling
@@ -90,6 +101,55 @@ connections:                        # Kopplingar till andra lagar
   - type: speciallag-till
     target: "[[tullagen]]"
     context: "Lex specialis vid smugglingsbrott"
+```
+
+```yaml
+# Svensk forordning (t.ex. containerforordningen) — straffen star i morelagen
+entity_type: lag
+source_type: forordning
+sfs: "1980:640"
+short_name: Containerförordningen
+befogenheter: [...]
+situationer: [...]
+straffskala: []                     # Tom — straffen definieras i containerlagen
+connections: [...]
+```
+
+```yaml
+# EU-forordning (t.ex. CITES-forordningen) — CELEX istallet for SFS
+entity_type: lag
+source_type: eu-forordning
+celex: "31997R0338"                 # CELEX-nummer (obligatoriskt)
+short_name: CITES-förordningen
+sfs: ""                             # Tom — EU-forordningar har inte SFS
+straffskala: []                     # Tom — implementeras i nationell lag (artskyddsforordningen)
+situationer: [...]
+connections: [...]
+```
+
+**Extra fält för `entity_type: myndighet`:**
+
+```yaml
+entity_type: myndighet
+ansvarsomrade: >                    # Kort: vad gor myndigheten?
+  Kontroll av in- och utforsel av varor över Sveriges grans
+befogenheter:                       # Vilka befogenheter har myndigheten?
+  - genomsoka fordon
+  - beslagta varor
+connections:                        # Kopplingar till lagar som ger befogenheterna
+  - type: forvaltar
+    target: "[[tullagen]]"
+    context: "Primar tillampare"
+```
+
+**Extra fält för `entity_type: concept`:**
+
+```yaml
+entity_type: concept
+domain: tullforfaranden | tullvarde | ursprung | ...
+connections:                        # Kopplingar till relaterade lagar/koncept
+  - type: regleras-av
+    target: "[[ucc]]"
 ```
 
 ### Kopplingstyper

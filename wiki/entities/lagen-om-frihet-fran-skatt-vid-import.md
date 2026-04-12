@@ -2,6 +2,7 @@
 title: Lag om frihet från skatt vid import
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1994:1551"
 short_name: Skattefrihetlagen
 status: gällande

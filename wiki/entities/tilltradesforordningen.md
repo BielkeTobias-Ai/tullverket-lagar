@@ -2,6 +2,7 @@
 title: "Tillträdesförordning (1992:118)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1992:118"
 short_name: Tillträdesförordningen
 status: gallande

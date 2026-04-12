@@ -2,6 +2,7 @@
 title: Förordning om tullfrihet m.m.
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1994:1605"
 short_name: Tullfrihetsförordningen
 status: gällande

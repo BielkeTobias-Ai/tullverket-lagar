@@ -2,6 +2,7 @@
 title: "Lag om viltvårdsområden"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2000:592"
 short_name: Viltvårdsområdeslagen
 status: gallande
@@ -34,6 +35,7 @@ tags:
   - tier3
 sources:
   - "[[lagen-om-viltvardsomraden-2000-592]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

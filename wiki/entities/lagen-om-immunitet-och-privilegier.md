@@ -2,6 +2,7 @@
 title: Lagen om immunitet och privilegier i vissa fall
 type: entity
 entity_type: lag
+source_type: lag
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "1976:661"

@@ -2,6 +2,7 @@
 title: "Jaktlag"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1987:259"
 short_name: Jaktlagen
 status: gallande

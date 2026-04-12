@@ -2,6 +2,7 @@
 title: Lagen om vissa internationella sanktioner
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1996:95"
 short_name: Sanktionslagen
 status: gallande

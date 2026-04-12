@@ -2,6 +2,7 @@
 title: Förordningen om transport av farligt gods
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2006:311"

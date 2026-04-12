@@ -2,6 +2,7 @@
 title: Förordning om tillstånd för farliga föremål
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1990:415"
 short_name: Farliga-föremål-förordningen
 status: gallande

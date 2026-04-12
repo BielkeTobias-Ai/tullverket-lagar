@@ -2,6 +2,7 @@
 title: "Lag (1996:519) om verkställighet av domar och beslut enligt havsrättskonventionen"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1996:519"
 short_name: UNCLOS-verkställighetslagen
 status: gallande
@@ -31,6 +32,7 @@ tags:
   - internationell-ratt
 sources:
   - "[[lagen-om-verkstallighet-havsrattskonvention-1996-519]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

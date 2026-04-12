@@ -2,6 +2,7 @@
 title: "Sjölag (1994:1009)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1994:1009"
 short_name: Sjölagen
 status: gallande
@@ -36,6 +37,7 @@ tags:
   - ansvarsbegransning
 sources:
   - "[[sjolagen-1994-1009]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

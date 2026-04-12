@@ -2,6 +2,7 @@
 title: Lagen om straff för penningtvättsbrott
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2014:307"
 short_name: Penningtvättsstrafflagen
 status: gallande

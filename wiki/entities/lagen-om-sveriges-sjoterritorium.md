@@ -2,6 +2,7 @@
 title: "Lag (2017:1272) om Sveriges sjöterritorium och maritima zoner"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2017:1272"
 short_name: Sjöterritoriets gränser
 status: gallande
@@ -38,6 +39,7 @@ tags:
   - maritima-zoner
 sources:
   - "[[lagen-om-sveriges-sjoterritorium-2017-1272]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

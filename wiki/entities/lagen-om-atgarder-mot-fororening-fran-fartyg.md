@@ -2,6 +2,7 @@
 title: "Lag (1980:424) om åtgärder mot förorening från fartyg"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1980:424"
 short_name: Fartygsmiljölagen / MARPOL-lagen
 status: gallande
@@ -30,6 +31,9 @@ connections:
   - type: kompletterar
     target: "[[tullagen]]"
     context: "Tullverket stoppar tullförrättningar under fartygsförbud (6 kap. 10 §)"
+  - type: overlappar
+    target: "[[fartygssakerhetslagen]]"
+    context: "Speglad fran [[fartygssakerhetslagen]] — Parallella tillsynssystem; MARPOL-lagen 1 kap. 1 § hänvisar till fartygssäkerhetslagen"
 tags:
   - fororening
   - marpol
@@ -38,6 +42,7 @@ tags:
   - tullverket
 sources:
   - "[[lagen-om-atgarder-mot-fororening-fran-fartyg-1980-424]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

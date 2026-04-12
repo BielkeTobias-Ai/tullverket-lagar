@@ -2,6 +2,7 @@
 title: "Utlänningsförordning (2006:97)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2006:97"
 short_name: Utlänningsförordningen
 status: gallande
@@ -28,6 +29,9 @@ connections:
   - type: kompletterar
     target: "[[tullbefogenhetslagen]]"
     context: "Tullverkets underrättelseskyldighet vid inreseproblem kompletterar tulls övriga befogenheter vid gräns"
+  - type: overlappar
+    target: "[[tullbefogenhetslagen]]"
+    context: "Speglad fran [[tullbefogenhetslagen]] — Speglad fran [[utlanningsforordningen]] — Tullverkets underrättelseskyldighet vid inreseproblem kompletterar tulls övriga befogenheter vid gräns"
 tags:
   - migration
   - gransovergangsstallen

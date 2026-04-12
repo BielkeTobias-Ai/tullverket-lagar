@@ -2,6 +2,7 @@
 title: Smugglingslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2000:1225"
 short_name: Smugglingslagen
 status: gällande
@@ -123,6 +124,39 @@ connections:
   - type: overlappar
     target: "[[lagen-om-transport-av-farligt-gods]]"
     context: "Smuggling av farligt gods kan ge parallellt ansvar under båda lagarna"
+  - type: overlappar
+    target: "[[cites-genomforande]]"
+    context: "Speglad fran [[cites-genomforande]] — Smuggling av CITES-skyddade arter utgör brott enligt smugglingslagen"
+  - type: overlappar
+    target: "[[cites-tillstand]]"
+    context: "Speglad fran [[cites-tillstand]] — Smuggling av CITES-skyddade arter beivras även under smugglingslagen"
+  - type: overlappar
+    target: "[[importforbud-arter]]"
+    context: "Speglad fran [[importforbud-arter]] — Import i strid med importförbud kan utgöra smuggling"
+  - type: overlappar
+    target: "[[iuu-fiskeforordningen]]"
+    context: "Speglad fran [[iuu-fiskeforordningen]] — Import av fiskeriprodukter utan giltigt fångstintyg kan utgöra smuggling vid tullkontroll"
+  - type: overlappar
+    target: "[[jaktlagen]]"
+    context: "Speglad fran [[jaktlagen]] — Smuggling av skyddat vilt kan aktualisera bägge lagarna; jakthäleri om vilt åtkommits via jaktbrott"
+  - type: overlappar
+    target: "[[lagen-om-eus-fiskeripolitik]]"
+    context: "Speglad fran [[lagen-om-eus-fiskeripolitik]] — Subsidiaritetsparagraf — straffansvar ej enligt denna lag om gärningen är belagd med straff i smugglingslagen"
+  - type: overlappar
+    target: "[[lagen-om-luftfartsskydd]]"
+    context: "Speglad fran [[lagen-om-luftfartsskydd]] — Säkerhetskontroller kan avslöja smuggelgods — men luftfartsskydd och tullkontroll är separata system"
+  - type: overlappar
+    target: "[[lagen-om-sveriges-angransande-zon]]"
+    context: "Speglad fran [[lagen-om-sveriges-angransande-zon]] — Smuggling som inleds utanför territorialhavet kan vara möjlig att ingripa mot i angränsande zonen"
+  - type: overlappar
+    target: "[[pals-forbud-eu]]"
+    context: "Speglad fran [[pals-forbud-eu]] — Import eller export av päls av katt/hund i strid med förbudet kan utgöra smuggling"
+  - type: overlappar
+    target: "[[salprodukter-genomforande]]"
+    context: "Speglad fran [[salprodukter-genomforande]] — Sälprodukter utan föreskrivet intyg vid import kan utgöra smuggling"
+  - type: overlappar
+    target: "[[salproduktforordningen]]"
+    context: "Speglad fran [[salproduktforordningen]] — Import eller saluföring av sälprodukter i strid med förordningen kan utgöra smuggling"
 tags:
   - lag
   - smuggling
@@ -181,7 +215,7 @@ Smugglingslagen ger i sig inte tulltjänstemän operativa befogenheter (dessa fi
 
 | Brottstyp | Paragraf | Straffskala |
 |-----------|----------|-------------|
-| [[Tullbrott]] | §8 | Böter — fängelse 2 år |
+| [[tullbrott]] | §8 | Böter — fängelse 2 år |
 | Ringa tullbrott | §9 | Penningböter |
 | Grovt tullbrott | §10 | Fängelse 6 mån — 6 år |
 | Vårdslös tullredovisning | §11 | Böter — fängelse 2 år |

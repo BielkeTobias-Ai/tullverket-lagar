@@ -2,6 +2,7 @@
 title: CITES tillståndsmallar (EU) 792/2012
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32012R0792"
 short_name: CITES tillståndsmallsförordningen
 status: gallande
@@ -25,11 +26,14 @@ connections:
     target: "[[cites-genomforande-eg-865-2006]]"
     context: "Ersatte bilagorna I–VI i 865/2006 med harmoniserade dokumentmallar"
   - type: hanvisar-till
-    target: "[[cites-grundforordningen-eg-338-97]]"
+    target: "[[cites-forordningen]]"
     context: "Genomförandeåtgärd för rådets förordning (EG) nr 338/97, artikel 19.1"
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Smuggling av CITES-skyddade arter beivras även under smugglingslagen"
+  - type: overlappar
+    target: "[[cites-forordningen]]"
+    context: "Speglad fran [[cites-forordningen]] — Reglerar tillståndshantering och utfärdande av CITES-intyg"
 tags:
   - eu-forordning
   - cites
@@ -89,7 +93,7 @@ Artiklarna 2 och 3 samt bilagorna I–VI i förordning 865/2006 utgår — dessa
 | Typ | Lag | Kontext |
 |-----|-----|---------|
 | Kompletterar | [[cites-genomforande-eg-865-2006]] | Ersatte bilagorna I–VI med nya mallar |
-| Hanvisar till | [[cites-grundforordningen-eg-338-97]] | Genomförandeåtgärd för 338/97 |
+| Hanvisar till | [[cites-forordningen]] | Genomförandeåtgärd för 338/97 |
 | Överlappar | [[smugglingslagen]] | Förfalskade CITES-dokument + smuggling |
 | Relaterad | [[artskyddsforordningen]] | Svensk implementering |
 

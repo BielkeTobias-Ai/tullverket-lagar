@@ -2,6 +2,7 @@
 title: "Fiskelag"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1993:787"
 short_name: Fiskelagen
 status: gallande
@@ -38,6 +39,7 @@ tags:
   - tier3
 sources:
   - "[[fiskelagen-1993-787]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

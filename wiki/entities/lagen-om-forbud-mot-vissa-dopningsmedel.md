@@ -2,6 +2,7 @@
 title: Lagen om förbud mot vissa dopningsmedel
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1991:1969"
 short_name: Dopningslagen
 status: gallande
@@ -39,6 +40,9 @@ connections:
   - type: kompletterar
     target: "[[narkotikastrafflagen]]"
     context: "Täcker dopningssubstanser som inte klassas som narkotika; parallell struktur med liknande förbud"
+  - type: overlappar
+    target: "[[narkotikastrafflagen]]"
+    context: "Speglad fran [[narkotikastrafflagen]] — Dopningslagen täcker substanser som inte klassas som narkotika; parallell struktur med liknande förbud mot innehav och överlåtelse"
 tags:
   - dopning
   - folkhalsa

@@ -22,9 +22,9 @@ compares:
 
 ## Sammanfattning
 
-När ett farligt föremål hittas vid gränskontroll kan tre olika regelverk träda in — ibland samtidigt, ibland i strid med varandra. [[Vapenlagen]] reglerar skjutvapen och ger tulltjänsteman direkta beslagsrättigheter. [[Knivlagen]] förbjuder innehav av knivar på allmän plats men saknar egna befogenheter. [[Lagen-om-brandfarliga-och-explosiva-varor]] (LBE) sätter tillståndsplikt för explosiva varor men överlåter straffrättsansvaret vid gräns till [[smugglingslagen]].
+När ett farligt föremål hittas vid gränskontroll kan tre olika regelverk träda in — ibland samtidigt, ibland i strid med varandra. [[vapenlagen]] reglerar skjutvapen och ger tulltjänsteman direkta beslagsrättigheter. [[knivlagen]] förbjuder innehav av knivar på allmän plats men saknar egna befogenheter. [[lagen-om-brandfarliga-och-explosiva-varor]] (LBE) sätter tillståndsplikt för explosiva varor men överlåter straffrättsansvaret vid gräns till [[smugglingslagen]].
 
-Lagarna är hierarkiskt ordnade: vapenlagen är lex specialis i förhållande till knivlagen (knivlagen §3), och smugglingslagen tar straffansvaret för gränsöverskridanden från alla tre. [[Tullbefogenhetslagen]] utgör den praktiska verktygslådan — den reglerar vad tulltjänsteman faktiskt får göra när ett föremål hittas.
+Lagarna är hierarkiskt ordnade: vapenlagen är lex specialis i förhållande till knivlagen (knivlagen §3), och smugglingslagen tar straffansvaret för gränsöverskridanden från alla tre. [[tullbefogenhetslagen]] utgör den praktiska verktygslådan — den reglerar vad tulltjänsteman faktiskt får göra när ett föremål hittas.
 
 ---
 
@@ -49,19 +49,19 @@ Lagarna är hierarkiskt ordnade: vapenlagen är lex specialis i förhållande ti
 Polismyndigheten beviljar tillstånd. Vid import från tredjeland krävs **importtillstånd** (2 kap. 13 §). Undantag finns för nordiska jägare i transit (2:13 b) och reparationsärenden. Omärkta vapen måste märkas inom en månad efter införsel (2a kap. 7 §). Förvaring på tullager kräver Polismyndighetens medgivande (2:14).
 
 ### Farliga föremål — Förordning (1990:415)
-[[Forordning-om-tillstand-for-farliga-foremal]] förbjuder import av springstiletter, springknivar, knogjärn, kaststjärnor, riv-/nithandskar, batonger, karatepinnar, blydaggar och spikklubbor. Polismyndigheten prövar tillstånd (3 §) — men beviljar i praktiken bara för vapensamlare eller batong i tjänsteutrustning. Förordningens föremål är inte skjutvapen, men vapenlagstiftningens omhändertaganderegler tillämpas analogt (4 §).
+[[forordning-om-tillstand-for-farliga-foremal]] förbjuder import av springstiletter, springknivar, knogjärn, kaststjärnor, riv-/nithandskar, batonger, karatepinnar, blydaggar och spikklubbor. Polismyndigheten prövar tillstånd (3 §) — men beviljar i praktiken bara för vapensamlare eller batong i tjänsteutrustning. Förordningens föremål är inte skjutvapen, men vapenlagstiftningens omhändertaganderegler tillämpas analogt (4 §).
 
 ### Explosiva varor — LBE
 MSB och kommuner beviljar tillstånd. All hantering av explosiva varor kräver tillstånd (§16). Import utan tillstånd är olovlig hantering (§29), men subsidiaritetsregeln (§30) innebär att smugglingslagen tar straffansvaret vid gräns.
 
 > [!gap] Tydligare importregler för LBE saknas i wiki
-> Det är oklart vilken specifik paragraf i LBE som reglerar importtillståndsförfarandet i detalj, utöver det allmänna tillståndskravet (§16). Se [[lagen-om-brandfarliga-och-explosiva-varor]] och eventuellt [[forordning-om-brandfarliga-och-explosiva-varor]]. Möjlig källa: MSB:s föreskrifter MSBFS.
+> Det är oklart vilken specifik paragraf i LBE som reglerar importtillståndsförfarandet i detalj, utöver det allmänna tillståndskravet (§16). Se [[lagen-om-brandfarliga-och-explosiva-varor]] och eventuellt [[lagen-om-brandfarliga-och-explosiva-varor]]. Möjlig källa: MSB:s föreskrifter MSBFS.
 
 ---
 
 ## Smugglingslagen-koppling — vilka paragrafer gäller per varutyp?
 
-[[Smugglingslagen]] innehåller separata brottsrubriker med stegvis allvarligare straffskalor:
+[[smugglingslagen]] innehåller separata brottsrubriker med stegvis allvarligare straffskalor:
 
 | Varutyp | Smugglingslagen § | Grundbrott | Grovt | Synnerligen grovt |
 |---------|-------------------|------------|-------|-------------------|
@@ -72,9 +72,9 @@ MSB och kommuner beviljar tillstånd. All hantering av explosiva varor kräver t
 | Knivar (förbudsvara), knogjärn m.fl. | §3 | Böter — fängelse 2 år | Fängelse 6 mån–6 år (§5) | — |
 
 **Subsidiaritetsreglerna knyter ihop lagarna:**
-- [[Vapenlagen]] 9 kap. 4 §: olovlig införsel → smugglingslagen
+- [[vapenlagen]] 9 kap. 4 §: olovlig införsel → smugglingslagen
 - LBE §30 st.2: ansvar utgår om gärningen straffas i smugglingslagen
-- [[Forordning-om-tillstand-for-farliga-foremal]] 5 §: påföljd → smugglingslagen
+- [[forordning-om-tillstand-for-farliga-foremal]] 5 §: påföljd → smugglingslagen
 
 Alla tre speciallagarna delegerar alltså straffrättsansvaret vid gränsöverskridanden till smugglingslagen.
 
@@ -82,7 +82,7 @@ Alla tre speciallagarna delegerar alltså straffrättsansvaret vid gränsöversk
 
 ## Befogenheter vid gränskontroll — TBL per varutyp
 
-[[Tullbefogenhetslagen]] ger befogenheterna. Styrkan varierar tydligt per varutyp:
+[[tullbefogenhetslagen]] ger befogenheterna. Styrkan varierar tydligt per varutyp:
 
 ### Skjutvapen — starka direkta befogenheter
 Vapenlagen ger **utöver** TBL egna direkta befogenheter:

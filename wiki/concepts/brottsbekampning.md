@@ -16,7 +16,7 @@ sources:
 
 ## Definition
 
-[[Tullbefogenhetslagen]] delar in Tullverkets brottsbekämpning i två kategorier som avgör vilka befogenheter tulltjänsteman har:
+[[tullbefogenhetslagen]] delar in Tullverkets brottsbekämpning i två kategorier som avgör vilka befogenheter tulltjänsteman har:
 
 ### Direkt brottsbekämpning (8 kap. 1 §)
 

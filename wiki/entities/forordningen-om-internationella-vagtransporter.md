@@ -2,6 +2,7 @@
 title: "Förordning (1998:786) om internationella vägtransporter inom EES"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1998:786"
 short_name: Internationella vägtransportförordningen
 status: gallande

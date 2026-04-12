@@ -2,6 +2,7 @@
 title: "Förordning (2010:1578) om provavgifter för körkort och yrkesmässig trafik"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2010:1578"
 short_name: Provavgiftsförordningen
 status: gallande

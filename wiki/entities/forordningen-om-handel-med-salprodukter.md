@@ -2,6 +2,7 @@
 title: Förordningen om handel med sälprodukter
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2010:1491"
@@ -29,10 +30,10 @@ connections:
     target: "[[lagen-om-handel-med-salprodukter]]"
     context: "Verkställighetsförordning till sälproduktslagen"
   - type: hanvisar-till
-    target: "[[eu-forordning-1007-2009-handel-med-salprodukter]]"
+    target: "[[salproduktforordningen]]"
     context: "Kompletterar Europaparlamentets och rådets förordning (EG) 1007/2009"
   - type: hanvisar-till
-    target: "[[eu-forordning-2015-1850-genomforing-salprodukter]]"
+    target: "[[salprodukter-genomforande]]"
     context: "Kompletterar kommissionens genomförandeförordning (EU) 2015/1850"
 ---
 

@@ -76,7 +76,7 @@ Tillämpas vid import när:
 
 ## Tullbrott — smugglingslagen §8-11
 
-[[Tullbrott]] är ett **brott mot deklarationsplikten vid tullbehandling**. Det handlar inte om förbudsvaror (det är smuggling §3), utan om varor som i och för sig får importeras — men där tull, moms eller avgifter undandras genom felaktiga uppgifter.
+[[tullbrott]] är ett **brott mot deklarationsplikten vid tullbehandling**. Det handlar inte om förbudsvaror (det är smuggling §3), utan om varor som i och för sig får importeras — men där tull, moms eller avgifter undandras genom felaktiga uppgifter.
 
 ### Brottsrekvisit (§8)
 
@@ -98,13 +98,13 @@ Typiska handlingar:
 
 ### Relation till tulltillägg
 
-[[Tullagen]] 5 kap. 5 § ger Tullverket möjlighet att ta ut **tulltillägg** på 20 % av undandragen tull (10 % för avdragsgill moms). Detta är en **administrativ avgift**, inte ett brott. Vid allvarligare fall — tullbrott — kan tulltillägget minskas eller befrias (5 kap. 17 §). Systemet är dubbelt: administrativ sanktion och straffrättslig påföljd kan kombineras, men ne bis in idem-regeln i [[skattebrottslagen]] 13 b § gäller (skattetillägg → inget åtal för samma gärning).
+[[tullagen]] 5 kap. 5 § ger Tullverket möjlighet att ta ut **tulltillägg** på 20 % av undandragen tull (10 % för avdragsgill moms). Detta är en **administrativ avgift**, inte ett brott. Vid allvarligare fall — tullbrott — kan tulltillägget minskas eller befrias (5 kap. 17 §). Systemet är dubbelt: administrativ sanktion och straffrättslig påföljd kan kombineras, men ne bis in idem-regeln i [[skattebrottslagen]] 13 b § gäller (skattetillägg → inget åtal för samma gärning).
 
 ---
 
 ## Skattebrott vid import — skattebrottslagen 2-5 §§
 
-[[Skattebrottslagen]] är **subsidiär** till [[smugglingslagen]] — men bara för gärningar som faktiskt är straffbelagda där (1 §). Det innebär att skattebrott vid import är tillämpligt på tre kategorier som smugglingslagen inte primärt täcker:
+[[skattebrottslagen]] är **subsidiär** till [[smugglingslagen]] — men bara för gärningar som faktiskt är straffbelagda där (1 §). Det innebär att skattebrott vid import är tillämpligt på tre kategorier som smugglingslagen inte primärt täcker:
 
 1. **Importmoms** — mervärdesskatt på import enligt [[mervardesskattelagen]] 8 kap. 24-27 §§
 2. **Tobaksskatt** — [[tobaksskattelagen]] 9 kap. 13-14 §§
@@ -127,7 +127,7 @@ Uppsåt krävs för grundbrottet. Det räcker att oriktig uppgift **lämnas** (a
 
 ### Utredningsansvar vid punktskatter
 
-[[Tullbefogenhetslagen]] 1 § tredje stycket ger Tullverket **utrednings- och lagföringsbefogenhet** för brott enligt [[skattebrottslagen]] som rör energiskatt, tobaksskatt och alkoholskatt. Det innebär att Tullverket — inte enbart Skatteverket — kan utreda dessa brott när de identifieras vid gränskontrollen.
+[[tullbefogenhetslagen]] 1 § tredje stycket ger Tullverket **utrednings- och lagföringsbefogenhet** för brott enligt [[skattebrottslagen]] som rör energiskatt, tobaksskatt och alkoholskatt. Det innebär att Tullverket — inte enbart Skatteverket — kan utreda dessa brott när de identifieras vid gränskontrollen.
 
 ---
 
@@ -151,7 +151,7 @@ Subsidiaritetsregeln i [[skattebrottslagen]] 1 § undantar gärningar "belagda m
 
 ## Befogenheter — TBL vid tullbrott vs skattebrott
 
-[[Tullbefogenhetslagen]] ger Tullverket sina operativa befogenheter. Befogenheterna är delvis brottsberoende:
+[[tullbefogenhetslagen]] ger Tullverket sina operativa befogenheter. Befogenheterna är delvis brottsberoende:
 
 | Situation | Lagstöd | Befogenhet |
 |-----------|---------|------------|
@@ -180,11 +180,11 @@ Importör deklarerar 10 000 kr (faktura) för varor värda 100 000 kr. Undandrar
 ### Fall 3: Odeklarerade cigaretter (500 kartonger)
 
 Personen har inte deklarerat varorna alls. Tre rättsliga konsekvenser:
-1. [[Smugglingslagen]] §3 (smuggling — ej anmält till tullbehandling)
-2. [[Tobaksskattelagen]] 9 kap. 13 § (skattskyldighet uppkommer)
-3. [[Skattebrottslagen]] 2 § om uppsåt att undandra tobaksskatt kan styrkas
+1. [[smugglingslagen]] §3 (smuggling — ej anmält till tullbehandling)
+2. [[tobaksskattelagen]] 9 kap. 13 § (skattskyldighet uppkommer)
+3. [[skattebrottslagen]] 2 § om uppsåt att undandra tobaksskatt kan styrkas
 
-[[Tullbefogenhetslagen]] ger Tullverket befogenhet att utreda tobaksskattebrotten direkt.
+[[tullbefogenhetslagen]] ger Tullverket befogenhet att utreda tobaksskattebrotten direkt.
 
 > [!situation] Tobakssmuggling — tre lagar
 > Tullpersonal beslagtar 500 kartonger odeklarerade cigaretter. Befogenhet: [[tullbefogenhetslagen]]. Smugglingsbrott: [[smugglingslagen]] §3. Skattskyldighet: [[tobaksskattelagen]]. Skattebrott (om uppsåt): [[skattebrottslagen]] 2 §. Skatteverket beslutar om tobaksskatt; Tullverket utreder brottet; åklagare väcker åtal.
@@ -192,10 +192,10 @@ Personen har inte deklarerat varorna alls. Tre rättsliga konsekvenser:
 ### Fall 4: Odeklarerad röd diesel i lastbil
 
 Lastbil med 2 000 liter odeklarerad röd diesel stoppas vid gräns. Ger:
-1. [[Smugglingslagen]] §3 (ej anmält till tullbehandling)
-2. [[Lagen-om-skatt-pa-energi]] 5 kap. 13-14 § (energiskattskyldighet)
-3. [[Lagen-om-skatt-pa-energi]] 10 kap. 1 § (om märkt bränsle används otillåtet)
-4. [[Skattebrottslagen]] 2 § om undandragande av energiskatt kan styrkas
+1. [[smugglingslagen]] §3 (ej anmält till tullbehandling)
+2. [[lagen-om-skatt-pa-energi]] 5 kap. 13-14 § (energiskattskyldighet)
+3. [[lagen-om-skatt-pa-energi]] 10 kap. 1 § (om märkt bränsle används otillåtet)
+4. [[skattebrottslagen]] 2 § om undandragande av energiskatt kan styrkas
 
 ---
 
@@ -205,7 +205,7 @@ Båda lagarna har bestämmelser om frivillig rättelse som befriar från ansvar:
 
 | | Tullbrott | Skattebrott |
 |---|-----------|-------------|
-| **Bestämmelse** | [[Smugglingslagen]] §15 | [[Skattebrottslagen]] 12 § |
+| **Bestämmelse** | [[smugglingslagen]] §15 | [[skattebrottslagen]] 12 § |
 | **Rekvisit** | Frivilligt undanröjer faran för att tull undandras | På eget initiativ vidtar åtgärd som leder till korrekt skatteuttag |
 | **Tidpunkt** | Innan Tullverket inlett undersökning | Innan Skatteverket / åklagare påbörjat utredning |
 

@@ -2,6 +2,7 @@
 title: Kompletteringsförordningen (EU) 2015/2446
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32015R2446"
 short_name: Kompletteringsförordningen
 status: gallande
@@ -44,6 +45,12 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-tullfrihet]]"
     context: "Kompletteringsförordningen specificerar villkor för befrielse från importtullar"
+  - type: overlappar
+    target: "[[overgangsforordningen]]"
+    context: "Speglad fran [[overgangsforordningen]] — Kompletteringsförordningen (EU 2015/2446) ersatte successivt övergångsförordningens bestämmelser. Överlapp finns i hur befogenheter och undantag fördelas mellan de två instrumenten."
+  - type: overlappar
+    target: "[[lagen-om-tullfrihet]]"
+    context: "Speglad fran [[lagen-om-tullfrihet]] — Speglad fran [[kompletteringsforordningen]] — Kompletteringsförordningen specificerar villkor för befrielse från importtullar"
 tags:
   - eu-forordning
   - tullkodex

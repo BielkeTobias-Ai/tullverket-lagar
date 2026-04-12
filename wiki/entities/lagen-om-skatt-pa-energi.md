@@ -2,6 +2,7 @@
 title: Lagen om skatt på energi
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1994:1776"
 short_name: Energiskattelagen
 status: gallande

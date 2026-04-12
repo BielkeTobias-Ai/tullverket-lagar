@@ -2,6 +2,7 @@
 title: Vapenlagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1996:67"
 short_name: Vapenlagen
 status: gällande

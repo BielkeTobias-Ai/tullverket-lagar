@@ -2,6 +2,7 @@
 title: "Containerförordning (1980:640)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1980:640"
 short_name: Containerförordningen
 status: gallande

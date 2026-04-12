@@ -2,6 +2,7 @@
 title: "Lag (2006:1570) om skydd mot internationella hot mot människors hälsa"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2006:1570"
 short_name: Internationella hälsohotlagen
 status: gallande
@@ -37,6 +38,7 @@ tags:
   - tullverket
 sources:
   - "[[lagen-om-skydd-mot-internationella-hot-2006-1570]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

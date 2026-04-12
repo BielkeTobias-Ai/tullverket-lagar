@@ -2,6 +2,7 @@
 title: "Sjötrafikförordning (1986:300)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1986:300"
 short_name: Sjötrafikförordningen
 status: gallande

@@ -2,6 +2,7 @@
 title: Inre vattenvägar-förordningen
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32008R1100"
 short_name: Inre vattenvägar-förordningen
 status: gallande

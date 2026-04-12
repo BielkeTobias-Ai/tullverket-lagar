@@ -2,6 +2,7 @@
 title: "Kungörelse (1954:555) angående mätbrev för fart genom Suezkanalen"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1954:555"
 short_name: Suez-mätbrevskungörelsen
 status: gallande
@@ -20,6 +21,9 @@ connections:
   - type: speciallag-till
     target: "[[forordningen-om-skeppsmatning]]"
     context: "6 § hänvisar tillbaka till skeppsmätningsförordningens §§ 13–15, 27, 28–30, 33 som gäller i tillämpliga delar"
+  - type: overlappar
+    target: "[[kungorelsen-om-matbrev-panamakanalen]]"
+    context: "Speglad fran [[kungorelsen-om-matbrev-panamakanalen]] — Parallell konstruktion för olika kanalcertifikat; identisk administrativ struktur"
 tags:
   - skeppsmatning
   - suezkanalen

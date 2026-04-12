@@ -2,6 +2,7 @@
 title: IUU-genomförandeförordningen
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32009R1010"
 short_name: IUU-genomförandeförordningen
 status: gallande

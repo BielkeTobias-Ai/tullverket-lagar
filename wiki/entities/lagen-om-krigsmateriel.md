@@ -2,6 +2,7 @@
 title: Lagen om krigsmateriel
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1992:1300"
 short_name: Krigsmateriellagen
 status: gallande
@@ -46,6 +47,9 @@ connections:
   - type: kompletterar
     target: "[[lagen-om-brandfarliga-och-explosiva-varor]]"
     context: "4 § undantar hantering av ammunition och explosiva varor som regleras i brandfarliga-och-explosiva-varor-lagen från krigsmateriellagen tillståndskrav"
+  - type: overlappar
+    target: "[[lagen-om-brandfarliga-och-explosiva-varor]]"
+    context: "Speglad fran [[lagen-om-brandfarliga-och-explosiva-varor]] — Ammunition och explosiva varor kan falla under båda lagarna; krigsmateriellagen undantar hantering som regleras i LBE (4 §)"
 tags:
   - exportkontroll
   - krigsmateriel

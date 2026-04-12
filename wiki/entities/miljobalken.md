@@ -2,6 +2,7 @@
 title: Miljöbalken
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1998:808"
 short_name: Miljöbalken
 status: gallande
@@ -42,6 +43,15 @@ connections:
   - type: kompletterar
     target: "[[kulturmiljolagen]]"
     context: "1 kap. 2 § kulturmiljolagen: parallella bestammelser om kulturmiljosskydd finns i miljobalken"
+  - type: overlappar
+    target: "[[cites-genomforande]]"
+    context: "Speglad fran [[cites-genomforande]] — Artskyddsbrott och brott mot CITES-regelverket kan beivras under 29 kap. miljöbalken"
+  - type: overlappar
+    target: "[[jaktlagen]]"
+    context: "Speglad fran [[jaktlagen]] — Ej dömas till ansvar enligt jaktlagen om gärningen täcks av miljöbalken (46 §)"
+  - type: overlappar
+    target: "[[kulturmiljolagen]]"
+    context: "Speglad fran [[kulturmiljolagen]] — Kulturmiljölagen och miljöbalken har parallella bestämmelser om kulturmiljöskydd; båda kan aktualiseras vid utförsel av skyddade föremål"
 tags:
   - miljo
   - kemikalier

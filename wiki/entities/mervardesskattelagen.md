@@ -2,6 +2,7 @@
 title: Mervärdesskattelagen
 type: entity
 entity_type: lag
+source_type: lag
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2023:200"
@@ -52,6 +53,9 @@ connections:
   - type: kompletterar
     target: "[[mervardesskatteforordningen]]"
     context: "Förordningen verkställer ML:s administrativa processer"
+  - type: overlappar
+    target: "[[mervardesskatteforordningen]]"
+    context: "Speglad fran [[mervardesskatteforordningen]] — Speglad fran [[mervardesskattelagen]] — Förordningen verkställer ML:s administrativa processer"
 ---
 
 > [!note] Partiell ingest

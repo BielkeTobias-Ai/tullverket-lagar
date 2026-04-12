@@ -2,6 +2,7 @@
 title: "Genomförandeförordning (EU) nr 80/2012 — Förteckning biologiska och kemiska ämnen för tullbefrielse"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32012R0080"
 short_name: Förteckning biologiska/kemiska ämnen tullbefrielse
 status: gallande

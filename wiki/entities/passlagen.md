@@ -2,6 +2,7 @@
 title: "Passlag (1978:302)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1978:302"
 short_name: Passlagen
 status: gallande
@@ -40,6 +41,7 @@ tags:
   - tulltjansteman
 sources:
   - "[[passlagen-1978-302]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

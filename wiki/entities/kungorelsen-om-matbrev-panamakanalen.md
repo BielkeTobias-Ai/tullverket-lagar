@@ -2,6 +2,7 @@
 title: "Kungörelse (1954:556) angående mätbrev för fart genom Panamakanalen"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1954:556"
 short_name: Panama-mätbrevskungörelsen
 status: gallande

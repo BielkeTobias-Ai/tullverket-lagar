@@ -2,6 +2,7 @@
 title: Tobaksskattelagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2022:155"
 short_name: Tobaksskattelagen
 status: gallande

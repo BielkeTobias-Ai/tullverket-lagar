@@ -2,6 +2,7 @@
 title: "Lag om EU:s förordningar om den gemensamma fiskeripolitiken"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1994:1709"
 short_name: EU-fiskeripolitiklagen
 status: gallande
@@ -39,6 +40,7 @@ tags:
   - tier3
 sources:
   - "[[lagen-om-eus-fiskeripolitik-1994-1709]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

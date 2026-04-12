@@ -2,6 +2,7 @@
 title: Lagen om förbud mot vissa hälsofarliga varor
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1999:42"
 short_name: Hälsofarliga varor-lagen
 status: gallande
@@ -47,6 +48,9 @@ connections:
   - type: overlappar
     target: "[[lagen-om-kontroll-av-narkotika]]"
     context: "Substanser kan röra sig mellan lagarna vid reklassificering. Hälsofarliga varor-lagen undantar narkotikaklassade substanser (2 §)."
+  - type: overlappar
+    target: "[[lagen-om-tobak-och-liknande-produkter]]"
+    context: "Speglad fran [[lagen-om-tobak-och-liknande-produkter]] — Tobaksvaror och hälsofarliga varor kan överlappa vid gränsdragning; tobakslagen undantar varor klassade som hälsofarliga (1 kap. 4 §)"
 tags:
   - halsofarliga-varor
   - nps

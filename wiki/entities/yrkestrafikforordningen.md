@@ -2,6 +2,7 @@
 title: "Yrkestrafikförordning (2012:237)"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2012:237"
 short_name: Yrkestrafikförordningen
 status: gallande

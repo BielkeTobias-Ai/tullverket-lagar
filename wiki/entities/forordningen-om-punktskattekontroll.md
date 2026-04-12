@@ -2,6 +2,7 @@
 title: Förordningen om punktskattekontroll av transporter
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "1998:518"
@@ -32,7 +33,7 @@ connections:
     target: "[[lagen-om-punktskattekontroll]]"
     context: "Verkställighetsförordning till LPK. Reglerar procedur och myndighetssamverkan medan LPK innehåller det substantiella rättsinnehållet."
   - type: hanvisar-till
-    target: "[[skatteförfarandeförordningen]]"
+    target: "[[skatteforfarandeforordningen]]"
     context: "Betalningssäkring i punktskattärenden styrs av SkatteförF (2011:1261) 11, 17-19 kap. Tullverket träder i Skatteverkets ställe."
 ---
 
@@ -71,7 +72,7 @@ Förordningen innehåller **inga straffbestämmelser**. Straff för överträdel
 - **[[lagen-om-punktskattekontroll]]** — Verkställighetsförordning till LPK. Moderlagen innehåller substantiella regler; förordningen reglerar procedur och samverkan.
 
 ### Hänvisar till
-- **[[skatteförfarandeförordningen]]** (2011:1261) — Betalningssäkring i punktskattärenden följer SkatteförF:s regler (11, 17-19 kap.). Tullverket träder i Skatteverkets ställe.
+- **[[skatteforfarandeforordningen]]** (2011:1261) — Betalningssäkring i punktskattärenden följer SkatteförF:s regler (11, 17-19 kap.). Tullverket träder i Skatteverkets ställe.
 
 ## Nyckelbestämmelser
 
@@ -136,4 +137,4 @@ Både Tullverket (8 §) och Skatteverket (9 §) måste höra varandra innan de m
 ## Se även
 
 - **[[lagen-om-punktskattekontroll]]** — Moderlagen med substantiella regler
-- **[[skatteförfarandeförordningen]]** — Procedurregel för betalningssäkring
+- **[[skatteforfarandeforordningen]]** — Procedurregel för betalningssäkring

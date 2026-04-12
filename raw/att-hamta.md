@@ -226,6 +226,14 @@ Dessa kraver EUR-Lex-scraping, inte riksdagen.se. Se `.firecrawl/master-lista-ra
 
 ---
 
+## Noteringar — Fas 4a (2026-04-12)
+
+Clippad: skatteforfarandelagen-2011-1244, skatteforfarandeforordningen-2011-1261, fordonslagen-2002-574, lagen-om-ackreditering-och-teknisk-kontroll-2011-791, lagen-om-exportbutiker-1999-445.
+
+- **Reducerad alkoholskatt** — INTE en separat SFS-lag. Dessa reduktioner regleras inom [[lagen-om-alkoholskatt]] (2022:156) + forordningen (2022:183). Hanteras som koncept av Agent C. Ingen clipping behovs.
+
+---
+
 ## Sammanfattning
 
 | Typ | Totalt | I raw/ | Att clippa |

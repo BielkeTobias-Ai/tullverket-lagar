@@ -2,6 +2,7 @@
 title: CITES genomförandeförordning (EG) 865/2006
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32006R0865"
 short_name: CITES genomförandeförordningen
 status: gallande
@@ -26,7 +27,7 @@ situationer:
   - mobil-utstallning-djur
 connections:
   - type: hanvisar-till
-    target: "[[cites-grundforordningen-eg-338-97]]"
+    target: "[[cites-forordningen]]"
     context: "Genomför rådets förordning (EG) nr 338/97 i detalj"
   - type: kompletteras
     target: "[[cites-tillstand-eu-792-2012]]"
@@ -40,6 +41,9 @@ connections:
   - type: overlappar
     target: "[[smugglingslagen]]"
     context: "Smuggling av CITES-skyddade arter utgör brott enligt smugglingslagen"
+  - type: overlappar
+    target: "[[cites-forordningen]]"
+    context: "Speglad fran [[cites-forordningen]] — Detaljerade genomförandebestämmelser för CITES-förordningens tillämpning"
 tags:
   - eu-forordning
   - cites
@@ -87,7 +91,7 @@ Systemet med 10 dokumenttyper (import-, exporttillstånd, återexportintyg m.fl.
 
 | Typ | Lag | Kontext |
 |-----|-----|---------|
-| Hanvisar till | [[cites-grundforordningen-eg-338-97]] | Genomför 338/97 i detalj |
+| Hanvisar till | [[cites-forordningen]] | Genomför 338/97 i detalj |
 | Kompletteras av | [[cites-tillstand-eu-792-2012]] | 792/2012 ersatte bilagorna med dokumentmallar |
 | Kompletterar | [[artskyddsforordningen]] | Svensk implementering av CITES |
 | Överlappar | [[miljobalken]] | Artskyddsbrott i 29 kap. MB |
@@ -97,7 +101,7 @@ Systemet med 10 dokumenttyper (import-, exporttillstånd, återexportintyg m.fl.
 ## Praktisk tillämpning
 
 > [!situation] Gränskontroll av exotiska djur
-> Vid import av levande exotiska djur (t.ex. papegojor, reptiler, ormar) som är CITES-listade: kontrollera att giltig importtillstånd finns utfärdat av behörig myndighet, att exporttillstånd från ursprungslandet medföljer, och att exemplaret är korrekt märkt (ring, microchip). Regelverket i 865/2006 styr vad tullmyndigheten ska kontrollera. Om djuret uppges vara fångenskapsuppfött (F2+) krävs dokumentation om avelsbestånd och kontrollerad miljö. Lagar: [[cites-genomforande-eg-865-2006]], [[cites-grundforordningen-eg-338-97]], [[artskyddsforordningen]], [[smugglingslagen]].
+> Vid import av levande exotiska djur (t.ex. papegojor, reptiler, ormar) som är CITES-listade: kontrollera att giltig importtillstånd finns utfärdat av behörig myndighet, att exporttillstånd från ursprungslandet medföljer, och att exemplaret är korrekt märkt (ring, microchip). Regelverket i 865/2006 styr vad tullmyndigheten ska kontrollera. Om djuret uppges vara fångenskapsuppfött (F2+) krävs dokumentation om avelsbestånd och kontrollerad miljö. Lagar: [[cites-genomforande-eg-865-2006]], [[cites-forordningen]], [[artskyddsforordningen]], [[smugglingslagen]].
 
 > [!situation] Mobil utställning som passerar gränsen
 > Cirkus eller menageri med CITES-listade djur behöver ett intyg för mobil utställning (artikel 30 ff. i 865/2006). Intyget gäller för upprepade gränspassager och förenklar hanteringen jämfört med att söka nytt tillstånd varje gång.

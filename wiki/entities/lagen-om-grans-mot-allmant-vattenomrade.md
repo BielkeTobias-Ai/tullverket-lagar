@@ -2,6 +2,7 @@
 title: "Lag om gräns mot allmänt vattenområde"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1950:595"
 short_name: Vattenområdeslagen
 status: gallande
@@ -28,6 +29,7 @@ tags:
   - tier3
 sources:
   - "[[lagen-om-grans-mot-allmant-vattenomrade-1950-595]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

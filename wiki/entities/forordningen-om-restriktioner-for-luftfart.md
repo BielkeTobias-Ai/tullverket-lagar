@@ -2,6 +2,7 @@
 title: "Förordning (2005:801) om restriktioner för luftfart inom vissa områden"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2005:801"
 short_name: Luftfartsrestriktionsförordningen
 status: gallande

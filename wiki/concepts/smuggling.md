@@ -36,7 +36,7 @@ Smuggling (§3) och [[tullbrott]] (§8) i [[smugglingslagen]] är två olika bro
 
 ## Specialiserade varutyper
 
-[[Smugglingslagen]] har separata brottsrubriker med högre straffskalor för:
+[[smugglingslagen]] har separata brottsrubriker med högre straffskalor för:
 
 - **Narkotika** (§6) — kopplar till [[narkotikastrafflagen]] för varudefinition
 - **Vapen** (§6a) — kopplar till [[vapenlagen]] för varudefinition

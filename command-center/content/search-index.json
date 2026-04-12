@@ -135,6 +135,85 @@
     "short_name": "CITES tillståndsmallsförordningen"
   },
   {
+    "slug": "containerforordningen",
+    "title": "Containerförordning (1980:640)",
+    "type": "entity",
+    "tags": [
+      "container",
+      "sakerhet",
+      "egenkontroll"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning till [[containerlagen]]. Specificerar typ- och individualgodkännande, 30-månade…",
+    "url": "/laws/containerforordningen",
+    "entity_type": "lag",
+    "sfs": "1980:640",
+    "short_name": "Containerförordningen"
+  },
+  {
+    "slug": "containerlagen",
+    "title": "Containerlag (1980:152)",
+    "type": "entity",
+    "tags": [
+      "container",
+      "sakerhet",
+      "gransovervaking",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Containerlagen genomför 1972 CSC-konventionen och ger Tullverket en unik, explicit kontrollroll: det ä…",
+    "url": "/laws/containerlagen",
+    "entity_type": "lag",
+    "sfs": "1980:152",
+    "short_name": "Containerlagen"
+  },
+  {
+    "slug": "fartygsregisterforordningen",
+    "title": "Fartygsregisterförordning (1975:927)",
+    "type": "entity",
+    "tags": [
+      "fartygsregister",
+      "transportstyrelsen",
+      "registrering"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning som specificerar innehållet i fartygsregistrets olika delar, Transportstyrelsen…",
+    "url": "/laws/fartygsregisterforordningen",
+    "entity_type": "lag",
+    "sfs": "1975:927",
+    "short_name": "Fartygsregisterförordningen"
+  },
+  {
+    "slug": "fartygssakerhetslagen",
+    "title": "Fartygssäkerhetslag (2003:364)",
+    "type": "entity",
+    "tags": [
+      "fartygssakerhet",
+      "certifikat",
+      "tillsyn",
+      "tullverket",
+      "nationalitetshandling",
+      "hamnstatskontroll"
+    ],
+    "snippet": "## Sammanfattning Fartygssäkerhetslagen är den centrala lagen för fartygs tekniska säkerhet och bemanning. Tullverket ha…",
+    "url": "/laws/fartygssakerhetslagen",
+    "entity_type": "lag",
+    "sfs": "2003:364",
+    "short_name": "Fartygssäkerhetslagen"
+  },
+  {
+    "slug": "fiskelagen",
+    "title": "Fiskelag",
+    "type": "entity",
+    "tags": [
+      "fiskeri",
+      "fiskebrott",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Grundläggande nationell fiskelag. Fastslår rätten till fiske i allmänt och enskilt vatten, licenskrav …",
+    "url": "/laws/fiskelagen",
+    "entity_type": "lag",
+    "sfs": "1993:787",
+    "short_name": "Fiskelagen"
+  },
+  {
     "slug": "fiskerikontrollforordningen",
     "title": "Fiskerikontrollförordningen",
     "type": "entity",
@@ -148,6 +227,25 @@
     "url": "/laws/fiskerikontrollforordningen",
     "entity_type": "lag",
     "short_name": "Fiskerikontrollförordningen"
+  },
+  {
+    "slug": "fordonslagen",
+    "title": "Fordonslagen (2002:574)",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "fordon",
+      "fordonskontroll",
+      "besiktning",
+      "typgodkannande",
+      "marknadskontroll",
+      "import"
+    ],
+    "snippet": "# Fordonslagen (2002:574) ## Sammanfattning Fordonslagen (2002:574) reglerar teknisk kontroll av fordon i Sverige — typg…",
+    "url": "/laws/fordonslagen",
+    "entity_type": "lag",
+    "sfs": "2002:574",
+    "short_name": "Fordonslagen"
   },
   {
     "slug": "foretagsstatistik-genomforande",
@@ -239,6 +337,69 @@
     "short_name": "Dual-use-förordningen"
   },
   {
+    "slug": "forordningen-om-farledsavgift",
+    "title": "Förordning (1997:1121) om farledsavgift",
+    "type": "entity",
+    "tags": [
+      "farledsavgift",
+      "sjofart",
+      "sjosakerhet",
+      "avgifter"
+    ],
+    "snippet": "## Sammanfattning Farledsavgiften är en infrastrukturavgift som tillfaller Sjöfartsverket och finansierar underhåll av s…",
+    "url": "/laws/forordningen-om-farledsavgift",
+    "entity_type": "lag",
+    "sfs": "1997:1121",
+    "short_name": "Farledsavgiftsförordningen"
+  },
+  {
+    "slug": "forordningen-om-fartygs-identifiering",
+    "title": "Förordning (1975:929) med vissa bestämmelser om fartygs identifiering",
+    "type": "entity",
+    "tags": [
+      "fartygsidentifiering",
+      "markning",
+      "igenkänningssignal"
+    ],
+    "snippet": "## Sammanfattning Reglerar igenkänningssignaler (signalbokstäver) och fysisk märkning av registrerade fartyg. Kustbevakn…",
+    "url": "/laws/forordningen-om-fartygs-identifiering",
+    "entity_type": "lag",
+    "sfs": "1975:929",
+    "short_name": "Fartygsidentifieringsförordningen"
+  },
+  {
+    "slug": "forordningen-om-fisket",
+    "title": "Förordning om fisket, vattenbruket och fiskerinäringen",
+    "type": "entity",
+    "tags": [
+      "fiskeri",
+      "vattenbruk",
+      "eu-ratt",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning till fiskelagen och EU:s gemensamma fiskeripolitik. Reglerar detaljerna kring f…",
+    "url": "/laws/forordningen-om-fisket",
+    "entity_type": "lag",
+    "sfs": "1994:1716",
+    "short_name": "Fiskeförordningen"
+  },
+  {
+    "slug": "forordningen-om-gransalvsoverenskommelsen",
+    "title": "Förordning om gränsälvsöverenskommelsen med Finland",
+    "type": "entity",
+    "tags": [
+      "internationell-overenskommelse",
+      "tornealsven",
+      "finland",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Kort genomförandeförordning (5 §§) som utser svenska myndigheter för gränsälvsöverenskommelsens uppgif…",
+    "url": "/laws/forordningen-om-gransalvsoverenskommelsen",
+    "entity_type": "lag",
+    "sfs": "2010:1098",
+    "short_name": "Gränsälvsöverenskommelseförordningen"
+  },
+  {
     "slug": "forordningen-om-handel-med-salprodukter",
     "title": "Förordningen om handel med sälprodukter",
     "type": "entity",
@@ -274,6 +435,38 @@
     "short_name": "Import- och exportregleringsförordningen"
   },
   {
+    "slug": "forordningen-om-internationella-vagtransporter",
+    "title": "Förordning (1998:786) om internationella vägtransporter inom EES",
+    "type": "entity",
+    "tags": [
+      "yrkestrafik",
+      "vagtransport",
+      "EES",
+      "kontroll",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Förordningen genomför EU-reglerna om internationella vägtransporter och ger Tullverket en explicit och…",
+    "url": "/laws/forordningen-om-internationella-vagtransporter",
+    "entity_type": "lag",
+    "sfs": "1998:786",
+    "short_name": "Internationella vägtransportförordningen"
+  },
+  {
+    "slug": "forordningen-om-internationellt-certifikat-fritidsfartyg",
+    "title": "Förordning (1978:205) om internationellt certifikat för fritidsfartyg",
+    "type": "entity",
+    "tags": [
+      "fritidsfartyg",
+      "certifikat",
+      "internationellt"
+    ],
+    "snippet": "## Sammanfattning Kortförordning som bemyndigar Svenska Båtunionen, Svenska Kryssarklubben och Svenska Seglarförbundet a…",
+    "url": "/laws/forordningen-om-internationellt-certifikat-fritidsfartyg",
+    "entity_type": "lag",
+    "sfs": "1978:205",
+    "short_name": "Fritidsbåtscertifikatförordningen"
+  },
+  {
     "slug": "forordningen-om-krigsmateriel",
     "title": "Förordningen om krigsmateriel",
     "type": "entity",
@@ -291,6 +484,21 @@
     "entity_type": "lag",
     "sfs": "1992:1303",
     "short_name": "Krigsmaterielförordningen"
+  },
+  {
+    "slug": "forordningen-om-provavgifter",
+    "title": "Förordning (2010:1578) om provavgifter för körkort och yrkesmässig trafik",
+    "type": "entity",
+    "tags": [
+      "provavgifter",
+      "yrkestrafik",
+      "korkort"
+    ],
+    "snippet": "## Sammanfattning Administrativ förordning som fastställer avgiftsbelopp för Trafikverkets körkorts- och yrkeskompetespr…",
+    "url": "/laws/forordningen-om-provavgifter",
+    "entity_type": "lag",
+    "sfs": "2010:1578",
+    "short_name": "Provavgiftsförordningen"
   },
   {
     "slug": "forordningen-om-proviantering",
@@ -325,6 +533,54 @@
     "entity_type": "lag",
     "sfs": "1998:518",
     "short_name": "Punktskattekontrollförordningen / PFK-förordningen"
+  },
+  {
+    "slug": "forordningen-om-restriktioner-for-luftfart",
+    "title": "Förordning (2005:801) om restriktioner för luftfart inom vissa områden",
+    "type": "entity",
+    "tags": [
+      "luftfart",
+      "restriktionsomraden",
+      "forsvar",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Förordningen fastställer specifika geografiska flygförbud och ger Tullverket explicit undantag — Tullv…",
+    "url": "/laws/forordningen-om-restriktioner-for-luftfart",
+    "entity_type": "lag",
+    "sfs": "2005:801",
+    "short_name": "Luftfartsrestriktionsförordningen"
+  },
+  {
+    "slug": "forordningen-om-sjofart-inrikes-utlandskt-fartyg",
+    "title": "Förordning (1974:235) om tillstånd till sjöfart i inrikes trafik med utländskt fartyg",
+    "type": "entity",
+    "tags": [
+      "cabotage",
+      "inrikes-sjofart",
+      "utlandskt-fartyg",
+      "tullverket",
+      "tillsyn"
+    ],
+    "snippet": "## Sammanfattning Reglerar förbudet mot utländska fartygs inrikes sjöfart (cabotage) i Sverige. **Tullverket och Kustbev…",
+    "url": "/laws/forordningen-om-sjofart-inrikes-utlandskt-fartyg",
+    "entity_type": "lag",
+    "sfs": "1974:235",
+    "short_name": "Cabotageförordningen"
+  },
+  {
+    "slug": "forordningen-om-sjofynd",
+    "title": "Förordning (1984:985) om handläggningen av ärenden rörande sjöfynd",
+    "type": "entity",
+    "tags": [
+      "sjofynd",
+      "tull",
+      "offortullat-gods"
+    ],
+    "snippet": "## Sammanfattning Sjöfyndsförordningen (1984:985) kompletterar sjöfyndslagen med praktiska handläggningsregler. Den vikt…",
+    "url": "/laws/forordningen-om-sjofynd",
+    "entity_type": "lag",
+    "sfs": "1984:985",
+    "short_name": "Sjöfyndsförordningen"
   },
   {
     "slug": "forordningen-om-skatt-pa-energi",
@@ -379,6 +635,38 @@
     "short_name": "Nikotinskatteförordningen"
   },
   {
+    "slug": "forordningen-om-skeppsmatning",
+    "title": "Förordning (1994:1162) om skeppsmätning",
+    "type": "entity",
+    "tags": [
+      "skeppsmatning",
+      "draktighet",
+      "matbrev",
+      "transportstyrelsen",
+      "kustbevakning"
+    ],
+    "snippet": "## Sammanfattning Skeppsmätningsförordningen genomför 1969 års internationella skeppsmätningskonvention (UNCLOS-relatera…",
+    "url": "/laws/forordningen-om-skeppsmatning",
+    "entity_type": "lag",
+    "sfs": "1994:1162",
+    "short_name": "Skeppsmätningsförordningen"
+  },
+  {
+    "slug": "forordningen-om-skydd-mot-internationella-hot",
+    "title": "Förordning (2007:156) om skydd mot internationella hot mot människors hälsa",
+    "type": "entity",
+    "tags": [
+      "karantan",
+      "smittskydd",
+      "folkhalsa"
+    ],
+    "snippet": "## Sammanfattning Förordning (2007:156) är genomförandeförordningen till lagen (2006:1570). Den fastslår att polio allti…",
+    "url": "/laws/forordningen-om-skydd-mot-internationella-hot",
+    "entity_type": "lag",
+    "sfs": "2007:156",
+    "short_name": "Internationella hälsohotförordningen"
+  },
+  {
     "slug": "forordningen-om-tobaksskatt",
     "title": "Förordningen om tobaksskatt",
     "type": "entity",
@@ -412,6 +700,22 @@
     "short_name": "Förordningen om farligt gods"
   },
   {
+    "slug": "forordningen-om-tull-och-skattefrihet-gransanlaggning",
+    "title": "Förordning (1968:226) om tull- och skattefrihet för gränsanläggning",
+    "type": "entity",
+    "tags": [
+      "tullfrihet",
+      "skattefrihet",
+      "nordiskt-samarbete",
+      "gransanlaggning"
+    ],
+    "snippet": "## Sammanfattning Förordning (1968:226) är en kortfattad bemyndigandeförordning som ger regeringen rätt att bevilja tull…",
+    "url": "/laws/forordningen-om-tull-och-skattefrihet-gransanlaggning",
+    "entity_type": "lag",
+    "sfs": "1968:226",
+    "short_name": "Gränsanläggningsförordningen"
+  },
+  {
     "slug": "forordningen-om-tullfrihet",
     "title": "Förordning om tullfrihet m.m.",
     "type": "entity",
@@ -430,6 +734,21 @@
     "entity_type": "lag",
     "sfs": "1994:1605",
     "short_name": "Tullfrihetsförordningen"
+  },
+  {
+    "slug": "forordningen-om-viltvardsomraden",
+    "title": "Förordning om viltvårdsområden",
+    "type": "entity",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Kort genomförandeförordning (7 §§) till lagen om viltvårdsområden. Reglerar register och bidrag ur vil…",
+    "url": "/laws/forordningen-om-viltvardsomraden",
+    "entity_type": "lag",
+    "sfs": "1980:896",
+    "short_name": "Viltvårdsområdesförordningen"
   },
   {
     "slug": "genomforande-antidumping",
@@ -610,6 +929,39 @@
     "short_name": "IUU-genomförandeförordningen"
   },
   {
+    "slug": "jaktforordningen",
+    "title": "Jaktförordning",
+    "type": "entity",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "jakttider",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning till jaktlagen med detaljregler om jakttider per djurslag, licensjakt efter älg…",
+    "url": "/laws/jaktforordningen",
+    "entity_type": "lag",
+    "sfs": "1987:905",
+    "short_name": "Jaktförordningen"
+  },
+  {
+    "slug": "jaktlagen",
+    "title": "Jaktlag",
+    "type": "entity",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "brott",
+      "kustbevakning",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Grundläggande lag om viltvård, rätten till jakt och jaktens bedrivande. Gäller inom hela Sverige, ekon…",
+    "url": "/laws/jaktlagen",
+    "entity_type": "lag",
+    "sfs": "1987:259",
+    "short_name": "Jaktlagen"
+  },
+  {
     "slug": "knivlagen",
     "title": "Knivlagen",
     "type": "entity",
@@ -644,6 +996,23 @@
     "short_name": "KN"
   },
   {
+    "slug": "kommerskollegium",
+    "title": "Kommerskollegium",
+    "type": "entity",
+    "tags": [
+      "myndighet",
+      "kommerskollegium",
+      "handelspolitik",
+      "frihandel",
+      "dual-use",
+      "antidumpning"
+    ],
+    "snippet": "## Sammanfattning Kommerskollegium är Sveriges myndighet för utrikeshandel, EU:s inre marknad och handelspolitik. Myndig…",
+    "url": "/laws/kommerskollegium",
+    "entity_type": "myndighet",
+    "short_name": "Kommerskollegium"
+  },
+  {
     "slug": "kompletteringsforordningen",
     "title": "Kompletteringsförordningen (EU) 2015/2446",
     "type": "entity",
@@ -676,6 +1045,88 @@
     "short_name": "Kulturmiljölagen"
   },
   {
+    "slug": "kungorelsen-om-matbrev-panamakanalen",
+    "title": "Kungörelse (1954:556) angående mätbrev för fart genom Panamakanalen",
+    "type": "entity",
+    "tags": [
+      "skeppsmatning",
+      "panamakanalen",
+      "matbrev",
+      "transportstyrelsen"
+    ],
+    "snippet": "## Sammanfattning Kungörelsen är strukturellt identisk med Suez-kungörelsen (1954:555) men gäller för Panamakanalen. Tra…",
+    "url": "/laws/kungorelsen-om-matbrev-panamakanalen",
+    "entity_type": "lag",
+    "sfs": "1954:556",
+    "short_name": "Panama-mätbrevskungörelsen"
+  },
+  {
+    "slug": "kungorelsen-om-matbrev-suezkanalen",
+    "title": "Kungörelse (1954:555) angående mätbrev för fart genom Suezkanalen",
+    "type": "entity",
+    "tags": [
+      "skeppsmatning",
+      "suezkanalen",
+      "matbrev",
+      "transportstyrelsen"
+    ],
+    "snippet": "## Sammanfattning Kungörelsen ger Transportstyrelsen befogenhet att utfärda Suez Canal Special Tonnage Certificate — ett…",
+    "url": "/laws/kungorelsen-om-matbrev-suezkanalen",
+    "entity_type": "lag",
+    "sfs": "1954:555",
+    "short_name": "Suez-mätbrevskungörelsen"
+  },
+  {
+    "slug": "kungorelsen-om-nordisk-sanitarkontroll",
+    "title": "Kungörelse (1955:105) om nordisk sanitärkontroll",
+    "type": "entity",
+    "tags": [
+      "karantan",
+      "nordiskt-samarbete",
+      "sanitarkontroll",
+      "smittskydd"
+    ],
+    "snippet": "## Sammanfattning Kungörelse (1955:105) från 1955 genomför en trilateral överenskommelse mellan Sverige, Danmark och Nor…",
+    "url": "/laws/kungorelsen-om-nordisk-sanitarkontroll",
+    "entity_type": "lag",
+    "sfs": "1955:105",
+    "short_name": "Nordiska sanitärkontrollkungörelsen"
+  },
+  {
+    "slug": "kungorelsen-om-tull-och-skattefrihet-renstangsel",
+    "title": "Kungörelse (1972:116) om tull- och skattefrihet vid renstängsel",
+    "type": "entity",
+    "tags": [
+      "tullfrihet",
+      "renstangsel",
+      "nordiskt-samarbete",
+      "tullverket",
+      "renbetning"
+    ],
+    "snippet": "## Sammanfattning Renstängelkungörelsen (1972:116) genomför tull- och skattefrihetsreglerna i två svensk-norska protokol…",
+    "url": "/laws/kungorelsen-om-tull-och-skattefrihet-renstangsel",
+    "entity_type": "lag",
+    "sfs": "1972:116",
+    "short_name": "Renstängelkungörelsen"
+  },
+  {
+    "slug": "kungorelsen-om-uppbord-av-sarskilda-avgifter",
+    "title": "Kungörelse (1969:475) om uppbörd av särskilda avgifter genom Tullverkets försorg",
+    "type": "entity",
+    "tags": [
+      "tullverket",
+      "uppbord",
+      "avgifter",
+      "hamn",
+      "flygplats"
+    ],
+    "snippet": "## Sammanfattning Kungörelsen ger kommuner och driftsansvariga för hamnar, flygplatser och godsterminaler möjlighet att …",
+    "url": "/laws/kungorelsen-om-uppbord-av-sarskilda-avgifter",
+    "entity_type": "lag",
+    "sfs": "1969:475",
+    "short_name": "Tullverkets uppbörd av tredjepartsavgifter"
+  },
+  {
     "slug": "kustbevakningslagen",
     "title": "Kustbevakningslagen",
     "type": "entity",
@@ -691,6 +1142,24 @@
     "entity_type": "lag",
     "sfs": "2019:32",
     "short_name": "Kustbevakningslagen"
+  },
+  {
+    "slug": "lagen-om-ackreditering-och-teknisk-kontroll",
+    "title": "Lagen om ackreditering och teknisk kontroll (2011:791)",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "ackreditering",
+      "ce-markning",
+      "teknisk-kontroll",
+      "anmalt-organ",
+      "marknadskontroll"
+    ],
+    "snippet": "# Lagen om ackreditering och teknisk kontroll (2011:791) ## Sammanfattning Lagen om ackreditering och teknisk kontroll (…",
+    "url": "/laws/lagen-om-ackreditering-och-teknisk-kontroll",
+    "entity_type": "lag",
+    "sfs": "2011:791",
+    "short_name": "Ackrediteringslagen"
   },
   {
     "slug": "lagen-om-alkoholskatt",
@@ -710,6 +1179,23 @@
     "short_name": "Alkoholskattelagen"
   },
   {
+    "slug": "lagen-om-atgarder-mot-fororening-fran-fartyg",
+    "title": "Lag (1980:424) om åtgärder mot förorening från fartyg",
+    "type": "entity",
+    "tags": [
+      "fororening",
+      "marpol",
+      "fartyg",
+      "miljo",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Implementerar MARPOL i Sverige. Förbjuder olje- och kemikalieutsläpp till sjöss. Tillsynsmyndigheten (…",
+    "url": "/laws/lagen-om-atgarder-mot-fororening-fran-fartyg",
+    "entity_type": "lag",
+    "sfs": "1980:424",
+    "short_name": "Fartygsmiljölagen / MARPOL-lagen"
+  },
+  {
     "slug": "lagen-om-atgarder-mot-penningtvatt",
     "title": "Lagen om åtgärder mot penningtvätt och finansiering av terrorism",
     "type": "entity",
@@ -724,6 +1210,21 @@
     "entity_type": "lag",
     "sfs": "2017:630",
     "short_name": "Penningtvättslagen"
+  },
+  {
+    "slug": "lagen-om-avgifter-i-allman-hamn",
+    "title": "Lag (1981:655) om vissa avgifter i allmän hamn",
+    "type": "entity",
+    "tags": [
+      "hamn",
+      "avgifter",
+      "sjofart"
+    ],
+    "snippet": "## Sammanfattning Lagen ger hamninnehavare rätt att ta ut avgifter för fartyg och gods som rör sig inom hamnens område, …",
+    "url": "/laws/lagen-om-avgifter-i-allman-hamn",
+    "entity_type": "lag",
+    "sfs": "1981:655",
+    "short_name": "Hamnavgiftslagen"
   },
   {
     "slug": "lagen-om-brandfarliga-och-explosiva-varor",
@@ -741,6 +1242,54 @@
     "entity_type": "lag",
     "sfs": "2010:1011",
     "short_name": "LBE"
+  },
+  {
+    "slug": "lagen-om-ensamratt-till-bargning",
+    "title": "Lag (1984:983) om ensamrätt till bärgning",
+    "type": "entity",
+    "tags": [
+      "bargning",
+      "sjofynd",
+      "lansstyrelse"
+    ],
+    "snippet": "## Sammanfattning Lag (1984:983) ger möjlighet att erhålla exklusivt tillstånd (ensamrätt) att bärga sjunket gods som äg…",
+    "url": "/laws/lagen-om-ensamratt-till-bargning",
+    "entity_type": "lag",
+    "sfs": "1984:983",
+    "short_name": "Ensamrättslagen (bärgning)"
+  },
+  {
+    "slug": "lagen-om-eus-fiskeripolitik",
+    "title": "Lag om EU:s förordningar om den gemensamma fiskeripolitiken",
+    "type": "entity",
+    "tags": [
+      "fiskeri",
+      "eu-ratt",
+      "tillsyn",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Ramlag som ger Sverige möjlighet att genomföra EU:s gemensamma fiskeripolitik. Täcker bevarande av fis…",
+    "url": "/laws/lagen-om-eus-fiskeripolitik",
+    "entity_type": "lag",
+    "sfs": "1994:1709",
+    "short_name": "EU-fiskeripolitiklagen"
+  },
+  {
+    "slug": "lagen-om-exportbutiker",
+    "title": "Lagen om exportbutiker (1999:445)",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "exportbutik",
+      "tullfri-forsaljning",
+      "flygplats",
+      "punktskatt"
+    ],
+    "snippet": "# Lagen om exportbutiker (1999:445) ## Sammanfattning Lagen om exportbutiker (1999:445) reglerar inrättande och drift av…",
+    "url": "/laws/lagen-om-exportbutiker",
+    "entity_type": "lag",
+    "sfs": "1999:445",
+    "short_name": "Exportbutikslagen"
   },
   {
     "slug": "lagen-om-forbud-mot-pals-av-katt-och-hund",
@@ -793,6 +1342,24 @@
     "short_name": "Hälsofarliga varor-lagen"
   },
   {
+    "slug": "lagen-om-forfarande-med-forverkad-egendom",
+    "title": "Lag (1974:1066) om förfarande med förverkad egendom och hittegods m.m.",
+    "type": "entity",
+    "tags": [
+      "forverkande",
+      "hittegods",
+      "stoldgods",
+      "tullbefogenhetslagen",
+      "kustbevakning",
+      "egendomshantering"
+    ],
+    "snippet": "## Sammanfattning Förfarandelagen (1974:1066) är den centrala lagen för vad som händer med egendom efter att den tagits …",
+    "url": "/laws/lagen-om-forfarande-med-forverkad-egendom",
+    "entity_type": "lag",
+    "sfs": "1974:1066",
+    "short_name": "Förfarandelagen (förverkad egendom)"
+  },
+  {
     "slug": "lagen-om-frihet-fran-skatt-vid-import",
     "title": "Lag om frihet från skatt vid import",
     "type": "entity",
@@ -810,6 +1377,39 @@
     "entity_type": "lag",
     "sfs": "1994:1551",
     "short_name": "Skattefrihetlagen"
+  },
+  {
+    "slug": "lagen-om-grans-mot-allmant-vattenomrade",
+    "title": "Lag om gräns mot allmänt vattenområde",
+    "type": "entity",
+    "tags": [
+      "vattenratt",
+      "fastighetsratt",
+      "sjoterritorium",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Kort lag (8 §§) som fastställer gränsen mellan enskilt och allmänt vattenområde. Grundläggande referen…",
+    "url": "/laws/lagen-om-grans-mot-allmant-vattenomrade",
+    "entity_type": "lag",
+    "sfs": "1950:595",
+    "short_name": "Vattenområdeslagen"
+  },
+  {
+    "slug": "lagen-om-gransalvsoverenskommelse",
+    "title": "Lag om gränsälvsöverenskommelse mellan Sverige och Finland",
+    "type": "entity",
+    "tags": [
+      "internationell-overenskommelse",
+      "tornealsven",
+      "finland",
+      "vattenmiljo",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Lagen inkorporerar gränsälvsöverenskommelsen med Finland i svensk rätt. Reglerar gemensamt nyttjande a…",
+    "url": "/laws/lagen-om-gransalvsoverenskommelse",
+    "entity_type": "lag",
+    "sfs": "2010:897",
+    "short_name": "Gränsälvsöverenskommelselagen"
   },
   {
     "slug": "lagen-om-handel-med-lakemedel",
@@ -845,6 +1445,22 @@
     "entity_type": "lag",
     "sfs": "2011:1070",
     "short_name": "Sälproduktslagen"
+  },
+  {
+    "slug": "lagen-om-hittegods",
+    "title": "Lag (1938:121) om hittegods",
+    "type": "entity",
+    "tags": [
+      "hittegods",
+      "polismyndigheten",
+      "upphittare",
+      "egendom"
+    ],
+    "snippet": "## Sammanfattning Hittegodsllagen (1938:121) reglerar det praktiska förfarandet när någon hittar egendom utan känd ägare…",
+    "url": "/laws/lagen-om-hittegods",
+    "entity_type": "lag",
+    "sfs": "1938:121",
+    "short_name": "Hittegodsllagen"
   },
   {
     "slug": "lagen-om-immunitet-och-privilegier",
@@ -918,6 +1534,22 @@
     "short_name": "Krigsmateriellagen"
   },
   {
+    "slug": "lagen-om-luftfartsskydd",
+    "title": "Lag (2004:1100) om luftfartsskydd",
+    "type": "entity",
+    "tags": [
+      "luftfart",
+      "sakerhet",
+      "flygplats",
+      "sakerhetskontroll"
+    ],
+    "snippet": "## Sammanfattning Luftfartsskyddslagen kompletterar EU:s gemensamma regler för civil luftfartsäkerhet. Lagen reglerar sä…",
+    "url": "/laws/lagen-om-luftfartsskydd",
+    "entity_type": "lag",
+    "sfs": "2004:1100",
+    "short_name": "Luftfartsskyddslagen"
+  },
+  {
     "slug": "lagen-om-proviantering",
     "title": "Lag om proviantering av fartyg och luftfartyg",
     "type": "entity",
@@ -953,6 +1585,37 @@
     "entity_type": "lag",
     "sfs": "1998:506",
     "short_name": "LPK / Punktskattekontrollagen"
+  },
+  {
+    "slug": "lagen-om-registrering-av-batar",
+    "title": "Lag (1979:377) om registrering av båtar",
+    "type": "entity",
+    "tags": [
+      "batregistrering",
+      "kustbevakning",
+      "identifiering"
+    ],
+    "snippet": "## Sammanfattning Lagen reglerar obligatorisk och frivillig registrering av båtar i fartygsregistrets båtdel. Kustbevakn…",
+    "url": "/laws/lagen-om-registrering-av-batar",
+    "entity_type": "lag",
+    "sfs": "1979:377",
+    "short_name": "Båtregistreringslagen"
+  },
+  {
+    "slug": "lagen-om-sjofynd",
+    "title": "Lag (1918:163) med vissa bestämmelser om sjöfynd",
+    "type": "entity",
+    "tags": [
+      "sjofynd",
+      "bargning",
+      "hittegods",
+      "tull"
+    ],
+    "snippet": "## Sammanfattning Sjöfyndslagen (1918:163) ålägger den som bärgar övergivna fartyg eller gods i svenska vatten att anmäl…",
+    "url": "/laws/lagen-om-sjofynd",
+    "entity_type": "lag",
+    "sfs": "1918:163",
+    "short_name": "Sjöfyndslagen"
   },
   {
     "slug": "lagen-om-skatt-pa-energi",
@@ -1010,6 +1673,24 @@
     "short_name": "Nikotinskattelagen"
   },
   {
+    "slug": "lagen-om-skydd-mot-internationella-hot",
+    "title": "Lag (2006:1570) om skydd mot internationella hot mot människors hälsa",
+    "type": "entity",
+    "tags": [
+      "karantan",
+      "smittskydd",
+      "folkhalsa",
+      "hamnar",
+      "luftfart",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Lag (2006:1570) genomför WHO:s internationella hälsoreglemente (IHR 2005) och syftar till att förebygg…",
+    "url": "/laws/lagen-om-skydd-mot-internationella-hot",
+    "entity_type": "lag",
+    "sfs": "2006:1570",
+    "short_name": "Internationella hälsohotlagen"
+  },
+  {
     "slug": "lagen-om-straff-for-penningtvattsbrott",
     "title": "Lagen om straff för penningtvättsbrott",
     "type": "entity",
@@ -1024,6 +1705,39 @@
     "entity_type": "lag",
     "sfs": "2014:307",
     "short_name": "Penningtvättsstrafflagen"
+  },
+  {
+    "slug": "lagen-om-sveriges-angransande-zon",
+    "title": "Lag (2017:1273) om Sveriges angränsande zon",
+    "type": "entity",
+    "tags": [
+      "angransande-zon",
+      "tullkontroll",
+      "sjoterritorium",
+      "kustbevakning",
+      "smuggling"
+    ],
+    "snippet": "## Sammanfattning Den angränsande zonen sträcker sig från territorialhavet ut till 24 nautiska mil från baslinjerna. Ino…",
+    "url": "/laws/lagen-om-sveriges-angransande-zon",
+    "entity_type": "lag",
+    "sfs": "2017:1273",
+    "short_name": "Angränsande zon"
+  },
+  {
+    "slug": "lagen-om-sveriges-sjoterritorium",
+    "title": "Lag (2017:1272) om Sveriges sjöterritorium och maritima zoner",
+    "type": "entity",
+    "tags": [
+      "sjoterritorium",
+      "territorialhav",
+      "jurisdiktion",
+      "maritima-zoner"
+    ],
+    "snippet": "## Sammanfattning Lagen fastslår Sveriges sjöterritorium som inre vatten plus territorialhav (12 nautiska mil), definier…",
+    "url": "/laws/lagen-om-sveriges-sjoterritorium",
+    "entity_type": "lag",
+    "sfs": "2017:1272",
+    "short_name": "Sjöterritoriets gränser"
   },
   {
     "slug": "lagen-om-tobak-och-liknande-produkter",
@@ -1079,6 +1793,38 @@
     "short_name": "Tullfrihetsslagen"
   },
   {
+    "slug": "lagen-om-verkstallighet-havsrattskonvention",
+    "title": "Lag (1996:519) om verkställighet av domar och beslut enligt havsrättskonventionen",
+    "type": "entity",
+    "tags": [
+      "unclos",
+      "havsrattskonventionen",
+      "verkstallighet",
+      "internationell-ratt"
+    ],
+    "snippet": "## Sammanfattning Kortlag (2 meningar) som ger UNCLOS-domar direkt rättsverkan i Sverige. Viktig vid prompt release-ären…",
+    "url": "/laws/lagen-om-verkstallighet-havsrattskonvention",
+    "entity_type": "lag",
+    "sfs": "1996:519",
+    "short_name": "UNCLOS-verkställighetslagen"
+  },
+  {
+    "slug": "lagen-om-viltvardsomraden",
+    "title": "Lag om viltvårdsområden",
+    "type": "entity",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "fastighetsratt",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Lag om bildande av viltvårdsområden — sammanföring av fastigheter för samordnad jakt och viltvård. Ers…",
+    "url": "/laws/lagen-om-viltvardsomraden",
+    "entity_type": "lag",
+    "sfs": "2000:592",
+    "short_name": "Viltvårdsområdeslagen"
+  },
+  {
     "slug": "lagen-om-vissa-internationella-sanktioner",
     "title": "Lagen om vissa internationella sanktioner",
     "type": "entity",
@@ -1094,6 +1840,22 @@
     "entity_type": "lag",
     "sfs": "1996:95",
     "short_name": "Sanktionslagen"
+  },
+  {
+    "slug": "lagen-om-visst-stoldgods",
+    "title": "Lag (1974:1065) om visst stöldgods m.m.",
+    "type": "entity",
+    "tags": [
+      "stoldgods",
+      "forvar",
+      "penningtvatt",
+      "forverkande"
+    ],
+    "snippet": "## Sammanfattning Stöldgodslagen (1974:1065) ger åklagaren och domstolar verktyg att ta stöldgods, häleri- och penningtv…",
+    "url": "/laws/lagen-om-visst-stoldgods",
+    "entity_type": "lag",
+    "sfs": "1974:1065",
+    "short_name": "Stöldgodslagen"
   },
   {
     "slug": "livsmedelslagen",
@@ -1113,6 +1875,38 @@
     "short_name": "Livsmedelslagen"
   },
   {
+    "slug": "luftfartsforordningen",
+    "title": "Luftfartsförordning (2010:770)",
+    "type": "entity",
+    "tags": [
+      "luftfart",
+      "gransovervaking",
+      "tullkontroll",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Luftfartsförordningen är den viktigaste luftfartsförfattningen ur tullperspektiv. Kapitel 8 ger tulltj…",
+    "url": "/laws/luftfartsforordningen",
+    "entity_type": "lag",
+    "sfs": "2010:770",
+    "short_name": "Luftfartsförordningen"
+  },
+  {
+    "slug": "luftfartslagen",
+    "title": "Luftfartslag (2010:500)",
+    "type": "entity",
+    "tags": [
+      "luftfart",
+      "flygsäkerhet",
+      "registrering",
+      "gransovervaking"
+    ],
+    "snippet": "## Sammanfattning Ramlag för civil luftfart. Tullrelevansen är indirekt men viktig: via genomförandeförordningen ([[luft…",
+    "url": "/laws/luftfartslagen",
+    "entity_type": "lag",
+    "sfs": "2010:500",
+    "short_name": "Luftfartslagen"
+  },
+  {
     "slug": "mervardesskatteforordningen",
     "title": "Mervärdesskatteförordningen",
     "type": "entity",
@@ -1123,7 +1917,7 @@
       "verkställighetsförordning",
       "administrativt"
     ],
-    "snippet": "## Sammanfattning Mervärdesskatteförordningen (2023:328) är regeringens verkställighetsförordning till [[mervärdesskatte…",
+    "snippet": "## Sammanfattning Mervärdesskatteförordningen (2023:328) är regeringens verkställighetsförordning till [[mervardesskatte…",
     "url": "/laws/mervardesskatteforordningen",
     "entity_type": "lag",
     "sfs": "2023:328",
@@ -1215,6 +2009,23 @@
     "short_name": "Päls-förbudet katt/hund"
   },
   {
+    "slug": "passlagen",
+    "title": "Passlag (1978:302)",
+    "type": "entity",
+    "tags": [
+      "pass",
+      "identitetskontroll",
+      "biometri",
+      "granspassage",
+      "tulltjansteman"
+    ],
+    "snippet": "## Sammanfattning Passlagen (1978:302) reglerar pass för svenska medborgare: utfärdande, giltighet, återkallelse och kon…",
+    "url": "/laws/passlagen",
+    "entity_type": "lag",
+    "sfs": "1978:302",
+    "short_name": "Passlagen"
+  },
+  {
     "slug": "pgs-forordningen",
     "title": "PGS-förordningen (dual-use)",
     "type": "entity",
@@ -1250,6 +2061,39 @@
     "short_name": "Rättegångsbalken"
   },
   {
+    "slug": "rennaringsforordningen",
+    "title": "Rennäringsförordning",
+    "type": "entity",
+    "tags": [
+      "samisk-ratt",
+      "renskotsel",
+      "samefonden",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning till rennäringslagen. Reglerar upplåtelse av statens fjällmarker för jakt och f…",
+    "url": "/laws/rennaringsforordningen",
+    "entity_type": "lag",
+    "sfs": "1993:384",
+    "short_name": "Rennäringsförordningen"
+  },
+  {
+    "slug": "rennaringslagen",
+    "title": "Rennäringslag",
+    "type": "entity",
+    "tags": [
+      "samisk-ratt",
+      "renskotsel",
+      "jakt",
+      "fiske",
+      "tier3"
+    ],
+    "snippet": "## Sammanfattning Grundläggande lag om samernas renskötselrätt, grundad på urminnes hävd. Reglerar renskötselomrädets ge…",
+    "url": "/laws/rennaringslagen",
+    "entity_type": "lag",
+    "sfs": "1971:437",
+    "short_name": "Rennäringslagen"
+  },
+  {
     "slug": "salprodukter-genomforande",
     "title": "Genomförandebestämmelser för sälprodukter (EU) 2015/1850",
     "type": "entity",
@@ -1282,6 +2126,39 @@
     "short_name": "Sälproduktsförordningen"
   },
   {
+    "slug": "sjolagen",
+    "title": "Sjölag (1994:1009)",
+    "type": "entity",
+    "tags": [
+      "sjolag",
+      "fartyg",
+      "nationalitet",
+      "registrering",
+      "ansvarsbegransning"
+    ],
+    "snippet": "## Sammanfattning Sjölagen är den centrala privaträttsliga lagen för svensk sjöfart. Den reglerar fartygs nationalitet o…",
+    "url": "/laws/sjolagen",
+    "entity_type": "lag",
+    "sfs": "1994:1009",
+    "short_name": "Sjölagen"
+  },
+  {
+    "slug": "sjotrafikforordningen",
+    "title": "Sjötrafikförordning (1986:300)",
+    "type": "entity",
+    "tags": [
+      "sjotrafik",
+      "colreg",
+      "tullverket",
+      "undantag"
+    ],
+    "snippet": "## Sammanfattning Genomför COLREG 1972 och reglerar sjötrafiken i Sverige. Centralt för tullrätten: tulltjänstemän är un…",
+    "url": "/laws/sjotrafikforordningen",
+    "entity_type": "lag",
+    "sfs": "1986:300",
+    "short_name": "Sjötrafikförordningen"
+  },
+  {
     "slug": "skattebrottslagen",
     "title": "Skattebrottslagen",
     "type": "entity",
@@ -1295,6 +2172,55 @@
     "entity_type": "lag",
     "sfs": "1971:69",
     "short_name": "Skattebrottslagen"
+  },
+  {
+    "slug": "skatteforfarandeforordningen",
+    "title": "Skatteförfarandeförordningen (2011:1261)",
+    "type": "entity",
+    "tags": [
+      "forordning",
+      "skatteforfarande",
+      "skatteverket",
+      "verkställighet"
+    ],
+    "snippet": "# Skatteförfarandeförordningen (2011:1261) ## Sammanfattning Skatteförfarandeförordningen (2011:1261), SFF, innehåller v…",
+    "url": "/laws/skatteforfarandeforordningen",
+    "entity_type": "lag",
+    "sfs": "2011:1261",
+    "short_name": "SFF"
+  },
+  {
+    "slug": "skatteforfarandelagen",
+    "title": "Skatteförfarandelagen (2011:1244)",
+    "type": "entity",
+    "tags": [
+      "lag",
+      "skatteforfarande",
+      "skattetillagg",
+      "mervardesskatt",
+      "punktskatt",
+      "skatteverket"
+    ],
+    "snippet": "# Skatteförfarandelagen (2011:1244) ## Sammanfattning Skatteförfarandelagen (2011:1244), SFL, är den centrala lagen för …",
+    "url": "/laws/skatteforfarandelagen",
+    "entity_type": "lag",
+    "sfs": "2011:1244",
+    "short_name": "SFL"
+  },
+  {
+    "slug": "skatteverket",
+    "title": "Skatteverket",
+    "type": "entity",
+    "tags": [
+      "myndighet",
+      "skatteverket",
+      "beskattning",
+      "punktskatt"
+    ],
+    "snippet": "## Sammanfattning Skatteverket är Sveriges skattemyndighet och lyder under regeringen (Finansdepartementet), men är en f…",
+    "url": "/laws/skatteverket",
+    "entity_type": "myndighet",
+    "short_name": "Skatteverket"
   },
   {
     "slug": "smugglingslagen",
@@ -1315,6 +2241,23 @@
     "entity_type": "lag",
     "sfs": "2000:1225",
     "short_name": "Smugglingslagen"
+  },
+  {
+    "slug": "statens-jordbruksverk",
+    "title": "Statens jordbruksverk (Jordbruksverket)",
+    "type": "entity",
+    "tags": [
+      "myndighet",
+      "jordbruksverket",
+      "jordbruk",
+      "fiske",
+      "cites",
+      "beredskapsmyndighet"
+    ],
+    "snippet": "## Sammanfattning Jordbruksverket är Sveriges förvaltningsmyndighet inom jordbruk, fiske och vattenbruk. Myndigheten har…",
+    "url": "/laws/statens-jordbruksverk",
+    "entity_type": "myndighet",
+    "short_name": "Jordbruksverket"
   },
   {
     "slug": "stralskyddslagen",
@@ -1349,6 +2292,23 @@
     "entity_type": "lag",
     "sfs": "2022:666",
     "short_name": "Terroristbrottslagen"
+  },
+  {
+    "slug": "tilltradesforordningen",
+    "title": "Tillträdesförordning (1992:118)",
+    "type": "entity",
+    "tags": [
+      "tilltradesratt",
+      "statsfartyg",
+      "forsvarsmakten",
+      "kustbevakning",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Tillträdesförordningen reglerar under vilka villkor utländska statsfartyg, statsluftfartyg och militär…",
+    "url": "/laws/tilltradesforordningen",
+    "entity_type": "lag",
+    "sfs": "1992:118",
+    "short_name": "Tillträdesförordningen"
   },
   {
     "slug": "tobaksskattelagen",
@@ -1535,6 +2495,20 @@
     "short_name": "Transportkontrollförordningen 3912/92"
   },
   {
+    "slug": "tullverket",
+    "title": "Tullverket",
+    "type": "entity",
+    "tags": [
+      "myndighet",
+      "tullverket",
+      "gransskydd"
+    ],
+    "snippet": "## Sammanfattning Tullverket är Sveriges tullmyndighet och lyder under regeringen (Finansdepartementet). Myndighetens sl…",
+    "url": "/laws/tullverket",
+    "entity_type": "myndighet",
+    "short_name": "Tullverket"
+  },
+  {
     "slug": "ucc-elektroniska-system-2023",
     "title": "Kommissionens genomförandebeslut (EU) 2023/2879 — Elektroniska system för UCC",
     "type": "entity",
@@ -1607,6 +2581,39 @@
     "short_name": "UCC"
   },
   {
+    "slug": "utlanningsforordningen",
+    "title": "Utlänningsförordning (2006:97)",
+    "type": "entity",
+    "tags": [
+      "migration",
+      "gransovergangsstallen",
+      "granspassage",
+      "tullverket",
+      "inresekontroll"
+    ],
+    "snippet": "## Sammanfattning Utlänningsförordningen (2006:97) är verkställighetsförordningen till utlänningslagen (2005:716). Den c…",
+    "url": "/laws/utlanningsforordningen",
+    "entity_type": "lag",
+    "sfs": "2006:97",
+    "short_name": "Utlänningsförordningen"
+  },
+  {
+    "slug": "utlanningslagen",
+    "title": "Utlänningslag (2005:716)",
+    "type": "entity",
+    "tags": [
+      "migration",
+      "granspassage",
+      "inresekontroll",
+      "utlanningar"
+    ],
+    "snippet": "## Sammanfattning Utlänningslagen (2005:716) är den centrala lagen för migration och gränspassage i Sverige. Den reglera…",
+    "url": "/laws/utlanningslagen",
+    "entity_type": "lag",
+    "sfs": "2005:716",
+    "short_name": "Utlänningslagen"
+  },
+  {
     "slug": "vagtransportforordningen",
     "title": "Vägtransportförordningen",
     "type": "entity",
@@ -1640,6 +2647,53 @@
     "short_name": "Vapenlagen"
   },
   {
+    "slug": "yrkestrafikforordningen",
+    "title": "Yrkestrafikförordning (2012:237)",
+    "type": "entity",
+    "tags": [
+      "yrkestrafik",
+      "vagtransport",
+      "kontroll"
+    ],
+    "snippet": "## Sammanfattning Genomförandeförordning till [[yrkestrafiklagen]]. Pekar ut Transportstyrelsen som behörig myndighet oc…",
+    "url": "/laws/yrkestrafikforordningen",
+    "entity_type": "lag",
+    "sfs": "2012:237",
+    "short_name": "Yrkestrafikförordningen"
+  },
+  {
+    "slug": "yrkestrafiklagen",
+    "title": "Yrkestrafiklag (2012:210)",
+    "type": "entity",
+    "tags": [
+      "yrkestrafik",
+      "vagtransport",
+      "internationell-transport"
+    ],
+    "snippet": "## Sammanfattning Yrkestrafiklagen reglerar villkoren för yrkesmässig trafik på väg i Sverige och är den svenska komplet…",
+    "url": "/laws/yrkestrafiklagen",
+    "entity_type": "lag",
+    "sfs": "2012:210",
+    "short_name": "Yrkestrafiklagen"
+  },
+  {
+    "slug": "aeo-tillstand",
+    "title": "AEO-tillstånd",
+    "type": "concept",
+    "tags": [
+      "concept",
+      "AEO",
+      "AEOC",
+      "AEOS",
+      "AEOF",
+      "tullforenkling",
+      "formanlig-aktor",
+      "omsesidigt-erkannande"
+    ],
+    "snippet": "# AEO-tillstånd ## Sammanfattning AEO (Authorised Economic Operator — Godkänd ekonomisk aktör) är EU:s kvalitetsstämpel …",
+    "url": "/concepts/aeo-tillstand"
+  },
+  {
     "slug": "artskydd-och-miljo",
     "title": "Artskydd och miljo",
     "type": "concept",
@@ -1664,7 +2718,7 @@
       "brottsbekämpning",
       "tullverket"
     ],
-    "snippet": "# Brottsbekämpning — direkt och indirekt ## Definition [[Tullbefogenhetslagen]] delar in Tullverkets brottsbekämpning i …",
+    "snippet": "# Brottsbekämpning — direkt och indirekt ## Definition [[tullbefogenhetslagen]] delar in Tullverkets brottsbekämpning i …",
     "url": "/concepts/brottsbekampning"
   },
   {
@@ -1758,6 +2812,54 @@
     ],
     "snippet": "# Tullbrott ## Definition Tullbrott innebär att uppsåtligen undandra tull, skatt eller avgift från det allmänna i samban…",
     "url": "/concepts/tullbrott"
+  },
+  {
+    "slug": "tulltaxan-och-klassificering",
+    "title": "Tulltaxan och klassificering",
+    "type": "concept",
+    "tags": [
+      "concept",
+      "tulltaxa",
+      "klassificering",
+      "KN",
+      "HS",
+      "TARIC",
+      "BTI"
+    ],
+    "snippet": "# Tulltaxan och klassificering ## Sammanfattning Tulltaxan är EU:s systematiska förteckning över samtliga varor som förs…",
+    "url": "/concepts/tulltaxan-och-klassificering"
+  },
+  {
+    "slug": "tullvarde-och-vardering",
+    "title": "Tullvärde och värdering",
+    "type": "concept",
+    "tags": [
+      "concept",
+      "tullvarde",
+      "vardering",
+      "transaktionsvarde",
+      "royalties",
+      "licensavgifter",
+      "importmoms"
+    ],
+    "snippet": "# Tullvärde och värdering ## Sammanfattning Tullvärdet är den beräkningsgrund på vilken tull, importmoms och de flesta a…",
+    "url": "/concepts/tullvarde-och-vardering"
+  },
+  {
+    "slug": "ursprung-och-preferensursprung",
+    "title": "Ursprung och preferensursprung",
+    "type": "concept",
+    "tags": [
+      "concept",
+      "ursprung",
+      "preferensursprung",
+      "frihandelsavtal",
+      "REX",
+      "EUR.1",
+      "ursprungsregler"
+    ],
+    "snippet": "# Ursprung och preferensursprung ## Sammanfattning Ursprung avgör i vilket land en vara anses vara \"tillverkad\" — och st…",
+    "url": "/concepts/ursprung-och-preferensursprung"
   },
   {
     "slug": "vapenreglering",
@@ -1890,6 +2992,32 @@
     "url": "/sources/cites-tillstand-eu-792-2012"
   },
   {
+    "slug": "containerforordningen-1980-640",
+    "title": "Containerförordning (1980:640)",
+    "type": "source",
+    "tags": [
+      "container",
+      "sakerhet",
+      "egenkontroll",
+      "transportstyrelsen"
+    ],
+    "snippet": "# Containerförordning (1980:640) Källa: SFS 1980:640. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2022:1149. ## Sammanfattning …",
+    "url": "/sources/containerforordningen-1980-640"
+  },
+  {
+    "slug": "containerlagen-1980-152",
+    "title": "Containerlag (1980:152)",
+    "type": "source",
+    "tags": [
+      "container",
+      "sakerhet",
+      "internationell-transport",
+      "tullverket"
+    ],
+    "snippet": "# Containerlag (1980:152) Källa: SFS 1980:152. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2010:1557. ## Sammanfattning Genomfö…",
+    "url": "/sources/containerlagen-1980-152"
+  },
+  {
     "slug": "eu-foretagsstatistik-eu-2019-2152",
     "title": "Europaparlamentets och rådets förordning (EU) 2019/2152 — Företagsstatistikförordningen",
     "type": "source",
@@ -1946,6 +3074,46 @@
     ],
     "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32020R1470 | | EUT-referens | EUT L 334, 13.10.2020 | | Antagen …",
     "url": "/sources/eu-handelsstatistik-komplettering-eu-2020-1470"
+  },
+  {
+    "slug": "fartygsregisterforordningen-1975-927",
+    "title": "Fartygsregisterförordning (1975:927)",
+    "type": "source",
+    "tags": [
+      "fartygsregister",
+      "transportstyrelsen",
+      "registrering",
+      "identifiering"
+    ],
+    "snippet": "# Fartygsregisterförordning (1975:927) **SFS:** 1975:927 | **Departement:** Justitiedepartementet L3 | **Ändrad:** t.o.m…",
+    "url": "/sources/fartygsregisterforordningen-1975-927"
+  },
+  {
+    "slug": "fartygssakerhetslagen-2003-364",
+    "title": "Fartygssäkerhetslag (2003:364)",
+    "type": "source",
+    "tags": [
+      "fartygssakerhet",
+      "tillsyn",
+      "certifikat",
+      "tullverket",
+      "kustbevakning",
+      "hamnstatskontroll"
+    ],
+    "snippet": "# Fartygssäkerhetslag (2003:364) **SFS:** 2003:364 | **Departement:** Landsbygds- och infrastrukturdepartementet RSIB TM…",
+    "url": "/sources/fartygssakerhetslagen-2003-364"
+  },
+  {
+    "slug": "fiskelagen-1993-787",
+    "title": "Fiskelag (1993:787)",
+    "type": "source",
+    "tags": [
+      "fiskeri",
+      "fiskebrott",
+      "rattsomrade-sjoterritorium"
+    ],
+    "snippet": "# Fiskelag (1993:787) **SFS:** 1993:787 | **Utfärdad:** 1993-06-10 | **Ändrad:** t.o.m. SFS 2025:766 **Källa:** https://…",
+    "url": "/sources/fiskelagen-1993-787"
   },
   {
     "slug": "fiskerikontroll-eg-1224-2009",
@@ -2020,6 +3188,58 @@
     "url": "/sources/forordningen-om-dual-use-2000-1217"
   },
   {
+    "slug": "forordningen-om-farledsavgift-1997-1121",
+    "title": "Förordning (1997:1121) om farledsavgift",
+    "type": "source",
+    "tags": [
+      "farledsavgift",
+      "sjofart",
+      "sjosakerhet",
+      "avgifter"
+    ],
+    "snippet": "## Sammanfattning Förordning (1997:1121) om farledsavgift reglerar den avgift fartyg ska betala för nyttjande av svenska…",
+    "url": "/sources/forordningen-om-farledsavgift-1997-1121"
+  },
+  {
+    "slug": "forordningen-om-fartygs-identifiering-1975-929",
+    "title": "Förordning (1975:929) med vissa bestämmelser om fartygs identifiering",
+    "type": "source",
+    "tags": [
+      "fartygsidentifiering",
+      "igenkänningssignal",
+      "märkning",
+      "fiskefartyg"
+    ],
+    "snippet": "# Förordning (1975:929) med vissa bestämmelser om fartygs identifiering **SFS:** 1975:929 | **Departement:** Justitiedep…",
+    "url": "/sources/forordningen-om-fartygs-identifiering-1975-929"
+  },
+  {
+    "slug": "forordningen-om-fisket-1994-1716",
+    "title": "Förordning (1994:1716) om fisket, vattenbruket och fiskerinäringen",
+    "type": "source",
+    "tags": [
+      "fiskeri",
+      "vattenbruk",
+      "eu-ratt",
+      "tornealsven"
+    ],
+    "snippet": "# Förordning (1994:1716) om fisket, vattenbruket och fiskerinäringen **SFS:** 1994:1716 | **Utfärdad:** 1994-12-20 | **Ä…",
+    "url": "/sources/forordningen-om-fisket-1994-1716"
+  },
+  {
+    "slug": "forordningen-om-gransalvsoverenskommelsen-2010-1098",
+    "title": "Förordning (2010:1098) om gränsälvsöverenskommelsen med Finland",
+    "type": "source",
+    "tags": [
+      "internationell-overenskommelse",
+      "tornealsven",
+      "finland",
+      "vattenmiljo"
+    ],
+    "snippet": "# Förordning (2010:1098) om gränsälvsöverenskommelsen med Finland **SFS:** 2010:1098 | **Utfärdad:** 2010-08-26 | **Ändr…",
+    "url": "/sources/forordningen-om-gransalvsoverenskommelsen-2010-1098"
+  },
+  {
     "slug": "forordningen-om-handel-med-salprodukter-2010-1491",
     "title": "Förordningen om handel med sälprodukter (2010:1491)",
     "type": "source",
@@ -2048,6 +3268,33 @@
     "url": "/sources/forordningen-om-import-och-exportreglering-1997-969"
   },
   {
+    "slug": "forordningen-om-internationella-vagtransporter-1998-786",
+    "title": "Förordning (1998:786) om internationella vägtransporter inom EES",
+    "type": "source",
+    "tags": [
+      "internationell-transport",
+      "vagtransport",
+      "kontroll",
+      "EES",
+      "cabotage"
+    ],
+    "snippet": "# Förordning (1998:786) om internationella vägtransporter inom EES Källa: SFS 1998:786. Hämtad 2026-04-12. Ändrad t.o.m.…",
+    "url": "/sources/forordningen-om-internationella-vagtransporter-1998-786"
+  },
+  {
+    "slug": "forordningen-om-internationellt-certifikat-fritidsfartyg-1978-205",
+    "title": "Förordning (1978:205) om internationellt certifikat för fritidsfartyg",
+    "type": "source",
+    "tags": [
+      "fritidsfartyg",
+      "certifikat",
+      "internationellt",
+      "unece"
+    ],
+    "snippet": "# Förordning (1978:205) om internationellt certifikat för fritidsfartyg **SFS:** 1978:205 | **Departement:** Landsbygds-…",
+    "url": "/sources/forordningen-om-internationellt-certifikat-fritidsfartyg-1978-205"
+  },
+  {
     "slug": "forordningen-om-krigsmateriel-1992-1303",
     "title": "Förordning (1992:1303) om krigsmateriel",
     "type": "source",
@@ -2061,6 +3308,19 @@
     ],
     "snippet": "# Förordning (1992:1303) om krigsmateriel ## Översikt Förordningen är tillämpningsförordning till [[lagen-om-krigsmateri…",
     "url": "/sources/forordningen-om-krigsmateriel-1992-1303"
+  },
+  {
+    "slug": "forordningen-om-provavgifter-2010-1578",
+    "title": "Förordning (2010:1578) om provavgifter för körkort och yrkesmässig trafik",
+    "type": "source",
+    "tags": [
+      "provavgifter",
+      "yrkestrafik",
+      "korkort",
+      "trafikverket"
+    ],
+    "snippet": "# Förordning (2010:1578) om provavgifter för körkort och yrkesmässig trafik Källa: SFS 2010:1578. Hämtad 2026-04-12. Änd…",
+    "url": "/sources/forordningen-om-provavgifter-2010-1578"
   },
   {
     "slug": "forordningen-om-proviantering-1999-454",
@@ -2089,6 +3349,45 @@
     ],
     "snippet": "# Förordning (1998:518) — Källsammanfattning ## Grundläggande information **Titel:** Förordning (1998:518) om punktskatt…",
     "url": "/sources/forordningen-om-punktskattekontroll-1998-518"
+  },
+  {
+    "slug": "forordningen-om-restriktioner-for-luftfart-2005-801",
+    "title": "Förordning (2005:801) om restriktioner för luftfart inom vissa områden",
+    "type": "source",
+    "tags": [
+      "luftfart",
+      "restriktionsomraden",
+      "forsvar",
+      "tullverket"
+    ],
+    "snippet": "# Förordning (2005:801) om restriktioner för luftfart inom vissa områden Källa: SFS 2005:801. Hämtad 2026-04-12. Ändrad …",
+    "url": "/sources/forordningen-om-restriktioner-for-luftfart-2005-801"
+  },
+  {
+    "slug": "forordningen-om-sjofart-inrikes-utlandskt-fartyg-1974-235",
+    "title": "Förordning (1974:235) om tillstånd till sjöfart i inrikes trafik med utländskt fartyg",
+    "type": "source",
+    "tags": [
+      "cabotage",
+      "inrikes-sjofart",
+      "utlandskt-fartyg",
+      "tullverket",
+      "tillstand"
+    ],
+    "snippet": "# Förordning (1974:235) om tillstånd till sjöfart i inrikes trafik med utländskt fartyg **SFS:** 1974:235 | **Departemen…",
+    "url": "/sources/forordningen-om-sjofart-inrikes-utlandskt-fartyg-1974-235"
+  },
+  {
+    "slug": "forordningen-om-sjofynd-1984-985",
+    "title": "Förordning (1984:985) om handläggningen av ärenden rörande sjöfynd",
+    "type": "source",
+    "tags": [
+      "sjofynd",
+      "tull",
+      "offortullat-gods"
+    ],
+    "snippet": "## Sammanfattning Förordning (1984:985) innehåller tillämpningsregler för handläggningen av sjöfynd enligt lagen (1918:1…",
+    "url": "/sources/forordningen-om-sjofynd-1984-985"
   },
   {
     "slug": "forordningen-om-skatt-pa-energi-2022-181",
@@ -2135,6 +3434,32 @@
     "url": "/sources/forordningen-om-skatt-pa-nikotinhaltiga-produkter-2018-704"
   },
   {
+    "slug": "forordningen-om-skeppsmatning-1994-1162",
+    "title": "Förordning (1994:1162) om skeppsmätning",
+    "type": "source",
+    "tags": [
+      "skeppsmatning",
+      "fartyg",
+      "draktighet",
+      "transportstyrelsen"
+    ],
+    "snippet": "## Sammanfattning Förordning (1994:1162) om skeppsmätning reglerar fastställandet av fartygs bruttodräktighet och nettod…",
+    "url": "/sources/forordningen-om-skeppsmatning-1994-1162"
+  },
+  {
+    "slug": "forordningen-om-skydd-mot-internationella-hot-2007-156",
+    "title": "Förordning (2007:156) om skydd mot internationella hot mot människors hälsa",
+    "type": "source",
+    "tags": [
+      "karantan",
+      "smittskydd",
+      "folkhalsa",
+      "hamnar"
+    ],
+    "snippet": "## Sammanfattning Förordning (2007:156) ger kompletterande föreskrifter till lagen (2006:1570) om skydd mot internatione…",
+    "url": "/sources/forordningen-om-skydd-mot-internationella-hot-2007-156"
+  },
+  {
     "slug": "forordningen-om-tobaksskatt-2022-182",
     "title": "Förordning (2022:182) om tobaksskatt",
     "type": "source",
@@ -2161,6 +3486,19 @@
     "url": "/sources/forordningen-om-transport-av-farligt-gods-2006-311"
   },
   {
+    "slug": "forordningen-om-tull-och-skattefrihet-gransanlaggning-1968-226",
+    "title": "Förordning (1968:226) om rätt att medge tull- och skattefrihet för gränsanläggning",
+    "type": "source",
+    "tags": [
+      "tullfrihet",
+      "skattefrihet",
+      "nordiskt-samarbete",
+      "gransanlaggning"
+    ],
+    "snippet": "## Sammanfattning Förordning (1968:226) är en mycket kortfattad bemyndigandeförordning. Den ger regeringen (ursprunglige…",
+    "url": "/sources/forordningen-om-tull-och-skattefrihet-gransanlaggning-1968-226"
+  },
+  {
     "slug": "forordningen-om-tullfrihet-1994-1605",
     "title": "Förordning (1994:1605) om tullfrihet m.m.",
     "type": "source",
@@ -2177,6 +3515,18 @@
     ],
     "snippet": "# Förordning (1994:1605) om tullfrihet m.m. ## Översikt Förordningen trädde i kraft 1995 i samband med Sveriges EU-inträ…",
     "url": "/sources/forordningen-om-tullfrihet-1994-1605"
+  },
+  {
+    "slug": "forordningen-om-viltvardsomraden-1980-896",
+    "title": "Förordning (1980:896) om viltvårdsområden",
+    "type": "source",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "viltvardsfonden"
+    ],
+    "snippet": "# Förordning (1980:896) om viltvårdsområden **SFS:** 1980:896 | **Utfärdad:** 1980-12-04 | **Ändrad:** t.o.m. SFS 2002:7…",
+    "url": "/sources/forordningen-om-viltvardsomraden-1980-896"
   },
   {
     "slug": "genomforande-antidumping-eu-1225-2011",
@@ -2307,6 +3657,31 @@
     "url": "/sources/iuu-genomforande-eg-1010-2009"
   },
   {
+    "slug": "jaktforordningen-1987-905",
+    "title": "Jaktförordning (1987:905)",
+    "type": "source",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "jakttider"
+    ],
+    "snippet": "# Jaktförordning (1987:905) **SFS:** 1987:905 | **Utfärdad:** 1987-09-24 | **Ändrad:** t.o.m. SFS 2026:79 **Källa:** htt…",
+    "url": "/sources/jaktforordningen-1987-905"
+  },
+  {
+    "slug": "jaktlagen-1987-259",
+    "title": "Jaktlag (1987:259)",
+    "type": "source",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "brott",
+      "kustbevakning"
+    ],
+    "snippet": "# Jaktlag (1987:259) **SFS:** 1987:259 | **Utfärdad:** 1987-05-14 | **Ändrad:** t.o.m. SFS 2024:810 **Källa:** https://w…",
+    "url": "/sources/jaktlagen-1987-259"
+  },
+  {
     "slug": "knivlagen-1988-254",
     "title": "Lag (1988:254) om förbud beträffande knivar och andra farliga föremål",
     "type": "source",
@@ -2349,6 +3724,71 @@
     "url": "/sources/kulturmiljolagen-1988-950"
   },
   {
+    "slug": "kungorelsen-om-matbrev-panamakanalen-1954-556",
+    "title": "Kungörelse (1954:556) angående mätbrev för fart genom Panamakanalen",
+    "type": "source",
+    "tags": [
+      "skeppsmatning",
+      "panamakanalen",
+      "matbrev",
+      "transportstyrelsen"
+    ],
+    "snippet": "## Sammanfattning Kungörelse (1954:556) reglerar utfärdande av det särskilda engelskspråkiga mätbrevet (Panama Canal Ton…",
+    "url": "/sources/kungorelsen-om-matbrev-panamakanalen-1954-556"
+  },
+  {
+    "slug": "kungorelsen-om-matbrev-suezkanalen-1954-555",
+    "title": "Kungörelse (1954:555) angående mätbrev för fart genom Suezkanalen",
+    "type": "source",
+    "tags": [
+      "skeppsmatning",
+      "suezkanalen",
+      "matbrev",
+      "transportstyrelsen"
+    ],
+    "snippet": "## Sammanfattning Kungörelse (1954:555) reglerar utfärdande av det särskilda engelskspråkiga mätbrevet (Suez Canal Speci…",
+    "url": "/sources/kungorelsen-om-matbrev-suezkanalen-1954-555"
+  },
+  {
+    "slug": "kungorelsen-om-nordisk-sanitarkontroll-1955-105",
+    "title": "Kungörelse (1955:105) om tillämpning av nordisk överenskommelse om sanitär kontroll",
+    "type": "source",
+    "tags": [
+      "karantan",
+      "nordiskt-samarbete",
+      "sanitarkontroll",
+      "smittskydd"
+    ],
+    "snippet": "## Sammanfattning Kungörelse (1955:105) ratificerar och genomför en trilateral överenskommelse från den 19 mars 1955 mel…",
+    "url": "/sources/kungorelsen-om-nordisk-sanitarkontroll-1955-105"
+  },
+  {
+    "slug": "kungorelsen-om-tull-och-skattefrihet-renstangsel-1972-116",
+    "title": "Kungörelse (1972:116) om tull- och skattefrihet vid renstängsel",
+    "type": "source",
+    "tags": [
+      "tullfrihet",
+      "renstangsel",
+      "nordiskt-samarbete",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Kungörelse (1972:116) genomför tull- och skattefrihetsreglerna i två svensk-norska protokoll om renstä…",
+    "url": "/sources/kungorelsen-om-tull-och-skattefrihet-renstangsel-1972-116"
+  },
+  {
+    "slug": "kungorelsen-om-uppbord-av-sarskilda-avgifter-1969-475",
+    "title": "Kungörelse (1969:475) om uppbörd av särskilda avgifter genom Tullverkets försorg",
+    "type": "source",
+    "tags": [
+      "tullverket",
+      "avgifter",
+      "uppbord",
+      "hamn"
+    ],
+    "snippet": "## Sammanfattning Kungörelse (1969:475) om uppbörd av särskilda avgifter genom Tullverkets försorg ger kommuner, allmänn…",
+    "url": "/sources/kungorelsen-om-uppbord-av-sarskilda-avgifter-1969-475"
+  },
+  {
     "slug": "kustbevakningslagen-2019-32",
     "title": "Kustbevakningslag (2019:32)",
     "type": "source",
@@ -2378,6 +3818,21 @@
     "url": "/sources/lagen-om-alkoholskatt-2022-156"
   },
   {
+    "slug": "lagen-om-atgarder-mot-fororening-fran-fartyg-1980-424",
+    "title": "Lag (1980:424) om åtgärder mot förorening från fartyg",
+    "type": "source",
+    "tags": [
+      "fororening",
+      "fartyg",
+      "marpol",
+      "kustbevakning",
+      "tullverket",
+      "miljo"
+    ],
+    "snippet": "# Lag (1980:424) om åtgärder mot förorening från fartyg **SFS:** 1980:424 | **Departement:** Landsbygds- och infrastrukt…",
+    "url": "/sources/lagen-om-atgarder-mot-fororening-fran-fartyg-1980-424"
+  },
+  {
     "slug": "lagen-om-atgarder-mot-penningtvatt-2017-630",
     "title": "Lag (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism",
     "type": "source",
@@ -2392,6 +3847,18 @@
     "url": "/sources/lagen-om-atgarder-mot-penningtvatt-2017-630"
   },
   {
+    "slug": "lagen-om-avgifter-i-allman-hamn-1981-655",
+    "title": "Lag (1981:655) om vissa avgifter i allmän hamn",
+    "type": "source",
+    "tags": [
+      "hamn",
+      "avgifter",
+      "sjofart"
+    ],
+    "snippet": "## Sammanfattning Lag (1981:655) om vissa avgifter i allmän hamn reglerar hamninnehavarens rätt att ta ut avgifter för f…",
+    "url": "/sources/lagen-om-avgifter-i-allman-hamn-1981-655"
+  },
+  {
     "slug": "lagen-om-brandfarliga-och-explosiva-varor-2010-1011",
     "title": "Lag (2010:1011) om brandfarliga och explosiva varor",
     "type": "source",
@@ -2403,6 +3870,31 @@
     ],
     "snippet": "# Lag (2010:1011) om brandfarliga och explosiva varor ## Översikt Reglerar hantering, överföring, import och export av b…",
     "url": "/sources/lagen-om-brandfarliga-och-explosiva-varor-2010-1011"
+  },
+  {
+    "slug": "lagen-om-ensamratt-till-bargning-1984-983",
+    "title": "Lag (1984:983) om ensamrätt till bärgning",
+    "type": "source",
+    "tags": [
+      "bargning",
+      "sjofynd",
+      "lansstyrelsen"
+    ],
+    "snippet": "## Sammanfattning Lag (1984:983) ger möjlighet att erhålla exklusivt tillstånd (ensamrätt) att bärga sjunket gods som äg…",
+    "url": "/sources/lagen-om-ensamratt-till-bargning-1984-983"
+  },
+  {
+    "slug": "lagen-om-eus-fiskeripolitik-1994-1709",
+    "title": "Lag (1994:1709) om EU:s förordningar om den gemensamma fiskeripolitiken",
+    "type": "source",
+    "tags": [
+      "fiskeri",
+      "eu-ratt",
+      "tillsyn",
+      "sanktioner"
+    ],
+    "snippet": "# Lag (1994:1709) om EU:s förordningar om den gemensamma fiskeripolitiken **SFS:** 1994:1709 | **Utfärdad:** 1994-12-20 …",
+    "url": "/sources/lagen-om-eus-fiskeripolitik-1994-1709"
   },
   {
     "slug": "lagen-om-forbud-mot-pals-av-katt-och-hund-2008-1049",
@@ -2448,6 +3940,20 @@
     "url": "/sources/lagen-om-forbud-mot-vissa-halsofarliga-varor-1999-42"
   },
   {
+    "slug": "lagen-om-forfarande-med-forverkad-egendom-1974-1066",
+    "title": "Lag (1974:1066) om förfarande med förverkad egendom och hittegods m.m.",
+    "type": "source",
+    "tags": [
+      "forverkande",
+      "hittegods",
+      "stoldgods",
+      "tullbefogenhetslagen",
+      "kustbevakning"
+    ],
+    "snippet": "## Sammanfattning Lag (1974:1066) reglerar det praktiska förfarandet med egendom som tillfallit staten genom förverkande…",
+    "url": "/sources/lagen-om-forfarande-med-forverkad-egendom-1974-1066"
+  },
+  {
     "slug": "lagen-om-frihet-fran-skatt-vid-import-1994-1551",
     "title": "Lag (1994:1551) om frihet från skatt vid import, m.m.",
     "type": "source",
@@ -2461,6 +3967,32 @@
     ],
     "snippet": "# Lag (1994:1551) om frihet från skatt vid import, m.m. ## Översikt Lagen reglerar frihet från och återbetalning av **an…",
     "url": "/sources/lagen-om-frihet-fran-skatt-vid-import-1994-1551"
+  },
+  {
+    "slug": "lagen-om-grans-mot-allmant-vattenomrade-1950-595",
+    "title": "Lag (1950:595) om gräns mot allmänt vattenområde",
+    "type": "source",
+    "tags": [
+      "vattenratt",
+      "fastighetsratt",
+      "sjoterritorium"
+    ],
+    "snippet": "# Lag (1950:595) om gräns mot allmänt vattenområde **SFS:** 1950:595 | **Utfärdad:** 1950-12-01 | **Ändrad:** t.o.m. SFS…",
+    "url": "/sources/lagen-om-grans-mot-allmant-vattenomrade-1950-595"
+  },
+  {
+    "slug": "lagen-om-gransalvsoverenskommelse-2010-897",
+    "title": "Lag (2010:897) om gränsälvsöverenskommelse mellan Sverige och Finland",
+    "type": "source",
+    "tags": [
+      "internationell-overenskommelse",
+      "tornealsven",
+      "finland",
+      "vattenmiljo",
+      "fiskeri"
+    ],
+    "snippet": "# Lag (2010:897) om gränsälvsöverenskommelse mellan Sverige och Finland **SFS:** 2010:897 | **Utfärdad:** 2010-07-01 | *…",
+    "url": "/sources/lagen-om-gransalvsoverenskommelse-2010-897"
   },
   {
     "slug": "lagen-om-handel-med-lakemedel-2009-366",
@@ -2489,6 +4021,18 @@
     ],
     "snippet": "## Källsammanfattning Denna lag från 2011 implementerar EU:s förordning (EG) nr 1007/2009 om handel med sälprodukter i s…",
     "url": "/sources/lagen-om-handel-med-salprodukter-2011-1070"
+  },
+  {
+    "slug": "lagen-om-hittegods-1938-121",
+    "title": "Lag (1938:121) om hittegods",
+    "type": "source",
+    "tags": [
+      "hittegods",
+      "polismyndigheten",
+      "upphittare"
+    ],
+    "snippet": "## Sammanfattning Lag (1938:121) reglerar skyldigheter och rättigheter vid upphittande av andras egendom. Upphittaren sk…",
+    "url": "/sources/lagen-om-hittegods-1938-121"
   },
   {
     "slug": "lagen-om-immunitet-och-privilegier-1976-661",
@@ -2549,6 +4093,20 @@
     "url": "/sources/lagen-om-krigsmateriel-1992-1300"
   },
   {
+    "slug": "lagen-om-luftfartsskydd-2004-1100",
+    "title": "Lag (2004:1100) om luftfartsskydd",
+    "type": "source",
+    "tags": [
+      "luftfart",
+      "sakerhet",
+      "luftfartsskydd",
+      "flygplats",
+      "sakerhetskontroll"
+    ],
+    "snippet": "# Lag (2004:1100) om luftfartsskydd Källa: SFS 2004:1100. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2024:531. ## Sammanfattni…",
+    "url": "/sources/lagen-om-luftfartsskydd-2004-1100"
+  },
+  {
     "slug": "lagen-om-proviantering-1999-446",
     "title": "Lag (1999:446) om proviantering av fartyg och luftfartyg",
     "type": "source",
@@ -2577,6 +4135,33 @@
     ],
     "snippet": "# Lag (1998:506) om punktskattekontroll av transporter m.m. ## Kalluppgifter - **SFS:** 1998:506 - **Departement:** Fina…",
     "url": "/sources/lagen-om-punktskattekontroll-1998-506"
+  },
+  {
+    "slug": "lagen-om-registrering-av-batar-1979-377",
+    "title": "Lag (1979:377) om registrering av båtar",
+    "type": "source",
+    "tags": [
+      "batregistrering",
+      "fartygsregister",
+      "kustbevakning",
+      "identifiering"
+    ],
+    "snippet": "# Lag (1979:377) om registrering av båtar **SFS:** 1979:377 | **Departement:** Justitiedepartementet L3 | **Ändrad:** t.…",
+    "url": "/sources/lagen-om-registrering-av-batar-1979-377"
+  },
+  {
+    "slug": "lagen-om-sjofynd-1918-163",
+    "title": "Lag (1918:163) med vissa bestämmelser om sjöfynd",
+    "type": "source",
+    "tags": [
+      "sjofynd",
+      "bargning",
+      "hittegods",
+      "kustbevakning",
+      "tull"
+    ],
+    "snippet": "## Sammanfattning Lag (1918:163) reglerar vad som händer med övergivna fartyg, fartygslämningar och gods som bärgas i sv…",
+    "url": "/sources/lagen-om-sjofynd-1918-163"
   },
   {
     "slug": "lagen-om-skatt-pa-energi-1994-1776",
@@ -2621,6 +4206,21 @@
     "url": "/sources/lagen-om-skatt-pa-nikotinhaltiga-produkter-2018-696"
   },
   {
+    "slug": "lagen-om-skydd-mot-internationella-hot-2006-1570",
+    "title": "Lag (2006:1570) om skydd mot internationella hot mot människors hälsa",
+    "type": "source",
+    "tags": [
+      "karantan",
+      "smittskydd",
+      "internationella-hot",
+      "folkhalsa",
+      "hamnar",
+      "luftfart"
+    ],
+    "snippet": "## Sammanfattning Lag (2006:1570) genomför WHO:s internationella hälsoreglemente (IHR 2005) i svensk rätt. Lagen syftar …",
+    "url": "/sources/lagen-om-skydd-mot-internationella-hot-2006-1570"
+  },
+  {
     "slug": "lagen-om-straff-for-penningtvattsbrott-2014-307",
     "title": "Lag (2014:307) om straff för penningtvättsbrott",
     "type": "source",
@@ -2632,6 +4232,32 @@
     ],
     "snippet": "# Lag (2014:307) om straff för penningtvättsbrott ## Översikt Lagen om straff för penningtvättsbrott (2014:307) innehåll…",
     "url": "/sources/lagen-om-straff-for-penningtvattsbrott-2014-307"
+  },
+  {
+    "slug": "lagen-om-sveriges-angransande-zon-2017-1273",
+    "title": "Lag (2017:1273) om Sveriges angränsande zon",
+    "type": "source",
+    "tags": [
+      "angransande-zon",
+      "sjoterritorium",
+      "tullkontroll",
+      "jurisdiktion"
+    ],
+    "snippet": "## Sammanfattning Lag (2017:1273) om Sveriges angränsande zon är en kort lag (2 paragrafer) som definierar och reglerar …",
+    "url": "/sources/lagen-om-sveriges-angransande-zon-2017-1273"
+  },
+  {
+    "slug": "lagen-om-sveriges-sjoterritorium-2017-1272",
+    "title": "Lag (2017:1272) om Sveriges sjöterritorium och maritima zoner",
+    "type": "source",
+    "tags": [
+      "sjoterritorium",
+      "territorialhav",
+      "maritima-zoner",
+      "jurisdiktion"
+    ],
+    "snippet": "## Sammanfattning Lag (2017:1272) om Sveriges sjöterritorium och maritima zoner fastslår de geografiska gränserna för Sv…",
+    "url": "/sources/lagen-om-sveriges-sjoterritorium-2017-1272"
   },
   {
     "slug": "lagen-om-tobak-och-liknande-produkter-2018-2088",
@@ -2679,6 +4305,32 @@
     "url": "/sources/lagen-om-tullfrihet-1994-1547"
   },
   {
+    "slug": "lagen-om-verkstallighet-havsrattskonvention-1996-519",
+    "title": "Lag (1996:519) om verkställighet av domar och beslut enligt havsrättskonventionen",
+    "type": "source",
+    "tags": [
+      "havsrattskonventionen",
+      "unclos",
+      "verkstallighet",
+      "frisläppande",
+      "internationell-ratt"
+    ],
+    "snippet": "# Lag (1996:519) om verkställighet av domar och beslut enligt havsrättskonventionen **SFS:** 1996:519 | **Departement:**…",
+    "url": "/sources/lagen-om-verkstallighet-havsrattskonvention-1996-519"
+  },
+  {
+    "slug": "lagen-om-viltvardsomraden-2000-592",
+    "title": "Lag (2000:592) om viltvårdsområden",
+    "type": "source",
+    "tags": [
+      "jakt",
+      "viltvard",
+      "fastighetsratt"
+    ],
+    "snippet": "# Lag (2000:592) om viltvårdsområden **SFS:** 2000:592 | **Utfärdad:** 2000-06-15 | **Ändrad:** t.o.m. SFS 2017:483 **Kä…",
+    "url": "/sources/lagen-om-viltvardsomraden-2000-592"
+  },
+  {
     "slug": "lagen-om-vissa-internationella-sanktioner-1996-95",
     "title": "Lag (1996:95) om vissa internationella sanktioner",
     "type": "source",
@@ -2694,6 +4346,19 @@
     "url": "/sources/lagen-om-vissa-internationella-sanktioner-1996-95"
   },
   {
+    "slug": "lagen-om-visst-stoldgods-1974-1065",
+    "title": "Lag (1974:1065) om visst stöldgods m.m.",
+    "type": "source",
+    "tags": [
+      "stoldgods",
+      "forvar",
+      "penningtvatt",
+      "forverkande"
+    ],
+    "snippet": "## Sammanfattning Lag (1974:1065) reglerar omhändertagande (förvar) av egendom som frånhänts någon genom brott, hittats …",
+    "url": "/sources/lagen-om-visst-stoldgods-1974-1065"
+  },
+  {
     "slug": "livsmedelslagen-2006-804",
     "title": "Livsmedelslag (2006:804)",
     "type": "source",
@@ -2706,6 +4371,33 @@
     ],
     "snippet": "# Livsmedelslag (2006:804) ## Översikt Livsmedelslagen (2006:804) syftar till att säkerställa en hög skyddsnivå för männ…",
     "url": "/sources/livsmedelslagen-2006-804"
+  },
+  {
+    "slug": "luftfartsforordningen-2010-770",
+    "title": "Luftfartsförordning (2010:770)",
+    "type": "source",
+    "tags": [
+      "luftfart",
+      "gransovervaking",
+      "tullkontroll",
+      "landningsskyldighet",
+      "tullverket"
+    ],
+    "snippet": "# Luftfartsförordning (2010:770) Källa: SFS 2010:770. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2025:1070. ## Sammanfattning …",
+    "url": "/sources/luftfartsforordningen-2010-770"
+  },
+  {
+    "slug": "luftfartslagen-2010-500",
+    "title": "Luftfartslag (2010:500)",
+    "type": "source",
+    "tags": [
+      "luftfart",
+      "flygsäkerhet",
+      "registrering",
+      "gransovervaking"
+    ],
+    "snippet": "# Luftfartslag (2010:500) Källa: SFS 2010:500. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2025:1061. ## Sammanfattning Ramlag …",
+    "url": "/sources/luftfartslagen-2010-500"
   },
   {
     "slug": "mervardesskatteforordningen-2023-328",
@@ -2750,6 +4442,50 @@
     "url": "/sources/miljobalken-1998-808"
   },
   {
+    "slug": "myndighet-kommerskollegium",
+    "title": "Kommerskollegium — Om myndigheten",
+    "type": "source",
+    "tags": [
+      "myndighet",
+      "kommerskollegium"
+    ],
+    "snippet": "## Sammanfattning Clippad officiell beskrivning av Kommerskollegiums uppdrag från kommerskollegium.se. Huvudkällor: - [O…",
+    "url": "/sources/myndighet-kommerskollegium"
+  },
+  {
+    "slug": "myndighet-skatteverket",
+    "title": "Skatteverket — Om myndigheten",
+    "type": "source",
+    "tags": [
+      "myndighet",
+      "skatteverket"
+    ],
+    "snippet": "## Sammanfattning Clippad officiell beskrivning av Skatteverkets uppdrag och organisation från skatteverket.se. Huvudkäl…",
+    "url": "/sources/myndighet-skatteverket"
+  },
+  {
+    "slug": "myndighet-statens-jordbruksverk",
+    "title": "Statens jordbruksverk — Om myndigheten",
+    "type": "source",
+    "tags": [
+      "myndighet",
+      "jordbruksverket"
+    ],
+    "snippet": "## Sammanfattning Clippad officiell beskrivning av Jordbruksverkets uppdrag från jordbruksverket.se. Huvudkällor: - [Om …",
+    "url": "/sources/myndighet-statens-jordbruksverk"
+  },
+  {
+    "slug": "myndighet-tullverket",
+    "title": "Tullverket — Om myndigheten",
+    "type": "source",
+    "tags": [
+      "myndighet",
+      "tullverket"
+    ],
+    "snippet": "## Sammanfattning Clippad officiell beskrivning av Tullverkets uppdrag, verksamhet och organisation från tullverket.se. …",
+    "url": "/sources/myndighet-tullverket"
+  },
+  {
     "slug": "narkotikastrafflagen-1968-64",
     "title": "Narkotikastrafflag (1968:64)",
     "type": "source",
@@ -2760,6 +4496,21 @@
     ],
     "snippet": "# Narkotikastrafflag (1968:64) ## Översikt Sveriges grundläggande strafflag för narkotikabrott. Reglerar all olovlig bef…",
     "url": "/sources/narkotikastrafflagen-1968-64"
+  },
+  {
+    "slug": "passlagen-1978-302",
+    "title": "Passlag (1978:302)",
+    "type": "source",
+    "tags": [
+      "pass",
+      "identitetskontroll",
+      "granspassage",
+      "tulltjansteman",
+      "passkontroll",
+      "biometri"
+    ],
+    "snippet": "# Passlag (1978:302) **Källa:** https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/passlag-1…",
+    "url": "/sources/passlagen-1978-302"
   },
   {
     "slug": "pgs-forordningen-eu-2021-821",
@@ -2793,6 +4544,31 @@
     "url": "/sources/rattegangsbalken-1942-740"
   },
   {
+    "slug": "rennaringsforordningen-1993-384",
+    "title": "Rennäringsförordning (1993:384)",
+    "type": "source",
+    "tags": [
+      "samisk-ratt",
+      "renskotsel",
+      "samefonden"
+    ],
+    "snippet": "# Rennäringsförordning (1993:384) **SFS:** 1993:384 | **Utfärdad:** 1993-05-19 | **Ändrad:** t.o.m. SFS 2021:1057 **Käll…",
+    "url": "/sources/rennaringsforordningen-1993-384"
+  },
+  {
+    "slug": "rennaringslagen-1971-437",
+    "title": "Rennäringslag (1971:437)",
+    "type": "source",
+    "tags": [
+      "samisk-ratt",
+      "renskotsel",
+      "jakt",
+      "fiske"
+    ],
+    "snippet": "# Rennäringslag (1971:437) **SFS:** 1971:437 | **Utfärdad:** 1971-06-18 | **Ändrad:** t.o.m. SFS 2018:364 **Källa:** htt…",
+    "url": "/sources/rennaringslagen-1971-437"
+  },
+  {
     "slug": "salprodukter-eg-1007-2009",
     "title": "Europaparlamentets och rådets förordning (EG) nr 1007/2009 — Handel med sälprodukter",
     "type": "source",
@@ -2819,6 +4595,34 @@
     ],
     "snippet": "## Metadata | Fält | Värde | |------|-------| | CELEX | 32015R1850 | | Förordningsnummer | EU 2015/1850 | | Antagen | 13…",
     "url": "/sources/salprodukter-genomforande-eu-2015-1850"
+  },
+  {
+    "slug": "sjolagen-1994-1009",
+    "title": "Sjölag (1994:1009)",
+    "type": "source",
+    "tags": [
+      "sjolag",
+      "fartyg",
+      "sjoratt",
+      "ansvarsbegransning",
+      "hamn"
+    ],
+    "snippet": "# Sjölag (1994:1009) **SFS:** 1994:1009 | **Departement:** Justitiedepartementet L3 | **Ändrad:** t.o.m. SFS 2025:985 Kä…",
+    "url": "/sources/sjolagen-1994-1009"
+  },
+  {
+    "slug": "sjotrafikforordningen-1986-300",
+    "title": "Sjötrafikförordning (1986:300)",
+    "type": "source",
+    "tags": [
+      "sjotrafik",
+      "sjovagsr egler",
+      "kustbevakning",
+      "tullverket",
+      "sjosakerhet"
+    ],
+    "snippet": "# Sjötrafikförordning (1986:300) **SFS:** 1986:300 | **Departement:** Landsbygds- och infrastrukturdepartementet RSIB TM…",
+    "url": "/sources/sjotrafikforordningen-1986-300"
   },
   {
     "slug": "skattebrottslagen-1971-69",
@@ -2874,6 +4678,20 @@
     ],
     "snippet": "# Terroristbrottslag (2022:666) ## Översikt Terroristbrottslagen (2022:666) innehåller bestämmelser om terrorism och ann…",
     "url": "/sources/terroristbrottslagen-2022-666"
+  },
+  {
+    "slug": "tilltradesforordningen-1992-118",
+    "title": "Tillträdesförordning (1992:118)",
+    "type": "source",
+    "tags": [
+      "tilltradesratt",
+      "statsfartg",
+      "militart-tilltraede",
+      "forsvarsmakten",
+      "kustbevakningen"
+    ],
+    "snippet": "## Sammanfattning Tillträdesförordning (1992:118) reglerar utländska statsfartygs, statsluftfartygs och militära fordons…",
+    "url": "/sources/tilltradesforordningen-1992-118"
   },
   {
     "slug": "tobaksskattelagen-2022-155",
@@ -3097,6 +4915,37 @@
     "url": "/sources/ucc-komplettering-eu-2015-2446"
   },
   {
+    "slug": "utlanningsforordningen-2006-97",
+    "title": "Utlänningsförordning (2006:97)",
+    "type": "source",
+    "tags": [
+      "utlanningar",
+      "granspassage",
+      "gransovergangsstallen",
+      "inresekontroll",
+      "tullverket",
+      "passkontrollant"
+    ],
+    "snippet": "# Utlänningsförordning (2006:97) **Källa:** https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamli…",
+    "url": "/sources/utlanningsforordningen-2006-97"
+  },
+  {
+    "slug": "utlanningslagen-2005-716",
+    "title": "Utlänningslag (2005:716)",
+    "type": "source",
+    "tags": [
+      "utlanningar",
+      "granspassage",
+      "inresevillkor",
+      "visering",
+      "uppehallstillstand",
+      "avvisning",
+      "utvisning"
+    ],
+    "snippet": "# Utlänningslag (2005:716) **Källa:** https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/utl…",
+    "url": "/sources/utlanningslagen-2005-716"
+  },
+  {
     "slug": "vagtransport-eg-1072-2009",
     "title": "Europaparlamentets och rådets förordning (EG) nr 1072/2009 — Vägtransportförordningen",
     "type": "source",
@@ -3124,6 +4973,32 @@
     "url": "/sources/vapenlagen-1996-67"
   },
   {
+    "slug": "yrkestrafikforordningen-2012-237",
+    "title": "Yrkestrafikförordning (2012:237)",
+    "type": "source",
+    "tags": [
+      "yrkestrafik",
+      "vagtransport",
+      "internationell-transport",
+      "kontroll"
+    ],
+    "snippet": "# Yrkestrafikförordning (2012:237) Källa: SFS 2012:237. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2025:80. ## Sammanfattning …",
+    "url": "/sources/yrkestrafikforordningen-2012-237"
+  },
+  {
+    "slug": "yrkestrafiklagen-2012-210",
+    "title": "Yrkestrafiklag (2012:210)",
+    "type": "source",
+    "tags": [
+      "yrkestrafik",
+      "vagtransport",
+      "internationell-transport",
+      "tillstand"
+    ],
+    "snippet": "# Yrkestrafiklag (2012:210) Källa: SFS 2012:210. Hämtad 2026-04-12. Ändrad t.o.m. SFS 2024:1093. ## Sammanfattning Yrkes…",
+    "url": "/sources/yrkestrafiklagen-2012-210"
+  },
+  {
     "slug": "alkohollagen-vs-alkoholskattelagen",
     "title": "Alkohollagen vs Alkoholskattelagen",
     "type": "comparison",
@@ -3149,8 +5024,23 @@
       "import",
       "export"
     ],
-    "snippet": "# Artskyddsförordningen vs Miljöbalken ## Sammanfattning [[Miljöbalken]] (1998:808) är den svenska miljörättens ramlag —…",
+    "snippet": "# Artskyddsförordningen vs Miljöbalken ## Sammanfattning [[miljobalken]] (1998:808) är den svenska miljörättens ramlag —…",
     "url": "/comparisons/artskyddsforordningen-vs-miljobalken"
+  },
+  {
+    "slug": "cites-forordningen-vs-artskyddsforordningen",
+    "title": "CITES-förordningen vs Artskyddsförordningen — EU-handel och svenskt artskydd",
+    "type": "comparison",
+    "tags": [
+      "cites",
+      "artskydd",
+      "eu-forordning",
+      "import",
+      "export",
+      "tullkontroll"
+    ],
+    "snippet": "# CITES-förordningen vs Artskyddsförordningen ## Sammanfattning [[cites-forordningen|CITES-förordningen]] (EG nr 338/97)…",
+    "url": "/comparisons/cites-forordningen-vs-artskyddsforordningen"
   },
   {
     "slug": "exportkontroll-krigsmateriel-vs-dual-use",
@@ -3239,6 +5129,21 @@
     "url": "/comparisons/penningtvatt-straff-vs-prevention"
   },
   {
+    "slug": "pgs-forordningen-vs-forordningen-om-dual-use",
+    "title": "PGS-forordningen vs Forordningen om dual-use — EU-kontroll och svenskt tillagg",
+    "type": "comparison",
+    "tags": [
+      "dual-use",
+      "exportkontroll",
+      "eu-forordning",
+      "pgs",
+      "ISP",
+      "sakerhet"
+    ],
+    "snippet": "# PGS-forordningen vs Forordningen om dual-use — EU-kontroll och svenskt tillagg ## Sammanfattning Exportkontroll av dua…",
+    "url": "/comparisons/pgs-forordningen-vs-forordningen-om-dual-use"
+  },
+  {
     "slug": "smuggling-vs-tullbrott",
     "title": "Smuggling vs tullbrott — straffrättslig vs administrativ sanktion",
     "type": "comparison",
@@ -3276,6 +5181,20 @@
     ],
     "snippet": "# Tullbrott vs skattebrott vid import ## Sammanfattning Vid import kan skatteundandragande ge upphov till två skilda bro…",
     "url": "/comparisons/tullbrott-vs-skattebrott"
+  },
+  {
+    "slug": "ucc-vs-tullagen",
+    "title": "UCC vs Tullagen — EU-ramverk och svensk komplettering",
+    "type": "comparison",
+    "tags": [
+      "eu-forordning",
+      "tullag",
+      "ucc",
+      "tullskuld",
+      "tullforfaranden"
+    ],
+    "snippet": "# UCC vs Tullagen — EU-ramverk och svensk komplettering ## Sammanfattning [[ucc|Unionens tullkodex (UCC)]] är EU:s grund…",
+    "url": "/comparisons/ucc-vs-tullagen"
   },
   {
     "slug": "vapen-knivar-explosiva",

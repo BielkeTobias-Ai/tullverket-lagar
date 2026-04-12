@@ -2,6 +2,7 @@
 title: Tullförordningen
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2016:287"
 short_name: Tullförordningen
 status: gallande

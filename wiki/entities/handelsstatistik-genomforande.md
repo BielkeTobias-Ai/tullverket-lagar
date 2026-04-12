@@ -2,6 +2,7 @@
 title: Handelsstatistik — delegerad förordning om tull- och skattedata
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32021R1704"
 short_name: Handelsstatistik tull- och skattedata
 status: gallande
@@ -25,6 +26,12 @@ connections:
   - type: hanvisar-till
     target: "[[tullforordningen]]"
     context: "Hänvisar till UCC artikel 179 (centraliserad klarering) för utvidgad uppgiftsskyldighet"
+  - type: overlappar
+    target: "[[foretagsstatistik-genomforande]]"
+    context: "Speglad fran [[foretagsstatistik-genomforande]] — Båda genomförandeakterna preciserar tillämpningen av företagsstatistikförordningen; denna förordning täcker bredare tekniska krav"
+  - type: overlappar
+    target: "[[handelsstatistik-komplettering]]"
+    context: "Speglad fran [[handelsstatistik-komplettering]] — Samtliga fyra statistikförordningar (2019/2152 + tre genomförandeakter) bildar ett sammanhängande paket"
 tags:
   - eu-forordning
   - statistik

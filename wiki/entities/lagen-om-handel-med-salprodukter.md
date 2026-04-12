@@ -2,6 +2,7 @@
 title: Lagen om handel med sälprodukter
 type: entity
 entity_type: lag
+source_type: lag
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2011:1070"
@@ -46,7 +47,7 @@ connections:
     target: "[[jaktlagen]]"
     context: "Kan också tillämpas på överträdelser relaterade till sälprodukter; ansvar utgår inte enligt denna lag om gärningen redan är belagd med straff enligt jaktlagen (8 §)"
   - type: kompletterar
-    target: "[[eu-forordning-1007-2009-salprodukter]]"
+    target: "[[salproduktforordningen]]"
     context: "Denna lag implementerar och kompletterar EU-förordningen i svensk rätt"
   - type: relevantfor
     target: "[[artskydd-och-miljo]]"
@@ -125,5 +126,5 @@ Polismyndigheten är skyldig att lämna Jordbruksverket den hjälp som behövs v
 |---|---|---|
 | hanvisar-till | [[smugglingslagen]] | Import av sälprodukter i strid mot förordningen straffas enligt smugglingslagen |
 | hanvisar-till | [[jaktlagen]] | Kan också tillämpas; ansvar enligt denna lag utgår inte om jaktlag redan täcker gärningen |
-| kompletterar | [[eu-forordning-1007-2009-salprodukter]] | Implementerar EU-förordningen i svensk rätt |
+| kompletterar | [[salproduktforordningen]] | Implementerar EU-förordningen i svensk rätt |
 | relevantfor | [[artskydd-och-miljo]] | Förbudet motiveras av djurskydds- och miljöskäl |

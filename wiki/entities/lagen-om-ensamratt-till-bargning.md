@@ -2,6 +2,7 @@
 title: "Lag (1984:983) om ensamrätt till bärgning"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1984:983"
 short_name: Ensamrättslagen (bärgning)
 status: gallande
@@ -25,6 +26,7 @@ tags:
   - lansstyrelse
 sources:
   - "[[lagen-om-ensamratt-till-bargning-1984-983]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

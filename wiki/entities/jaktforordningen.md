@@ -2,6 +2,7 @@
 title: "Jaktförordning"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1987:905"
 short_name: Jaktförordningen
 status: gallande

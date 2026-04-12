@@ -2,6 +2,7 @@
 title: Tullbefogenhetsförordningen
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2024:759"
 short_name: Tullbefogenhetsförordningen
 status: gällande

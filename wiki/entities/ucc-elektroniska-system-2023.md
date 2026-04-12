@@ -2,6 +2,7 @@
 title: "Kommissionens genomförandebeslut (EU) 2023/2879 — Elektroniska system för UCC"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 created: 2026-04-11
 updated: 2026-04-11
 celex: "32023D2879"

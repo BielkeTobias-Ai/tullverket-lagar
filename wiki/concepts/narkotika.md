@@ -113,7 +113,7 @@ Sedan 2023 kriminaliserar [[narkotikastrafflagen]] 3b § olovlig befattning med 
 > Vid gränskontroll hittas narkotika i fordon. Tulltjänstemannen använder [[tullbefogenhetslagen]] för att stoppa och visitera. Brottet rubriceras under [[smugglingslagen]] 6 § (narkotikasmuggling). Innehavet kan ge ansvar under [[narkotikastrafflagen]].
 
 > [!situation] Kroppsvisitation och kroppsbesiktning
-> [[Tullbefogenhetslagen]] ger tulltjänstemän rätt till kroppsvisitation (6 kap.) vid misstanke. Kroppsbesiktning (t.ex. vid misstanke om kroppsgömma) kräver beslut av undersökningsledare eller åklagare.
+> [[tullbefogenhetslagen]] ger tulltjänstemän rätt till kroppsvisitation (6 kap.) vid misstanke. Kroppsbesiktning (t.ex. vid misstanke om kroppsgömma) kräver beslut av undersökningsledare eller åklagare.
 
 > [!situation] Anabola steroider i bagage
 > Vid fynd av anabola steroider: [[lagen-om-forbud-mot-vissa-dopningsmedel]] för innehavsbrottet, [[smugglingslagen]] 3 § för införseln. Vanligt att steroider beställs via internet och skickas internationellt.

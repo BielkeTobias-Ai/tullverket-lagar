@@ -2,6 +2,7 @@
 title: Livsmedelslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2006:804"
 short_name: Livsmedelslagen
 status: gallande
@@ -36,6 +37,9 @@ connections:
   - type: kompletterar
     target: "[[tullagen]]"
     context: "Livsmedel pa tullager och i frizoner kan forbjudas aterutforas; offentlig kontroll vid gransknontrollstationer regleras parallellt"
+  - type: overlappar
+    target: "[[tullagen]]"
+    context: "Speglad fran [[tullagen]] — Livsmedel på tullager och i frizoner regleras parallellt; livsmedelslagen kan förbjuda återutförsel vid gränskontrollstation och tullager"
 tags:
   - livsmedel
   - import

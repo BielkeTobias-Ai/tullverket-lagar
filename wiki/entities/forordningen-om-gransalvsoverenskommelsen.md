@@ -2,6 +2,7 @@
 title: "Förordning om gränsälvsöverenskommelsen med Finland"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2010:1098"
 short_name: Gränsälvsöverenskommelseförordningen
 status: gallande

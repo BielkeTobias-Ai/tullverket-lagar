@@ -2,6 +2,7 @@
 title: "Lag om gränsälvsöverenskommelse mellan Sverige och Finland"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2010:897"
 short_name: Gränsälvsöverenskommelselagen
 status: gallande
@@ -35,6 +36,7 @@ tags:
   - tier3
 sources:
   - "[[lagen-om-gransalvsoverenskommelse-2010-897]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

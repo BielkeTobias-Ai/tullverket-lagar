@@ -23,7 +23,7 @@ Förverkande innebär att egendom som varit föremål för brott, eller använts
 
 ### Smugglingslagen (§16-19)
 
-[[Smugglingslagen]] har särskilda förverkanderegler:
+[[smugglingslagen]] har särskilda förverkanderegler:
 
 - **§16** — Varor som varit föremål för brott får förverkas, även från ägaren
 - **§17** — Hjälpmedel (t.ex. transportmedel) får förverkas, eller alternativa åtgärder
@@ -32,17 +32,17 @@ Förverkande innebär att egendom som varit föremål för brott, eller använts
 
 ### Tullbefogenhetslagen
 
-[[Tullbefogenhetslagen]] reglerar **beslagsförfarandet** som föregår förverkande:
+[[tullbefogenhetslagen]] reglerar **beslagsförfarandet** som föregår förverkande:
 - **8 kap. 10 §** — Tulltjänsteman har samma beslagsrätt som polisman
 - **8 kap. 12 §** — Omedelbar försäljning/förstörelse av beslagtagen egendom
 
 ### Administrativt förverkande
 
-[[Tullbefogenhetslagen]] 4 kap. 13 § medger **administrativt förverkande** vid den inre gränsen — utan domstolsbeslut — om beslut om att inte lämna ut en vara fått laga kraft.
+[[tullbefogenhetslagen]] 4 kap. 13 § medger **administrativt förverkande** vid den inre gränsen — utan domstolsbeslut — om beslut om att inte lämna ut en vara fått laga kraft.
 
 ### Alkohollagen
 
-[[Alkohollagen]] 12 kap. 5 § — alkoholdrycker i tillfällig lagring som inte hämtas ut inom 30 dagar ska anses förverkade.
+[[alkohollagen]] 12 kap. 5 § — alkoholdrycker i tillfällig lagring som inte hämtas ut inom 30 dagar ska anses förverkade.
 
 ## Specialregler per varutyp
 

@@ -2,6 +2,7 @@
 title: "Genomförandeförordning (EU) nr 1225/2011 — Tullbefrielse för undervisnings- och vetenskapsmateriel (art. 42–52, 57–58)"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32011R1225"
 short_name: Genomförandeförordning vetenskapsmateriel
 status: gallande

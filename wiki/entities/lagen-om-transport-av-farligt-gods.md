@@ -2,6 +2,7 @@
 title: Lagen om transport av farligt gods
 type: entity
 entity_type: lag
+source_type: lag
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2006:263"
@@ -49,6 +50,9 @@ connections:
   - type: kompletterar
     target: "[[tullbefogenhetslagen]]"
     context: "Tullverkets befogenheter vid granskontroll av farligt gods stods av tullbefogenhetslagen."
+  - type: overlappar
+    target: "[[vagtransportforordningen]]"
+    context: "Speglad fran [[vagtransportforordningen]] — Vid transport av farligt gods i kombination med cabotage/internationell transport gäller båda regelverken"
 ---
 
 # Lagen om transport av farligt gods (2006:263)

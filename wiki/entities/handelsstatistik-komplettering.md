@@ -2,6 +2,7 @@
 title: Handelsstatistik — landnomenklatur
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32020R1470"
 short_name: Handelsstatistik landnomenklatur
 status: gallande

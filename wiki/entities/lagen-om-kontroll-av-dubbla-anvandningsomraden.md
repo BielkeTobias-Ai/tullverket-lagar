@@ -2,6 +2,7 @@
 title: Lagen om kontroll av produkter med dubbla användningsområden
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2000:1064"
 short_name: Dual-use-lagen
 status: gallande
@@ -46,6 +47,9 @@ connections:
   - type: hanvisar-till
     target: "[[smugglingslagen]]"
     context: "Olovlig export utgör även smuggling; 23 § möjliggör förverkande parallellt med smugglingslagens regler"
+  - type: overlappar
+    target: "[[smugglingslagen]]"
+    context: "Speglad fran [[smugglingslagen]] — Olovlig export av dual-use-produkter kan utgöra smuggling; förverkande enligt 23 § dual-use-lagen parallellt med smugglingslagens regler"
 tags:
   - exportkontroll
   - dual-use

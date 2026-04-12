@@ -2,6 +2,7 @@
 title: "Lag (1981:655) om vissa avgifter i allmän hamn"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1981:655"
 short_name: Hamnavgiftslagen
 status: gallande
@@ -27,6 +28,7 @@ tags:
   - sjofart
 sources:
   - "[[lagen-om-avgifter-i-allman-hamn-1981-655]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

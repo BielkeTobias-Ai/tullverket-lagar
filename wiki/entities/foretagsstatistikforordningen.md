@@ -2,6 +2,7 @@
 title: Företagsstatistikförordningen
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32019R2152"
 short_name: Företagsstatistikförordningen
 status: gallande

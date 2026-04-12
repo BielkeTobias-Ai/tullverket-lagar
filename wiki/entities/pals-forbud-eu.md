@@ -2,6 +2,7 @@
 title: EU-förbud mot päls av katt och hund (EG) 1523/2007
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32007R1523"
 short_name: Päls-förbudet katt/hund
 status: gallande

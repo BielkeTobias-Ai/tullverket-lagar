@@ -64,7 +64,7 @@ Vapenreglering ger tulltjansteman sarskilt starka operativa befogenheter:
 | Postpaket-sparr vid explosiva varor | [[tullbefogenhetslagen]] | 7 kap. 8 § |
 
 > [!gap] Postspärr saknas for knivar och farliga foremal
-> [[Tullbefogenhetslagen]] 7 kap. 8 § ger postparr vid misstanke om skjutvapen och explosiva varor, men INTE for knivar eller foremal enligt [[forordning-om-tillstand-for-farliga-foremal]]. Se [[springknivar-kaststjarnor-postpaket]].
+> [[tullbefogenhetslagen]] 7 kap. 8 § ger postparr vid misstanke om skjutvapen och explosiva varor, men INTE for knivar eller foremal enligt [[forordning-om-tillstand-for-farliga-foremal]]. Se [[springknivar-kaststjarnor-postpaket]].
 
 ## Lagsamverkan vid gransen
 
@@ -72,7 +72,7 @@ Nar ett vapen eller vapenliknande foremal hittas vid gransen aktualiseras ofta f
 
 ### Smugglingslagen som straff-lag
 
-[[Smugglingslagen]] innehaller separata brottsrubriker med hoga straffskalor for vapen och explosiva varor:
+[[smugglingslagen]] innehaller separata brottsrubriker med hoga straffskalor for vapen och explosiva varor:
 
 | Brottstyp | Paragraf | Straffskala |
 |-----------|----------|-------------|
@@ -86,9 +86,9 @@ Nar ett vapen eller vapenliknande foremal hittas vid gransen aktualiseras ofta f
 
 ### Subsidiaritetsregler
 
-- [[Vapenlagen]] 9 kap. 4 §: olovlig inforsel av vapen regleras av [[smugglingslagen]]
-- [[Lagen-om-brandfarliga-och-explosiva-varor]] §30: ansvar utgar om garningen straffas i smugglingslagen
-- [[Forordning-om-tillstand-for-farliga-foremal]] 5 §: pafolj vid olovlig inforsel regleras av smugglingslagen
+- [[vapenlagen]] 9 kap. 4 §: olovlig inforsel av vapen regleras av [[smugglingslagen]]
+- [[lagen-om-brandfarliga-och-explosiva-varor]] §30: ansvar utgar om garningen straffas i smugglingslagen
+- [[forordning-om-tillstand-for-farliga-foremal]] 5 §: pafolj vid olovlig inforsel regleras av smugglingslagen
 
 Samtliga tre speciallagar hanvisar alltsa till [[smugglingslagen]] for straffansvaret vid olovlig inforsel.
 
@@ -96,8 +96,8 @@ Samtliga tre speciallagar hanvisar alltsa till [[smugglingslagen]] for straffans
 
 - **Tillstandsplikt:** Inforsel av skjutvapen, ammunition, ljuddampare, vapenmagasin, explosiva varor och farliga foremal kraver tillstand. Utan tillstand = smuggling.
 - **Stegvis allvar:** Straffskalan speglar samhallsfarligheten — knogjarn (boter–2 ar), skjutvapen (fangelse hogst 5 ar), synnerligen grovt (6–10 ar).
-- **Vapenlagen ar lex specialis:** [[Vapenlagen]] gar fore [[knivlagen]] for foremal vapenlagen ar tillamplig pa (knivlagen §3).
-- **Tvapelarsystem:** [[Smugglingslagen]] straffar, [[tullbefogenhetslagen]] ger befogenheter. Vapenlagens egna befogenheter (omhandertagande, beslag) ger tulltjansteman ytterligare verktyg.
+- **Vapenlagen ar lex specialis:** [[vapenlagen]] gar fore [[knivlagen]] for foremal vapenlagen ar tillamplig pa (knivlagen §3).
+- **Tvapelarsystem:** [[smugglingslagen]] straffar, [[tullbefogenhetslagen]] ger befogenheter. Vapenlagens egna befogenheter (omhandertagande, beslag) ger tulltjansteman ytterligare verktyg.
 - **Registerkontroll i realtid:** Vapenlagen 1a kap. 14 § ger Tullverket direktatkomst till vapenregistret — central for att avgora om tillstand finns.
 
 ## Praktisk tillamning
@@ -109,7 +109,7 @@ Samtliga tre speciallagar hanvisar alltsa till [[smugglingslagen]] for straffans
 > Tullverket hittar springknivar eller knogjarn. Inforsel forbjuden utan tillstand ([[forordning-om-tillstand-for-farliga-foremal]] 1 §). Straffansvar under [[smugglingslagen]] §3 (boter–2 ar). Vapenlagstiftningens omhandertaganderegler tillampas (forordningen 4 §). OBS: postparr (tullbefogenhetslagen 7:8) galler INTE dessa foremal. Se [[springknivar-kaststjarnor-postpaket]].
 
 > [!situation] Explosiva varor vid granskontroll
-> Inforsel rubriceras under [[smugglingslagen]] §6b (boter–5 ar; grovt 4–7 ar). [[Lagen-om-brandfarliga-och-explosiva-varor]] §29-29a utgar pa grund av subsidiaritetsregeln (§30), men kan aktualiseras for efterfoljande olovlig hantering inom Sverige.
+> Inforsel rubriceras under [[smugglingslagen]] §6b (boter–5 ar; grovt 4–7 ar). [[lagen-om-brandfarliga-och-explosiva-varor]] §29-29a utgar pa grund av subsidiaritetsregeln (§30), men kan aktualiseras for efterfoljande olovlig hantering inom Sverige.
 
 > [!situation] Nordisk jagare i transit
 > Tillatet utan tillstand under [[vapenlagen]] 2 kap. 13 § b. Tulltjanstemamen kontrollerar att permanenttillstand finns i hemlandet. Om tillstand saknas → [[smugglingslagen]] §6a.

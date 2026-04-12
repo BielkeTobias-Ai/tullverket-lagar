@@ -2,6 +2,7 @@
 title: UCC Övergångsförordningen (EU 2016/341)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32016R0341"
 short_name: UCC Övergångsförordningen
 status: gallande

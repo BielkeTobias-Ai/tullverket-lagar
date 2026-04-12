@@ -2,6 +2,7 @@
 title: "Förordning (1984:985) om handläggningen av ärenden rörande sjöfynd"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1984:985"
 short_name: Sjöfyndsförordningen
 status: gallande

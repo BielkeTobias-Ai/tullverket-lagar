@@ -2,6 +2,7 @@
 title: "Lag (2017:1273) om Sveriges angränsande zon"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2017:1273"
 short_name: Angränsande zon
 status: gallande
@@ -40,6 +41,7 @@ tags:
   - smuggling
 sources:
   - "[[lagen-om-sveriges-angransande-zon-2017-1273]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

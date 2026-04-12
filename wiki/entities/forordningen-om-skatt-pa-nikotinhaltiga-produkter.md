@@ -2,6 +2,7 @@
 title: Förordningen om skatt på vissa nikotinhaltiga produkter
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2018:704"
@@ -23,7 +24,7 @@ befogenheter:
 tillampningsomrade: >
   Verkställighetsförordning som reglerar tillämpningen av lagen om skatt på
   vissa nikotinhaltiga produkter. Förordningen anger procedurer, anmälningskrav,
-  godkännanderegler och [[Skatteverkets]] bemyndigande att meddela ytterligare
+  godkännanderegler och [[skatteverket|Skatteverkets]] bemyndigande att meddela ytterligare
   föreskrifter.
 straffskala: []
 situationer:
@@ -39,20 +40,20 @@ connections:
 
 ## Sammanfattning
 
-Förordning (2018:704) om skatt på vissa nikotinhaltiga produkter är verkställighetsförordningen till [[lagen-om-skatt-pa-nikotinhaltiga-produkter]]. Den utfärdades av Finansdepartementet den 31 maj 2018 och anger procedurerna för hur lagerhållare och säljare av nikotinhaltig produkter ska interagera med [[Skatteverket]]. Förordningen innehåller inte materiella skatteregler utan fokuserar på administrativa förfaranden, godkännandekrav och anmälningsplikt.
+Förordning (2018:704) om skatt på vissa nikotinhaltiga produkter är verkställighetsförordningen till [[lagen-om-skatt-pa-nikotinhaltiga-produkter]]. Den utfärdades av Finansdepartementet den 31 maj 2018 och anger procedurerna för hur lagerhållare och säljare av nikotinhaltig produkter ska interagera med [[skatteverket]]. Förordningen innehåller inte materiella skatteregler utan fokuserar på administrativa förfaranden, godkännandekrav och anmälningsplikt.
 
 ## Befogenheter
 
-Förordningen delegerar följande befogenheter till [[Skatteverket]]:
+Förordningen delegerar följande befogenheter till [[skatteverket]]:
 
-1. **Meddelande av föreskrifter** — [[Skatteverket]] får meddela föreskrifter om:
+1. **Meddelande av föreskrifter** — [[skatteverket]] får meddela föreskrifter om:
    - Lagerhållare som bedriver verksamhet i exportbutiker enligt [[lagen-om-exportbutiker]]
    - Tillsyn över destruktion av skattepliktiga varor
    - Övriga föreskrifter som behövs för verkställigheten av nikotinskattelagen
 
-2. **Godkännande av lagerhållare** — [[Skatteverket]] prövar och godkänner lagerhållare efter särskild ansökan
+2. **Godkännande av lagerhållare** — [[skatteverket]] prövar och godkänner lagerhållare efter särskild ansökan
 
-3. **Mottagande av anmälningar** — [[Skatteverket]] tar emot anmälningar från distansförsäljare och från lagerhållare vid ändringar
+3. **Mottagande av anmälningar** — [[skatteverket]] tar emot anmälningar från distansförsäljare och från lagerhållare vid ändringar
 
 ## Straffbestämmelser
 
@@ -64,7 +65,7 @@ Förordningen innehåller inga egna straffbestämmelser. Sanktioner för brott m
 |--------------|-----|---------|
 | kompletterar | [[lagen-om-skatt-pa-nikotinhaltiga-produkter]] | Verkställighetsförordning; anger procedurer och administrativ tillämpning |
 | refererar | [[lagen-om-exportbutiker]] | Nämnd i 3 § angående lagerhållare i exportbutiker |
-| refererar | [[Skatteverket]] | Huvudmyndighet för godkännande, anmälningar och föreskrifter |
+| refererar | [[skatteverket]] | Huvudmyndighet för godkännande, anmälningar och föreskrifter |
 
 ## Nyckelbestämmelser
 
@@ -75,7 +76,7 @@ Förordningen tillämpas vid genomförandet av [[lagen-om-skatt-pa-nikotinhaltig
 Termer och uttryck har samma betydelse som i moderlagen [[lagen-om-skatt-pa-nikotinhaltiga-produkter]].
 
 ### 3 § — Föreskrifter
-[[Skatteverket]] får meddela föreskrifter om:
+[[skatteverket]] får meddela föreskrifter om:
 - Lagerhållare i exportbutiker
 - Tillsyn över varuförstöring
 - Övriga föreskrifter för lagverkställigheten
@@ -83,8 +84,8 @@ Termer och uttryck har samma betydelse som i moderlagen [[lagen-om-skatt-pa-niko
 (Ändrad 2020 — Förordning 2020:1020)
 
 ### 4-5 § — Godkännande och anmälningar
-- Lagerhållare godkänns av [[Skatteverket]] efter särskild ansökan
-- Distansförsäljare till Sverige ska anmäla detta till [[Skatteverket]]
+- Lagerhållare godkänns av [[skatteverket]] efter särskild ansökan
+- Distansförsäljare till Sverige ska anmäla detta till [[skatteverket]]
 
 ### 6 § — Ändringsanmälningar
 Lagerhållare måste anmäla:
@@ -93,19 +94,19 @@ Lagerhållare måste anmäla:
 3. Övriga ändringar av uppgifter lämnande vid ansökan eller senare anmälda
 
 ### 7 § — Former för ansökan
-Ansökningar och anmälningar ska göras skriftligt på blankett enligt formulär fastställt av [[Skatteverket]].
+Ansökningar och anmälningar ska göras skriftligt på blankett enligt formulär fastställt av [[skatteverket]].
 
 ## Praktisk tillämpning
 
 Förordningen är en procedurförordning som reglerar administrativa förfaranden:
 
-1. **Lagerhållargodkännande** — Företag som vill hålla nikotinhaltig produkter måste ansöka om godkännande från [[Skatteverket]] innan verksamheten börjar
+1. **Lagerhållargodkännande** — Företag som vill hålla nikotinhaltig produkter måste ansöka om godkännande från [[skatteverket]] innan verksamheten börjar
 
-2. **Distansförsäljning** — Säljare av nikotinhaltig produkt via distans (främst e-handel) måste anmäla sig till [[Skatteverket]] enligt 6 § i moderlagen
+2. **Distansförsäljning** — Säljare av nikotinhaltig produkt via distans (främst e-handel) måste anmäla sig till [[skatteverket]] enligt 6 § i moderlagen
 
-3. **Ändringsövervakning** — [[Skatteverket]] måste hållas uppdaterad om organisatoriska förändringar (ägarbyte, styrelseförändringar etc.)
+3. **Ändringsövervakning** — [[skatteverket]] måste hållas uppdaterad om organisatoriska förändringar (ägarbyte, styrelseförändringar etc.)
 
-4. **Blankettkrav** — All kommunikation med [[Skatteverket]] måste ske på myndighetens officiella blanketter
+4. **Blankettkrav** — All kommunikation med [[skatteverket]] måste ske på myndighetens officiella blanketter
 
 5. **Exportbutiker** — Särskilda regler gäller för lagerhållare som är exportbutiker enligt [[lagen-om-exportbutiker]]
 

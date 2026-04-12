@@ -2,6 +2,7 @@
 title: Kustbevakningslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2019:32"
 short_name: Kustbevakningslagen
 status: gallande
@@ -45,6 +46,12 @@ connections:
   - type: kompletterar
     target: "[[brottsdatalagen]]"
     context: "Kustbevakningen är behörig myndighet; brottsdatalagen reglerar personuppgiftsbehandling i kustbevakningens brottsbekämpning"
+  - type: overlappar
+    target: "[[utlanningsforordningen]]"
+    context: "Speglad fran [[utlanningsforordningen]] — Kustbevakningen har parallell roll vid fartygsrörelser (6 kap. 1 § och 4 §)"
+  - type: overlappar
+    target: "[[brottsdatalagen]]"
+    context: "Speglad fran [[brottsdatalagen]] — Kustbevakningen är behörig myndighet under brottsdatalagen; personuppgiftsbehandling i kustbevakningens brottsbekämpning regleras av båda lagarna"
 tags:
   - kustbevakning
   - brottsbekampning

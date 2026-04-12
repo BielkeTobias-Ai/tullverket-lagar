@@ -2,6 +2,7 @@
 title: Lagen om åtgärder mot penningtvätt och finansiering av terrorism
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2017:630"
 short_name: Penningtvättslagen
 status: gallande

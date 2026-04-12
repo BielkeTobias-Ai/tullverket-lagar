@@ -52,7 +52,7 @@ Relationen ar hierarkisk: EU-forordningen satter golvet, den svenska forordninge
 
 ## Vad PGS-forordningen reglerar
 
-[[Pgs-forordningen]] ar EU:s exportkontrollramverk och satter den gemensamma standarden for alla medlemsstater.
+[[pgs-forordningen]] ar EU:s exportkontrollramverk och satter den gemensamma standarden for alla medlemsstater.
 
 ### Bilaga I — kontrollistan
 
@@ -92,7 +92,7 @@ Art. 28 uppmanar exportorer att infora ICP for att sakerstalla regelefterlevnad.
 
 ## Vad den svenska forordningen lagger till
 
-[[Forordningen-om-dual-use]] (SFS 2000:1217) ar mer an bara en procedurforordning — den utvidgar exportkontrollen pa flera avgörande punkter.
+[[forordningen-om-dual-use]] (SFS 2000:1217) ar mer an bara en procedurforordning — den utvidgar exportkontrollen pa flera avgörande punkter.
 
 ### Nationell kontrollforteckning (4 g §, bilagan)
 

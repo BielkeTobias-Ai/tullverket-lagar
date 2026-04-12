@@ -2,6 +2,7 @@
 title: "Förordning (EU) 2016/1037 — Antisubventionsförordningen"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32016R1037"
 short_name: Antisubventionsförordningen
 status: gallande
@@ -34,6 +35,9 @@ connections:
   - type: kompletterar
     target: "[[tullagen]]"
     context: "Tullverket verkställer utjämningstullar i Sverige"
+  - type: overlappar
+    target: "[[tullagen]]"
+    context: "Speglad fran [[tullagen]] — Speglad fran [[antisubventionsforordningen]] — Tullverket verkställer utjämningstullar i Sverige"
 tags:
   - eu-forordning
   - antisubvention

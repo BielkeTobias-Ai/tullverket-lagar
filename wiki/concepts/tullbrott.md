@@ -40,7 +40,7 @@ Till skillnad från [[smuggling]] (som handlar om förbudsvaror) handlar tullbro
 
 ## Relation till tullförseelse
 
-[[Tullagen]] 5 kap. har en lättare sanktionsform — **tullförseelse** (böter) och **tulltillägg** (administrativ avgift 10-20 %). Subsidiaritetsregeln (5 kap. 3 §) innebär att tullförseelse utgår om gärningen straffas enligt smugglingslagen.
+[[tullagen]] 5 kap. har en lättare sanktionsform — **tullförseelse** (böter) och **tulltillägg** (administrativ avgift 10-20 %). Subsidiaritetsregeln (5 kap. 3 §) innebär att tullförseelse utgår om gärningen straffas enligt smugglingslagen.
 
 I praktiken: lindrigare fall → tulltillägg/tullförseelse via [[tullagen]]. Grövre fall → tullbrott via [[smugglingslagen]].
 

@@ -2,6 +2,7 @@
 title: "Lag (1938:121) om hittegods"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1938:121"
 short_name: Hittegodsllagen
 status: gallande
@@ -25,6 +26,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-sjofynd]]"
     context: "Lagen hänvisar till sjöfyndslagen för fartygslämningar och sjöfynd (§ 11)"
+  - type: overlappar
+    target: "[[lagen-om-sjofynd]]"
+    context: "Speglad fran [[lagen-om-sjofynd]] — Speglad fran [[lagen-om-hittegods]] — Lagen hänvisar till sjöfyndslagen för fartygslämningar och sjöfynd (§ 11)"
 tags:
   - hittegods
   - polismyndigheten
@@ -32,6 +36,7 @@ tags:
   - egendom
 sources:
   - "[[lagen-om-hittegods-1938-121]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

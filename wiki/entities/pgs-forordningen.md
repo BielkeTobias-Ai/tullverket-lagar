@@ -2,6 +2,7 @@
 title: PGS-förordningen (dual-use)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32021R0821"
 short_name: PGS-förordningen
 status: gallande

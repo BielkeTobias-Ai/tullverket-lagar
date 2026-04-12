@@ -2,6 +2,7 @@
 title: Lag om tullfrihet m.m.
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1994:1547"
 short_name: Tullfrihetsslagen
 status: gällande
@@ -43,6 +44,9 @@ connections:
   - type: overlappar
     target: "[[lagen-om-immunitet-och-privilegier]]"
     context: "Båda reglerar tullfrihet för diplomater och internationella organisationer. Tullfrihetsslagen 4 § hänvisar till immunitetslagen för att bestämma vilka konsulatsmedlemmar och organisationer som har rätt till tullfrihet. Immunitetslagen är bredare (immunitet + alla privilegier)."
+  - type: overlappar
+    target: "[[kompletteringsforordningen]]"
+    context: "Speglad fran [[kompletteringsforordningen]] — Kompletteringsförordningen specificerar villkor för befrielse från importtullar"
 tags:
   - tullfrihet
   - diplomati

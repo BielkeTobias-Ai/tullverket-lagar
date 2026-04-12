@@ -2,6 +2,7 @@
 title: Fiskerikontrollförordningen
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32009R1224"
 short_name: Fiskerikontrollförordningen
 status: gallande

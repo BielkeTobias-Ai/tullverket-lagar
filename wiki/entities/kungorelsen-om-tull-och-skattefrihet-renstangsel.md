@@ -2,6 +2,7 @@
 title: "Kungörelse (1972:116) om tull- och skattefrihet vid renstängsel"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1972:116"
 short_name: Renstängelkungörelsen
 status: gallande

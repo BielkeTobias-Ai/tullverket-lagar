@@ -2,6 +2,7 @@
 title: Mervärdesskatteförordningen
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2023:328"
@@ -47,19 +48,22 @@ connections:
   - type: hanvisar-till
     target: "[[skatteforfarandeforordningen]]"
     context: "Bestämmelser om förvaring av deklarationer och uppgifter (20 kap. 1 §)"
+  - type: overlappar
+    target: "[[mervardesskattelagen]]"
+    context: "Speglad fran [[mervardesskattelagen]] — Förordningen verkställer ML:s administrativa processer"
 ---
 
 ## Sammanfattning
 
-Mervärdesskatteförordningen (2023:328) är regeringens verkställighetsförordning till [[mervärdesskattelagen]] (2023:200). Den trädde i kraft 1 juli 2023 och ersatte den tidigare mervärdesskatteförordningen (1994:223). 
+Mervärdesskatteförordningen (2023:328) är regeringens verkställighetsförordning till [[mervardesskattelagen]] (2023:200). Den trädde i kraft 1 juli 2023 och ersatte den tidigare mervärdesskatteförordningen (1994:223). 
 
 Förordningen är inte en materiellrättslig lag utan en administrativ verkställighetsförordning. Den reglerar praktiska förfaranden, formulär, intygshantering, myndigheters roller, återbetalningsprocesser och särskilda ordningar för distansförsäljning och små företag.
 
 ## Befogenheter och VerkställingsAnswar
 
-Förordningen delegerar följande befogenheter primärt till [[Skatteverket]]:
+Förordningen delegerar följande befogenheter primärt till [[skatteverket]]:
 
-1. **Fastställa formulär** — [[Skatteverket]] fastställer de flesta formulär för mervärdesskattelagen (§ 5), medan [[Tullverket]] fastställer formulär för vissa sammanställningar.
+1. **Fastställa formulär** — [[skatteverket]] fastställer de flesta formulär för mervärdesskattelagen (§ 5), medan [[tullverket]] fastställer formulär för vissa sammanställningar.
 
 2. **Reglera import och tullsamarbete** — Fastställa procedurer för Tullverkets rapportering av import till Skatteverket och Skatteverkets underrättelse till Tullverket (§§ 6–7).
 
@@ -80,16 +84,16 @@ Förordningen delegerar följande befogenheter primärt till [[Skatteverket]]:
 
 ## Straffbestämmelser
 
-Förordningen innehåller inga egna straffbestämmelser. Straffansvar för kränkningar regleras i [[mervärdesskattelagen]] (2023:200).
+Förordningen innehåller inga egna straffbestämmelser. Straffansvar för kränkningar regleras i [[mervardesskattelagen]] (2023:200).
 
 ## Kopplingar
 
 | Typ | Lag | Kontext |
 |-----|-----|---------|
-| **Kompletterar** | [[Mervärdesskattelagen]] (2023:200) | Modrlag som denna förordning verkställer |
-| **Hanvisar till** | [[Tullagen]] (2016:253) | Lagring i tullagret, frizoner, import, Tullverkets myndighetsfunktioner |
-| **Hanvisar till** | [[Skatteförfarandelagen]] (2011:1244) | Reglering av skattekonto (61 kap. 1 §) |
-| **Hanvisar till** | [[Skatteförfarandeförordningen]] (2011:1261) | Förvaring av deklarationer och uppgifter (20 kap. 1 §) |
+| **Kompletterar** | [[mervardesskattelagen]] (2023:200) | Modrlag som denna förordning verkställer |
+| **Hanvisar till** | [[tullagen]] (2016:253) | Lagring i tullagret, frizoner, import, Tullverkets myndighetsfunktioner |
+| **Hanvisar till** | [[skatteforfarandelagen]] (2011:1244) | Reglering av skattekonto (61 kap. 1 §) |
+| **Hanvisar till** | [[skatteforfarandeforordningen]] (2011:1261) | Förvaring av deklarationer och uppgifter (20 kap. 1 §) |
 | **Ersätter** | Mervärdesskatteförordningen (1994:223) | Upphävd 1 juli 2023 |
 | **Ersätter** | Förordningen (2011:1262) om särskilda ordningar för distansförsäljning | Upphävd 1 juli 2023 |
 

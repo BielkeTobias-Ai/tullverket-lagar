@@ -2,6 +2,7 @@
 title: "Förordning (2007:156) om skydd mot internationella hot mot människors hälsa"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2007:156"
 short_name: Internationella hälsohotförordningen
 status: gallande

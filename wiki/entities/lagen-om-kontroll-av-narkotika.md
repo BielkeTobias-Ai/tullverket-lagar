@@ -2,6 +2,7 @@
 title: Lagen om kontroll av narkotika
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1992:860"
 short_name: Narkotikakontrollagen
 status: gällande

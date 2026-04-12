@@ -2,6 +2,7 @@
 title: Förordningen om elektroniska system för UCC (EU) 2025/512
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32025R0512"
 short_name: UCC IT-förordningen
 status: gallande
@@ -35,6 +36,9 @@ connections:
   - type: overlappar
     target: "[[ucc-enda-kontaktpunkt]]"
     context: "EU CSW-CERTEX koordineras med IT-infrastrukturen i 2025/512 (bl.a. EORI-integration)"
+  - type: overlappar
+    target: "[[ucc-elektroniska-system-2023]]"
+    context: "Speglad fran [[ucc-elektroniska-system-2023]] — 2025-versionen ersätter 2023-versionen när tidsplaner revideras ytterligare"
 tags:
   - eu-forordning
   - tullkodex

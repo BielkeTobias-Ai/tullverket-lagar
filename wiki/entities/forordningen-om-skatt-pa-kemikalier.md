@@ -2,6 +2,7 @@
 title: Förordningen om skatt på kemikalier i viss elektronik
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2017:214"

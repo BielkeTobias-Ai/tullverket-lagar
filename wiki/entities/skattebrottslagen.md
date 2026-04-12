@@ -2,6 +2,7 @@
 title: Skattebrottslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1971:69"
 short_name: Skattebrottslagen
 status: gallande
@@ -44,6 +45,9 @@ connections:
   - type: overlappar
     target: "[[lagen-om-straff-for-penningtvattsbrott]]"
     context: "Intäkter från skattebrott kan utgöra förbrott till penningtvättsbrott; ekonomisk brottslighet i importledet kan ge ansvar under båda"
+  - type: overlappar
+    target: "[[skatteforfarandelagen]]"
+    context: "Speglad fran [[skatteforfarandelagen]] — Gränsdragning mellan administrativ sanktion (skattetillägg enligt SFL) och straffansvar (skattebrott enligt (1971:69)): ne bis in idem via 49 kap. 10 §; frivillig rättelse m.m."
 tags:
   - skattebrott
   - ekonomisk-brottslighet

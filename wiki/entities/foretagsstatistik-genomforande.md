@@ -2,6 +2,7 @@
 title: Företagsstatistik — tekniska specifikationer (genomförandeförordning)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32020R1197"
 short_name: Företagsstatistik tekniska specifikationer
 status: gallande
@@ -27,6 +28,9 @@ connections:
   - type: overlappar
     target: "[[handelsstatistik-genomforande]]"
     context: "Båda genomförandeakterna preciserar tillämpningen av företagsstatistikförordningen; denna förordning täcker bredare tekniska krav"
+  - type: overlappar
+    target: "[[handelsstatistik-komplettering]]"
+    context: "Speglad fran [[handelsstatistik-komplettering]] — Båda är genomförandeakter till företagsstatistikförordningen; denna specificerar landnomenklatur"
 tags:
   - eu-forordning
   - statistik

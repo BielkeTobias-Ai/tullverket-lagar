@@ -2,6 +2,7 @@
 title: Vägtransportförordningen
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32009R1072"
 short_name: Vägtransportförordningen
 status: gallande

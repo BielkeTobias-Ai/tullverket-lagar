@@ -2,6 +2,7 @@
 title: "Förordning (1974:235) om tillstånd till sjöfart i inrikes trafik med utländskt fartyg"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1974:235"
 short_name: Cabotageförordningen
 status: gallande

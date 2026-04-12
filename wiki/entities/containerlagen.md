@@ -2,6 +2,7 @@
 title: "Containerlag (1980:152)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "1980:152"
 short_name: Containerlagen
 status: gallande
@@ -35,6 +36,7 @@ tags:
   - tullverket
 sources:
   - "[[containerlagen-1980-152]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

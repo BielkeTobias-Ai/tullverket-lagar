@@ -2,6 +2,7 @@
 title: Förordningen om dual-use
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "2000:1217"
 short_name: Dual-use-förordningen
 status: gällande

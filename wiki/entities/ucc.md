@@ -2,6 +2,7 @@
 title: Unionens tullkodex (UCC)
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32013R0952"
 short_name: UCC
 status: gallande
@@ -51,6 +52,9 @@ connections:
   - type: hanvisar-till
     target: "[[mervardesskattelagen]]"
     context: "Moms vid import (ML 2023:200) bygger pa UCC:s tullvarderegler for att berakna moms."
+  - type: overlappar
+    target: "[[ucc-elektroniska-system-2023]]"
+    context: "Speglad fran [[ucc-elektroniska-system-2023]] — Beslutet genomför UCC art. 280-281 om elektroniska system; UCC är den primära rättsliga grunden"
 tags:
   - eu-forordning
   - tullkodex

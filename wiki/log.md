@@ -15,6 +15,30 @@ Kronologisk aktivitetslogg. Append-only. Varje inlägg har parsbart prefix.
 
 ---
 
+## [2026-04-12] lint-pass | Wiki clean + source_type schema + 13 nya entiteter/koncept
+
+Komplett lint-pass efter Tier 3-batch och EU-förordningsingest. Fran 131 fel + 109 varningar → 0 fel + 0 varningar.
+
+**Schema-forandring:** Lagt till `source_type: lag | forordning | eu-forordning` i CLAUDE.md frontmatter-spec. Lint-scriptet uppdaterat att kräva olika fält per typ (EU-förordningar: celex istallet för sfs, svenska förordningar: ingen straffskala obligatorisk).
+
+**Auto-fix flag (--fix):** Implementerade `scripts/lint-wiki.js --fix` som:
+- Infererade source_type till 151 entities
+- La till `straffskala: []` TODO-markering pa 26 lagar
+- Fixade 56 asymmetriska overlappar-kopplingar (reciprok markerad `Speglad fran`)
+- Omdirigerade 26 filer med casing/å-ä-ö-länkar + ucc-alias
+
+**Bug-fix:** checkSymmetry och fixAsymmetric splittade hela filen inklusive body, vilket gav false positives från markdown-tabeller som innehöll ordet "overlappar". Nu splittas bara frontmatter.
+
+**Nya filer (Fas 4):**
+- 5 nya lagar (clippade fran riksdagen.se): [[skatteforfarandelagen]], [[skatteforfarandeforordningen]], [[fordonslagen]], [[lagen-om-ackreditering-och-teknisk-kontroll]], [[lagen-om-exportbutiker]]
+- 4 myndigheter: [[tullverket]], [[skatteverket]], [[statens-jordbruksverk]], [[kommerskollegium]]
+- 4 koncept: [[tulltaxan-och-klassificering]], [[ursprung-och-preferensursprung]], [[tullvarde-och-vardering]], [[aeo-tillstand]]
+- 4 källsidor: myndighet-tullverket, myndighet-skatteverket, myndighet-statens-jordbruksverk, myndighet-kommerskollegium
+
+**Uppdaterade filer:** CLAUDE.md, scripts/lint-wiki.js, wiki/index.md (nya sektioner: Myndigheter, Tier 3 — Skatteförfarande, Tier 3 — Fordon och ackreditering, Koncept omstrukturerat), 166 entity-sidor (auto-fix av source_type + straffskala + reciproka kopplingar + länk-normalisering).
+
+**Totalt i wiki:** 160 entiteter (varav 4 myndigheter), 14 koncept, 150 källor, 15 jämförelser. 574 kopplingar (varav 171 overlappar).
+
 ## [2026-04-12] ingest | Tier 3 batch — 55 perifera lagar
 Batch-ingestat 55 Tier 3-lagar (sjöfart, luftfart, vägtransport, jakt/fiske, utlänning/pass, karantän, sjöfynd m.m.).
 Skapade: 55 source-sidor, 55 entity-sidor.

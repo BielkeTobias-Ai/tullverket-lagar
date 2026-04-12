@@ -2,6 +2,7 @@
 title: "Lag (2004:1100) om luftfartsskydd"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2004:1100"
 short_name: Luftfartsskyddslagen
 status: gallande
@@ -35,6 +36,7 @@ tags:
   - sakerhetskontroll
 sources:
   - "[[lagen-om-luftfartsskydd-2004-1100]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

@@ -2,6 +2,7 @@
 title: IUU-fiskeförordningen
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32008R1005"
 short_name: IUU-förordningen
 status: gallande

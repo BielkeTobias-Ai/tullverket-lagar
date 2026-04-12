@@ -2,6 +2,7 @@
 title: Importförbud för vissa arter (EU) 2025/6
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32025R0006"
 short_name: Importförbudsförordningen för arter
 status: gallande
@@ -21,7 +22,7 @@ situationer:
   - cites-import-forbud
 connections:
   - type: speciallag-till
-    target: "[[cites-grundforordningen-eg-338-97]]"
+    target: "[[cites-forordningen]]"
     context: "Utfärdad med stöd av artikel 4.6 i 338/97 — specifika importförbud utöver grundregelverket"
   - type: kompletterar
     target: "[[cites-genomforande-eg-865-2006]]"
@@ -32,6 +33,9 @@ connections:
   - type: overlappar
     target: "[[artskyddsforordningen]]"
     context: "Artskyddsförordningen implementerar CITES; importförbud i 2025/6 gäller parallellt"
+  - type: overlappar
+    target: "[[cites-forordningen]]"
+    context: "Speglad fran [[cites-forordningen]] — Importförbud för specifika arter som komplement till CITES-systemet"
 tags:
   - eu-forordning
   - cites
@@ -81,7 +85,7 @@ Genomförandeförordning (EU) 2023/2770 upphävs. Hänvisningar till den äldre 
 
 | Typ | Lag | Kontext |
 |-----|-----|---------|
-| Speciallag till | [[cites-grundforordningen-eg-338-97]] | Utfärdad med stöd av artikel 4.6 i 338/97 |
+| Speciallag till | [[cites-forordningen]] | Utfärdad med stöd av artikel 4.6 i 338/97 |
 | Kompletterar | [[cites-genomforande-eg-865-2006]] | Absoluta förbud utöver det generella systemet |
 | Överlappar | [[smugglingslagen]] | Import mot förbud kan vara smuggling |
 | Överlappar | [[artskyddsforordningen]] | Parallell tillämpning |
@@ -90,7 +94,7 @@ Genomförandeförordning (EU) 2023/2770 upphävs. Hänvisningar till den äldre 
 ## Praktisk tillämpning
 
 > [!situation] Import av förbjuden art
-> Tullpersonal påträffar en sändning med kameleonarter från Kamerun. Kontrollera bilagan i 2025/6 mot aktuell art och ursprungsland. Om arten är listad: absolut importförbud gäller, tulldeklaration ska vägras, varupartiet ska kvarhållas. Parallellt gäller krav på CITES-tillstånd under grundförordningen 338/97. Lagar: [[importforbud-arter-eu-2025-6]], [[cites-grundforordningen-eg-338-97]], [[artskyddsforordningen]], [[smugglingslagen]].
+> Tullpersonal påträffar en sändning med kameleonarter från Kamerun. Kontrollera bilagan i 2025/6 mot aktuell art och ursprungsland. Om arten är listad: absolut importförbud gäller, tulldeklaration ska vägras, varupartiet ska kvarhållas. Parallellt gäller krav på CITES-tillstånd under grundförordningen 338/97. Lagar: [[importforbud-arter-eu-2025-6]], [[cites-forordningen]], [[artskyddsforordningen]], [[smugglingslagen]].
 
 > [!question] Öppen fråga
 > Bilagan med den fullständiga artförteckningen (aktuell lista) finns i raw-filen men texten är mycket begränsad i de lästa raderna. Bilagan bör granskas för att kartlägga exakt vilka arter som är förbjudna.

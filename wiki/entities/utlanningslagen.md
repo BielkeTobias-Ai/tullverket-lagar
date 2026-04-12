@@ -2,6 +2,7 @@
 title: "Utlänningslag (2005:716)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2005:716"
 short_name: Utlänningslagen
 status: gallande
@@ -37,6 +38,7 @@ tags:
   - utlanningar
 sources:
   - "[[utlanningslagen-2005-716]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

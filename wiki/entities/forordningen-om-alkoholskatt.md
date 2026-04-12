@@ -2,6 +2,7 @@
 title: Förordningen om alkoholskatt
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2022:183"
@@ -45,7 +46,7 @@ connections:
     target: "[[EU-förordning-2022-1637]]"
     context: "Tillämpningsföreskrifter för dokumenthantering vid uppskovsförfarande"
   - type: hanvisar-till
-    target: "[[EU-förordning-389-2012]]"
+    target: "[[att-hamta|EU-förordning 389/2012]]"
     context: "Punktskattenummer och administrativt samarbete mellan medlemsstater"
 ---
 
@@ -72,10 +73,10 @@ Förordningen delegerar till Skatteverket rätt att meddela föreskrifter om:
 10. **Exportbutiker** — regler för alkoholförsäljning i gränsfria zoner
 
 ### Administrativa tillstånd
-- Förmåga att godkänna [[skatteupplag]]
+- Förmåga att godkänna [[att-hamta|skatteupplag]]
 - Förmåga att registrera och avregistrera varumottagare, avsändare och distansförsäljare
 - Förskrift för direkta leveransplatser (ansökan innan flyttning påbörjas)
-- Tilldelning av [[punktskattenummer]] enligt EU-reglering
+- Tilldelning av [[att-hamta|punktskattenummer]] enligt EU-reglering
 
 ## Straffbestämmelser
 
@@ -88,7 +89,7 @@ Förordningen innehåller inga egna straffbestämmelser. Straffansvaret regleras
 | kompletterar | [[lagen-om-alkoholskatt]] | Verkställighetsförordning; reglerar administrativa processer och Skatteverkets befogenheter |
 | hanvisar-till | [[EU-förordning-2022-1636]] | Varuslagskoder (bilaga II) för klassificering av alkoholvaror |
 | hanvisar-till | [[EU-förordning-2022-1637]] | Tillämpningsföreskrifter för dokumenthantering vid uppskovsförfarande och efterföljande export |
-| hanvisar-till | [[EU-förordning-389-2012]] | Punktskattenummer och administrativt samarbete mellan medlemsstater |
+| hanvisar-till | [[att-hamta|EU-förordning 389/2012]] | Punktskattenummer och administrativt samarbete mellan medlemsstater |
 | hanvisar-till | [[Rådets-direktiv-2020-262]] | Grundläggande EU-regelverket för punktskatter (själva direktivtexten) |
 
 ## Nyckelbestämmelser
@@ -97,7 +98,7 @@ Förordningen innehåller inga egna straffbestämmelser. Straffansvaret regleras
 Ansökan om godkännande som upplagshavare, varumottagare, avsändare eller för skatteupplag **måste ange vilka varuslag** som omfattas, enligt EU-varuslagskoder.
 
 ### Småbryggerier (§ 5 a, från 2025)
-- Småbryggeri kan få [[reducerad-alkoholskatt]]
+- Småbryggeri kan få [[att-hamta|reducerad alkoholskatt för småbryggeri]]
 - Måste anmäla årsproduktion av öl före januari varje år
 - Om bryggeri samarbetar med annan — måste anmäla sammanlagd produktion
 - Övergångsbestämmelse: befintliga upplagshavare skulle anmäla före 30 juni 2025

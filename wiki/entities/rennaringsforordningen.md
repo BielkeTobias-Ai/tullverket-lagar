@@ -2,6 +2,7 @@
 title: "Rennäringsförordning"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1993:384"
 short_name: Rennäringsförordningen
 status: gallande

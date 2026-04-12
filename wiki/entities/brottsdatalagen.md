@@ -2,6 +2,7 @@
 title: Brottsdatalagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2018:1177"
 short_name: Brottsdatalagen
 status: gallande
@@ -34,6 +35,9 @@ connections:
   - type: hanvisar-till
     target: "[[lagen-om-atgarder-mot-penningtvatt]]"
     context: "Penningtvättslagen 5 kap. hänvisar till brottsdatalagen för personuppgiftsbehandling i brottsbekämpande verksamhet"
+  - type: overlappar
+    target: "[[passlagen]]"
+    context: "Speglad fran [[passlagen]] — Biometriska data som tas vid passkontroll regleras av dataskyddsregler; 5 a § kräver omedelbar förstöring"
 tags:
   - personuppgifter
   - dataskydd

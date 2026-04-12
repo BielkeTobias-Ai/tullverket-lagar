@@ -2,6 +2,7 @@
 title: Förordningen om skatt på energi
 type: entity
 entity_type: lag
+source_type: forordning
 created: 2026-04-09
 updated: 2026-04-09
 sfs: "2022:181"
@@ -39,7 +40,7 @@ connections:
     target: "[[tullagen]]"
     context: "Omfattande koordination mellan Tullverket och Skatteverket vid import, export och transitering av energiprodukter"
   - type: hanvisar-till
-    target: "[[unionstullkodexen]]"
+    target: "[[ucc]]"
     context: "Refererar till UCC:s bestämmelser om exportdeklaration, transitering och tullformalia"
 ---
 
@@ -47,7 +48,7 @@ connections:
 
 ## Sammanfattning
 
-Energiskatteförordningen är en verkställighetsförordning till [[lagen-om-skatt-pa-energi]]. Den reglerar administrativ hantering av energiprodukter — framför allt godkännanden av upplagshavare och varumottagare, märkning av produkter, dokumenthantering vid förflyttning under EU:s uppskovsförfarande, och rapportering mellan medlemsstater. Förordningen är riktad till [[Skatteverket]] och implementerar EU:s punktskattedirektiv (2020/262) i svensk lagstiftning.
+Energiskatteförordningen är en verkställighetsförordning till [[lagen-om-skatt-pa-energi]]. Den reglerar administrativ hantering av energiprodukter — framför allt godkännanden av upplagshavare och varumottagare, märkning av produkter, dokumenthantering vid förflyttning under EU:s uppskovsförfarande, och rapportering mellan medlemsstater. Förordningen är riktad till [[skatteverket]] och implementerar EU:s punktskattedirektiv (2020/262) i svensk lagstiftning.
 
 För tullverkets del är förordningen central vid:
 - Identifiering av märkt energiprodukt vid gränskontroll
@@ -56,7 +57,7 @@ För tullverkets del är förordningen central vid:
 
 ## Bemyndiganden
 
-Förordningen ger [[Skatteverket]] följande befogenheter och uppgifter:
+Förordningen ger [[skatteverket]] följande befogenheter och uppgifter:
 
 | Befogenhet | Reglering |
 |------------|-----------|
@@ -79,7 +80,7 @@ Förordningen innehåller inga egna straffbestämmelser. Straffen för brott är
 |-----|-----|---------|
 | kompletterar | [[lagen-om-skatt-pa-energi]] | Verkställighetsförordning; detaljregler för godkännanden, märkning, dokumenthantering |
 | hanvisar-till | [[tullagen]] | Tullverket meddelar exportdeklaration; underrättar Skatteverket om avvikelser |
-| hanvisar-till | [[unionstullkodexen]] | Refererar till UCC-bestämmelser om export, transitering, exportdeklaration |
+| hanvisar-till | [[ucc]] | Refererar till UCC-bestämmelser om export, transitering, exportdeklaration |
 
 ## Nyckelbestämmelser
 

@@ -2,6 +2,7 @@
 title: Strålskyddslagen
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2018:396"
 short_name: Strålskyddslagen
 status: gallande

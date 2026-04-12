@@ -2,6 +2,7 @@
 title: "Fartygssäkerhetslag (2003:364)"
 type: entity
 entity_type: lag
+source_type: lag
 sfs: "2003:364"
 short_name: Fartygssäkerhetslagen
 status: gallande
@@ -34,6 +35,9 @@ connections:
   - type: kompletterar
     target: "[[tullagen]]"
     context: "6 kap. 9 §: Tullverket stoppar tullförrättning vid fartygsförbud; tar nationalitetshandling"
+  - type: overlappar
+    target: "[[tullagen]]"
+    context: "Speglad fran [[tullagen]] — Speglad fran [[fartygssakerhetslagen]] — 6 kap. 9 §: Tullverket stoppar tullförrättning vid fartygsförbud; tar nationalitetshandling"
 tags:
   - fartygssakerhet
   - certifikat
@@ -43,6 +47,7 @@ tags:
   - hamnstatskontroll
 sources:
   - "[[fartygssakerhetslagen-2003-364]]"
+straffskala: []  # TODO: fylla i fran rakallan
 ---
 
 ## Sammanfattning

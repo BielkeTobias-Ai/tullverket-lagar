@@ -2,6 +2,7 @@
 title: "Förordning (1997:1121) om farledsavgift"
 type: entity
 entity_type: lag
+source_type: forordning
 sfs: "1997:1121"
 short_name: Farledsavgiftsförordningen
 status: gallande

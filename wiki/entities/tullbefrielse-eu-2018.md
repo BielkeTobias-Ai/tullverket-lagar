@@ -2,6 +2,7 @@
 title: "Förordning (EU) 2018/581 — Tullbefrielse för luftfartygsdelar"
 type: entity
 entity_type: lag
+source_type: eu-forordning
 celex: "32018R0581"
 short_name: Luftfartstullbefrielsen
 status: gallande
