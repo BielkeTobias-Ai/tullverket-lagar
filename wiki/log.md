@@ -15,6 +15,14 @@ Kronologisk aktivitetslogg. Append-only. Varje inlägg har parsbart prefix.
 
 ---
 
+## [2026-04-11] comparison | 3 EU-vs-SFS-jämförelser
+Skapade 3 comparison-sidor som jämför EU-förordningar med sina svenska kompletteringslagar. Totalt: 96 entiteter, 10 koncept, 15 jämförelser.
+
+Skapade:
+- [[ucc-vs-tullagen]] — UCC (EU 952/2013) vs Tullagen (2016:253): ramverk vs komplettering
+- [[cites-forordningen-vs-artskyddsforordningen]] — CITES-förordningen (EG 338/97) vs Artskyddsförordningen (2007:845): EU-handel vs svenskt artskydd
+- [[pgs-forordningen-vs-forordningen-om-dual-use]] — PGS-förordningen (EU 2021/821) vs Förordningen om dual-use (2000:1217): exportkontroll EU vs Sverige
+
 ## [2026-04-11] ingest | Unionens tullkodex (UCC) — EU 952/2013
 Första EU-förordningen i wikin. Hämtad via nytt clip-eu Playwright-script mot EUR-Lex.
 Skapade: [[ucc-eu-952-2013]] (källa), [[ucc]] (entitet).

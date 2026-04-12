@@ -283,6 +283,9 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[narkotikakontroll-vs-narkotikastrafflagen]] — Tillståndsregim (1992:860) vs straffrättslig kriminalisering (1968:64): kontroll vs brott vid narkotikahantering
 - [[kustbevakningslagen-vs-tullbefogenhetslagen]] — Myndighetsöverlapp till sjöss: kustbevakningstjänsteman som tulltjänsteman (7 kap.), preja, borda, brottsbekämpning
 - [[kulturmiljolagen-vs-artskyddsforordningen]] — Kulturarv (75+ år) vs biologiskt artskydd (CITES): tillståndsmyndigheter, straffvägar och gränsdragning vid gränskontroll
+- [[ucc-vs-tullagen]] — EU-ramverk vs svensk komplettering: tullförfaranden (UCC) vs tullskuld/sanktioner (Tullagen), befogenhetsfrågan efter 2024
+- [[cites-forordningen-vs-artskyddsforordningen]] — EU-handelskontroll (EG 338/97) vs svenskt artskydd (2007:845): bilagor, tullkontorsbegränsning, omhändertagande
+- [[pgs-forordningen-vs-forordningen-om-dual-use]] — EU-exportkontroll (2021/821) vs svenskt tillägg (2000:1217): nationell kontrollförteckning, catch-all, 48-timmarsanmälan
 
 ## Frågor
 

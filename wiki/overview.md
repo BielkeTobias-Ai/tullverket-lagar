@@ -48,7 +48,7 @@ sources:
 
 Denna wiki samlar kunskap om svensk tullrätt — regelverket som styr import, export och transit av varor genom Sveriges gränser. Fokus ligger på **lagkopplingar**: hur lagar överlappar, kompletterar och hänvisar till varandra i Tullverkets dagliga verksamhet.
 
-**96 lagentiteter** ingestade (62 SFS + 34 EU-förordningar). 10 koncept, 12 jämförelser.
+**96 lagentiteter** ingestade (62 SFS + 34 EU-förordningar). 10 koncept, 15 jämförelser (varav 3 EU-vs-SFS-par).
 
 ## EU-nivå — det överordnade regelverket
 
