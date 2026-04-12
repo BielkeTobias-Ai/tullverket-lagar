@@ -2,7 +2,7 @@
 title: Logg
 type: overview
 created: 2026-04-07
-updated: 2026-04-11
+updated: 2026-04-12
 tags:
   - meta
   - logg
@@ -14,6 +14,11 @@ sources: []
 Kronologisk aktivitetslogg. Append-only. Varje inlägg har parsbart prefix.
 
 ---
+
+## [2026-04-12] ingest | Tier 3 batch — 55 perifera lagar
+Batch-ingestat 55 Tier 3-lagar (sjöfart, luftfart, vägtransport, jakt/fiske, utlänning/pass, karantän, sjöfynd m.m.).
+Skapade: 55 source-sidor, 55 entity-sidor.
+Totalt i wiki: ~151 entiteter, ~151 källor, 10 koncept, 15 jämförelser.
 
 ## [2026-04-11] comparison | 3 EU-vs-SFS-jämförelser
 Skapade 3 comparison-sidor som jämför EU-förordningar med sina svenska kompletteringslagar. Totalt: 96 entiteter, 10 koncept, 15 jämförelser.

@@ -2,7 +2,7 @@
 title: Index
 type: overview
 created: 2026-04-07
-updated: 2026-04-11
+updated: 2026-04-12
 
 tags:
   - meta
@@ -137,6 +137,85 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[forordningen-om-transport-av-farligt-gods-2006-311]] — Förordning (2006:311) om transport av farligt gods (2026-04-09)
 - [[lagen-om-immunitet-och-privilegier-1976-661]] — Lag (1976:661) om immunitet och privilegier (2026-04-09)
 
+### Tier 3 — Sjöfart, hamn och avgifter
+- [[lagen-om-avgifter-i-allman-hamn-1981-655]] — Lag (1981:655) om vissa avgifter i allmän hamn (2026-04-12)
+- [[forordningen-om-farledsavgift-1997-1121]] — Förordning (1997:1121) om farledsavgift (2026-04-12)
+- [[kungorelsen-om-uppbord-av-sarskilda-avgifter-1969-475]] — Kungörelse (1969:475) om uppbörd av avgifter genom Tullverket (2026-04-12)
+- [[sjolagen-1994-1009]] — Sjölag (1994:1009) (2026-04-12)
+- [[fartygssakerhetslagen-2003-364]] — Fartygssäkerhetslag (2003:364) (2026-04-12)
+- [[fartygsregisterforordningen-1975-927]] — Fartygsregisterförordning (1975:927) (2026-04-12)
+- [[forordningen-om-fartygs-identifiering-1975-929]] — Förordning (1975:929) om fartygs identifiering (2026-04-12)
+- [[lagen-om-registrering-av-batar-1979-377]] — Lag (1979:377) om registrering av båtar (2026-04-12)
+- [[forordningen-om-internationellt-certifikat-fritidsfartyg-1978-205]] — Förordning (1978:205) om internationellt certifikat för fritidsfartyg (2026-04-12)
+- [[lagen-om-atgarder-mot-fororening-fran-fartyg-1980-424]] — Lag (1980:424) om åtgärder mot förorening från fartyg (2026-04-12)
+- [[containerlagen-1980-152]] — Containerlag (1980:152) (2026-04-12)
+- [[containerforordningen-1980-640]] — Containerförordning (1980:640) (2026-04-12)
+- [[forordningen-om-sjofart-inrikes-utlandskt-fartyg-1974-235]] — Förordning (1974:235) om sjöfart inrikes med utländskt fartyg (2026-04-12)
+
+### Tier 3 — Skeppsmätning
+- [[forordningen-om-skeppsmatning-1994-1162]] — Förordning (1994:1162) om skeppsmätning (2026-04-12)
+- [[kungorelsen-om-matbrev-panamakanalen-1954-556]] — Kungörelse (1954:556) om mätbrev Panamakanalen (2026-04-12)
+- [[kungorelsen-om-matbrev-suezkanalen-1954-555]] — Kungörelse (1954:555) om mätbrev Suezkanalen (2026-04-12)
+
+### Tier 3 — Sjöterritorium och tillträde
+- [[lagen-om-sveriges-sjoterritorium-2017-1272]] — Lag (2017:1272) om Sveriges sjöterritorium och maritima zoner (2026-04-12)
+- [[lagen-om-sveriges-angransande-zon-2017-1273]] — Lag (2017:1273) om Sveriges angränsande zon (2026-04-12)
+- [[lagen-om-verkstallighet-havsrattskonvention-1996-519]] — Lag (1996:519) om verkställighet UNCLOS-domar (2026-04-12)
+- [[lagen-om-grans-mot-allmant-vattenomrade-1950-595]] — Lag (1950:595) om gräns mot allmänt vattenområde (2026-04-12)
+- [[tilltradesforordningen-1992-118]] — Tillträdesförordning (1992:118) (2026-04-12)
+
+### Tier 3 — Sjötrafik
+- [[sjotrafikforordningen-1986-300]] — Sjötrafikförordning (1986:300) (2026-04-12)
+
+### Tier 3 — Sjöfynd och hittegods
+- [[lagen-om-sjofynd-1918-163]] — Lag (1918:163) om sjöfynd (2026-04-12)
+- [[forordningen-om-sjofynd-1984-985]] — Förordning (1984:985) om handläggning av sjöfynd (2026-04-12)
+- [[lagen-om-ensamratt-till-bargning-1984-983]] — Lag (1984:983) om ensamrätt till bärgning (2026-04-12)
+- [[lagen-om-hittegods-1938-121]] — Lag (1938:121) om hittegods (2026-04-12)
+- [[lagen-om-visst-stoldgods-1974-1065]] — Lag (1974:1065) om visst stöldgods m.m. (2026-04-12)
+- [[lagen-om-forfarande-med-forverkad-egendom-1974-1066]] — Lag (1974:1066) om förfarande med förverkad egendom (2026-04-12)
+
+### Tier 3 — Karantän och smittskydd
+- [[lagen-om-skydd-mot-internationella-hot-2006-1570]] — Lag (2006:1570) om skydd mot internationella hot mot hälsa (2026-04-12)
+- [[forordningen-om-skydd-mot-internationella-hot-2007-156]] — Förordning (2007:156) om skydd mot internationella hot (2026-04-12)
+- [[kungorelsen-om-nordisk-sanitarkontroll-1955-105]] — Kungörelse (1955:105) om nordisk sanitärkontroll (2026-04-12)
+
+### Tier 3 — Vägtransport
+- [[yrkestrafiklagen-2012-210]] — Yrkestrafiklag (2012:210) (2026-04-12)
+- [[yrkestrafikforordningen-2012-237]] — Yrkestrafikförordning (2012:237) (2026-04-12)
+- [[forordningen-om-internationella-vagtransporter-1998-786]] — Förordning (1998:786) om internationella vägtransporter inom EES (2026-04-12)
+- [[forordningen-om-provavgifter-2010-1578]] — Förordning (2010:1578) om provavgifter körkort/yrkestrafik (2026-04-12)
+
+### Tier 3 — Luftfart
+- [[luftfartslagen-2010-500]] — Luftfartslag (2010:500) (2026-04-12)
+- [[luftfartsforordningen-2010-770]] — Luftfartsförordning (2010:770) (2026-04-12)
+- [[forordningen-om-restriktioner-for-luftfart-2005-801]] — Förordning (2005:801) om restriktioner för luftfart (2026-04-12)
+- [[lagen-om-luftfartsskydd-2004-1100]] — Lag (2004:1100) om luftfartsskydd (2026-04-12)
+
+### Tier 3 — Utlänning och pass
+- [[utlanningslagen-2005-716]] — Utlänningslag (2005:716) (2026-04-12)
+- [[utlanningsforordningen-2006-97]] — Utlänningsförordning (2006:97) (2026-04-12)
+- [[passlagen-1978-302]] — Passlag (1978:302) (2026-04-12)
+
+### Tier 3 — Jakt och fiske
+- [[jaktlagen-1987-259]] — Jaktlag (1987:259) (2026-04-12)
+- [[jaktforordningen-1987-905]] — Jaktförordning (1987:905) (2026-04-12)
+- [[lagen-om-viltvardsomraden-2000-592]] — Lag (2000:592) om viltvårdsområden (2026-04-12)
+- [[forordningen-om-viltvardsomraden-1980-896]] — Förordning (1980:896) om viltvårdsområden (2026-04-12)
+- [[fiskelagen-1993-787]] — Fiskelag (1993:787) (2026-04-12)
+- [[forordningen-om-fisket-1994-1716]] — Förordning (1994:1716) om fisket, vattenbruket och fiskerinäringen (2026-04-12)
+- [[lagen-om-eus-fiskeripolitik-1994-1709]] — Lag (1994:1709) om EU:s fiskeripolitik (2026-04-12)
+- [[rennaringslagen-1971-437]] — Rennäringslag (1971:437) (2026-04-12)
+- [[rennaringsforordningen-1993-384]] — Rennäringsförordning (1993:384) (2026-04-12)
+
+### Tier 3 — Gränsälvsöverenskommelse
+- [[lagen-om-gransalvsoverenskommelse-2010-897]] — Lag (2010:897) om gränsälvsöverenskommelse Sverige-Finland (2026-04-12)
+- [[forordningen-om-gransalvsoverenskommelsen-2010-1098]] — Förordning (2010:1098) om gränsälvsöverenskommelsen (2026-04-12)
+
+### Tier 3 — Övrigt (tullfrihet m.m.)
+- [[forordningen-om-tull-och-skattefrihet-gransanlaggning-1968-226]] — Förordning (1968:226) om tull- och skattefrihet gränsanläggning (2026-04-12)
+- [[kungorelsen-om-tull-och-skattefrihet-renstangsel-1972-116]] — Kungörelse (1972:116) om tull- och skattefrihet renstängsel (2026-04-12)
+
 ## Entiteter
 
 ### EU-förordningar
@@ -256,6 +335,85 @@ Innehållskatalog för hela wikin. Uppdateras vid varje ingest och wiki-ändring
 - [[lagen-om-transport-av-farligt-gods]] — Säker transport av farligt gods, 9 kategorier, straffansvar (SFS 2006:263)
 - [[forordningen-om-transport-av-farligt-gods]] — Verkställighetsförordning: myndigheter, säkerhetsrådgivare, kontroll (SFS 2006:311)
 - [[lagen-om-immunitet-och-privilegier]] — Diplomatisk immunitet, tullfrihet, NATO, internationella organisationer (SFS 1976:661)
+
+### Tier 3 — Sjöfart, hamn och avgifter
+- [[lagen-om-avgifter-i-allman-hamn]] — Avgifter i allmän hamn för fartyg och gods (SFS 1981:655)
+- [[forordningen-om-farledsavgift]] — Farledsavgifter för fartyg i svensk hamn, Sjöfartsverket (SFS 1997:1121)
+- [[kungorelsen-om-uppbord-av-sarskilda-avgifter]] — Tullverket som uppbördsagent för hamnar, flygplatser, godsterminaler (SFS 1969:475)
+- [[sjolagen]] — Privaträttslig grundlag: fartygs nationalitet, registrering, befraktning, sjöpanträtt (SFS 1994:1009)
+- [[fartygssakerhetslagen]] — Fartygssäkerhet, certifikat, tillsyn; Tullverkets biträdande tillsynsroll (SFS 2003:364)
+- [[fartygsregisterforordningen]] — Fartygsregistret, Transportstyrelsen som registermyndighet (SFS 1975:927)
+- [[forordningen-om-fartygs-identifiering]] — Igenkänningssignaler och märkningskrav för fartyg (SFS 1975:929)
+- [[lagen-om-registrering-av-batar]] — Registrering av båtar (<24 m), Kustbevakningen tillsynsroll (SFS 1979:377)
+- [[forordningen-om-internationellt-certifikat-fritidsfartyg]] — Internationellt certifikat för fritidsbåtar vid utlandsresa (SFS 1978:205)
+- [[lagen-om-atgarder-mot-fororening-fran-fartyg]] — MARPOL-genomförande, oljeutsläppsförbud, vattenföroreningsavgift (SFS 1980:424)
+- [[containerlagen]] — Containersäkerhet i internationell trafik, CSC-konvention (SFS 1980:152)
+- [[containerforordningen]] — Genomförandeförordning: containergodkännande, egenkontroll (SFS 1980:640)
+- [[forordningen-om-sjofart-inrikes-utlandskt-fartyg]] — Cabotageförbud utländska fartyg, Tullverket tillsynsmyndighet (SFS 1974:235)
+
+### Tier 3 — Skeppsmätning
+- [[forordningen-om-skeppsmatning]] — Mätningsplikt, bruttodräktighet, mätbrev (SFS 1994:1162)
+- [[kungorelsen-om-matbrev-panamakanalen]] — Mätbrev för fart genom Panamakanalen (SFS 1954:556)
+- [[kungorelsen-om-matbrev-suezkanalen]] — Mätbrev för fart genom Suezkanalen (SFS 1954:555)
+
+### Tier 3 — Sjöterritorium och tillträde
+- [[lagen-om-sveriges-sjoterritorium]] — Sveriges sjöterritorium och maritima zoner, UNCLOS (SFS 2017:1272)
+- [[lagen-om-sveriges-angransande-zon]] — Angränsande zon (24 nm), tullkontroll utanför territorialhav (SFS 2017:1273)
+- [[lagen-om-verkstallighet-havsrattskonvention]] — UNCLOS-verkställighet, prompt release av kvarhållna fartyg (SFS 1996:519)
+- [[lagen-om-grans-mot-allmant-vattenomrade]] — Gräns enskilt/allmänt vatten i hav och sjöar (SFS 1950:595)
+- [[tilltradesforordningen]] — Utländska statsfartygs tillträde till svenskt territorium (SFS 1992:118)
+
+### Tier 3 — Sjötrafik
+- [[sjotrafikforordningen]] — COLREG-genomförande, undantag för Tullverkets fartyg (SFS 1986:300)
+
+### Tier 3 — Sjöfynd och hittegods
+- [[lagen-om-sjofynd]] — Anmälningsskyldighet vid bärgning av övergivet gods (SFS 1918:163)
+- [[forordningen-om-sjofynd]] — Handläggning sjöfynd, Tullverket underrättas om oförtullat gods (SFS 1984:985)
+- [[lagen-om-ensamratt-till-bargning]] — Ensamrätt att bärga sjunket övergett gods (SFS 1984:983)
+- [[lagen-om-hittegods]] — Upphittares skyldigheter, ägares tidsfrist (SFS 1938:121)
+- [[lagen-om-visst-stoldgods]] — Omhändertagande av stöldgods och häleri-/penningtvättsgods (SFS 1974:1065)
+- [[lagen-om-forfarande-med-forverkad-egendom]] — Förfarande med förverkad, omhändertagen och upphittad egendom (SFS 1974:1066)
+
+### Tier 3 — Karantän och smittskydd
+- [[lagen-om-skydd-mot-internationella-hot]] — IHR 2005-genomförande, karantänshamnar/-flygplatser (SFS 2006:1570)
+- [[forordningen-om-skydd-mot-internationella-hot]] — Föreskriftsrätt Folkhälsomyndigheten, karantänskrav (SFS 2007:156)
+- [[kungorelsen-om-nordisk-sanitarkontroll]] — Nordisk sanitärkontroll, undantag för nordisk trafik (SFS 1955:105)
+
+### Tier 3 — Vägtransport
+- [[yrkestrafiklagen]] — Yrkesmässig godstrafik på väg, gemenskapstillstånd (SFS 2012:210)
+- [[yrkestrafikforordningen]] — Genomförandeförordning: tillsyn, kontroll yrkestrafik (SFS 2012:237)
+- [[forordningen-om-internationella-vagtransporter]] — EES-vägtransporter, vägkontroller, cabotage (SFS 1998:786)
+- [[forordningen-om-provavgifter]] — Provavgifter körkort och yrkesmässig trafik (SFS 2010:1578)
+
+### Tier 3 — Luftfart
+- [[luftfartslagen]] — Ramlag civil luftfart: registrering, certifikat, drifttillstånd (SFS 2010:500)
+- [[luftfartsforordningen]] — Genomförandeförordning: gränspassage luftfartyg, tullkontroll (SFS 2010:770)
+- [[forordningen-om-restriktioner-for-luftfart]] — Restriktionsområden, Tullverket undantaget (SFS 2005:801)
+- [[lagen-om-luftfartsskydd]] — Säkerhetskontroll flygplatser, kroppsvisitering (SFS 2004:1100)
+
+### Tier 3 — Utlänning och pass
+- [[utlanningslagen]] — Inresevillkor, visering, asyl, avvisning, utvisning (SFS 2005:716)
+- [[utlanningsforordningen]] — Verkställighetsförordning: Tullverket underrättar Polisen vid inreseproblem (SFS 2006:97)
+- [[passlagen]] — Passkontroll, biometrisk kontroll; tulltjänsteman uttryckligt behörig (SFS 1978:302)
+
+### Tier 3 — Jakt och fiske
+- [[jaktlagen]] — Viltvård, jakträtt, Kustbevakningen beslagsbefogenhet (SFS 1987:259)
+- [[jaktforordningen]] — Genomförandeförordning: jakttider, licensjakt, älgförvaltning (SFS 1987:905)
+- [[lagen-om-viltvardsomraden]] — Bildande och förvaltning av viltvårdsområden (SFS 2000:592)
+- [[forordningen-om-viltvardsomraden]] — Genomförande: register, viltvårdsfonden (SFS 1980:896)
+- [[fiskelagen]] — Fiskerätt och fiskets bedrivande, sjöterritorium och EEZ (SFS 1993:787)
+- [[forordningen-om-fisket]] — Genomförande: fiskemetoder, tillstånd, marknadsreglering (SFS 1994:1716)
+- [[lagen-om-eus-fiskeripolitik]] — EU:s gemensamma fiskeripolitik, subsidiaritet till smugglingslagen (SFS 1994:1709)
+- [[rennaringslagen]] — Samernas renskötselrätt, jakt och fiske inom renskötselområdet (SFS 1971:437)
+- [[rennaringsforordningen]] — Genomförande: Samefonden, renräkning, upplåtelse statens mark (SFS 1993:384)
+
+### Tier 3 — Gränsälvsöverenskommelse
+- [[lagen-om-gransalvsoverenskommelse]] — Gränsälvsöverenskommelse Sverige-Finland, Torneälven (SFS 2010:897)
+- [[forordningen-om-gransalvsoverenskommelsen]] — Genomförande: svenska bevakningsmyndigheter (SFS 2010:1098)
+
+### Tier 3 — Övrigt (tullfrihet m.m.)
+- [[forordningen-om-tull-och-skattefrihet-gransanlaggning]] — Tullfrihet för nordiska gränsanläggningsprojekt (SFS 1968:226)
+- [[kungorelsen-om-tull-och-skattefrihet-renstangsel]] — Tullfrihet för renstängselimport, svensk-norska gränsen (SFS 1972:116)
 
 ## Koncept
 - [[smuggling]] — Olaglig in- eller utförsel av varor i strid med förbud eller villkor

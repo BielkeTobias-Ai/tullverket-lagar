@@ -1,0 +1,25 @@
+# Förordning (2010:1098) om gränsälvsöverenskommelsen med Finland
+
+Källa: https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-20101098-om_sfs-2010-1098
+Hämtad: 2026-04-12
+
+SFS nr: 2010:1098
+Departement: Klimat- och näringslivsdepartementet
+Utfärdad: 2010-08-26
+Ändrad: t.o.m. SFS 2025:1135
+
+---
+
+**1 §**   Denna förordning gäller vid tillämpningen av lagen
+(2010:897) om gränsälvsöverenskommelse mellan Sverige och Finland.
+
+**2 §**   Samtycke i samband med översvämningsbekämpning enligt  artikel 6 i gränsälvsöverenskommelsen mellan Sverige och  Finland ges av Myndigheten för civilt försvar.  Förordning (2025:1135).
+
+**3 §**   Sveriges meteorologiska och hydrologiska institut ska övervaka vattenföringen enligt artikel 7 i gränsälvsöverenskommelsen.
+
+**4 §**   Havs- och vattenmyndigheten är svensk bevakningsmyndighet enligt artikel 17 i gränsälvsöverenskommelsen.
+
+
+Regeringen kan på anmälan av Havs- och vattenmyndigheten förordna att en annan myndighet ska vara bevakningsmyndighet i ett visst ärende. Förordning (2011:640).
+
+**5 §**   Den myndighet som har särskild sakkunskap som behövs för att fullgöra bevakningsmyndighetens uppgifter ska hjälpa till med den kunskapen, om bevakningsmyndigheten begär det.

@@ -73,4 +73,81 @@ export const LAWS: Law[] = [
   { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2006263-om-transport-av-farligt-gods_sfs-2006-263", filename: "lagen-om-transport-av-farligt-gods-2006-263" },
   { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2006311-om-transport-av-farligt_sfs-2006-311", filename: "forordningen-om-transport-av-farligt-gods-2006-311" },
   { url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1976661-om-immunitet-och-privilegier-i_sfs-1976-661/", filename: "lagen-om-immunitet-och-privilegier-1976-661" },
+
+  // 9. TIER 3 — Sjöfart och hamnavgifter
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1981655-om-vissa-avgifter-i-allman-hamn_sfs-1981-655", filename: "lagen-om-avgifter-i-allman-hamn-1981-655" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kungorelse-1969475-om-uppbord-av-sarskilda_sfs-1969-475", filename: "kungorelsen-om-uppbord-av-sarskilda-avgifter-1969-475" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-19971121-om-farledsavgift_sfs-1997-1121", filename: "forordningen-om-farledsavgift-1997-1121" },
+
+  // 10. TIER 3 — Karantän och hälsoskydd
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20061570-om-skydd-mot-internationella-hot_sfs-2006-1570", filename: "lagen-om-skydd-mot-internationella-hot-2006-1570" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2007156-om-skydd-mot_sfs-2007-156", filename: "forordningen-om-skydd-mot-internationella-hot-2007-156" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kungorelse-1955105-om-tillampning-av-en-mellan_sfs-1955-105", filename: "kungorelsen-om-nordisk-sanitarkontroll-1955-105" },
+
+  // 11. TIER 3 — Sjöfynd och hittegods
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1918163-med-vissa-bestammelser-om-sjofynd_sfs-1918-163", filename: "lagen-om-sjofynd-1918-163" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1984985-om-handlaggningen-av_sfs-1984-985", filename: "forordningen-om-sjofynd-1984-985" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1984983-om-ensamratt-till-bargning_sfs-1984-983", filename: "lagen-om-ensamratt-till-bargning-1984-983" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1938121-om-hittegods_sfs-1938-121", filename: "lagen-om-hittegods-1938-121" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-19741065-om-visst-stoldgods-mm_sfs-1974-1065", filename: "lagen-om-visst-stoldgods-1974-1065" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-19741066-om-forfarande-med-forverkad_sfs-1974-1066", filename: "lagen-om-forfarande-med-forverkad-egendom-1974-1066" },
+
+  // 12. TIER 3 — Skeppsmätning
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-19941162-om-skeppsmatning_sfs-1994-1162", filename: "forordningen-om-skeppsmatning-1994-1162" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kungorelse-1954555-angaende-matbrev-for-fart_sfs-1954-555", filename: "kungorelsen-om-matbrev-suezkanalen-1954-555" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kungorelse-1954556-angaende-matbrev-for-fart_sfs-1954-556", filename: "kungorelsen-om-matbrev-panamakanalen-1954-556" },
+
+  // 13. TIER 3 — Sjöterritorium och tillträde
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20171272-om-sveriges-sjoterritorium-och_sfs-2017-1272", filename: "lagen-om-sveriges-sjoterritorium-2017-1272" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20171273-om-sveriges-angransande-zon_sfs-2017-1273", filename: "lagen-om-sveriges-angransande-zon-2017-1273" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/tilltradesforordning-1992118_sfs-1992-118", filename: "tilltradesforordningen-1992-118" },
+
+  // 14. TIER 3 — Sjötrafik
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/sjolag-19941009_sfs-1994-1009", filename: "sjolagen-1994-1009" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1979377-om-registrering-av-batar_sfs-1979-377", filename: "lagen-om-registrering-av-batar-1979-377" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/fartygsregisterforordning-1975927_sfs-1975-927", filename: "fartygsregisterforordningen-1975-927" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1975929-med-vissa-bestammelser-om_sfs-1975-929", filename: "forordningen-om-fartygs-identifiering-1975-929" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1978205-om-internationellt_sfs-1978-205", filename: "forordningen-om-internationellt-certifikat-fritidsfartyg-1978-205" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/sjotrafikforordning-1986300_sfs-1986-300", filename: "sjotrafikforordningen-1986-300" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1980424-om-atgarder-mot-fororening-fran_sfs-1980-424", filename: "lagen-om-atgarder-mot-fororening-fran-fartyg-1980-424" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1996519-om-verkstallighet-av-domar-och_sfs-1996-519", filename: "lagen-om-verkstallighet-havsrattskonvention-1996-519" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1974235-om-tillstand-till-sjofart-i_sfs-1974-235", filename: "forordningen-om-sjofart-inrikes-utlandskt-fartyg-1974-235" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/fartygssakerhetslag-2003364_sfs-2003-364", filename: "fartygssakerhetslagen-2003-364" },
+
+  // 15. TIER 3 — Vägtransport
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/yrkestrafiklag-2012210_sfs-2012-210", filename: "yrkestrafiklagen-2012-210" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/yrkestrafikforordning-2012237_sfs-2012-237", filename: "yrkestrafikforordningen-2012-237" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1998786-om-internationella_sfs-1998-786", filename: "forordningen-om-internationella-vagtransporter-1998-786" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-20101578-om-provavgifter-for_sfs-2010-1578", filename: "forordningen-om-provavgifter-2010-1578" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-1980-152", filename: "containerlagen-1980-152" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/containerforordning-1980640_sfs-1980-640", filename: "containerforordningen-1980-640" },
+
+  // 16. TIER 3 — Luftfart
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/luftfartslag-2010500_sfs-2010-500", filename: "luftfartslagen-2010-500" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/luftfartsforordning-2010770_sfs-2010-770", filename: "luftfartsforordningen-2010-770" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2005801-om-restriktioner-for_sfs-2005-801", filename: "forordningen-om-restriktioner-for-luftfart-2005-801" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20041100-om-luftfartsskydd_sfs-2004-1100", filename: "lagen-om-luftfartsskydd-2004-1100" },
+
+  // 17. TIER 3 — Utlänning och pass
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/utlanningslag-2005716_sfs-2005-716", filename: "utlanningslagen-2005-716" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/utlanningsforordning-200697_sfs-2006-97", filename: "utlanningsforordningen-2006-97" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/passlag-1978302_sfs-1978-302", filename: "passlagen-1978-302" },
+
+  // 18. TIER 3 — Jakt och fiske
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-19941709-om-eus-forordningar-om-den_sfs-1994-1709", filename: "lagen-om-eus-fiskeripolitik-1994-1709" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-19941716-om-fisket-vattenbruket_sfs-1994-1716", filename: "forordningen-om-fisket-1994-1716" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/jaktlag-1987259_sfs-1987-259", filename: "jaktlagen-1987-259" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/jaktforordning-1987905_sfs-1987-905", filename: "jaktforordningen-1987-905" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/fiskelag-1993787_sfs-1993-787", filename: "fiskelagen-1993-787" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/rennaringslag-1971437_sfs-1971-437", filename: "rennaringslagen-1971-437" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/rennaringsforordning-1993384_sfs-1993-384", filename: "rennaringsforordningen-1993-384" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2000592-om-viltvardsomraden_sfs-2000-592", filename: "lagen-om-viltvardsomraden-2000-592" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1980896-om-viltvardsomraden_sfs-1980-896", filename: "forordningen-om-viltvardsomraden-1980-896" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1950595-om-grans-mot-allmant-vattenomrade_sfs-1950-595", filename: "lagen-om-grans-mot-allmant-vattenomrade-1950-595" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2010897-om-gransalvsoverenskommelse-mellan_sfs-2010-897", filename: "lagen-om-gransalvsoverenskommelse-2010-897" },
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-20101098-om_sfs-2010-1098", filename: "forordningen-om-gransalvsoverenskommelsen-2010-1098" },
+
+  // 19. TIER 3 — Övrigt (skatt/tull)
+  { url: "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-1968226-om-ratt-for-konungen-att_sfs-1968-226", filename: "forordningen-om-tull-och-skattefrihet-gransanlaggning-1968-226" },
+  { url: "https://riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kungorelse-1972116-om-tull--och-skattefrihet_sfs-1972-116", filename: "kungorelsen-om-tull-och-skattefrihet-renstangsel-1972-116" },
 ];
